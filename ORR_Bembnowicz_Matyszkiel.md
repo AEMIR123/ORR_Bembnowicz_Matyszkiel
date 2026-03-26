@@ -54,8 +54,8 @@ Zadanie polega na zliczeniu najpopularniejszych słów z plików ("top N") za po
 
 | Ryzyko        | Dlaczego jest istotne | Jak będzie ograniczane |
 | ------------- | --------------------- | ----------------------- |
-| [uzupełnić] | [uzupełnić]         | [uzupełnić]           |
-| [uzupełnić] | [uzupełnić]         | [uzupełnić]           |
+| Przepełnienie pamięci RAM (OOM) | Wczytanie ogromnych plików rzędu gigabajtów jednorazowo w całości do pamięci (np. `file.read()`) doprowadzi do awarii i zakończenia programu. | Zastosowanie leniwego iterowania po dokumencie – ładowanie linia po linii (`for line in f:`), dzięki czemu bieżące użycie RAM jest minimalne. |
+| Zbyt duży narzut systemu w stosunku do czasu na obliczenia | Czas alokowania zadań workerom oraz przesyłania tekstów może okazać się dłuższy niż koszt ich natywnego sekwencyjnego przetworzenia (zjawisko negatywnego skalowania). | Testowanie dla zróżnicowanych rozmiarem paczek korpusów. Poszukiwanie poprawnej granularności rozbicia. Zadania będą wysyłane jako większe paczki uśredniając koszty komunikacji w sieci. |
 
 ## 3. Plan danych i skali problemu
 
@@ -63,14 +63,14 @@ Zadanie polega na zliczeniu najpopularniejszych słów z plików ("top N") za po
 
 | Zestaw | Opis          | Rozmiar       | Do czego służy   |
 | ------ | ------------- | ------------- | ------------------ |
-| Small  | [uzupełnić] | [uzupełnić] | test poprawności  |
-| Medium | [uzupełnić] | [uzupełnić] | pierwszy benchmark |
-| Large  | [uzupełnić] | [uzupełnić] | analiza skalowania |
+| Small  | Pliki tekstowe użyte do weryfikacji logiki, ze ściśle zdefiniowaną zawartością (np. z góry ustalona liczba słów `A` i `B`). | Kilkanaście bajtów | Pełen manualny test poprawności systemu względem testów asercji i weryfikacja logiki słownika zliczeń (sprawdzanie na twardo). |
+| Medium | Zbiór realnych, nie za dużych dokumentów tekstowych zebranych z domeny publicznej tj. książki / logi czy pliki CSV. | ~ 10-100 MB | Pełnowymiarowy punkt kontrolny oceny zachowania systemowego narzutu komunikacji przy pierwszych próbach zrównoleglenia zadań. |
+| Large  | Skompresowane wcześniej korpusy danych NLP/rozpakowane teksty Wikipedii zawierające wręcz tysiące podzielonych fragmentów artykułów w formacie .txt. | Od 1 GB w górę | Analiza ostateczna i końcowa sprawdzająca stopień uzyskiwanego speedupa, usterki graniczne i testująca odporność na załamania serwerów. |
 
 ### 3.2. Parametry skalowania
 
-- Co będzie zwiększane: [np. liczba rekordów / liczba prób / rozmiar obrazu / liczba zadań]
-- Jakie poziomy skali będą testowane: [uzupełnić]
+- Co będzie zwiększane: Łączny wolumen (rozmiar) podawanego korpusu tekstów w katalogu; całkowita objętość oddzielnych plików, a przede wszystkim liczba aktywnych workerów (osobnych procesów/serwerów mapujących).
+- Jakie poziomy skali będą testowane: Badane obciążenie systemu rozproszonego oraz wielordzeniowego wariantami z 1 (bazowy narzut na starcie), 2, 4, 8 oraz więcej (jeśli to możliwe do symulacji) procesami pracującymi dla korpusów Medium oraz Large.
 
 ## 4. Wersja sekwencyjna
 
