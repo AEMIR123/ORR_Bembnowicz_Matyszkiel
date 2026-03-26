@@ -1,0 +1,49 @@
+{
+    "metoda": "sekwencyjna",
+    "katalog": "C:\\Users\\Stanisław Matyszkiel\\PycharmProjects\\ORR_Bembnowicz_Matyszkiel\\data",
+    "calkowita_liczba_slow": 14659731,
+    "liczba_unikalnych_slow": 162237,
+    "top_slowa": [
+        [
+            "the",
+            769558
+        ],
+        [
+            "to",
+            392560
+        ],
+        [
+            "of",
+            356922
+        ],
+        [
+            "and",
+            322222
+        ],
+        [
+            "in",
+            315963
+        ],
+        [
+            "a",
+            309561
+        ],
+        [
+            "for",
+            144252
+        ],
+        [
+            "on",
+            137089
+        ],
+        [
+            "that",
+            126708
+        ],
+        [
+            "s",
+            117662
+        ]
+    ],
+    "czas_wykonania_sekundy": 10.968806028366089
+}
