@@ -9,43 +9,60 @@ from collections import Counter
 translator = str.maketrans(string.punctuation, ' ' * len(string.punctuation))
 
 def process_file(filepath):
-    """Processes a single text file and returns word counts and total words."""
+    """Przetwarza pojedynczy plik tekstowy i zwraca zliczone słowa, całkowitą liczbę słów, czas I/O i czas CPU."""
     word_counts = Counter()
     total_words = 0
+    io_time_total = 0.0
+    cpu_time_total = 0.0
+    
     with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
-        for line in f:
-            # Podmień znaki interpunkcyjne/specjalne na spacje, a potem znormalizuj by wszystkie były z małej litery
-            clean_line = line.translate(translator).lower()
+        while True:
+            # Pomiar czasu I/O (odczyt z dysku)
+            t_io_start = time.perf_counter()
+            line = f.readline()
+            io_time_total += (time.perf_counter() - t_io_start)
             
+            if not line:
+                break
+            
+            # Pomiar czasu CPU (przetwarzanie tekstu)
+            t_cpu_start = time.perf_counter()
+            clean_line = line.translate(translator).lower()
             words = clean_line.split()
             word_counts.update(words)
             total_words += len(words)
-    return word_counts, total_words
+            cpu_time_total += (time.perf_counter() - t_cpu_start)
+            
+    return word_counts, total_words, io_time_total, cpu_time_total
 
 def process_directory(directory_path, file_pattern="*.txt"):
-    """Processes all files in a directory sequentially."""
+    """Przetwarza sekwencyjnie wszystkie pliki w podanym katalogu."""
     files = glob.glob(os.path.join(directory_path, file_pattern))
     if not files:
         print(f"Brak plików {file_pattern} w ścieżce {directory_path}")
-        return Counter(), 0
+        return Counter(), 0, 0.0, 0.0
         
     total_word_counts = Counter()
     total_words = 0
+    total_io_time = 0.0
+    total_cpu_time = 0.0
     
     for filepath in files:
-        counts, words = process_file(filepath)
+        counts, words, io_time, cpu_time = process_file(filepath)
         total_word_counts.update(counts)
         total_words += words
+        total_io_time += io_time
+        total_cpu_time += cpu_time
         
-    return total_word_counts, total_words
+    return total_word_counts, total_words, total_io_time, total_cpu_time
 
 def run_baseline(directory_path, top_n=10, output_file="wyniki.json"):
     print(f"Rozpoczęcie przetwarzania sekwencyjnego dla katalogu: {directory_path} ...")
-    start_time = time.time()
+    start_time = time.perf_counter()
     
-    word_counts, total_words = process_directory(directory_path)
+    word_counts, total_words, total_io_time, total_cpu_time = process_directory(directory_path)
     
-    end_time = time.time()
+    end_time = time.perf_counter()
     execution_time = end_time - start_time
     
     top_words = word_counts.most_common(top_n)
@@ -57,6 +74,8 @@ def run_baseline(directory_path, top_n=10, output_file="wyniki.json"):
         "calkowita_liczba_slow": total_words,
         "liczba_unikalnych_slow": unique_words,
         "top_slowa": top_words,
+        "czas_io_sekundy": total_io_time,
+        "czas_cpu_sekundy": total_cpu_time,
         "czas_wykonania_sekundy": execution_time
     }
     
@@ -66,7 +85,9 @@ def run_baseline(directory_path, top_n=10, output_file="wyniki.json"):
     print(f"Top {top_n} najczęstszych słów:")
     for word, count in top_words:
         print(f"  {word}: {count}")
-    print(f"Czas wykonania: {execution_time:.4f} s\n")
+    print(f"\nCzas I/O (Dysk): {total_io_time:.4f} s")
+    print(f"Czas CPU (Parsowanie): {total_cpu_time:.4f} s")
+    print(f"Czas wykonania całkowity: {execution_time:.4f} s\n")
 
     with open(output_file, "w", encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)

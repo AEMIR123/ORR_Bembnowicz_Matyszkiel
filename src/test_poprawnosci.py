@@ -21,7 +21,7 @@ def test_baseline_correctness():
     setup_test_data(test_dir)
     print(f"Wygenerowano dane testowe w {test_dir}\n")
     
-    counts, total_words = process_directory(test_dir)
+    counts, total_words, _, _ = process_directory(test_dir)
     
     assert total_words == 10, f"Oczekiwano 10 słów, otrzymano {total_words}"
     assert len(counts) == 5, f"Oczekiwano 5 unikalnych słów, otrzymano {len(counts)}"

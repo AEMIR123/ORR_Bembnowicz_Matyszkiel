@@ -46,7 +46,7 @@ Zadanie polega na zliczeniu najpopularniejszych słów z plików ("top N") za po
 
 ### 1.6. Czego świadomie nie robimy
 
-- Odsuwamy się od implementowania profesjonalnych technik NLP dla plików tekstowych (usuwanie stop-words/znaków interpunkcyjnych, konwersja encodingów, lematyzacja), by obróbka jednego pliku przypominała prosty .split(' '). Głównym mierzonym kosztem będzie zatem I/O transfer danych oraz start procesów/wstępna segregacja listowa.
+- Odsuwamy się od implementowania profesjonalnych technik NLP dla plików tekstowych (usuwanie stop-words/znaków interpunkcyjnych, konwersja encodingów, lematyzacja). **Wykorzystanie prostej metody `split()` i podstawowej translacji (*maketrans*) to nasze celowe, świadome uproszczenie.** Naszym priorytetem jest badanie paradygmatów zrównoleglenia i rozproszenia zadań (analiza narzutów, komunikacji, dysku), a nie rzetelna analiza lingwistyczna. Prosty `split()` stanowi wystarczający "generator obciążenia" dla procesora, który dobrze imituje właściwą pracę CPU w systemie.
 - Nie stawiamy realnego środowiska wielochmurowego/rozszerzonej infrastruktury klastra sprzętowego, ponieważ wariant rozproszony symulowany jest przez sub-procesy ze złączami TCP jako model testowy (architekturę połączoną, distributed-like).
 - Nie implementujemy odporności procesów komunikacji workerów (fault-tolerance). Skupiamy się na samym map-reduce, przy założeniu, że system pomiarowy symuluje procesy, w których węzły nigdy nie ulegają losowej awarii ani przeciążeniu żądań.
 
@@ -76,7 +76,7 @@ Zadanie polega na zliczeniu najpopularniejszych słów z plików ("top N") za po
 
 ### 4.1. Opis rozwiązania
 
-Skrypt pobiera folder `data`, gdzie za pomocą `glob` wyszukuje pliki `.txt`. Następnie, wszystkie pliki są iterowane w pętli. Każdy plik jest wczytywany i parsowany przy pomocy standardowej funkcji `split()` (rozdzielenie po białych znakach). Zliczenia statystyczne są realizowane poprzez akumulowanie wystąpień w module `collections.Counter`. Program działa jednowątkowo.
+Skrypt pobiera folder `data`, gdzie za pomocą `glob` wyszukuje pliki `.txt`. Następnie, wszystkie pliki są iterowane w pętli. Kod czyta pliki linia po linii, aby zminimalizować użycie pamięci RAM (*leniwe iterowanie*). Każdy plik jest wczytywany i parsowany przy pomocy standardowej funkcji `split()` (rozdzielenie po białych znakach, po uprzednim oczyszczeniu z interpunkcji). **W skrypcie celowo wyodrębniono niezależny rygorystyczny pomiar czasu I/O (samego odczytu dyskowego `readline()`) oraz czasu CPU (parsowanie tekstu i aktualizacja liczników `Counter`) - pozwala to jednoznacznie diagnozować, czy wąskim gardłem systemu jest dysk czy obliczenia.** Zliczenia statystyczne są realizowane poprzez akumulowanie wystąpień. Program działa jednowątkowo.
 
 ### 4.2. Sposób uruchomienia
 
