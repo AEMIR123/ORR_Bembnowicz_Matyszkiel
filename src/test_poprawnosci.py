@@ -6,7 +6,8 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 sys.path.append(parent_dir)
 
-from src.seq_baseline import process_directory
+from src.seq_baseline import process_directory as process_directory_seq
+from src.parallel_mvp import process_directory_parallel
 
 def setup_test_data(test_dir):
     os.makedirs(test_dir, exist_ok=True)
@@ -21,20 +22,27 @@ def test_baseline_correctness():
     setup_test_data(test_dir)
     print(f"Wygenerowano dane testowe w {test_dir}\n")
     
-    counts, total_words, _, _ = process_directory(test_dir)
+    print("--- Testowanie Logiki Sekwencyjnej (Baseline) ---")
+    counts_seq, total_words_seq, _, _ = process_directory_seq(test_dir)
     
-    assert total_words == 10, f"Oczekiwano 10 słów, otrzymano {total_words}"
-    assert len(counts) == 5, f"Oczekiwano 5 unikalnych słów, otrzymano {len(counts)}"
+    assert total_words_seq == 10, f"Oczekiwano 10 słów, otrzymano {total_words_seq}"
+    assert len(counts_seq) == 5, f"Oczekiwano 5 unikalnych słów, otrzymano {len(counts_seq)}"
+    assert counts_seq["a"] == 2
+    assert counts_seq["b"] == 2
+    assert counts_seq["c"] == 2
+    assert counts_seq["d"] == 2
+    assert counts_seq["e"] == 2
     
-    assert counts["a"] == 2
-    assert counts["b"] == 2
-    assert counts["c"] == 2
-    assert counts["d"] == 2
-    assert counts["e"] == 2
+    print("--- Testowanie Logiki Równoległej (Parallel) ---")
+    counts_par, total_words_par, _, _ = process_directory_parallel(test_dir, max_workers=2)
     
-    print("Test poprawności sekwencyjnego zliczania zakończony sukcesem!")
-    print(f"Zliczone słowa: {total_words}")
-    print(f"Klucze: {dict(counts)}")
+    assert total_words_seq == total_words_par, "Błąd liczby słów (seq != par)"
+    assert counts_seq == counts_par, "Błąd stanu wyników Counter() (seq != par)"
+    
+    print("\n[OK] Test poprawności MVP Parallel względem Baseline zakończony sukcesem!")
+    print(f"Zliczone słowa całkowite: {total_words_par}")
+    print(f"Klucze: {dict(counts_par)}")
 
 if __name__ == "__main__":
+    # Ochrona w procesie głównym na Windowsie dla ProcessPoolExecutor
     test_baseline_correctness()

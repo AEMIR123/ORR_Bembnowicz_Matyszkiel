@@ -1,0 +1,524 @@
+                                Karl Marx 
+ 
+                             INTRODUCTION TO  
+             A CONTRIBUTION TO A CRITIQUE OF POLITICAL ECONOMY 
+ 
+ 
+          Written between end of August and middle September 1857. 
+ 
+          Marx intended this to be the Introduction to his  
+          _Contribution to a Critique of Political Economy_ (1859), 
+          but, as his Preface to that work notes, he decided to  
+          omit it. 
+ 
+          The unfinished rough draft, which was found among Marx's 
+          papers after his death.  First published 1903, in _Die  
+          Neue Zeit_.  Would become the first manuscript in the 
+          _Grundrisse_.  
+ 
+ 
+    I. PRODUCTION, CONSUMPTION, DISTRIBUTION, EXCHANGE (CIRCULATION) 
+ 
+ 
+                2.  The General Relations of Production to 
+                  Distribution, Exchange and Consumption  
+ 
+Before starting upon a further analysis of production, it is necessary 
+to consider the various sections which economists place alongside it.  
+ 
+The quite obvious conception is this: In the process of production, 
+members of society appropriate (produce, fashion) natural products in 
+accordance with human requirements; distribution determines the share 
+the individual receives of these products; exchange supplies him with 
+the particular products into which he wants to convert the portion 
+accruing to him as a result of distribution; finally, by consumption, 
+the products becomes objects of use -- i.e., they are appropriated by 
+individuals.  Production creates articles corresponding to requirements; 
+distribution allocates them according to social laws; exchange, in its 
+turn, distributes the goods, which have already been allocated, in 
+conformity with individual needs; finally, in consumption, the product 
+leaves this social movement and it becomes the direct object and servant 
+of an individual need, which use it satisfies.  Production thus appears 
+as the point of departure, consumption as the goal, distribution and 
+exchange as the middle -- which has a dual form since, according to the 
+definition, distribution is actuated by society and exchange is actuated 
+by individuals.  In production, p[persons acquire an objective aspect, 
+and in consumption objects acquire a subjective aspect; in distribution, 
+it is society which, by means of dominant general rules, mediates 
+between production and consumption; in exchange, this mediation occurs 
+as a result of random decisions of individuals.  
+ 
+Distribution determines the proportion (the quantity) of the products 
+accruing to the individual, exchange determines the products in which 
+the individual claims to make up the share assigned to him by 
+distribution.  
+ 
+Production, distribution, exchange and consumption, thus, form a proper 
+syllogism; production represents the general, distribution and exchange 
+the particular, and consumption the individual case, which sums up the 
+whole.  This is indeed a sequence, but a very superficial one.  
+Production is determined by general laws of nature; distribution by 
+random social factors, it may therefore exert a more-or-less beneficial 
+influence on production; exchange, a formal social movement, lies 
+between these two; and consumption, as the concluding act, which is 
+regarded not only as the final aim but as the ultimate purpose, falls 
+properly outside the sphere of economy -- except insofar as it in turn 
+exerts a reciprocal action on the point of departure, thus once again 
+initiating the whole process.  
+ 
+The opponents of the economists, who accuse the latter of crudely 
+separating interconnected elements, either argue from the same 
+standpoint or even from a lower one -- no matter whether these opponents 
+come from within or without the domain of political economy.  Nothing is 
+more common that the reproach that the economists regard production as a 
+goal in itself, and that distribution is equally important.  This 
+argument is based on the concept of the economists that distribution is 
+a separate and independent sphere alongside production.  Another 
+argument is that the different factors are not considered as a single 
+whole; as though this separation had forced its way from the textbook 
+into real life and not, on the contrary, from real life into the 
+textbooks; and as though it were a question of the dialectic 
+reconciliation of concepts, and not of the resolution of actually 
+existing conditions.  
+ 
+     (a) Production and Consumption 
+ 
+Production is simultaneously consumption as well.  It is consumption in 
+a dual form -- subjective and objective consumption.  Firstly, the 
+individual, who develops his abilities while producing, expends them as 
+well, using them up in the act of production, just as in natural 
+procreation, vital energy is consumed.  Secondly, it is consumption of 
+the means of production -- which are used and used up and in part (as 
+for instance fuel) are broken down into simpler components.  It 
+similarly involves consumption of raw material, which is absorbed and 
+does not retain its original shape and quality.  The act of production 
+itself is thus, in all its phases, also an act of consumption.  The 
+economists concede this.  They call productive consumption, production 
+that is simultaneously identical with consumption, and consumption which 
+is directly concurrent with production.  The identity of production and 
+consumption amounts to Spinoza's proposition: _Determinatio est 
+negatio_.  
+ 
+But this definition of productive consumption is only advanced in order 
+to separate consumption that is identical with production from 
+consumption in the proper sense, which is regarded by contrast as the 
+destructive antithesis or production.  Let us therefore consider 
+consumption proper.  
+ 
+Consumption is simultaneously also production -- just as in nature, the 
+production of a plant involves the consumption of elemental forces and 
+chemical materials.  It is obvious that man produces his own body (e.g., 
+through feeding, one form of consumption).  But the same applies to any 
+other kind of consumption which in one way or another contributes to the 
+production of some aspect of man.  Hence, this is consumptive 
+production.  Nevertheless, says political economy, this type of 
+production that is identical with consumption is a secondary phase 
+arising from the destruction of the first product.  In the first type of 
+production, the producer assumes an objective aspect; in the second 
+type, the objects created by him assume a personal aspect.  Hence, this 
+consuming production -- although it represents a direct unity of 
+production and consumption -- is essentially different from production 
+proper.  The direct unity, in which production is concurrent with 
+consumption and consumption with production, does not affect their 
+simultaneous duality.  
+ 
+Production is, thus, at the same time consumption, and consumption is at 
+the same time production.  Each is simultaneously its opposite.  But an 
+intermediary movement takes place between the two at the same time.  
+Production leads to consumption, for which it provides the material; 
+consumption without production would have no object.  But consumption 
+also leads to production by providing for its products the subject for 
+whom they are products.  The product attains its final consummation in 
+consumption.  A railway on which no one travels (which is therefore not 
+used up, not consumed) is potentially, but not actually, a railway.  
+Without production, there is no consumption; but without consumption, 
+there is no production, either -- since in that case production would be 
+useless.  Consumption produces production in two ways.  
+ 
+  1.  Because a product becomes a real product only through consumption.  
+      For example, a dress really becomes a dress only by being worn, a 
+      house which is uninhabited is indeed not really a house -- in 
+      other words, a product (as distinct from a simple natural object) 
+      manifest itself as a product, becomes a product, only in 
+      consumption.  It is only consumption which, by destroying the 
+      product, gives it the finishing touch -- for the product is a 
+      product not because it is materialized activity, but only in so 
+      far as it is an object for the active subject.  
+ 
+  2.  Because consumption creates the need for _new_ production, and 
+      therefore provides production with the conceptual, intrinsically 
+      actuating reason for production, which is the precondition for 
+      production.  Consumption furnishes the impulse to produce, as well 
+      as providing the object, which acts as the determining purpose of 
+      production.  If it is evident that, externally, production 
+      supplies the object of production as a _concept_, an internal 
+      image, a need, a motive, a purpose.  Consumption furnishes the 
+      object or production in a form that is still subjective.  There is 
+      no production without a need, but consumption re-creates the need.  
+ 
+  This is matched on the side of production.  
+ 
+  1.  By the fact that production supplies the material, the object of 
+      consumption.  Consumption without an object is no consumption; in 
+      this respect, therefore, production creates, produces consumption.  
+ 
+  2.  But production provides not only the object of consumption, it 
+      also gives the consumption a distinct form, a character, a finish.  
+      Just as consumption puts the finishing touch on the product as a 
+      product, so production puts the finishing touch to consumption.  
+      The object is not simply an object in general, but a particular 
+      object which must be consumed in a particular way, a way 
+      determined by production.  Hunger is hunger; but the hunger that 
+      is satisfied by cooked meat eaten with a knife and fork differs 
+      from hunger that devours raw meat with the help of hands, nails 
+      and teeth.  Production this produces not only the object of 
+      consumption but also the mode of consumption, not only objectively 
+      but also subjectively.  Production therefore creates the consumer.  
+ 
+  3.  Production not only provides the material to satisfy a need, but 
+      it also provides the need for the material.  When consumption 
+      emerges from its original primitive crudeness and immediacy -- and 
+      its remaining in that state would be due to the fact that 
+      production was still primitively crude -- then it is itself, as a 
+      desire, brought about by the object.  The need felt for the object 
+      is induced by the perception of the object.  An _objet d'art_ 
+      creates a public that has artistic taste and is able to enjoy 
+      beauty -- and the same can be said of any other product.  
+      Production accordingly produces not only an object for the 
+      subject, but also a subject for the object.  
+ 
+Hence production produces consumption:  
+ 
+     1.  by providing the material of consumption;  
+ 
+     2.  by determining the mode of consumption;  
+ 
+     3.  by creating in the consumer a need for the objects which it 
+         first presents as products.   
+ 
+It therefore produces the object of consumption, the mode of consumption 
+and the urge to consume.  Similarly, consumption produces the 
+_predisposition_ of the producer by positing him as a purposive 
+requirement.  
+ 
+The identity of consumption and production has three aspects: 
+ 
+  1.  Direct identity:  Production is consumption and consumption is 
+      production.  Consumptive production and productive consumption.  
+      Economists call both productive consumption, but they still make a 
+      distinction.  The former figures in their work as reproduction, 
+      the latter as productive consumption.  All investigations 
+      concerning the former are concerned with productive and 
+      unproductive labor, concerning the latter with productive and 
+      non-productive consumption.  
+ 
+  2.  Each appears as a means of the other, as being induced by it; this 
+      is called their mutual dependence; they are thus brought into 
+      mutual relation and appear to be indispensable to each other, but 
+      nevertheless remain extrinsic to each other.  Production provides 
+      the material which is the external object of consumption, 
+      consumption provides the need -- i.e., the internal object, the 
+      purpose of production.  There is no consumption without 
+      production, and no production without consumption.  This 
+      proposition appears in various forms in political economy.  
+ 
+  3.  Production is not only simultaneously consumption, and consumption 
+      simultaneously production; nor is production only a means of 
+      consumption and consumption the purpose of production -- i.e., 
+      each provides the other with its objects, production supplying the 
+      external object of consumption, and consumption the conceptual 
+      object of production -- in other words, each of them is not only 
+      simultaneously the other, and not merely the cause of the other, 
+      but each of them by being carried through creates the other, it 
+      creates itself as the other.  it is only consumption that 
+      consummates the process of production, since consumption completes 
+      the product as a product by destroying it, by consuming its 
+      independent concrete form.  Moreover, by its needs for repetition, 
+      consumption leads to the perfection of abilities evolved during 
+      the first process of production and converts them into skills.  
+      Consumption is therefore the concluding act which turns not only 
+      the product into a product, but also the producer into a producer.  
+      Production, on the other hand, produces consumption by creating a 
+      definite mode of consumption, and by providing an incentive to 
+      consumption it thereby creates the capability to consume as a 
+      requirement.  The last kind of identity, which is defined in point 
+      3, has been variously interpreted by economists when discussing 
+      the relation of demand and supply, of objects and needs, of needs 
+      created by society and natural needs.  
+ 
+After this, nothing is simpler for a Hegelian than to assume that 
+production and consumption are identical.  And this has been done not 
+only by socialist _belletrists_ but also by prosaic economists, such as 
+Say, in declaring that if one considers a nation -- or mankind _in 
+abstracto_ -- then its production is its consumption.  Storch has shown 
+that this proposition of Say's is wrong, since a nation, for instance, 
+does not consume its entire product, but must also provide means of 
+production, fixed capital, etc.  It is, moreover, wrong to consider 
+society as a single individual, as in speculative reasoning.  With an 
+individual, production and consumption appear as different aspects of 
+one act.  The important point to be emphasized here is that if 
+production and consumption be considered as activities of one 
+individual, or of separate individuals, they appear at any rate as 
+aspects of one process in which production forms the actual 
+starting-point and is, therefore, the predominating factor.  
+Consumption, as a natural necessity, as a want, constitutes an internal 
+factor of productive activity, but the latter is the starting-point of 
+realization and, therefore, its predominating factor, the act into which 
+the entire process resolves itself in the end.  The individual produces 
+a certain article and turns again into himself by consuming it; but he 
+returns as a productive and self-reproducing individual.  Consumption 
+thus appears as a factor of production.  
+ 
+In society, however, the relation of the producer to his product, as 
+soon as it is completed, is an outward one, and the return of the 
+product to the individual depends on his relations to other individuals.  
+He does not take immediate possession of it.  Nor does the direct 
+appropriation of the product constitute his purpose, when he produces in 
+society.  Between the producer and the product, distribution steps in, 
+which determines (by social laws) his share in the world of products; 
+that is to say, distribution steps in between production and 
+consumption.  
+ 
+Does distribution form an independent sector alongside and outside 
+production? 
+ 
+     (b) Production and distribution 
+ 
+When looking through the ordinary run of economic works, one's attention 
+is attracted forthwith by the fact that everything is mentioned twice -- 
+e.g., rent, wages, interest and profit figure under the heading 
+distribution, while under the heading of production, land, labor and 
+capital.  As to capital, it is evident from the outset that this is 
+counted twice: first as a factor of production, and secondly as a source 
+of income (i.e., as a determining and determinate form of distribution).  
+Interest and profit appear therefore in production as well, since they 
+are forms in which capital increases and grows, and are thus phases of 
+its production.  As forms of distribution, interest and capital 
+presuppose capital as a factor of production.  They are forms of 
+distribution whose precondition is the existence of capital as a factor 
+of production.  They are likewise modes of production of capital.  
+ 
+Wages represent also wage-labor, which is examined in a different 
+section; the particular function that labor performs as a factor of 
+production in the one case appears as a function of distribution in the 
+other.  If labor did not have the distinct form of wage-labor, then its 
+share in the product would not appear as wages, as for instance in 
+slavery.  Finally, rent -- if we take the most advanced form of 
+distribution by which landed property obtains a share in the products -- 
+presupposes large-scale landed property (strictly speaking, large-scale 
+agriculture) as a factor of production, and not land in general; just as 
+wages do not presuppose labor in general.  The relations and modes of 
+distribution are thus merely the reverse aspect of the factors of 
+production.  An individual whose participation in production takes the 
+form of wage-labor will receive a share in the product, the result of 
+production, in the form of wages.  The structure of distribution is 
+entirely determined by the structure of production.  distribution itself 
+is a product of production, not only with regard to the content, for 
+only the results of production can be distributed, but also with regard 
+to the form, since the particular mode of men's participation in 
+production determines the specific form of distribution, the form in 
+which they share in distribution.  It is altogether an illusion to speak 
+of land in the section of production, and of rent in the section on 
+distribution, etc.  
+ 
+Economists like Ricardo, who are mainly accused of having paid exclusive 
+attention to production, have accordingly regarded distribution as the 
+exclusive subject of political economy -- for they have instinctively 
+treated the forms of distribution as the most precise expression in 
+which factors of production manifest themselves in a given society.  
+ 
+To the single individual, distribution naturally appears as a social 
+law, which determines his position within the framework of production, 
+and within which he produces; distribution thus being antecedent to 
+production.  An individual who has neither capital nor landed property 
+of his own is dependent on wage-labor from his birth as a consequence of 
+social distribution.  But this dependence is itself the result of the 
+existence of capital and landed property as independent factors of 
+production.  
+ 
+When one considers whole societies, still another aspect of distribution 
+appears to be antecedent to production and to determine it, as though it 
+were an ante-economic factor.  
+ 
+     - A conquering nation may divide the land among the conquerors and, 
+       in this way, impose a distinct mode of distribution and for of 
+       landed property (thus determining production).  Or, 
+ 
+     - it may turn the population into slaves, thus making slave-labor 
+       the basis of production.  Or, 
+ 
+     - in the course of a revolution, a nation may divide large estates 
+       into plots, thus altering the character of production in 
+       consequence of the new distribution.  Or,  
+ 
+     - legislation may perpetuate land ownership in certain families, or 
+       allocate labor as a hereditary privilege, thus consolidating it 
+       into a caste system. 
+ 
+In all these cases (and they have all occurred in history) it seems that 
+distribution is not regulated and determined by production but, on the 
+contrary, production by distribution.  
+ 
+Distribution, according to the most superficial interpretation, is 
+distribution of products; it is thus removed farther from production and 
+made quasi-independent of it.  But, before distribution becomes 
+distribution of products, it is 
+ 
+      (1) distribution of the means of production, and 
+ 
+      (2) (which is another aspect of the same situation) distribution 
+          of the members of society among the various types of 
+          production (the subsuming of the individuals under definite 
+          relations of production).  
+ 
+It is evident that the distribution of products is merely a result of 
+this distribution -- which is comprised in the production process and 
+determines the structure of production.  To examine production divorced 
+from this distribution which is a constituent part of it, is obviously 
+idle abstraction; whereas conversely the distribution of products is 
+automatically determined by that distribution which forms a primary 
+factor of production.  Ricardo, the economist of production _par 
+excellence_, whose object was the understanding of modern production and 
+of its distinct social structure, for this very reason declares that 
+distribution, _not_ production, is the proper subject of contemporary 
+political economy.  This is a witness to the banality of those 
+economists who proclaim production as an eternal truth, and confine 
+history to the domain of distribution.  
+ 
+The question as to the relation between that form of distribution that 
+determines production and production itself, belongs obviously to the 
+sphere of production.  If it should be said that, in this case at least, 
+since production must proceed from a specific distribution of the means 
+of production, distribution is to this extent antecedent to, and a 
+prerequisite of, production, then the reply would be as follows.  
+Production has indeed its conditions and prerequisites which are 
+constituent elements of it.  At the very outset, these may have seemed 
+to be naturally evolved.  In the course of production, however, they are 
+transformed from naturally evolved factors into historical ones, and, 
+although they may appear as natural preconditions for any one period, 
+they are the historical result of another period.  For example, the 
+employment of machinery led to changes in the distribution of both the 
+means of production and the product.  Modern, large-scale landed 
+property has been brought about not only by modern trade and modern 
+industry, but also by the application of the latter to agriculture.  
+ 
+The above-mentioned questions can be ultimately resolved into this: what 
+role do general historical conditions play in production and the 
+relations of production to the historical development as a whole? This 
+question clearly belongs to the analysis and discussion of production.  
+ 
+In the trivial form, however, in which these questions have been raised 
+above, they can be dealt with quite briefly.  Conquests may lead to 
+either of three results.  
+ 
+     - The conquering nation may impose its own mode of production upon 
+       the conquered people (this was done, for example, by the English 
+       in Ireland during this century, and to some extent in India); or, 
+ 
+     - it may refrain from interfering in the old mode of production and 
+       be content with tribute (e.g., Turks and Romans); or, 
+ 
+     - interaction may take place between the two, giving rise to a new 
+       system as a synthesis (this occurred partly in the Germanic 
+       conquests).  
+ 
+In any case, it is the mode of production -- whether that of the 
+conquering nation, or of the conquered, or the new system brought about 
+by a merging of the two -- that determines the new mode of distribution 
+employed.  Although the latter appears to be a precondition of the new 
+period of production, it is in its turn a result of production, a result 
+not simply occassioned by the historical evolution of production in 
+general, but by a specific historical form of production.  
+ 
+The Mongols, for example, who caused devastation in Russia, acted in 
+accordance with their mode of production (cattle breeding) for which 
+large, uninhabited tracts are a fundamental requirement.  The Germanic 
+barbarians, whose traditional mode of production was agriculture with 
+the aid of serfs, and who lived scattered over the countryside, could 
+more easily adapt the Roman provinces to their requirements because the 
+concentration of landed property carried out there had already uprooted 
+the older agricultural relations.  It is a long-established view that 
+over certain epochs, people lived by plunder.  But in order to be able 
+to plunder, there must be something to be plundered, and this implies 
+production.  Moreover, the manner of plunder depends itself on the 
+manner of production -- e.g., a stock-jobbing nation cannot be robbed in 
+the same way as a nation of cowherds.  
+ 
+The means of production may be robbed directly in the form of slaves.  
+But in that case, it is necessary that the structure of production in 
+the country to which the slave is abducted admits of slave labor, or (as 
+in South America, etc.) a mode of production appropriate to slave labor 
+has to be evolved.  
+ 
+Laws may perpetuate a particular means of production -- e.g., land, in 
+certain families.  These laws acquire economic significance only if 
+large-scale landed property is in keeping with the social mode of 
+production -- as for instance in Britain.  Agriculture was carried on in 
+France on a small scale, despite the existence of large estates, which 
+were therefore parcelled out by the Revolution.  But is it possible 
+(e.g., by law) to perpetuate the division of land into small lots? 
+Landed property tends to become concentrated again, despite these laws.  
+The influence exercised by laws on the preservation of existing 
+conditions of distribution, and the effect they thereby exert on 
+production has to be examined separately.  
+ 
+ 
+     (c) Lastly, Exchange and Circulation 
+     
+Circulation is merely a particular phase of exchange, or of exchange 
+regarded in its totality.  
+ 
+Since exchange is simply an intermediate phase between production and 
+distribution, which is determined by production, and consumption; since 
+consumption is moreover itself an aspect of production, the latter 
+obviously comprises also exchange as one of its aspects.  
+ 
+Firstly, it is evident that exchange of activities and skills, which 
+takes place in production itself, is a direct and essential part of 
+production.  Secondly, the same applies to the exchange of products in 
+so far as this exchange is a means to manufacture the finished product 
+intended for immediate consumption.  The action of exchange in this 
+respect is comprised in the concept of production.  Thirdly, what is 
+known as exchange between dealer and dealer, both with respect to its 
+organization and as a productive activity, is entirely determined by 
+production.  Exchange appears to exist independently alongside 
+production and detached from it only in the last stage, when the product 
+is exchanged for immediate consumption.  But, 
+ 
+     (1) no exchange is possible without division of labor, whether this 
+         is naturally evolved or is already the result of an historical 
+         process; 
+ 
+     (2) private exchange presupposes private production; 
+ 
+     (3) the intensity of exchange, its extent and nature, are 
+         determined by the development and structure of production -- 
+         e.g., exchange between town and country, exchange in the 
+         countryside, in the town, etc.  All aspects of exchange to this 
+         extent appear either to be directly comprised in production or 
+         else determined by it.  
+ 
+The conclusion which follows from this is, not that production, 
+distribution, exchange and consumption are identical, but that they are 
+links, or sections, of a single whole, different aspect of one unit.  
+Production is the decisive phase both with regard to the contradictory 
+aspects of production and with regard to the other phases.  The process 
+always starts afresh with production.  That exchange and consumption 
+cannot be the decisive elements, is obvious, and the same applies to 
+distribution in the sense of distribution of products.  distribution of 
+the factors of production thus determines the specific mode of 
+consumption, distribution, exchange and the _specific relations of these 
+different phases to one another_.  Production, _in the narrow sense_, 
+however, is in its turn also determined by the other aspects.  For 
+example, if the market, or the sphere of exchange, expands, then the 
+volume of production grows and tends to become more differentiated.  
+Production also changes in consequence to changes in distribution -- 
+e.g., concentration of capital, different distribution of the population 
+in town and countryside, and the like.  Production is, finally, 
+determined by the demands of consumption.  There is an interaction 
+between the various aspects.  Such interaction takes place in any 
+organic entity.  
+ 
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+                                           

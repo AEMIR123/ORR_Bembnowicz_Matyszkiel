@@ -1,0 +1,1811 @@
+Chapter V
+
+Historical Method
+
+I. John Austin
+
+    I have spoken more than once of the paradox implied in the
+Utilitarian combination of appeals to 'experience,' with
+indifference to history. The importance of historical methods
+already recognised by Mill has become more obvious in later
+years. It was, as he saw, clearly desirable that the Utilitarians
+should annex this field of Inquiry and apply appropriate methods.
+I have said something of Mill's view of the problems thus
+suggested; but the attitude of the Utilitarians in regard to them
+may be more fully indicated by the writings of some of his
+allies.
+    John Austin (1790-1859)(1*) was accepted as the heir-apparent
+to Bentham in the special department of jurisprudence. Five
+years' service in the army was a unique apprenticeship for a
+Benthamite; and, as his widow tells us, helped to develop his
+chivalrous sense of honour. It may also help to explain a want of
+sympathy for the democratic zeal of most of his comrades. In any
+case, it did not suppress a delight in intellectual activity.
+Austin left the army, and in 1818 was called to the bar, but
+ill-health compelled him to retire in 1825. He was thus qualified
+to be a jurist by some knowledge of practice, and forced to turn
+his knowledge to theoretical application. Upon the foundation of
+the London University he became the first professor of
+jurisprudence. With the true scholar's instinct for thorough
+preparation, he went to Bonn, studied the great German writers
+upon jurisprudence, and made the acquaintance of eminent living
+professors. The insular narrowness of Bentham and James Mill was
+thus to be corrected by cosmopolitan culture. Austin returned
+amidst the highest expectations. A clear voice, a perfect
+delivery, and a courteous and dignified manner were suited to
+give effect to his teaching; and unanimous tradition tells us
+that his powers in conversation were unsurpassed. Why did he not
+acquire such an intellectual leadership in London as Dugald
+Stewart had enjoyed in Edinburgh? Some reasons are obvious.
+English barristers and law students were serenely indifferent to
+the 'philosophy of law.' They had quite enough to do in acquiring
+familiarity with the technicalities of English practice. The
+University itself turned out to be chiefly a high school for boys
+not yet ripe for legal studies. Though J. S. Mill attended his
+lectures and took elaborate notes, few men had Mill's thirst for
+knowledge. Moreover, Austin thought it a duty to be as dry as
+Bentham, and discharged that duty scrupulously. The audiences
+dwindled, and the salary, derived from the fees, dwindled with
+it. Austin, a poor man, could not go on discoursing gratuitously
+to empty benches, and gave his last lecture in 1832.
+    Admiring friends did their best to find a sphere for his
+talents. Brougham placed him on the Criminal Law Commission,
+where he soon found that there was no serious chance of being
+employed, as he desired, in active codification A course of
+lectures promoted by the sound Utilitarian, Henry Bickersteth
+(Lord Langdale), at the Inner Temple fell as flat as the former.
+Austin retired to France, saying that he was born out of time and
+place, and should have been a 'schoolman of the twelfth century
+or a German professor.' He was afterwards on a Commission at
+Malta, with his friend Sir G. Cornewall Lewis for a colleague. A
+change of government brought this employment to an end. Austin
+gave up active work. He passed some years in Germany and France
+in the enjoyment of intellectual society. After the revolution of
+1848 he returned to England, and led a quiet country life at
+Weybridge. His sole later publication was a pamphlet against
+parliamentary reform in 1859. He died in the following December.
+Weak health and a fastidious temperament partly account for his
+silence. After publishing his early lectures he could never be
+induced to bring out a second edition. He suffered from scholar's
+paralysis -- preference of doing nothing to doing anything short
+of the ideal standard. He had not strength to satisfy the demands
+of German professors, and cared nothing for the applause of the
+British public. His 'estimate of men was low,' says Mrs Austin,
+'and his solicitude for their approbation was consequently
+small.' His want of success did not embitter, though it
+discouraged him; and he was constantly, we are told, 'meditating
+on the sublimest themes that can occupy the mind of man.' He kept
+the results for his own circle of hearers. Utilitarian zeal for
+democracy was impossible for him. He had the scholar's contempt
+for the vulgar, and dreaded political changes which could
+increase the power of the masses. It is the more remarkable that
+Austin's Utilitarianism is of the most rigid orthodoxy. A
+thorough Benthamite training gave absolute immunity to even the
+germs of transcendental philosophy. He speaks with the
+profoundest respect of the great German professors, especially of
+Savigny. He cordially admires their learning and acuteness. But
+when they deviate into philosophy he denounces their 'jargon' as
+roundly as Bentham or James Mill. Austin became the typical
+expounder of Benthamite jurisprudence. His lectures long enjoyed
+a high reputation: partly, I cannot help guessing, because, good
+or bad, they had the field to themselves; partly, also, because
+their dry, logical articulation fits them admirably for
+examination purposes; and partly, I do not doubt, because they
+represent some rare qualities of mind. Their fame declined upon
+the rise of the 'historical school.' Austin's star set as Maine's
+rose. Yet Austin himself claimed that his was the really
+historical method. The historical school, he says,(2*) is the
+school which appeals to 'experience,' and holds that a 'body of
+law cannot be spun out of a few general principles, considered a
+priori.' Bentham clearly falls under the definition, for Bentham
+considered the reports of English decisions to be 'an invaluable
+mine of experience for the legislator.' If this be an adequate
+criterion, how does Bentham differ from the school which claimed
+the historical method as its distinctive characteristic? Austin
+aims at giving a 'philosophy of law.' The phrase at once
+indicates two correlative lines of inquiry. A 'law' supposes a
+law-giver -- an authority which lays down or enforces the law. We
+may then inquire what is implied by the existence of this
+authority, or what is its origin, growth, and constitution? That
+is a problem of 'social dynamics.' We may, again, take the
+existence of the state for granted; inquire what are the actual
+laws; how they can be classified and simplified; and what are the
+consequent relations between the state and the individual. That
+is a problem of 'social statics,' and corresponds to the ordinary
+legal point of view. The conception of 'law' is common to both,
+though it may be approached from opposite directions, and may
+require modification so as to bring the results of the two lines
+of inquiry into harmony. The problems, and therefore the methods
+of inquiry, must be distinct, but each may be elucidated by the
+other.
+    Austin's position is given by his definition of law. It
+implies what has been called the 'Austinian analysis,' and is
+considered by his followers to dissolve all manner of
+sophistries. It is already implied in Hobbes.(3*) A law, briefly,
+is the command of a sovereign enforced by a sanction. The
+definition gives the obvious meaning for the lawyer. Murder is
+punishable by death. That is the law of England. To prove that is
+the law, we need only go to the statute-book. The statute rests
+upon the absolute authority of the legislature. It assumes the
+existence, then, of a sovereign; an ultimate authority behind
+which the lawyer never goes. It is for him infallible. The
+English lawyer accepts an act of parliament as a man of science
+accepts a law of nature. If there be any law which has not these
+marks it is for him no law. Conduct is illegal when the state
+machinery can be put in force to suppress it. Therefore the
+sphere of law is precisely marked out by the conception of the
+sovereign and the sanction.
+    The definition, then, may be true and relevant for all the
+lawyer's purposes. But a definition, as J. S. Mill would point
+out, is not a sufficient foundation for a philosophy. It may
+provisionally mark out some province for investigation; but we
+must always be prepared to ask how far the definition corresponds
+to an important difference. Now Austin's definition has important
+implications. It excludes as well as includes. Having defined a
+law, he argues that many other things which pass by that name are
+only 'metaphorically' or 'analogically' laws; and this raises the
+question, whether the fact that they do not conform to his
+definition corresponds to a vital difference in their real
+nature? Is he simply saying, 'I do not call them laws,' or really
+pointing out an essential and relevant difference of 'kind'? An
+important point is suggested by one exclusion. We are not to
+confound the so-called laws proper with the 'laws of nature' of
+scientific phraseology. Such a law of nature is simply a
+statement of a general fact. The astronomer asserts that the
+motion of bodies may be described by a certain formula. In saying
+so, he does not assert, even if he believes the inference to be
+legitimate, that their motion is caused by a divine command or
+enforced by a sanction. The actual uniformity is all that
+concerns him. The uniformity produced by law proper led, as
+Austin holds, to a confusion between different conceptions.
+Austin was clearly right in pointing out the difference; and
+scientific thinkers, before and since his time, have had to
+struggle with a fallacy, singularly tenacious of life. A 'law of
+nature' in the scientific sense is not a law in the jurist's
+sense. The difference may be regarded in another way The two
+senses of law differ as a 'command' differs from a proposition;
+the imperative from the indicative mood. The command, 'Do not
+murder,' is not a simple proposition. It belongs rather to action
+than to belief. It utters a volition and therefore creates a
+fact, instead of simply expressing a truth. Yet a command is also
+a fact, and may be regarded as part of the general system of
+fact. The command, 'Do not murder,' implies the fact, 'murder is
+forbidden.' We might show that in certain social conditions
+murder becomes punishable by death. That is a property of society
+at certain stages. If the social machinery worked with perfect
+accuracy, it would be as much a law of nature that a society
+kills murderers as that a wolf kills lambs or that fire burns
+straw. From this point of view, then, a 'law proper' falls under
+the conception of a 'law of nature,' though a law of nature is
+not a 'law proper.' It is a law of nature in the making, or a law
+of nature which is only fulfilled when a number of complex
+conditions of human conduct are satisfied. Austin, denying that
+free-will means a really arbitrary element, would no doubt have
+admitted that the 'law proper' was a product of the general laws
+(in the scientific sense) of human nature. This aspect of the
+case, however, passes out of sight. The law is something created;
+'set,' as he calls it, or laid down by the sovereign at his own
+will, and is thus perfectly arbitrary. That is the ultimate fact,
+and makes a radical difference. We stop at the 'command,' and do
+not ask how the command itself comes into existence. This
+corresponds to J. S. Mill's distinction between 'making' and
+'growing.' Law belongs to the region of 'making.' It originates
+in the will of the sovereign. Whatever he wills and 'sanctions,'
+and nothing else, is therefore law in the proper sense of the
+term.
+    Another class of 'laws' is excluded by the definition. A
+'custom' is not a law proper. I obey many rules, which are not
+'commands' and not enforced by legal sanctions. I conform to
+countless rules of conduct, though no assignable person has ever
+made them, and though the sovereign will not punish me for
+breaking them. In such rules the disapproval of society may act
+in the same way as a sanction, though not annexed by a sovereign.
+The resemblance may pass into identity. Customs become laws, as
+they receive the sanction of the legislator or of the courts.
+This includes Bentham's 'judge-made' law; and Austin diverges
+from Bentham by recognising this as a legitimate mode of
+legislation. The question then arises whether the distinction
+between laws and customs is essential or superficial -- a real
+distinction of kinds or only important in our classification.
+From the lawyer's point of view, again, the importance is
+obvious. He always wishes to know precisely at what point the law
+can be brought to bear. whether a rule will be enforced by the
+courts, or generally Under what circumstances a custom will be
+accepted as a law. The answer necessarily leads to much legal
+subtlety. The custom may be treated as constructively a law. The
+sovereign has not actually made nor 'sanctioned' it; but virtue
+has somehow gone out of him by implication, and his recognition
+is equivalent to imposition of the rule. Though the 'sovereign'
+has not really 'made' the law, he may be considered as having
+made it by a metaphysical fiction. In this direction Austin
+becomes the twelfth century schoolman, and has to split hairs to
+force his definition upon the facts. The inquiry, though
+necessary from the lawyer's point of view, becomes irrelevant
+from the sociologist's. The social action is the same, whether
+the rule obeyed be a custom or a law strictly so called.
+Confusion therefore follows when the question of legal validity
+is substituted for the question of real efficacy. Primitive
+societies obey implicitly a variety of elaborate 'laws' or
+'customs,' though they have no conception of legislation. The
+obedience to the rule is instinctive, and the rule regarded as
+absolutely unalterable. Are such rules 'laws' -- though not made
+by a sovereign -- or mere 'customs,' though obeyed as strictly as
+the most effective 'laws'? Austin answers consistently that they
+are not laws at all. There are people, he says, in 'a state of
+nature,'(4*) such as the savages in New Holland or North America.
+Their life, in Hobbes's famous phrase, is 'solitary, poor, nasty,
+brutish, and short.' Their laws correspond to mere 'positive
+morality or the law set by public opinion,' which is necessarily
+so uncertain that it cannot serve as a complete guide of conduct,
+nor can it be sufficiently minute or detailed.(5*) Savages, it
+seems, form herds not societies, and may be simply left out of
+consideration by the philosophical jurist. Austin, of course.
+could not be expected to anticipate more recent investigations
+into archaic institutions; but he was unlucky in thus summarily
+condemning them by anticipation. In any case the position
+indicates an important gap in his system. What was the legal bond
+which converted the herds into political societies? The problem
+of the formation of society had been solved not by historical
+inquiry but by the 'social contract theory.' Austin follows
+Bentham and Hume. They had shown conclusively not only that the
+contract was a figment historically, but that it could not supply
+what was wanted. It professed to add the sanctity of a promise to
+the social bond, whereas the sanctity of a promise itself
+requires explanation. The theory simply amounted, as Bentham had
+urged, to a roundabout way of introducing utility. Any sort of
+contract, as Austin urges,(6*) presupposes a formed political
+society. Clearly it cannot otherwise be a contract in his sense
+-- an obligation enforced by a sanction -- when it is itself to
+be the foundation of sovereignty or sanctions. Austin therefore
+rejects contemptuously the doctrine of natural law accepted by
+his German teachers. The theory that there is somehow or other a
+body of law, deducible by the pure reason, and yet capable of
+overriding or determining the 'law proper,' is his great example
+of ontological 'jargon' and 'fustian.' Austin's disciples
+hold(7*) that his main service to the philosophy of law was
+precisely his exposure of the fallacy. The 'Natur-Recht' is
+'jargon.' It is most desirable to discuss ideal law as meaning
+the law which it would be useful to adopt; but to speak as if it
+had already some transcendental reality is to confuse 'ought'
+with 'is' or, as Austin would say, the question of utility with
+the question of actual existence. The 'natural law' corresponds
+to the legal fictions denounced by Bentham, under which, when
+really making law, judges pretended to be only applying an
+existing law; and to the theories attacked in the Anarchical
+Fallacies, according to which this ideal law could override the
+actual law. Austin's polemic was no doubt directed against a
+theory fertile in confusion and fallacies.
+    Still the social contract, though exploded, leaves a problem
+for solution. Somehow or other the social organism has been put
+together, or, in Austin's phrase, the sovereign has come into
+existence. To explain this is the sociological problem. Austin
+recognises a difficulty. Generally speaking, he says, 'the
+constitution of the supreme society has grown.'(8*) It should
+then, we might expect, be studied like other growths, as the
+physiologist studies the growth of plants and animals and tries
+to formulate the processes. Austin, however, protests by
+anticipation. He does not use the 'fustian but current phrase,'
+Growth, to cover anything mysterious. He only means that
+governments have in fact been put together by unsystematic
+processes' -- 'by a long series of 'authors' and 'successive
+sovereigns.' They did not, that is, spring ready-made from the
+hand of a supernatural legislator, but they were made by a series
+of patchings and cobblings carried out by ignorant and
+short-sighted rulers. The 'growing,' then, was really 'making,'
+however blundering and imperfect. Thus we have no 'mystical'
+social bond. Society has been constructed all along by the same
+method. The ultimate cause has always been, the perception of the
+utility of political government, or the preference by the bulk of
+the community of any government to anarchy.'(9*) The theory thus
+appears to be that men in fact made such an agreement as the
+social contract supposes, though the agreement had not the force
+of a contract. Men have always seen, as they see now, that
+government is useful; and thus 'perception of utility' (not
+utility simply) is the sole force which holds society together
+and supports the sovereign and the sanctions.
+    A practical lawyer has little concern with savages and the
+origin of civil society. Austin's principles, however, apply to
+the modern society also. Law, as he seems to think, excludes or
+supersedes custom, so that the whole fabric of the state is
+entirely dependent upon the 'sovereign,' and the social union
+upon the 'perception of utility.' As a rule, one might observe,
+the question hardly arises. Men accept the social constitution
+into which they are born, because they can't help it. They never
+ask whether it is useful because they have no alternative of
+joining or separating. I may ask whether I shall belong to this
+or that club; but no one can choose whether he shall or shall not
+be a member of society. This leads to the point already noticed
+under Bentham. Custom is not really the creature of law, but law
+the product of custom. The growth of a society does not imply the
+disappearance of instinct, but implies on the contrary that
+certain fundamental instincts and the corresponding modes of
+action have become so thoroughly settled and organised that the
+society is capable of combining to modify particular regulations.
+When the English people passed the Reform Bill and the Americans
+accepted the constitution of the United States they altered very
+important laws, but it was precisely because they had been so
+thoroughly imbued with certain habits of combined action,
+involving the acceptance of complex legislative processes, that
+they were able to make changes in the less essential parts of the
+constitution. The 'sanction' no doubt determines the conduct of
+the individual. But when we ask upon what then does the sovereign
+power depend, we must go behind the law, and ask what are the
+complex instincts, beliefs, and passions which in fact bind men
+together and constitute the society as a moral organism.
+    The weak side of the 'Austinian analysis' is this
+transference of a legal conception to a sociological problem.
+Distinctions valid and important in their own sphere become
+irrelevant and lead to idle subtleties beyond that sphere. What,
+in fact, is the sovereign? He stands for an undeniable fact. Law
+presupposes a state and political unity. Political order implies
+some supreme and definite authority which can be invoked in all
+controversies as to what is or is not the law. The simplest case
+would be an irresponsible despot who could command whatever he
+pleased, and whose commands would be implicitly obeyed. If he
+does not exist he must be invented, as Voltaire said of the
+Deity. He is a 'fictitious entity,' or the incarnation of legal
+authority. This corresponds to the truth implied in the
+Utilitarian polemic against the supposed balance of powers and
+the mixture of the three abstract forms, monarchy, aristocracy,
+and democracy. The existence of the state implies unity of
+authority and the agreement that the validity of laws shall
+depend upon their elaboration by definite constitutional
+processes. But then we have to ask, Who precisely is the
+sovereign? The answer would be simple in the case of the
+individual despot. When the sovereign is not a single man but an
+organised body of men, such phrases as 'will' and 'command'
+become metaphorical. The will is not one will, but the product of
+multitudinous wills acting in complex though definable ways. The
+sovereign is not an entity distinct from the subjects, but is
+composed of the subjects themselves, or some fraction of them,
+according to a definite set of regulations. Can the state be
+treated as the embodiment of an external force? Austin is greatly
+puzzled to say who, in a given case, is the sovereign? Is
+parliament, or the House of Commons, or the electoral body the
+ultimate sovereign of England? Who is the true sovereign in a
+federal government such as the United States, where sovereign
+powers are distributed in complex ways? The legal question, What
+are the recognised forms by which valid laws are nominally
+constructed? is again confounded with the question of fact, What
+are the real forces which, in fact, produce obedience? The
+British Constitution has been steadily altering from remote times
+as a certain understanding has been developed. The centre of
+power has imperceptibly shifted without definite legislation; and
+the legal theory has remained unaltered, or has only conformed to
+customs already established. The question, therefore, what forms
+must be observed in conformity to precedent or explicit
+legislation, is entirely different from the question, What are
+the really dominant forces? The crown can undoubtedly veto an act
+of parliament in the legal sense of 'can'; whether it 'can' do so
+in the practical sense is a question only to be solved by saying
+what are the real forces which lie beneath the constitutional
+machinery.
+    I have already noticed the tendency of the Utilitarians to
+confuse the legal doctrine of the sovereign's omnipotence with
+the doctrine of his omnipotence in fact. Macaulay had
+sufficiently pointed out to Mill that the sovereign was limited:
+limited by his own character and by the impossibility of
+enforcing laws not congenial to the public sentiment. Austin
+illustrates a further result. Customs are legally invalid till
+recognised and sanctioned by the sovereign. That is important for
+the lawyer. But interpreted as a law of 'social dynamics,' it
+leads to the inversion by which custom is supposed to be created
+by the law, and the sovereign made the ultimate source of power,
+instead of being himself the product of a long and intricate
+process of development of custom. Here, therefore, is the point
+at which the Utilitarian view becomes antithetic to the
+historical. It seeks to explain the first state of society by the
+last, instead of explaining the last by the first. We can see,
+too, the main reason for this mode of conceiving the case. To
+Austin the reference to the underlying forces by which political
+society is built up seemed to be 'mysticism.' A fully developed
+'law' is intelligible: the customs which grow up in the twilight
+before the full light of day has appeared are too incoherent and
+shadowy for scientific treatment. The mode of analysing all
+phenomena into independent and uniform atoms leads to this
+result. Causation itself had been reduced to mere sequence to get
+rid of a 'mystic bond,' and the same method is applied to social
+phenomena.(10*) We have the difficulty which occurs so often in
+the Utilitarian theories. They desire on the one hand to be
+scientific, and on the other hand to be thoroughly empirical. The
+result is to divide the two spheres: to enlarge as much as
+possible the variability of human society in order to be
+'empirical'; and to regard the constituent atoms as unchangeable.
+Hence they have always a difficulty of conceiving of growth or
+'evolution,' in which variation is supposed to be compatible with
+the existence of law, or to combine the two aspects of change and
+uniformity. That always appears to them to be 'mystical.' Though
+they deny 'freewill,' they give the widest possible range to the
+sphere of voluntary action. 'Making' is radically distinguished
+from 'growing,' instead of being simply growth directed by
+conscious foresight. There is nothing really more 'mystical,'
+though there is something much more complex, in the growth of a
+society than in the growth of a natural species. But as it
+supposes a change due to something in the constitution of the man
+himself, not to merely 'external circumstances,' it has to be
+rejected as much as possible. Hence we get our omnipotent
+sovereign creating laws and customs and to be taken as an
+ultimate fact.
+    I need not point out at length the relation of these views to
+Utilitarianism in general, and to the belief in the indefinite
+modifiability of human nature and the transcendent importance of
+political machinery. It is enough to note that Austin's position
+involves one assumption remarkable in a Utilitarian. The
+empiricism of the Utilitarians is interpreted to mean that
+everything must be explained by circumstances, and conduct
+therefore by 'external' sanctions. Austin feels that, after all,
+some bond must be required to hold men together. The legislative
+sanctions cannot be quite ultimate. In fact, we want 'morality';
+and he therefore includes the 'laws of God' among the laws which
+are really, not metaphorically, laws. He thus accepts the Paley
+view, though with a certain reserve., Utility, is the sole
+criterion or 'index,' as he calls it, to the moral law. Still,
+the law requires a sanction. The sanction is left in judicious
+vagueness; but we are told that God must be benevolent, and must
+therefore be held to approve the conduct which promotes the
+happiness of his creatures. This, it would seem, is essential to
+Austin's position.(11*) Whether he was practising some 'economy,'
+and what his fellow Utilitarians would have thought of it, and
+how precisely he would have justified his position logically, are
+questions which I cannot discuss.
+    The application of Austin's principles to the purely legal
+sphere lies beyond my purpose. His aim is to analyse the primary
+conceptions of jurisprudence in accordance with his principles,
+and to obtain a rational classification of law in general.
+Whether the result was satisfactory, or how far satisfactory, I
+cannot inquire. The lectures were reviewed in the Edinburgh both
+by J. F. Stephen(12*) and by J. S. Mill.(13*) Both of them speak
+warmly of the merits of Sir Henry Maine, then beginning to be
+famous, and both regard the two methods as correlative rather
+than antagonistic. That they ought to be correlative is clear. A
+sound theory of origins and growth should be perfectly compatible
+with a sound theory of the actual order. But whether the two
+systems actually present that harmony is another question.
+    The political application of Austin's principles might be
+illustrated from the writings of his friend and disciple, Sir
+George Cornewall Lewis (1806-1863).(14*) Strong sense, unflagging
+industry, and the highest integrity won for Lewis high authority
+in parliament. A boundless thirst for knowledge, supported by a
+remarkable, memory, enabled him to discuss many topics of
+historical criticism. He was intimate with Grote, who accepted
+his suggestions upon Greek history respectfully. and his
+intellect was of the true Utilitarian type. His writings are as
+dry as the most thoroughgoing Utilitarian could desire. He will
+not give his readers credit for understanding the simplest
+argument till it is set down at full length in plain black and
+white. He was sceptical, and practical experience had impressed
+him, even to excess, with the worthlessness of human testimony.
+In politics scepticism naturally becomes empiricism; and as a
+thoroughgoing empiricist he rejects altogether James Mill's
+absolute methods. He is as convinced as Macaulay that political
+theories must be based upon observation, and is entirely free
+from the error of supposing that a constitution can be devised
+without reference to time, place, and circumstance. Yet he could
+write a dialogue upon the best form of government, which seems to
+imply that some real meaning can be given to the problem without
+reference to the stage of social development, that is, to the one
+condition which makes the problem intelligible.
+    One reason is that Lewis was a practical man, and he shows
+very clearly why the practical man was inclined to
+Utilitarianism. A chancellor of the exchequer knows that the fate
+of a budget depends upon him, and refuses to regard himself as a
+mere tool of fate. A scientific treatment of history would lead,
+he thinks, to fatalism.(15*) Everything is intrinsically
+uncertain where the human will is concerned.(16*) Such events as
+the French revolution, therefore, must be regarded as
+controllable by statesmanship, and not, with some historians,
+declared to have been 'inevitable.' When we have got to the
+statesman or to the sovereign we have the ultimate cause, and
+need not ask whether he be not himself a product. Thus all laws,
+constitutional or otherwise, may be compared to machinery,(17*)
+and suppose contrivance or design. All institutions have been
+made, and he assumes that even polygamy and slavery were
+'dictated by unsound practical arguments.'(18*) The tendency of
+such a doctrine is clear. All institutions, from the most organic
+to the most superficial, are regarded as equally a product of
+conscious manufacture. Their relation to the processes of social
+growth is tacitly disregarded, and the whole organism can be
+modified by a simple shuffling of the cards. We can therefore
+attack the problem of the best form of government without
+emphasising the necessary reference to historical conditions.
+Lewis's wide reading supplied him with any number of judicious
+remarks, drawn from all authorities between Aristotle and Comte.
+Undoubtedly such remarks deserve respect; they are apt to be
+commonplace, but are not therefore useless. Only, to apply them
+to any purpose, it is necessary to have a more definite
+understanding of the processes of social development which limit
+and define their value at any given stage. Empiricism, thus
+understood, really makes scientific method, as well as any
+definite scientific conclusion, impossible. Even in the purely
+practical sphere, the most important of all problems for a
+statesman is to know what are the limits of his powers, and to
+recognise what is really 'inevitable' in the great changes.
+Otherwise, he is in the position of Mrs Partington fighting the
+Atlantic. Lewis became a Whig instead of a Utilitarian Radical;
+but it may be doubtful whether Whig 'opportunism' was not the
+most natural development of the Utilitarian empiricism.
+
+ II. GEORGE GROTE
+
+    The great representative of Utilitarian history is George
+Grote (1794-1871).(19*) In some respects he was the most typical
+Utilitarian. Grote had been introduced to James Mill by Ricardo
+in 1817. He had yielded after some struggle to Mill's personal
+influence; and, though a student of Kant, had become an
+unhesitating proselyte. He had edited Philip Beauchamp, had
+defended radical reform against Mackintosh in 1821, and had
+joined J. S. Mill and other young friends in their systematic
+logical discussions. He fully sympathised with J. S. Mill's
+philosophy, and, as Professor Bain tells us,(20*) hardly any man
+'conned and thumbed' the Logic as he did. He was more of a
+Millite than Mill. Their friendship survived in spite of Mill's
+seclusion, and of certain doubts in Grote's mind of his friend's
+orthodoxy. The articles upon Coleridge and Bentham, marking
+Mill's sentimental backslidings, alarmed the more rigid adherent
+of the faith. During the political career of the 'philosophical
+Radicals' Grote was the faithful Abdiel. He defended their pet
+nostrum, the ballot, until the party became a vanishing quantity.
+'You and I,' said Charles Buller to him in 1836, 'will be left to
+"tell" Molesworth.'(21*) On the fall of the Melbourne ministry he
+gave up parliament, and in 1843 retired from the bank in which he
+had been a partner. His continued interest in the old Utilitarian
+principles was shown by his lifelong activity in the management
+of University College and the University of London. Happily, he
+could occupy himself in a more productive enterprise. He had been
+long interested in Greek history, and his great work appeared at
+intervals from 1846 to 1856. His study of Plato appeared in 1865,
+and he was still labouring upon Aristotle at the time of his
+death.
+    Of the substantial merits of Grote's History I shall not
+presume to speak. It took its place at once, and gives a
+conclusive proof that the Utilitarian position was no
+disqualification for writing history. It seems, indeed, to prove
+a good deal more; namely, that the Utilitarian who was faithful
+to his most vital principles was especially qualified to be a
+historian.
+    The true position may perhaps be suggested by a remark in a
+recent book(22*) by MM. Langlois and Seignobos. In laying down
+the conception of history as now accepted by the best writers,
+they remark that Grote 'produced the first model of a history' in
+the class to which it belongs. The principle illustrated is
+significant. 'The aim of history,' we are told, 'should now be
+not to please, nor to give practical maxims of conduct, nor to
+arouse the emotions, but [to give] knowledge pure and simple.'
+History should be a descriptive science. Historians must be
+content to give political facts as a writer upon a natural
+science gives the ascertained facts about physiology or
+chemistry. Nothing, it may be said, could be more in accordance
+with Utilitarian doctrine. It was their very first principle to
+rely upon fact pure and simple, and to make it precede
+speculation and to minimise 'sentiment,' 'vague generalities,'
+and a priori theories. If Grote wrote a model history, it was
+because he thoroughly embodied the Utilitarian spirit. He studied
+the evidence with immense knowledge, unflagging industry, and
+thorough impartiality. He resembled an ideal judge investigating
+evidence in a trial. That was the method which, upon their own
+showing, the Utilitarians were bound to apply to all subjects,
+and Grote applied it to Greece with triumphant success.
+    The Utilitarian principle, again, was opposed to the errors
+most seductive to earlier historians. The classical histories
+were meant to be works of art. The artistic aim is incompatible
+with scientific history, so far as it interferes with the primary
+aim of giving the unadulterated facts. To give a clear, coherent,
+and distinct narrative of a complex series of events requires,
+indeed, powers of literary expression even of the highest order.
+The artistic purpose must be strictly subordinate rather than
+absent. A writer must not disguise or embellish or omit with a
+view to artistic effect of the whole; and must often sacrifice
+the impressive to the truthful. Sometimes, indeed, the historian
+must be dull -- but that is a condition against which neither
+Grote nor the Utilitarians generally protested. It had been the
+aim of a different school to avoid dulness and to rival the
+Waverley Novels in making past history live. The errors of such
+men as Thierry and Michelet, or Carlyle, Macaulay and Froude,
+show the dangers of the method. The severe historian may perhaps
+forgive them in consideration of the interest which they excited
+in their studies. May he not also admit that the aim is, in some
+sort, legitimate? The people, after all, were once alive, and
+that truth has some bearing upon their history. If imagination
+means a faculty of generating illusions, as the Utilitarians
+generally thought, it is no doubt mischievous. But even for the
+bare purpose of judging evidence and perceiving truth the
+imagination is essential. The error of transposing modern
+standards of thought into previous epochs is too obvious to
+require illustration; but it is really the fault less of an
+excess than of a defect of imagination. The writer must be able,
+at every turn, to put himself in the place of his heroes, and of
+their contemporaries, if he would understand the meaning of their
+actions, or even judge the weight to be attributed to the
+evidence. That requires a trained and duly subordinate faculty of
+imagination. Even for mere annals -- simple statements of hard
+facts -- imagination is required, and it is required the more as
+we endeavour to rise from annals to history, or to make history
+more than an 'old calendar.'
+    A sound Utilitarian might be expected to make the proper
+compromise. No one could be more on his guard against the error
+of subordinating truth to poetic fancy. But he would not deny the
+importance of so much imaginative sympathy as is implied in a
+clear apprehension of the mental and moral condition of past
+epochs. He might find a sufficient substitute for the dangerous
+faculty of picturesque imagination in the more sober faculty
+which Grote possessed -- massive common sense; the 'knowledge of
+human nature,' as it is called, which corresponds not to poetic
+imagination or to a set of established formulae, but to the
+practical insight acquired by intimate acquaintance with actual
+affairs. If Grote was able to rival or to surpass German
+professors on their own ground, it was because his want of some
+of their special training was more than counterbalanced by his
+experience of business and public life. In Threadneedle Street
+and at Westminster he had acquired an instinctive perception
+which served him in describing the political and economical
+conditions of Athenian life. When joined with an ardour for
+research that power gave a value to his judgments of fact which
+enabled him to write a model history.
+    The 'graphic' or 'artistic' type of history may be
+objectionable; is not the philosophical worse? Nothing distorts
+facts so much as theory; and a scientific historian should be on
+his guard against the philosopher of all men. But how to draw the
+line? Stick to bare fact and you can only write annals. History
+proper begins as you introduce causation, and the mere series is
+transformed into a process. It is impossible to get a bare fact
+without some admixture of theory. The Utilitarian principle,
+again, suggests the right aim. It excludes the mischievous
+didacticism of older historians. The question of fact must
+everywhere precede the question of right. In politics, economics
+and ethics Bentham and Malthus and the Mills had in various
+relations applied the principle which applies equally to history,
+The historian may adopt Spinoza's great saying. His business is
+to understand, not to approve or denounce. A historian treats of
+some great event such as the French revolution. His one
+legitimate and dominant purpose should be to explain its causes,
+and he should inquire with absolute impartiality how it came to
+pass, not whether it was right or wrong. The old method of
+writing history attributed events to individuals, and
+consistently applied a moral estimate. If the action of this or
+that man, Mirabeau or Robespierre, was the ultimate cause of the
+events, we may ask whether the action was good or bad, and infer
+that the event ought or ought not to have happened. The
+scientific view fixes attention simply On the causes. What were
+the conditions which determined the event? We must inquire as
+impartially as a pathologist examining the causes of a disease.
+The category of causation is the sole category relevant. Ethical
+judgments may follow: we may decide that certain processes
+implied progress or decay; we may go on to judge of the
+individuals, making allowance for their motives after estimating
+what view of the facts was possible for them, and we shall
+generally find that there were good men and bad men on both
+sides, and that it is out of place to apply such words as right
+or wrong to the events themselves. The moral question is
+transferred to another sphere, and human conduct is treated as a
+case of natural causation. This method is implied in the very
+conception of scientific history and was fully in accordance with
+Utilitarianism. Men had been complaining of the inadequacy of the
+old history, which dealt exclusively with political intrigues and
+the military incidents. As history became more scientific the
+necessity of attending to social conditions was daily more
+evident, though the extent of the change implied is scarcely even
+yet realised. The history, for example, of political or religious
+changes cannot be fully written without reference to the economic
+conditions of the country, and whole systems of investigation are
+requisite before those conditions can be tolerably understood.
+Nothing could be more in accordance with Utilitarianism than a
+thorough acceptance of this view. Nor, again, should any men have
+been more free from the temptation of allowing a priori theories
+and hasty generalisations to colour their view of facts. The true
+attitude of the historical inquirer should be that which was
+illustrated in science by Darwin. On the one side, he must
+collect as large as possible a store of facts, observed as
+impartially and accurately as possible. On the other side, he
+must be constantly but cautiously generalising; endeavouring to
+fit the facts in their true order; to discover what formulae
+serve to 'colligate' them satisfactorily; and always to assign
+causes which are both real and adequate, such that their
+existence can be verified, and that, if they exist, they will fit
+into a reasoned theory. But his theories must be tentative and
+liable to constant revision. They may be suggestive even if not
+established, but in so complex an inquiry they must be regarded
+as being only a relative or approximate truth.
+    Briefly, then, the historian should aim at providing
+materials for a 'sociology,' but be on his guard against
+supposing for a moment that such a science now exists or can ever
+be raised to a level with the fully developed sciences. The word
+corresponds to an ideal aim, not to an established fact. It is
+important to regard history scientifically, though we cannot hope
+for a complete science of history. It simply means that we must
+regard the history of man as the history of the gradual
+development of the individual and of society by forces dimly
+perceived, not capable of accurate measurement, but yet working
+regularly and involving no abrupt or discontinuous intervention.
+    If Grote's history be really a 'model,' it was because he
+virtually accepted such limitations. Historians should admit that
+they are still in the stage of collecting the facts upon which
+any wide generalisations are still premature. Grote was a student
+of philosophy; he had, like Mill, been impressed by Comte, though
+he never, like Mill, took Comte for a prophet. He discussed early
+beliefs and institutions, and he certainly supposed his history
+to have important political implications. But a cautious
+intellect and a desire for a solid groundwork of fact restrained
+him from excessive theorising, and prevented his prejudices from
+overpowering his candour. So far, he represented the best
+Utilitarian spirit, and obeyed what was, or at least should have
+been, their essential canon: to make sure of your facts before
+you lay down your theories. They wished to apply scientific
+methods to history, as to law, political economy, ethics, and
+psychology: and, upon their view, the first condition of success
+was a sufficient accumulation of facts. Yet, as has abundantly
+appeared, they had been little disposed to confine themselves to
+this preliminary stage. They were too ready to assume that the
+sciences could be constituted off hand, and to accept convenient
+postulates as absolute truths. They had not only pointed out, but
+taken possession of, the promised land. Their premature dogmatism
+showed the weakness of their trusting their assumptions. The
+result to philosophy of history may be illustrated from the
+remarkable writer, who, in the period of Mill's philosophic
+supremacy, attempted to lay its foundation.
+
+ III. HENRY THOMAS BUCKLE
+
+    Henry Thomas Buckle (1821-1862) represents this aspiration by
+his History of Civilization in England.
+    Buckle(23*) had some qualifications of the rarest kind. He
+had been prevented by delicate health from coming into contact
+with contemporaries at school and college, and his intellectual
+tastes made him abandon a business career. He had from an early
+age devoted himself to a life of study. He absorbed enormous
+masses of knowledge, learned many languages, and had ranged over
+the most varied fields of literature. A most retentive memory and
+methodic habits of work gave him a full command of his materials,
+and the consciousness of intellectual force suggested a daring
+ambition. He proposed to write a general history of civilisation,
+though his scheme, as he gradually became aware of the vastness
+of his task, narrowed itself to a history of civilisation in
+England, with preliminary surveys of other civilisations. Buckle
+had been educated in the religious and political atmosphere of
+the average middle-class type. Foreign travel and wide reading
+had sapped his prejudices, and he had become a Liberal in the
+days when J. S. Mill's influence was culminating. Buckle shared
+the enthusiasm of the period in which the triumph of Free Trade
+and the application of Adam Smith's principles seemed to be
+introducing a new era of peace and prosperity and the final
+extinction of antiquated prejudice. He cannot be reckoned as a
+simple Utilitarian, but he represents the more exoteric and
+independent allies of the chief Utilitarian thinker. He accepts
+the general principles of Mill's Logic, though his language upon
+metaphysical problems implies that his intellect had never been
+fully brought to bear upon such questions. The general sympathy
+with the Utilitarians is, in any case, unmistakable, and the most
+characteristic tenets of the Mill school of speculation are
+assumed or defended in his writings. Buckle was thus fitted to
+interpret the dominant tendencies of the day, and his literary
+ability was fully adequate to the office. He has much of the
+clearness and unflagging vivacity of Macaulay, and whatever
+defects may be discoverable in his style, no writer was better
+qualified to interest readers outside the narrow circle of
+professed philosophers. The book was accepted by many readers as
+an authoritative manifesto of the scientific spirit which was to
+transform the whole intellectual world.
+    Buckle's aim is to fill the gap in the Utilitarian scheme by
+placing historical science upon a basis as firm as that of the
+physical sciences. Statistics, he argues, reveal regularities of
+conduct as marked as those which are revealed by the observation
+of natural phenomena. He gives a fatalistic turn to this
+statement by speaking as though the 'laws' somehow 'overrode' the
+individual volitions, instead of simply expressing the uniformity
+of the volitions themselves. Fate, it seemed, went round and
+compelled a certain number of people every year to commit suicide
+or post undirected letters in spite of themselves. Without asking
+how far this language, which not unnaturally startled his
+readers, might be corrected into a legitimate sense, we may pass
+to a further application. The laws by which human conduct is
+governed may, he says, be either 'physical' or 'mental,' the
+physical having more influence in the early, and the mental in
+the later, stages of development. This corresponds to the
+distinction, now familiar, between the 'organism' and the
+'environment,' and requires an obvious correction. The two sets
+of laws refer to two factors present at every stage of human
+development. The 'organism' is, from first to last, dependent
+upon its 'environment,' but the action of the environment depends
+also upon the constitution of the organism. The 'mental' and
+'physical,' therefore, do not act separately, but as parts of a
+single process. Buckle's language, however, expresses an obvious
+truth. As civilisation advances, the importance of the 'mental'
+laws in explaining the phenomena increases. The difference
+between two savage races may be explained simply by the
+difference of their surroundings; but the civilised man may vary
+indefinitely, while his dwelling-place remains constant. The
+earlier stages are those which, in Buckle's language, are under
+the predominant influence of physical laws. Climate, food, and
+soil on the one hand, and the 'general aspects of nature' on the
+other hand, represent these influences. To show their action at
+the dawn of civilisation, Buckle points to India, Egypt, and the
+ancient empires in America. In those regions arose great
+governments, displaying remarkable coincidences of structure, and
+thus suggesting the operation of some ascertainable causes. If we
+possessed a complete 'sociology,' these phenomena would clearly
+illustrate important laws, working with great uniformity, though
+in complete independence, and therefore, it may be inferred,
+revealing some general principles upon the origin of governments.
+Nothing can present a more legitimate field of inquiry. A great
+despotism implies an abundant population, and therefore certain
+physical conditions, geographical and climatic -- as the
+existence of a whale implies an open sea and plenty of food. The
+problem, then, is how do the conditions lead to the observed
+phenomenon? How do the physical conditions lead to the formation
+of these early civilisations? Here Buckle makes a remarkable
+assumption. He finds a solution in the teaching of the
+economists. An increase of population means a lowering of wages;
+or, as he puts it, the question of wages is, 'in the long run,' a
+question of population.(24*) Now, in cold countries more food is
+required, and the food is harder to procure than in the hot.(25*)
+Hence population will increase faster in hot countries, and wages
+will in them tend to be low. The case of Ireland confirms or
+extends the theory. There, cheap food does what general fertility
+does in India. The potato, more than the 'scandalous
+misgovernment,' is the most active cause of Irish poverty. Cheap
+food, then, means low wages. The result, startling for an
+enthusiastic free-trader, suggests a confusion. An increase of
+population on a given area may lower wages; but it does not
+follow that a larger population must be worse off when the area
+is more productive. He ought to show that the Indian population
+must be in greater excess; he has only shown that it may be
+positively greater. There is no proof that it will increase at
+all when the 'checks' are once operative, or increase in a
+greater ratio to its support. What is the real relation of cause
+and effect? Did Irishmen become poor because they had cheap food,
+or take to cheap food because they were poor? The food enabled
+them, no doubt, to support a larger number of poor, and in a more
+precarious position. When the potato failed they could not
+substitute wheat. That is enough to confute the hasty assumption
+that cheap food is a panacea for poverty, but does not prove that
+plenty necessarily causes poverty. There is another step to be
+taken. Ricardo now supplements Malthus. He had shown that the
+whole wealth of a country must be divided into wages, rent,
+profit, and interest, while interest is proportional to profit.
+Now, in India, interest and rent have been enormously high;
+therefore wages are low and profits high.(26*) A high rate of
+interest, however, may show that capital is scarce and payment
+precarious. The moneylender may extort high interest from the
+peasant, and yet the aggregate of profits may be small, and the
+whole country miserably poor. Ricardo's doctrine assumes that the
+wages of the labourer are advanced by the capitalist. It does not
+apply to a population of village communities, where the
+differentiation of classes has not yet taken place.(27*)
+    Buckle, however, does not trouble himself with such
+difficulties. The great empires are supposed to have arisen from
+the growth of a rich class, whose wealth has enabled them to gain
+political power. No doubt the despots had great wealth in poor
+countries; but it does not appear that they owed it to the
+development of a great class of rich capitalists, or even that
+such a class existed. The objection to Buckle's method is
+apparent. In the first place, it takes for granted the existence
+of a complex industrial organisation as an antecedent to the
+growth of the despotism. The system under which the capitalist,
+the labourer, and the landowner share profits, wages, and rent,
+the whole machinery of exchange and competition, is postulated as
+though it represented a necessary state, even in the early stages
+of civilisation. That was a natural application of the necessary
+assumption of the orthodox political economy. It professed to
+deduce its conclusions from the laws of human nature common to
+all men in all ages. They were therefore as valid in the earliest
+as in the latest time, and explain the causes as well as the
+consequences of social development; and hence it follows that the
+'mental laws' can be excluded. Since the organism is constant,
+all differences are due to differences of environment, or, in
+Buckle's language, to the 'physical laws.' 'In India,' he says,
+'slavery, abject slavery, was the natural state of the great body
+of the people; it was the state to which they were doomed by
+physical laws utterly impossible to resist.'(28*) In Europe, as
+he elsewhere puts it,(29*) man is stronger than nature; out of
+Europe nature is stronger than man. Man is in one case the slave,
+and in the other the master of the physical forces. That is to
+say, that in the earlier stages we may argue directly from the
+'environment' to the 'organism.' The hopeless slavery to which so
+many millions have been doomed is a direct and inevitable result
+of the 'physical laws,' that is, of the climate, soil, and food.
+We are therefore dispensed from any inquiry into the character of
+the organism itself and the 'mental' laws implied in its
+constitution; or we take for granted that the laws which regulate
+the more developed organism are absolute and permanent, and may
+therefore explain the earliest stages of growth.(30*)
+    Thus the inquiry into the nature of the social organisation,
+into the primitive institutions out of which the empires have
+grown, is virtually set aside. Because the 'mental laws' work so
+uniformly they may be neglected. We are left with the bare result
+that great empires have grown up under appropriate physical
+conditions, and they are all lumped together as 'despotisms.'
+That is to emphasise a remarkable set of facts, but not to make
+them more intelligible. The facts, that is, reveal a remarkable
+uniformity in the social organism; but that does not show what is
+the nature of its organisation. If we know that, we shall be able
+to understand the differences and the way in which similar forces
+have worked under varying conditions. Buckle's leap at a
+generalisation so far distracts attention from the most fruitful
+line of inquiry. Malthus and Ricardo will solve the problem
+offhand. The simple coincidence of despotism and fertility
+entitles us to set them down as cause and effect, without further
+analysis of the precise mode of operation.
+    Buckle's next step illustrates the same point. The 'physical'
+laws have thus determined the distribution. They also influence
+religion, art, and literature by the action of 'aspects of
+nature' upon the imagination. The powers of nature, as he oddly
+puts it,(31*) 'have worked immense mischief.' They generate
+superstition on one side, as they generated slavery on the other.
+Here Buckle's doctrine is connected with Comte's. He accepted, as
+he says elsewhere,(32*) Comte's conclusions as to the earliest
+stage of the human mind. The man ignorant of scientific laws
+attributes all phenomena to 'supernatural causes.' Comte was only
+putting into a compact formula a theory more or less assumed by
+his predecessors. Superstition represents a necessary stage in
+the intellectual development of the race. It embodies the crude
+hypotheses of an early stage which have been falsified by later
+experience. They continue to exist, however, when they have long
+been untenable to educated minds; and Buckle's remarks may help
+to explain their vitality. The 'aspects of nature' represent the
+impression made by apparently irregular phenomena. Superstition
+thrives where men's lives are at the mercy of events which cannot
+be foreseen. One special and characteristic instance is the
+influence of earthquakes. Spain, Portugal, and Italy are the
+European countries in which earthquakes are most frequent, and
+are also the countries in which superstition has been most rife.
+The excessive stimulus to the imagination has led to the
+collateral result that while these countries have produced all
+the greatest artists, they have (with the partial exception of
+Italy) produced no great names in science.(33*) The principle
+that superstition is fostered by such conditions may well be
+illustrated by these facts. Hume had remarked that the events
+which to good reasoners were the 'chief difficulties in admitting
+a supreme intelligence' were to the vulgar 'the sole arguments
+for it.'(34*) Buckle might well extend the argument. But to say
+that earthquakes 'cause' Spanish superstition is a bold
+generalisation. It is an application of Mill's canon of simple
+agreement. Earthquakes and superstition coexist in two or three
+districts; therefore earthquakes are the cause of
+superstition.(35*) On Buckle's own showing, earthquakes are only
+one of countless conditions which may produce superstition. Why
+is this special condition to be isolated? If Spain is now
+superstitious, must not that be due to the concurrence of
+innumerable causes? Have not other countries been steeped in the
+profoundest superstition though they had no earthquakes? How,
+indeed, is the amount of superstition in a country to be
+measured? If we were to explain a particular superstition by the
+apparent irregularity of the phenomena concerned -- the belief in
+an earth-shaking deity, for example -- the explanation might be
+adequate. The objection rises when it is presented as a general
+scientific formula. Since 'superstition' is a universal incident
+of early stages of human thought, it is clearly not explicable by
+the phenomena of special districts. That may be an instructive
+example, but cannot give the general law. It is illegitimate to
+single out the particular condition as if it were the sole cause.
+The main point, however, is again the mode of arguing from the
+environment to the organism. The argument from the environment to
+the organism, from the earthquakes to superstition, has then an
+obvious limit. The constant condition can only explain the
+constant qualities. The palpable fact is that the same country
+has been occupied by races of most different characters.
+Freethinking flourishes where there was once abject superstition,
+and therefore the country cannot by itself explain the
+superstition. When, for example, Buckle explains the artistic
+temperament of Greeks or Italians by the physical
+characteristics, he is no doubt assigning a real cause, but
+obviously a cause insufficient to explain the singular changes,
+the efflorescence and the decay of artistic production in either
+country. One result is characteristic. The differences are often
+explained by 'heredity' or the inheritance by races of qualities
+not developed by their present environment, and essentially
+dependent upon the previous social evolution. Buckle fully admits
+that the question of 'heredity' is not settled by scientific
+inquiry.(36*) He infers, and I suppose rightly, that we cannot
+assume that there is any organic difference between an infant
+born in the most civilised country and one born in the most
+barbarous region. Still, he 'cordially subscribes' to Mill's
+protest against explaining differences of character by race.(37*)
+So far as this excludes all the influences by which a society is
+moulded through inherited beliefs and customs, it sanctions an
+erroneous inference. Because race differences are not ultimate,
+or indicative of absolute organic distinctions, they are
+altogether cast out of account. The existing differences have to
+be attributed entirely to the physical surroundings; and the
+influence of 'aspects of nature' is summarily adduced to explain
+much that is really explicable only through the history of the
+organism itself.(38*)
+    How far this may have led Buckle to exaggerate the direct
+efficacy of mere physical surroundings I cannot further inquire.
+At any rate, his whole purpose is to explain the growth of
+civilisation, which must, as he perceives, be done by introducing
+a variable element. Here, therefore, we have to consider the
+state in which the 'mental' become more influential than the
+physical laws. Buckle begins by expounding a doctrine of critical
+importance. In general terms, he holds that progress depends upon
+the intellectual factor. A similar doctrine had been emphatically
+asserted by Comte, and was, indeed, implied as a fundamental
+conception in his whole work. Ideas, he says, govern the world:
+'Tout le mécanisme social repose sur les opinions.'(39*) The law
+of the 'three stages' is a systematic application of this
+doctrine. The doctrine, again, recognises an undeniable truth.
+Man is dependent throughout upon his environment. That, in a
+sense, remains constant. The savage lives in the same world as
+the civilised man. But every step of knowledge implies a change
+in the man's relations to the world. His position is determined
+not simply by the 'physical laws,' but by his knowledge of the
+laws. The discovery of iron or of electricity makes his world, if
+not the world, different; and the whole system of knowledge
+corresponds to an ultimate condition of his life. His knowledge,
+therefore, is an essential factor in the problem. The rationalism
+of the eighteenth century and the later progress of science had
+of course emphasised this truth. The natural sciences represent
+the intellectual framework, which steadily grows and at every
+stage gives a final determinant of all human activity.
+Superstitions and theology in general correspond to the erroneous
+theories which are gradually dispelled as we construct a
+definitive and verifiable base of solid knowledge. But is the
+scientific progress not only the ultimate but the sole factor in
+all social development? Man is a complex being, with an emotional
+as well as an intellectual nature, which, proximately at any
+rate, determines his conduct. How are we to allow for this factor
+of the inquiry?(40*)
+    Buckle's version of the principle is significant. He begins
+by distinguishing 'progress' into 'moral' and
+'intellectual.'(41*) Which of these is the important element? Do
+men progress in the moral or in the intellectual element? Since,
+as we have seen, we cannot assume an improvement in the
+individual, the later differences must be ascribed to the
+'external advantages' -- to the opinions and so forth of the
+society in which the child is educated. In the next place, the
+opinions are constantly varying, whereas the 'moral motives' are
+singularly constant.(42*) A 'stationary element,' when
+surrounding circumstances are unchanged, can only produce a
+stationary effect, and hence we must explain civilisation by the
+variable agent. Buckle argues that the moral code recognised has
+remained unaltered since distant times. The same general rules
+are accepted, and no additional articles have been inserted. Then
+the great stages of progress especially the growth of religious
+toleration and of peace -- have been due to intellectual, not to
+moral changes; and, finally, as he thinks, the average man
+remains pretty much the same. Some men are good and some bad; but
+the good and the bad actions neutralise each other. Their effects
+are temporary, while the 'discoveries of great men' are
+'immortal,' and contain the 'eternal truths which survive the
+shock of empires, outlive the struggles of rival creeds, and
+witness the decay of successive religions.'(43*) Buckle, that is,
+reserves for the 'eternal truths' of scientific discovery the
+enthusiasm which others had lavished upon the eternal truths of
+the great religious teachers. The doctrine agrees with the
+Utilitarian theories in one respect. Man is supposed to remain On
+the whole constant, in his natural capacities and in his moral
+qualities. On the other hand, Buckle dwells more emphatically
+than Mill upon the spontaneous growth of scientific ideas as the
+sole but sufficient force which moulds the destinies of mankind.
+From Mill's constant insistence upon the power of association and
+the empirical character of all knowledge, it might be inferred
+that even scientific progress is precarious and unstable. To
+Buckle the development of scientific knowledge seems to be
+inevitable, if only the mind is allowed to work freely. The most
+conspicuous facts of the day gave force to his conviction. The
+enormous changes in the whole constitution of society were due to
+the advance of mechanical discoveries and to the triumph of
+free-traders. Watt and Adam Smith, not the religious preachers,
+represent the real transforming force. The steam-engine has
+altered the whole position of the human race. The sermons of
+Methodists and Catholics have left the average man just where he
+was. Napoleon was a great criminal, and Wilberforce, perhaps, a
+great philanthropist. Their influence has been transitory, while
+the scientific inventors have set up changes which will continue
+to gather force as the ages roll.
+    The truth contained in this, again, seems to be Undeniable.
+Modify the 'environment' and your organism is modified
+throughout. Alter the climate, the soil, the amount of fertile
+land, and the whole state of mankind will be altered. That,
+again, has been virtually achieved by modern discoveries. Though
+the natural forces may be the same, our relation to them has been
+altered; and, if more fertile soil has not been wrought into
+existence, the fertile soil has been brought, we may say, nearer
+to our doors. Moreover, the change has been primarily due to
+scientific discovery and not to any moral change; or the moral
+changes, whatever they may be, have been the consequence, not the
+cause. So far as Buckle emphasised this aspect, he was clearly
+insisting upon a truth which requires recognition. The question
+is what bearing this has upon the philosophy of history, and
+whether it justifies us in discarding the influence of the
+'moral' element in building up the social structure.
+    The general doctrine leads to the conclusion that the
+essential difference between two stages of history is the
+difference between the quantity of knowledge possessed and its
+diffusion throughout all classes. That is really Buckle's
+contention, from which all his conclusions are deducible. The
+'totality of human actions,' as he says, is 'governed by the
+totality of human knowledge; (44*) or, as he elsewhere puts
+it,(45*) the history of every 'civilised country is the history
+of its intellectual development.' If early societies are governed
+by the 'physical laws,' later societies are governed by the
+action of those laws upon our minds, and the action is thus
+profoundly modified as our knowledge of the laws extends. The
+'environment' has a different relation to us, but remains the
+ultimate and independent determinant. If this be the whole truth,
+it would follow that we might write the history of mankind by
+writing the history of science. All other phenomena would be
+simply deducible as corollaries from the state of knowledge.
+Comte had suggested that history might be written without
+mentioning the names of individuals. On Buckle's assumption,
+history may deal simply with the growth of scientific ideas; and,
+therefore, we need not take into account the moral ideas or all
+the complex system of actions which come under the head of the
+will and the emotions in psychological treatises.
+    Is it possible to write a history upon such terms? Granting
+that knowledge defines the base upon which the whole structure
+must repose, Can we abstract from all this considerations of the
+way in which men's beliefs are brought to bear upon the
+constitution of society? The difficulty becomes obvious as soon
+as Buckle turns from his general principle to the historical
+application. Mark Pattison,(46*) in his review of the History on
+its first appearance, puts the point. Buckle, he says, after
+insisting upon the utter inadequacy of the old historical and
+metaphysical methods, proceeds to 'exemplify the very method of
+writing history which he had condemned.' His account of French
+society is, as Pattison says, a 'masterly sketch,' unequalled in
+breadth and comprehensiveness of view by any English writer. But,
+then, it brings in precisely the elements of individual
+influence, and so forth, which Buckle expressly professed to
+exclude. I will add nothing to the commendation possessing a
+higher authority than my own. Buckle's surveys, not only of
+French, but of English, Spanish, and Scottish, I believe, may
+fully justify the opinion that his abilities, rightly directed,
+might have produced a history surpassing the achievement of any
+of his rivals. But the only question with which I am concerned is
+the relation of the history to the philosophy. Buckle, if he had
+simply written a history of England, might have eclipsed Hallam
+or Macaulay in their own line. Did he really inaugurate a better
+method of writing history in general? or, if not, what caused the
+failure of a man possessed of such singular qualifications?
+    A difficulty is suggested even in regard to the purely
+scientific development. Buckle speaks with the warmest enthusiasm
+of great men, such as Descartes, whose scientific discoveries
+revolutionised thought, or Adam Smith,(47*) who, by publishing a
+single work, contributed more to human happiness than all the
+statesmen and legislators of whom we have an authentic record.
+How can this be reconciled with the insignificance of the
+individual? A great discovery is necessarily the work of an
+individual. No combination of second-rate men could have supplied
+the place of a single Newton. It therefore occurs to Buckle that,
+after all, the individual has to be taken into account. If
+Descartes and Smith had died of the measles in infancy, progress
+would have been arrested. To escape this conclusion, he refers to
+the 'spirit of the age,' which would have made the discovery
+fruitless at a different period. What is covered by that phrase?
+The social influence does not supersede the necessity for
+individual genius. Everything that is done must of course be done
+by individuals. The 'spirit of the age' must mean such a social
+order as fosters discovery; an order, for example, in which so
+many men are devoted to scientific inquiry that discovery becomes
+certain. The man of genius is still first in the race; but he is
+first of many competitors, who, even if he were to die, would
+achieve the same result a little later. The individual is still
+required, but the importance of any particular individual is so
+far diminished. The growth of science cannot be explained, in the
+historical sense, without reference to the social order which
+leads to the cultivation of science. It is not something which
+grows of its own accord outside of society, but supposes the
+whole social structure and the moral factor which we are
+endeavouring to discard.
+    The difficulty affects Buckle's mode of dealing with the
+great historical problems. Since progress depends absolutely upon
+the growth of science, the one essential is the spirit of
+inquiry, or, as he calls it, 'scepticism.' Its natural antagonist
+is the 'protective' spirit, which implies servile submission to
+authority in matters of opinion or practice. The disastrous
+effects of such a spirit are traced in Spain and Scotland. The
+'inquisition' and the tyranny of Puritan ministers are its
+natural fruits. No one, of course, will deny the evils due to a
+suppression of intellectual activity. To exhibit and to denounce
+those evils is a task which Buckle performs with admirable
+vigour. But, so far, he is merely writing an effective pamphlet
+on a large scale. He is denouncing the protective spirit as the
+Whig historian denounces Toryism, or rival religious historians
+find the evil principle in Protestantism or Popery. The
+protective spirit is an abstraction which means a quality of the
+whole society considered from one point of view; its relation,
+namely, to scientific progress. It cannot be an ultimate cause of
+power in itself -- but is a product of many complex conditions.
+To consider it impartially, to form an accurate diagnosis of the
+disease is the problem for the scientific historian. He should
+discover the uniform laws whose working is manifest in the morbid
+condition, and, in the case of Spain, render the intellectual
+paralysis permanent and incurable. Here Buckle's method becomes
+that of the ordinary historian. He refers to the earthquakes and
+various physical conditions which apply to the case of Spanish
+superstition. We now learn, however, that these physical
+influences are 'interwoven with a long chain of other and still
+more influential events,' which enable us to trace the steps of
+decline with 'unerring certainty.'(48*) We go back, therefore,
+both in Spain and Scotland to the political history; to the play
+of party and class-interests, which have forced a priesthood at
+one time to ally itself with despots, and at another to throw
+itself upon the people. The history may be accurate and the facts
+alleged are no doubt relevant; but they leave the difficult
+problems unsolved. Why, for example, was the Spanish people at
+the head of European races in the sixteenth century, and why did
+it then suddenly sink into decay? Why did Scotland, sunk in
+superstition in the seventeenth century, become, though still the
+most superstitious country in Europe, the most energetic and
+progressive part of the British empire? To attack such problems
+it would, I take it, be necessary to study impartially a vast
+variety of social and of what Buckle calls moral questions; to
+give weight to a number of 'interwoven' causes, determining the
+history of the two races. The facts -- the intellectual
+stagnation of Spain and the intolerance of Scottish Puritanism --
+imply, as Buckle urges, some general causes. The history shows
+them at work, and Buckle's survey brings out many significant
+facts. Still, when the protective spirit is hypostatised and made
+a kind of independent cause, determining and not determined by
+the general social state, we miss the most interesting problem,
+or take the solution for granted. What, after all, is the true
+secret of this mysterious power? Whence came its vitality? The
+evil principle appears like the supernatural sovereign in 'Philip
+Beauchamp' or the Demogorgon of Shelley's Prometheus, a cruel
+tyrant enforcing false belief -- even so, he requires to be
+explained as well as denounced, and we are at least tempted to
+ask whether the church and the king must not have discharged some
+useful social function; and the creed have embodied some element
+of thought and emotion congenial to human nature. That is the
+aspect neglected by Buckle.
+    One or two conspicuous examples of the result may be
+indicated. Buckle has to deal with the French revolution.(49*)
+Nobody has been more emphatic in insisting that history should
+deal with the facts which illustrate the state of the people
+instead of confining itself to court intrigues. Nor could any one
+speak more strongly of the misery of the French population before
+the revolution. Yet the whole explanation has to be sought in the
+purely intellectual causes. The social causes are simply dropped
+out of account. The revolution was due to the French
+philosophers. Intellectual activity had been entirely suppressed
+by the despotism of Louis XIV. The philosophers, he holds,
+learned the new doctrine from England. The persecution of the
+freethinkers by the later rulers and a servile priesthood forced
+the philosophers to attack both the despots, and (unfortunately,
+as Buckle holds) to attack Christianity as well. Hence both the
+achievements and the incidental evils caused by the final
+outbreak. The theory, though strangely inadequate, is a natural
+corollary from the doctrine that the history of a nation is the
+history of its intellectual development. Voltaire's study of
+Locke becomes the efficient cause of a gigantic social change: A
+single characteristic, itself the product of many factors, is
+made to account for the whole complex process. Still more
+significant is his account of the decreasing influence of the
+warlike spirit. That, too, must be a product of purely
+intellectual causes. Divines have done nothing by preaching, but
+intellectual movement has operated in 'three leading ways.'(50*)
+The discoveries of gunpowder, of free trade principles, and of
+the application of steam to travelling have produced the
+peaceable tendencies, which, in Buckle's day, were apparently so
+near a final triumph. Let us fully grant what I hope is true,
+that this corresponds to a truth; that the various forces which
+have brought men together may ultimately conduce to peace; and,
+moreover, that the discoveries of science are among the ultimate
+conditions of the most desirable of all changes. Does this enable
+us to abstract from the social movement? Gunpowder, according to
+Buckle, facilitated the differentiation of the military from the
+other classes. That already assumes a process only intelligible
+through the social history. Buckle tells us that 'divines' have
+done nothing. If he means that they have not persuaded nations,
+or not even tried to persuade them, to turn the second cheek, he
+is unanswerable. Religion, as he says elsewhere,(51*) is an
+'effect,' not a cause of human improvement. It can, in fact, be
+an original cause only on the hypothesis of a supernatural
+intervention. It must be an 'effect' in the sense that it is a
+product of human nature under all the conditions. If by religion
+is meant simply the belief in fictitious beings, it may be
+considered as simply an obstruction to scientific advance; and
+the priesthood, as Buckle generally seems to hold, is the gang of
+impostors who turn it to account. In any case, the 'moral'
+teaching of priests cannot be the ultimate cause of moral
+improvement. Yet no one, it might be supposed, could explain the
+history of the warlike sentiment in Europe without taking into
+account the influence embodied in the church. That the Catholic
+church represented a great principle of cohesion; that it was an
+organisation which enabled the men of intellect to exercise an
+influence over semi-barbarous warriors, are admitted facts which
+the historian is at least bound to consider. At whatever period
+the body may have become corrupt, it is an essential fact in the
+social processes which preceded the invention of gunpowder, and
+certainly the discoveries of Watt and Adam Smith. Buckle, as a
+rule, treats the church simply as an upholder of superstition. He
+ridicules the historians who believed in absurd miracles in 'what
+are rightly termed the dark ages,'(52*) and declares summarily
+that 'until doubt began, progress was impossible.' Yet Buckle
+would certainly have admitted that there was some progress
+between the heptarchy and the reformation.
+    The truth which his method compels him to neglect seems to be
+obvious. The movement of religious thought represents forces not
+to be measured by the quantity of effete superstitions which it
+contains. The religion corresponds to the development of the
+instincts which determine the whole social structure. The general
+moral axioms -- love your neighbour, and so forth -- may, as
+Buckle urges, remain unaltered; but the change in the ideals of
+life and the whole attitude of men to each other takes place in
+the religious sphere. If Christianity does not correspond to a
+force imposed from without, it may still correspond to the
+processes of thought by which sympathy has extended and men been
+drawn into comparative unity and harmony. To treat the power of
+religion as simply a product of ignorant superstition is to be
+unable to understand the history of the world. So much Buckle
+might have learned from Comte in spite of the later vagaries of
+positivism.
+    Another collateral conclusion marks Buckle's position. As a
+historian of political progress he is constantly dwelling upon
+the importance of individual action. The tolerant policy of
+Richelieu, the despotic system of Louis XIV, and so forth, are
+the great aids or impediments to human progress. How is this
+reconcilable with the doctrines that individual action is nothing
+and the spontaneous growth of knowledge everything? In answer we
+are referred to the great general causes, or to the protective
+spirit or the spirit of the age, which really govern the whole
+process in spite of superficial and transitory causes. What
+precisely is meant by these abstractions? To what does the
+protective spirit in politics owe its malign persistence? What,
+in short, is the source and true nature of the power of
+government? The answer is, that to Suckle, as to the
+Utilitarians, government represents a kind of external force;
+something imposed upon the people from without; a 'sovereign,' in
+Austin's sense, who can never originate or impel, though he can
+coerce and suppress. He chooses the history of England for his
+subject, as he tells us, because England has been 'less affected
+than any other country by the two main sources of interference,
+namely, the authority of government and the influence of
+foreigners.'(53*) Both are treated as 'interferences' from
+without, which distort the natural development. English history
+is interesting not because its political constitution is a most
+characteristic outgrowth of its social state, but because all
+government is simply an interference, and in England has had a
+minimum influence. Consistently with this, he attacks the opinion
+that progress has ever been due to government. Government is, of
+course, necessary to punish crime and prevent anarchy;(54*) but
+even its successful efforts are 'altogether negative'; and, even
+where its intentions have been good, it has been generally
+injurious. Briefly, government is powerful for evil, and the one
+principle is that rulers should have a 'very little' power and
+exercise it 'very sparingly.'(55*) At times he is inclined to
+deny all influence to government. Speaking of Scotland, he
+remarks that though bad government can be extremely injurious for
+a time, it can 'produce no permanent mischief.'(56*) 'So long as
+the people are sound,' he says, 'there is life and will be
+reaction.... But if the people are unsound all hope is gone and
+the nation perishes.' What, then, makes the people 'sound'? Is
+not this a tacit admission of the importance of the moral factor?
+Has not the religion of a nation some influence, and sometimes
+perhaps an influence for good, upon its morality? Puritanism in
+Scotland was associated with gross superstition; was it not also
+an expression of the moral convictions which preserved the
+'soundness' of the race? Catholicism in Spain is still, according
+to Buckle, associated with a high moral standard; but this has
+'availed the Spaniards' nothing,(57*) because it has suppressed
+intellectual progress. It has surely been of some use if it has
+preserved their virtue. But, in any case, what is the explanation
+of the power of government which can thus destroy the 'soundness'
+or morality and ruin the fortunes of a people? Buckle's theory
+might apply to the case of a nation conquered by a foreign
+tyrant. He denounces conquerors in the old tone as pests and
+destroyers of men, who pass their whole lives in increasing human
+misery.(58*) Yet conquest has been a factor in the development of
+all nations, and Buckle himself argues that the Norman conquest
+was an essential step in establishing the liberties of
+Englishmen.(59*) It is still more difficult to suppose that a
+government which is the growth of a people's own requirements can
+be simply mischievous. Without trying to solve such puzzles, we
+may say that the whole doctrine seems to imply a misconception of
+the relations between the political and the social and moral
+constitution of a nation. No satisfactory theory can be formed,
+when it is assumed that the function of government is simply to
+keep the peace instead of inquiring historically what functions
+it has actually discharged. When Buckle regards government like
+the 'physical laws' as the cause of pure mischief, he ceases to
+be scientific and becomes after a fashion a moralist, denouncing
+instead of explaining.
+    The connection of this with the do-nothing doctrine which
+Buckle accepts in its fullest form is obvious. The less
+government the better is the natural formula for a disciple of
+Adam Smith. What is here important is the connection of the
+doctrine with Buckle's first principles. The political order
+cannot be thus treated as if it were an independent power
+impinging from without upon a natural order; it is a product of
+the whole organism, and to denounce it as simply bad is really
+meaningless. It is part of the essential structure, and therefore
+we cannot properly abstract from the other parts of the system.
+This or that regulation, or this or that wheel of the political
+machinery may be superfluous or mischievous; but the question can
+only be decided by regarding the system as a whole, and not by
+treating the ruling power as something separable. Its
+interference has to be treated as abnormal or as simply
+mischievous, and yet as of vital importance in history. It
+becomes a mystery simply because we do not investigate its nature
+with due reference to its functions in the body politic. In other
+words, Buckle becomes incoherent because his method induces him
+from the start to neglect what is implied when society is
+described as organic. He was speaking an indisputable truth when
+he said that society depends throughout upon the 'environment' in
+the physical laws. It is not less true to say that as the
+intellectual progress develope, the recognition of those laws
+supplies an ultimate and unchangeable condition of the whole
+process of social growth. All civilisation depends absolutely, as
+he asserts, upon the corresponding state of knowledge. The error
+is in the assumption that we can therefore omit the consideration
+of the complex laws which govern the growth of the organism
+itself. The individualism which he shares with the Utilitarians
+makes him blind to the importance of the line of inquiry which
+was to show its power in the following period. If the primitive
+despotisms are set down simply as a necessary result of 'physical
+laws,' it is superfluous to inquire into the real nature of the
+institutions which they imply, or to gain any light upon the
+working of similar principles elsewhere. When the whole
+ecclesiastical and political constitution of later ages is set
+down simply as a relic of barbarism, and the religious and social
+instincts which are elaborated through them as simply products of
+ignorance, the process becomes unintelligible. If, therefore,
+Buckle was recognising a real condition of sound investigation,
+he condemned in advance the very kind of inquiry which has proved
+most fruitful. If he did more in his purely historical inquiries
+it was because he then forgot his philosophy and had to take into
+account the considerations which he had pronounced to be
+irrelevant. That, I believe, is the reason why Buckle, in spite
+of his surpassing abilities, did not make any corresponding mark
+upon later investigations. He was trying to frame a philosophy of
+history upon principles which really make the formation of a
+coherent philosophy impossible. Briefly, then, Buckle shared the
+ambition of the Utilitarians to make all the moral sciences
+scientific. So far as his writing strengthened the leaning to a
+scientific tendency he was working in the right direction.
+Unfortunately he also shared their crude assumptions: the
+'individualism' which ignores the social factor, and deduces all
+institutions from an abstract 'man'; the tendency to explain the
+earlier from the later stages; and the impression that 'laws of
+nature' are to be unravelled by a summary method of discovering
+co-existences of concrete phenomena; and was therefore led to
+substitute hasty generalisations for that elaborate study of the
+growth of institutions and beliefs which has been the most marked
+tendency of sociological inquiry during the last generation. So
+far he shares and illustrates the real weakness of the
+Utilitarians, the premature attempt to constitute a science when
+we can only be labouring effectually by trying to determine the
+data.
+    Here I may try to indicate, though I cannot develop, a
+general conclusion. What was the true significance of the
+Utilitarian paradox the indifference to history combined with the
+appeal to experience? History in the narrower sense is a
+particular case of evolution; and if it could be made scientific,
+would formulate the laws by which the existing institutions,
+political, ecclesiastical, and industrial, have grown out of
+earlier states. The importance of taking into account the
+'genetic' point of view, of inquiring into the growth as well as
+the actual constitution of things, is obvious in all the sciences
+which are concerned with organic life. Though we cannot analyse
+the organism into its ultimate constituent factors, we can learn
+something by tracing its development from simpler forms. The
+method is applicable to biology as well as to sociology; and as
+sciences extended, its importance became manifest. Some theory of
+evolution was required in every direction, and must obviously be
+necessary if we are to carry out systematically the principles of
+the uniformity and continuity of nature. The difficulty of the
+Utilitarians was all along that theories of evolution appeared to
+them to involve something mystical and transcendental. They
+proposed to analyse everything till they could get to single
+aggregations of facts, or in their sense ideal, that is, to a
+thoroughgoing atomism. This leads to the paradox indicated by
+Hume's phrase. The atoms, things and thoughts, must be completely
+separate and yet invariably conjoined. Causation becomes mere
+sequence or conjunction, and 'experience' ceases to offer any
+ground for anticipation. I have tried to show how this affected
+the Utilitarians in every subject; in their philosophical, legal,
+ethical, and economical speculations; and how they always seem to
+be in need of, and yet always to reject by anticipation, some
+theory of evolution. To appeal to 'experience' they have to make
+the whole universe incoherent, while to get general laws they
+have to treat variable units as absolutely constant. 'External
+circumstances' must account for all variation, though it is
+difficult to see how everything can be 'external.' The difficulty
+has now appeared in history proper, and the attempt to base a
+sociology upon a purely individualist assumption. This may help
+to explain the great influence of the Darwinian theories. They
+marked the point at which a doctrine of evolution could be allied
+with an appeal to experience. Darwin appealed to no mystical
+bond, but simply to verifiable experience. He postulated the
+continuance of processes known by observation, and aimed at
+showing that they would sufficiently explain the present as
+continuous with the past. There was nothing mystical to alarm
+empiricists, and their consequent adoption of Darwinism implied a
+radical change in their methods and assumptions. The crude
+empiricism was transformed into evolutionism. The change marked
+an approximation to the conceptions of the opposite school when
+duly modified, and therefore in some degree a reconciliation.
+'Intuitions' no longer looked formidable when they could be
+regarded as developed by the race instead of mysteriously
+implanted in the individual mind. The organic correlations were
+admissible when they were taken to imply growth instead of
+supernatural interference, and it was no longer possible to
+regard 'natural kinds' as mere aggregates of arbitrarily
+connected properties. I need not ask which side really gained by
+the change, whether Darwinism inevitably leads to some more
+subtle form of atomism, or whether the acceptance of any
+evolution does not lead to idealism -- to a belief in a higher
+teleology than Paley's -- and the admission that mind or 'spirit'
+must be the ultimate reality. Such problems may be treated by the
+philosopher of the future. Without anticipating his verdict, I
+must try to indicate the final outcome of what passed for
+philosophy with the Utilitarians.
+
+NOTES:
+
+1. See Memoir by Mrs Austin prefixed to the edition of his
+Lectures, edited by Mr R. Campbell (1869).
+
+2. Jurisprudence, p. 701.
+
+3. For Austin's admiration of Hobbes see especially the long note
+in Jurisprudence, p. 186, etc.
+
+4. Jurisprudence, p. 238.
+
+5. Ibid. p. 791.
+
+6. Jurisprudence, p. 336.
+
+7. Cp. Mill's Dissertations, iii, 237, etc.
+
+8. Jurisprudence, p. 330.
+
+9. Jurisprudence, p. 303. Austin makes certain qualifications
+which I need not notice.
+
+10. Austin refers his readers to Brown's essay on 'Cause and
+Effect'; and takes Brown to have proved 'beyond controversy' that
+the faculty called the 'will' is just nothing at all. --
+Jurisprudence, pp. 424-25.
+
+11. Mill touches this point characteristically in his review of
+Austin, but does not discuss the validity of the logic.
+
+12. Edinburgh Review, October, 1861.
+
+13. Mill's Dissertations, iii, 206-74, from Edin. Rev. of Oct.
+1863.
+
+14. For Lewis see especially the very interesting article in
+Bagehot's Works (by Forrest Morgan), 1891, iii, 222-68. His chief
+political treatise is A Treatise on Methods' of Reasoning and
+Observation in Politics (1852).
+
+15. Methods of Observation, etc., i, 448.
+
+16. Ibid, i., 357.
+
+17. Ibid., ii, 356.
+
+18. Ibid., ii. 370.
+
+19. Mrs Grote's Personal History of George Grote is neither
+adequate nor quire accurate. Compare a very useful life by G.
+Croom Robertson in Dictionary of National Biography, and the
+article in the Encyclopaedia Britannica by William Smith.
+
+20. Bain's J.S. Mill, p. 83.
+
+21. Mrs Grote's Philosophical Radicals of 1832 (1866), p. 28.
+
+22. Introduction to the Study of History (English Translation,
+1898), p. 310.
+
+23. Buckle's Life, by Alfred Henry Huth, appeared in 1880. I have
+also to call attention to the very able and learned work, Buckle
+and his Critics, by John Mackinnon Robertson (1895). Mr Robertson
+passes a severe judgment upon a criticism of Buckle which I
+contributed to the Fortnightly Review for May 1880, and takes the
+opportunity of pointing out some of my manifold shortcomings.
+Though his tone is not such as to make an apology easy, I must
+state my position frankly. Mr Robertson points out the
+measureless inferiority of a book of mine upon the eighteenth
+century to Buckle's great performance. He thinks, too, that my
+attack was 'unchivalrous' considering the pathetic circumstances
+of Buckle's death, and the fact that his work 'seemed to be
+sufficiently discredited already.' Now I can quite agree upon one
+point. It never entered by head to compare my own abilities with
+Buckle's. I could not more have rivalled his history than have
+encountered him at chess. It is impossible to speak more
+strongly. Why, then, did I presume to criticise? Because I was
+not giving my own unaided opinion. I had been interested by a
+problem. Like all young men of my time I had been impressed by
+the controversial storm which followed the publication of
+Buckle's book, and by that which soon afterwards was roused by
+the publication of Darwin's Origin of Species. Many years later,
+when Buckle's Life appeared, I was struck by a contrast. Darwin's
+speculations had affected every department of thought, and his
+influence was still spreading. Buckle's, on the other hand, had
+lost much of their interest -- what was the reason? Briefly, as I
+thought, and as I still think, that Darwin had supplied a
+fruitful suggestion suited to the general movement of thought;
+and that Buckle, for want of it, had struck into a wrong path. I
+tried in my article to point out the nature of his error. Mr
+Robertson's book confirms the truth of my impression as to facts.
+Had Buckle continued to interest the leaders of thought, Mr
+Robertson would not have given so prominent a position to an old
+review article never republished, and which, so far as I know,
+had never attracted any particular attention. Mr Robertson's
+elaborate survey of recent sociology shows that while some
+distinguished writers more or less coincide with Buckle, they
+scarcely recognise any indebtedness. That is, I think, because
+there was little to recognise. Buckle, in short, as it appeared
+to me, had not produced an effect at all comparable to those
+produced by Darwin or by Mr Herbert Spencer; and I cannot think
+that Mr Robertson accounts for the fact. My own explanation may
+of course have been wrong; but I do not see that there was
+anything 'unchivalrous' in trying to explain why a man of genius
+has not produced an effect proportionate to his powers. Nor can I
+see that Buckle's pathetic death made it necessary for me to
+modify my language in discussing his philosophy. Upon re-reading
+my article I recognise faults which may partly justify Mr
+Robertson's resentment. I should certainly have avoided anything
+savouring of contempt. I did recognise Buckle's extraordinary
+powers, but I forgot clearly to distinguish condemnation of his
+opinions from depreciation of the power displayed. Substantially
+my view is not changed.
+
+24. Civilisation, i. 49. Note the 'wage fund' in the next page.
+
+25. Ibid. i. 58.
+
+26. Civilisation, p. 69.
+
+27. Mr Robertson holds that Buckle's 'generalisation' is not, as
+I 'strangely' represent it, an 'arbitrary application of the
+Ricardian law of rent to the society of Ancient India, but
+constitutes an elevation of Ricardo's other law of the
+subsistence of labour into a broad historic principle.' He points
+out, too, that Buckle supposed a previous stage of development,
+and thinks that he had appreciated Jones's correction of Ricardo,
+in regard to Indian rent. (Buckle and his Critics, pp 49, 59 and
+see p. 138) I can only say that I adhere to my statement. Buckle
+expressly quotes Ricardo, and makes the origin of civilisations
+depend upon the threefold division. That I hold to be
+unjustifiable, and to be false in fact. the 'broad historical
+principle' seems to be simply the fact that great empires rose
+where physical condition, including, of course, fertility, were
+favourable. Buckle may deserve credit for dwelling upon the fact.
+I only say that his explanation does not explain, and that it is
+impossible to lay down as unconditionally true that cheap food
+involves cheap wages. If one is to have a theory, why should we
+not say that empires were made by conquerers instead of by
+capitalists?
+
+28.  Civilisation, i. 73.
+
+29. Ibid. i. 222.
+
+30. Buckle, I may notice, thinks Brown's essay upon Causation one
+of the greatest works of the century and a statement of the
+principles, derived ultimately from Hume, upon which the 'best
+inquirers into these matters take their stand.' (Civilisation,
+ii. 460 n). This, I take it, explains his tendency to take a
+simple statement of fact for a 'law'. The most curious instance
+of the confusion is the remark (Civilisation, i. 155) that
+physiologists have never been able to discover the cause of the
+equality of the number of male and female births. Statisticians
+have now answered the question by showing that the proportion is
+20 to 21. Obviously they have not answered the question at all.
+the have only ascertained the facts. Buckle partly admits this;
+and yet he seems to think that the statement somehow indicates a
+new method of historical inquiry.
+
+31. Civilisation, i. 236.
+
+32. Civilisation, i. 342 n.
+
+33. Ibid. i. 112.
+
+34. Natural History of Religion, sec. vi. Mr Robertson attacks me
+for my criticisms of Buckle's assertion of the deductive
+character of Scottish philosophers. I cannot go into the
+question, but I make one remark. He quotes the first sentence of
+Hume's Natural History to prove that Hume was a deist when he
+wrote it, and says that this is implied through the whole essay.
+Now Hume's most serious attack upon theology, the Dialogues, was
+written by 1751, though posthumously published. The Natural
+History appeared in 1757. The deistic phrases obviated the
+necessity for leaving it also for posthumous publication.
+
+35. A curious illustration is given by Mr Robertson (p. 140). The
+Japanese it has been said, are less superstitious than their
+neighbours, and yet more exposed to earthquakes. If Buckle's
+theory means that superstition necessarily follows earthquakes,
+the fact seems to contradict the theory. So Mr Robertson seems to
+take it, for he gives an explanation. The Japanese do not suffer
+from earthquakes because they build slighter house. If so,
+earthquakes, it surely might be urged, do not produce
+superstition, but rational precaution. If, on the other hand, the
+Spaniards have not modifies their architecture, that would surely
+prove that they have not been much impressed by earthquakes. The
+case seems to me to prove simply the rashness of any such hasty
+guesses. Buckle's early critics were misguided enough to deny the
+facts alleged, and so gave him a triumph.
+
+36. Civilisation, i. 161.
+
+37. Civilisation, i. 37 n.
+
+38. Mr Robertson reproves me for not giving the passage in which
+Buckle says that the question of hereditary influence is still
+unsettled. Probably I should have recognised this more clearly. I
+did, however, say that Buckle held that the superiority of the
+civilised to the barbarian infant was 'not proved'. I said also
+that I thought that Buckle was justified for his purpose in
+neglecting the possibility of a superiority. He says, in the
+passage quoted above, that we have no right to assume such a
+change as an increase of brain capacity. I took it that for any
+historical period we may assume equality. The brain of a modern
+Englishman is not presumably superior to the brain of an
+Athenian. Evolution of that kind may be neglected by the
+historian of civilisation. The evolution, which I did take him to
+neglect, was the moral or social evolution, which is compatible
+with approximate identity of the brain or the innate faculties.
+Buckle, I said, shared the error of the Utilitarians who assumed
+moral progress to consist, not in a changed estimate of
+happiness, but simply in a better knowledge of the means of
+attaining it. Buckle's identification of progress with increase
+of knowledge involved, I said, the same error. The change is
+regarded as superficial or 'external'. Meanwhile my argument,
+which Mr Robertson attacks, about the fallacy of arguing from the
+fixed environment to the varying organism applied to such cases
+as the inference from earthquakes to superstition or from climate
+to aesthetic tendencies. Such a generalisation, taken as an
+explanation of superstition, generally implies, as I held, an
+inadequate appreciation of the social or moral evolution. Perhaps
+I did not put the point clearly or accurately, and, if so, I
+regret it.
+
+39. Philosophie Positive, 1852, i, 44, and cp. Ibid. iv. 648,
+etc.
+
+40. Mr Herbert Spencer raises this question in a criticism of
+Comte, contained in a pamphlet upon the 'Classification of the
+Sciences.' See Mill's remarks upon this in his Auguste Comte and
+Positivism, pp. 34, 43, 102, 114. The controversy between Mr
+Spencer and Comte lies beyond my province.
+
+41. Civilisation, p. 152.
+
+42. Ibid. pp. 160-63.
+
+43. Civilisation, p. 206.
+
+44. Civilisation, p. 209.
+
+45. Ibid. p. 354.
+
+46. Essays (1889), ii, 422. (Essay on Buckle, reprinted from
+Westminster Review of 1857.)
+
+47. Civilisation, i. 197.
+
+48. Civilisation, ii. 9.
+
+49. On this point Mr Robertson virtually agrees with me, though
+he attaches less importance to it.
+
+50. Civilisation, i. 185.
+
+51. Civilisation, p. 235.
+
+52. Civilisation, pp. 248, 283, 289, 306. He occasionally admits
+that the church protected the poor and was useful in its time.
+ibid, pp. 462, 559.
+
+53. Civilisation, i. 213.
+
+54. Ibid. i. 257.
+
+55. Civilisation, i. 264.
+
+56. Ibid. ii. 274.
+
+57. Ibid. ii. 145, 146.
+
+58. Ibid. i. 729.
+
+59. Civilisation, i. 563.
+
+

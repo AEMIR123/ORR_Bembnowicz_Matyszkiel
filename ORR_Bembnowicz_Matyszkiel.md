@@ -99,46 +99,46 @@ python src/seq_baseline.py --data data --top 10 --out wyniki_sekwencyjne.json
 
 ### 5.1. Co dokładnie będzie równoleglone
 
-[opis fragmentu obliczeń, który ma być podzielony]
+Zrównolegleniu podlega funkcja czytająca i parsowana dla niezależnego pliku tekstowego z dysku. Moduł dystrybuuje z listy ścieżek dostępowych pojedyncze pliki do odseparowanych w pamięci procesów typu *worker*.
 
 ### 5.2. Jednostka pracy
 
-- Jednostka pracy: [uzupełnić]
-- Dlaczego ten podział ma sens: [uzupełnić]
+- Jednostka pracy: Pełny, pojedynczy plik tekstowy `.txt`.
+- Dlaczego ten podział ma sens: Obliczenia statystyk słów dla jednego pliku w żaden sposób nie zależą od wyników uzyskanych z innych plików (brak zależności w trakcie liczenia). Zapewnia to izolację pamięciową pozwalającą na szybkie mapowanie pracy.
 
 ### 5.3. Scalanie wyników
 
-[opis sposobu łączenia wyników częściowych]
+Gdy dany podproces zakończy mapowanie na powierzonych mu dokumentach, zwraca obiekt `collections.Counter` z danymi statystycznymi oraz pomiarami czasu zliczeń I/O oraz CPU. Wątek główny odbiera te skrawki i łączy je aktualizując sumatora o nazwie `total_word_counts.update(counts)`.
 
 ### 5.4. Przewidywane narzuty
 
-- synchronizacja: [mała / średnia / duża + komentarz]
-- kopiowanie danych: [mała / średnia / duża + komentarz]
-- start workerów / procesów: [mały / średni / duży + komentarz]
+- synchronizacja: **mała** - zadania są po prostu przydzielane do puli dyspozycyjno-mapującej. Po zmapowaniu danego pliku proces wyrzuca wygenerowany `Counter` zwrotnie do głównego wątku. Brak sygnałów miedzy samymi elementami potomnymi.
+- kopiowanie danych: **duża** - Ponieważ instancje potomne interpretera nie rezydują w przestrzeni współdzielonej, słowniki częściowe wygenerowane na workerach muszą przejść długą i mozolną konwersję (tj. seryjne serializowanie *pickle'm* między kanałami IPC) co może skutecznie zjeść czas.
+- start workerów / procesów: **średni/duży** - system operacyjny OS pożąda czasu by odblokowac pule procesów systemowych i wybudzić na nowo interpretery.
 
 ## 6. Wersja równoległa
 
 ### 6.1. Opis implementacji
 
-[krótki opis finalnego wariantu parallel]
+Zastosowano moduł `concurrent.futures.ProcessPoolExecutor` powołujący do życia pulę niezależnych procesów wyrywających się z ograniczeń GIL. Program za pomocą `.map()` obdziela obiekty do zadań w tle zachowując natywne pomiary obciążenia procesowego z rozdzieleniem od strumieniowania linii tekstu z dysku.
 
 ### 6.2. Konfiguracje testowe
 
 | Konfiguracja | Liczba workerów / wątków / procesów | Uwagi         |
 | ------------ | --------------------------------------- | ------------- |
-| C1           | [uzupełnić]                           | [uzupełnić] |
-| C2           | [uzupełnić]                           | [uzupełnić] |
-| C3           | [uzupełnić]                           | [uzupełnić] |
+| C1           | 2 procesy robocze (Workery)           | Najmniejsza podziałowa jednostka zrównoleglenia zadań z bazowego wariantu. |
+| C2           | 4 procesy robocze (Workery)           | Badanie czy obciążenie skaluje się liniowo po dorzuceniu kolejnego duetu wątków i powiększonego ruchu wejścia-wyjścia na szynie dysku. |
+| C3           | Max liczba wspierana przez platformę (`os.cpu_count`) | Utrzymanie pełnego, maksymalnego wykorzystania maszyny hostującej na zadanym zbiorze. |
 
 ### 6.3. Poprawność względem baseline'u
 
-- Czy wynik zgadza się z wersją sekwencyjną: [tak / nie]
-- Jak to sprawdzono: [uzupełnić]
+- Czy wynik zgadza się z wersją sekwencyjną: **Tak**
+- Jak to sprawdzono: Nadpisano jednostkę `src/test_poprawnosci.py`. Od teraz uruchamia obydwa paradygmaty (Seq vs Par) na wspólnym repozytorium próbek wejściowych (*test_data/*) i weryfikuje ich równe właściwości za pomocą bloku twardych asercji wymuszając zidentyfikowanie identycznej ilości słów obydwiema ścieżkami logicznymi.
 
 ### 6.4. Pierwsze obserwacje
 
-- [uzupełnić]
-- [uzupełnić]
+- Zgodność logiki ze zbioru referencyjnego udowadnia poprawność transferu obiektów z biblioteki domyślnej (`Counter`) i brak ubywającej alokacji przesianych słów w próżni.
+- Testowanie uruchomione z polecenia test_poprawnosci obnaża dominujący ciężar narzutu względem znikomych obliczeń minimalnego pakietu (test trwał blisko jedną całą sekundę wobec braku natywnej szybkości), tym samym potęguje konieczność wypróbowania wielkiej partycji na dedykowanej uprzęży pomiarowej.
 
 ## 7. Plan wersji rozproszonej
 

@@ -1,0 +1,2543 @@
+Chapter II
+
+Mill's Logic
+
+I. Intuitionism and Empiricism
+
+    Mill's System of Logic may be regarded as the most important
+manifesto of Utilitarian philosophy. It lays down explicitly and
+in their ripest form the principles implicitly assumed by Bentham
+and the elder Mill. It modifies as well as expounds. It
+represents the process by which J. S. Mill, on becoming aware of
+certain defects in the Utilitarians' philosophy, endeavoured to
+restate the first principles so as to avoid the erroneous
+conclusions. The coincidence with his predecessors remains far
+closer than the divergence. The fundamental tenets are developed
+rather than withdrawn. The Logic thus most distinctly raises the
+ultimate issues. It has the impressiveness which belongs in some
+degree to every genuine exertion of a powerful mind. Mill is
+struggling with real difficulties; not trying to bolster up a
+theory commended to him by extraneous considerations. He is doing
+his best to give an answer to his problem; not to hide an
+evasion. His honourable candour incidentally reveals the weakness
+as frankly as the strength of his position. He neither shirks nor
+hides difficulties, and if we are forced to admit that some of
+his reasoning is fallacious, the admission scarcely adds to the
+statement that he is writing a treatise upon philosophical
+problems. His frankness has made the task of critics
+comparatively easy. It takes so many volumes to settle what some
+philosophers have meant that we scarcely reach the question
+whether their meaning, or rather any of their many possible
+meanings, was right. In the case of Mill, that preparatory labour
+is not required. His book, too, has been sufficiently tested by
+time to enable us to mark the points at which his structure has
+failed to stand the wear and tear of general discussion. I must
+try to bring out the vital points of the doctrine.
+    Mill, I have said, had a very definite purpose beyond the
+purely philosophical. 'Bad institutions,' he says,(1*) are
+supported by false philosophy. The false philosophy to which he
+refers is that of the so-called 'intuitionist school.' Its
+'stronghold,' he thought, lay in appeals to the mathematical and
+physical sciences. To drive it from this position was to deprive
+it of 'speculative support'; and, though it could still appeal to
+prejudice, the destruction of this support was an indispenSable
+step to complete victory. Mill wished to provide a logical
+armoury for all assailants of established dogmatism, and his
+success as a propagandist surprised him. The book was read, to
+his astonishment, even in the universities. Indeed, I can testify
+from personal observation that it became a kind of sacred book
+for students who claimed to be genuine Liberals. It gave the
+philosophical creed of an important section of the rising
+generation, partly biassed, it may be, by the application to 'bad
+institutions.' Mill's logic, that is, fell in with the one main
+current of political opinion. His readings in logic with Grote
+and other friends enabled him to fashion the weapons needed for
+the assault. Thus in its origin and by its execution the task was
+in fact an attempt to give an organised statement of sound
+philosophy in a form applicable to social and political
+speculations.
+    Mill considered that the school of metaphysicians which he
+attacked had long predominated in this country.(2*) When Taine
+called his view specially English, Mill protested. The Scottish
+reaction against Hume, he said, which 'assumed long ago the
+German form,' had ended by 'prevailing universally' in this
+country. When he first wrote he was almost alone in his opinions,
+and there were still 'twenty a priori and spiritualist
+philosophers for every partisan of the doctrine of
+Experience.'(3*) The philosophical world, he says elsewhere,(4*)
+is 'bisected' by the line between the 'Intuitional' and the
+'Experiential' schools. Mill's conviction that a majority of
+Englishmen were really 'intuitionists' in any shape is
+significant, I think, of his isolated position. Undoubtedly most
+Englishmen disliked Utilitarians, and respectable professors of
+philosophy were anxious to disavow sympathy with covert atheism.
+Yet the general tendency of thought was, I suspect, far more
+congenial to Mill's doctrine than he admitted. Englishmen were
+practically, if not avowedly, predisposed to empiricism. In any
+case, he was carrying on the tradition which Taine rightly, as I
+should say, regarded as specifically English. Its adherents
+traced its origin back through James Mill to Hartley, Hume,
+Locke, Hobbes, and Francis Bacon, and perhaps it might even count
+among its remoter ancestors such men as William of Ockham and
+Roger Bacon. The series of names suggests some permanent
+congeniality to the national character.(5*) Although, more over,
+this tradition had in later times been broken by Reid and his
+followers, their condemnation did not really imply so fundamental
+an antithesis of thought as Mill supposed. They and the
+empiricists had, in their own opinion at least, a common ancestor
+in Bacon, if not in Locke. But, however this may be, the Scottish
+school had maintained the positions which Mill thought himself
+concerned to attack; and for him represented the rejection of
+'experience.'
+    Experience is a word which requires exposition; but in a
+general way the aim of the Utilitarians is abundantly clear. They
+attacked 'intuitions' as Locke had attacked 'innate ideas.' The
+great error of philosophy, according to them, as according to
+Locke, has been the attempt to transcend the limits of human
+intelligence, and so to wander into the regions of mysticism; to
+seek knowledge by spinning logical structures which, having no
+base in fact, ended in mere scholastic logomachy; or to override
+experience by claiming absolute authority for theories which
+dispense with further proof for the simple reason that no proof
+of them can be given. To limit speculation and to make it
+fruitful by forcing it from the first to deal with facts; to
+trace all its evidence to experience or the observation of facts;
+and to insist upon its verification by comparison with facts, is
+the main and surely the legitimate purpose of the Utilitarians as
+of all their philosophical congeners. The gulf between the world
+of speculation and the world of fact is the great opprobrium of
+philosophy. The necessity for finding a basis of fact was
+emphasised at this time by the rapid development of the sciences
+which may be called purely empirical, and which had sprung, in
+any case, from methods of direct observation. This development
+suggested the elaborate treatise written from a different point
+of view by Whewell. The great ambition of the Benthamites had
+been to apply scientific methods to all the problems of
+legislation, jurisprudence, economics, ethics, and philosophy.
+Mill could now show, with the involuntary help of Whewell, what
+those methods really implied The questions remain: What are
+facts? and, What is experience? and, What are the consequent
+conditions of reasoning about facts? Admitting that, somehow or
+other, a vast and rapidly growing body of knowledge has been
+attained in the physical sciences, we may ask how it has been
+gained, and proceed to apply the methods in what have been called
+the moral sciences. Kant's famous problem was, How is a priori
+synthetic knowledge possible? Mill denies that any such knowledge
+exists. His problem is therefore, How can knowledge be explained
+without a priori elements? When this can be satisfactorily done,
+we shall be able to show how both moral and physical science can
+be fairly based upon experience.
+    Mill's view of the proper limits of his inquiry is
+characteristic. He accepts Bacon's account of logic. It, is the
+ars artium, the science of science itself.'(6*) It implies an
+investigation into the processes of inference generally. It is
+not limited to the old formal logic, but includes every operation
+by which knowledge is extended. It is thus, as he afterwards puts
+it, the 'theory of proof.'(7*) The book, indeed, owes its
+interest to the width of the field covered. It has not the
+repulsive dryness of formal logic, but would lead to a natural
+history of the whole growth of knowledge, and makes constant
+reference to the actual development of thought. On the other
+hand, Mill gives notice that he has no more to do with
+metaphysics than with any of the special sciences. Logic, he
+declares, is common ground for all schools of philosophy. It is,
+he says, the office of metaphysics to decide what are ultimate
+facts, but for the logician it is needless to go into this
+analysis.(8*) Accordingly, he often in the course of the book
+considers himself entitled to hand over various problems to the
+metaphysicians.(9*) The possibility of really keeping to this
+distinction is doubtful. Since Mill's very aim is to show that
+all knowledge comes from observation of 'facts,' it is apparently
+relevant to inquire what are these 'ultimate facts.' Indeed, his
+statement, though made in all sincerity, almost suggests a
+controversial artifice. Logic, as Mill of course admits, affects
+metaphysics as it affects all sciences; but in one way it affects
+them very differently. It justifies astronomy, but it apparently
+makes metaphysics superfluous. Inquiry into the 'ultimate facts'
+turns out to be either hopeless or meaningless. Mill does not
+directly assert that all 'ontological' speculations are merely
+cobwebs of the brain. But he tries to show that, whatever they
+may be, they are strictly irrelevant in reasoning. All
+metaphysicians are expected to grant him certain postulates.
+These once granted, he will be able to account for the whole
+structure of knowledge. 'Intuitions,' transcendental
+speculations, and ontology will then be deprived of the whole
+conditions under which they thrive. I do not now assert, he
+virtually says, that your doctrine is wrong, but I shall show
+that it is thrown away. It is a pretence of explaining something
+which lies altogether beyond the limits of real knowledge, and
+therefore admits of no explanation.
+    Mill starts from the classification given in old logical
+textbooks, to which, different as are his conclusions, he
+attached a very high value.(10*) The schoolmen had by their
+elaborate acuteness established a whole system of logical
+distinctions and definitions which are both important and
+accurate, however sterile the inquiries in which they were used.
+The machinery was excellent, though its contrivers forgot that a
+mill cannot grind out flour if you put in no grain. Mill begins
+accordingly by classifying the various kinds of words in the
+light afforded by previous logical systems.
+    He is to give a theory of proof. That which is to be proved
+is a proposition; and a proposition deals with names, and
+moreover with the names of 'things,' not merely with the names
+'of our ideas of things.'(11*) That, in some sense, reasoning has
+to do with things is of course his essential principle; and the
+problem consequently arises, What are empirical 'things'?(12*)
+Though we cannot ask what are 'ultimate things,' the logician
+must enumerate the various kinds of things to which reference may
+be made in predication. Mill makes out a classification which he
+proposes to substitute, provisionally at any rate, for the
+Aristotelian categories.(13*) The first and simplest class of
+nameable things corresponds to things 'in the mind,' that is,
+'feelings,' or 'states of consciousness,' sensations, emotions,
+thoughts, and volitions. The second class corresponds to things
+'external to the mind'.(14*) and these are either 'substances' or
+'attributes.' Here our task is lightened by a welcome discovery.
+All philosophers, it appears, are now agreed upon one point. Sir
+W. Hamilton, Cousin, Kant, nay, according to Hamilton -- though
+that is too good to be true -- nearly all previous philosophers
+admit one truth.(15*) We know, as they agree, nothing about
+'objects' except the sensations which they give us and the order
+of those sensations. Hence the two 'substances,' body and mind,
+remain unknowable 'in themselves.' Body is the 'hidden external
+cause' to which we refer our sensations;(16*) and as body is the
+'mysterious something which excites the mind to feel, so mind is
+the mysterious something which feels and thinks.' The mind is, as
+he says in language quoted from his father, 'a thread of
+consciousness,' a series of 'feelings': it is the 'myself' which
+is conceived as distinct from the feelings but of which I can yet
+know nothing except that it has the feelings.
+    Thus, although we know nothing of minds and of bodies 'in
+themselves,' we do know their existence. That is essential to his
+position. The 'thread of consciousness' is a 'final
+inexplicability' with him, but it corresponds to some real
+entity. And, on the other side, we must believe, in some sense,
+in things. The thing, though known only through the sensations
+which it excites, must be something more than a mere sensation,
+for the whole of his logic defends the thesis that in some way or
+other thought has to conform to facts or to the relations between
+'things.' Knowledge, however, is confined entirely to the
+sensations and the attributes; and the two are at bottom one. The
+'verbal' distinction between a property of things and the
+sensation which we receive from it, is made, he says, for
+convenience of discourse rather than from any difference in the
+nature of the thing denoted.(17*) This brings us to a critical
+point. Attributes, he says, following the old distribution, are
+of Quality, Quantity, and Relation. Now Quality and Quantity mean
+simply the sensations excited by bodies. To say that snow is
+white, or that there is a gallon of water, means simply that
+certain sensations of colour or size are excited in us by snow or
+a volume of water. The attribute called 'Relation' introduces a
+different order of feelings. A 'relation' supposes that two
+things are involved in some one fact or series of facts.(18*) But
+it is still an 'attribute' or a 'state of consciousness.' It is a
+feeling different from other feelings by the circumstance that
+two 'things' instead of one are involved. This is the explanation
+which, as we have seen, he praises so warmly in his father's
+Analysis, and now adopts for his own purposes. It enables him to
+classify predications. All predication is either an assertion of
+simple existence or an assertion of 'relations.' By classifying
+the possible relations, therefore, we obtain the possible forms
+of predication. It turns out accordingly that we can make five
+possible predications: we can predicate, first, simple existence;
+or secondly, 'coexistence'; or thirdly, 'sequence' (these two
+being equivalent, as he adds, to 'order in place' and 'order in
+time'); or fourthly, we may predicate 'resemblance'; or fifthly,
+and this is only to be stated provisionally, we may predicate
+'causation.'(19*)
+    So far, Mill's view corresponds to the psychology of the
+Analysis, which gives a similar account of the various terms
+employed. J. S. Mill has now the standing ground from which he
+can explain the whole development of knowledge. At this point,
+however, he has to diverge from his father's extreme nominalism.
+Predication, according to the elder, is a process of naming. A
+predicate is a name of the same thing of which the subject is a
+name; and to predicate is simply to assert this identity of
+names. This doctrine, as Mill thinks, is equally implied in the
+dictum de omni et nullo which is taken as the explanation of the
+syllogism. We have arbitrarily put a number of things in a class,
+and to 'reason' is simply to repeat of each what we have said of
+all. This is to put the cart before the horse, or to assume that
+the classification precedes the reason for classification, though
+probably the theory, thus nakedly stated, would not be granted by
+any one.(20*) What, then, is the true theory? That is explained
+by the distinction between 'connotation' and 'denotation,' which
+Mill accepted (though inverting the use of the words) from his
+father. A general name such as 'man' denotes John, Thomas, and
+other individuals. It connotes certain 'attributes,' such as
+rationality and a certain shape. When, therefore, I say that John
+is a man, I say that he has the attributes 'connoted'; and when I
+say that all men are mortal, I assert that along with the other
+attributes of man goes the attribute of mortality.(21*)
+Predication, then, in general, involves the attribute of
+'relation.' We may assert the simple existence of a 'quality,'
+or, which is the same thing, of a 'sensation'; but to say that
+John is a man. or that men are mortal, or to make any of the
+general propositions which constitute knowledge, is to assert
+some of those 'relations' which are perceived when we consider
+two or more things together.
+    'Things,' then, so far as knowable are clusters (in Hartley's
+language) of 'attributes'; and the attributes may be equally
+regarded as 'feelings.' To predicate is to refer a thing to one
+of the clusters, and therefore to assert its possession of the
+attributes connoted. I will only note in passing that by
+declining to go into the metaphysical question as to the
+difference between 'attributes' and 'sensations,' or thoughts and
+things, Mill leaves an obscurity at the foundation of his
+philosophy. But leaving this for the present, it is enough to say
+that we have our five possible types of predication.(22*) All
+propositions may be reduced to one of the forms. Things exist or
+coexist or follow or resemble or are cause or effect.(23*) The
+next problem, therefore, is, How are these propositions to be
+proved? or, by what tests is our belief to be justified.
+    What may be the nature of belief itself is a question which
+Mill leaves to the analytical psychologist,(24*) who, as he
+admits, will probably find it puzzling, if not hopeless. But as
+we all agree that somehow or other we attain knowledge, we may
+inquire what is implied in the process. Now, some part of our
+knowledge obviously depends upon 'experience.' We know of any
+particular fact from the testimony of our senses. We know that
+London Bridge exists because we have seen and touched it; and it
+would be obviously hopeless to try to deduce ts existence from
+the principle of the excluded middle. London Bridge would then be
+something independent of time and place. But do we not want
+something more than bare experience when we lay down a general
+rule is a law of nature? Then we not only say 'is,' but 'must
+be'; and this, according to the Intuitionist, marks the
+introduction of something more than an appeal to 'experience.'
+There are truths, he says, which represent 'laws of thought';
+which are self-evident, or perceived by 'intuition'; or the
+contrary of which is 'inconceivable.' Without some such laws, we
+could not bind together the shifting data of experience, or
+advance from 'is' to 'must be,' or even to 'will be.' We lose all
+certainty, and fall into the scepticism of Hume, which makes
+belief a mere 'custom,' regards all things as distinct atoms
+conjoined but not connected, and holds that 'anything may be the
+cause of anything.' Mill's aim is to explode the intuitions
+without falling into the scepticism. Necessary truths, he holds,
+are mere figments. All knowledge whatever is of the empirical
+type. 'This has been' justifies 'this will be.' Empirical truths
+clearly exist, and are held undoubtingly, although they have no
+foundation except experience. Nobody ever doubted that all men
+die; yet no 'proof' of the fact could be ever suggested, before
+physiology was created, except the bare fact that all men have
+died. If physiology has made the necessity more evident, it has
+not appreciably strengthened the conviction. We all believe even
+now that thunder will follow lightning, though nobody has been
+able to show why it should follow. The ultimate proof in
+countless cases, if not in all, is simply that some connection
+has been observed, and, in many such cases, the belief reaches a
+pitch which excludes all perceptible doubt. As a fact, then,
+belief of the strongest kind can be generated from simple
+experience. The burthen of proof is upon those who assume
+different origins for different classes of truth.(25*)
+
+ II. SYLLOGISM AND DEFINITION
+
+    This main thesis leads to two lines of argument. First of
+all, Mill seeks to show that the methods of proof expounded by
+his adversaries do not really take us beyond experience; and,
+secondly, he seeks to show that experience gives us a sufficient
+basis of knowledge. Let us first notice, then, how the ground is
+cleared by examining previous accounts of the process of
+inference. The old theory of reasoning depends upon the
+syllogism. That gives the type of the whole process by which
+knowledge is extended. All men are mortal; Socrates is a man,
+therefore Socrates is mortal. Stewart and Brown had both attacked
+the syllogism on the familiar ground that it is tautologous. The
+major has already asserted the minor. To say that one man is
+mortal when you have already said that all men are mortal, is
+merely to repeat yourself. There can be no real inference, and no
+advance to new knowledge. So long as the syllogism is to be
+explained on the old terms, Mill thinks this criticism fatal; but
+he holds, too, that by a different interpretation we may assign a
+real and vitally important meaning to this venerable form of
+argument. In several places(26*) he gives a view which seems to
+be much to the purpose. The syllogism, it would seem, corresponds
+really, not to a mode of reasoning, but to a system of arguing.
+When a disputant bases some statement upon an inference, we may
+challenge either the truth of the rule or the statement of fact.
+The cogency of the argument depends upon the applicability of the
+rule to the fact. If men be not mortal, or, again, if Socrates be
+not a man, the inference is not valid; and these two distinct
+issues, the issue of law and the issue of fact, may be raised in
+any case.(27*) The value of the syllogism is that it raises these
+issues distinctly. The argument is thus put in such a form as to
+be absolutely conclusive if the premises be themselves granted.
+It therefore provides a test of the validity of the logic.
+Granting the premises, a denial of the inference must involve a
+contradiction. That is the only test in pure logic. The syllogism
+must, therefore, be in a sense tautologous, for otherwise it
+could not be conclusive. Acceptance o£ the premises must be shown
+from the form of statement to necessitate the admission of the
+inference. This follows, and the logical link is complete and
+irrefragable, if the middle term be identical in both premises,
+and not otherwise. This is what Mill indicates by saying that
+'the rules of the syllogism are rules for compelling a person to
+be aware of the whole of what he must undertake to defend if he
+persists in maintaining his conclusion.'(28*) Ratiocination, as
+he sums up his view elsewhere, 'does not consist of syllogisms';
+but the syllogism is a useful formula into which it can
+'translate its reasonings,' and so guarantee their
+correctness.(29*) If this be granted, we must consider the
+essential step of inference to be embodied in, but not created
+by, the syllogism. Correct reasoning can always be thrown into
+this form. The syllogism emerges when the reasoning is complete.
+'The use of the syllogism is no other,' says Mill, 'than the use
+of general propositions in reasoning.' It is a security for
+correct generalisation.(30*) We have, then, still to ask what is
+the reasoning process for which the syllogism provides a test.
+Generalisation implies classification. Our general rule or major
+premise states some property of a class to which the individual
+belongs. The question is how this reference to a class enables us
+to draw inferences which we could not draw from the individual
+case. To this Mill gives a simple answer, which is already
+implied in his theory of predication. When I say that Socrates is
+a man, I say that he has the attributes connoted by the name. He
+is a rational, featherless biped, for example. But I already know
+by observation that with these attributes goes the attribute of
+mortality. The essence of the reasoning process is therefore
+that, from the possession of certain attributes, I infer the
+possession of another attribute which has coexisted with them
+previously. That I do, in fact, reason in this way in countless
+cases is undeniable. I know that a certain quality, say
+malleability, goes along with other qualities of colour, shape,
+and so forth, by which I recognise a substance as gold. I can, it
+may be, give no other reason for believing the future conjunction
+of those qualities than the fact of their previous conjunction.
+The belief, that is, is as a matter of fact generated simply by
+the previous coincidence or corresponds to constant association.
+Whether this exhausts the whole logical significance may still be
+disputed; but, at any rate, upon these terms we can escape from
+the charge of tautology. The rule in the major premise registers
+a number of previous experiences of coexistence. When we notice
+some of the attributes in a given case, we make an addition to
+our knowledge by applying the rule, that is, by inferring that
+another attribute may be added to the observed attributes. This,
+then, gives a rational account of the advance in knowledge made
+through the syllogism in the case where the class can be defined
+as a simple sum of attributes.
+    But is this an adequate account of the reasoning process in
+general? There is another view which suggested difficulties to
+Mill. His solution of these difficulties, marked, as we learn
+from the Autobiography, an essential stage in the development of
+his doctrine. Reference to a class is, upon his interpretation,
+implied in the syllogism; and classification implies definition.
+A class means all things which have a certain list of attributes
+stated in the definition. May we not then infer other properties
+from the definition? May not mortality, for example, be deducible
+from the other attributes of man? The assumption that we can do
+so is connected with the fallacy most characteristic of the
+misuse of the syllogism. It is plain that we may create as many
+classes as we please, and make names for combinations of
+attributes which have no actual, or even no possible, existence.
+Any inferences which we make on the strength of such
+classification must be nugatory or simply tautologous. I show
+that a certain proposition follows from my definition; but that
+gives no guarantee for its conformity to the realities behind the
+definition. Your 'proof' that a man is mortal means simply that
+if he is not mortal you don't call him a man. The syllogism
+treated on that system becomes simply an elaborate series of
+devices for begging the question. From such methods arise all the
+futilities of scholasticism, and the doctrine of essences which,
+though Locke confuted it,(31*) has 'never ceased to poison
+philosophy.'(32*) It may, I suppose, be taken for granted that
+the syllogism was constantly applied to cover such fallacies, and
+so far Mill is on safe ground. The theory, however, leads him to
+a characteristic point. Already in the early review (January
+1828), he had criticised Whately's account of definition. A 'real
+definition,' as Whately had said, 'explains and unfolds "the
+nature" of the thing defined, whereas a "nominal definition" only
+explains the name.' Whately goes on to point out that the only
+real definitions in this sense are the mathematical definitions.
+It is impossible to discover the properties of a thing, a man, or
+a plant from the definition. If it were possible, we might
+proceed to 'evolve a camel from the depths of our consciousness,'
+and nobody now professes to be equal to that feat. When, however,
+we 'define' a circle or a line and so forth, we make assertions
+from which we can deduce the whole theory of geometry. A
+geometrical figure represents a vast complex of truths, mutually
+implying each other, and all deducible from a few simple
+definitions. The middle term is not the name of a simple thing,
+or of a thing which has a certain set of coexisting attributes,
+but a word expressive of a whole system of reciprocal relations.
+If one property entitles me to say that a certain figure is a
+circle, I am virtually declaring that it has innumerable other
+properties, and I am thus able to make inferences which, although
+implicitly given, are not perceived till explicitly stated. By
+assigning a thing to a class, I say in this case that I may make
+any one of an indefinite number of propositions about it, all
+mutually implying each other, and requiring the highest faculties
+for combining and evolving. Pure mathematics give the one great
+example of a vast body of truths reached by purely deductive
+processes. They appear to be evolved from certain simple and
+self-evident truths. Can they, then, be explained as simply
+empirical? Do we know the properties of a circle as we know the
+properties of gold, simply by combining records of previous
+experience? Or can we admit that this great system of truth is
+all evolved out of 'definitions'?
+    Mill scents in Whately's doctrine a taint of a priori
+assumption, and accordingly meets it by a direct contradiction. A
+geometrical definition, he says, is no more a 'real' definition
+than the definition of a camel. No definition whatever can
+'unfold the nature' of a thing. He states this in his review,
+though it was at a later period,(33*) when meditating upon a
+passage of Dugald Stewart, that he perceived the full
+consequences of his own position. In answering Whately, he had
+said that all definitions were 'nominal.' A 'real definition'
+means that to the definition proper we add the statement that
+there is a thing corresponding to the name.(34*) The definition
+itself is a 'mere identical proposition,' from which we can learn
+nothing as to facts. But it may be accompanied by a postulate
+which 'covertly asserts a fact,' and from the fact may follow
+consequences of any degree of importance. This distinction
+between the definition and the postulate may be exhibited, as he
+remarks, by substituting 'means' for 'is.' If we say: a centaur
+'means' a being half man and half horse, we give a pure
+definition. If we say: a man 'is' a featherless biped, our
+statement includes the definition -- man 'means' featherless
+biped; but if we said no more, no inference could be made as to
+facts. If we are really to increase our knowledge by using this
+definition, we must add the 'covert' assertion that such
+featherless bipeds exist. The mathematical case is identical,
+Stewart had argued that geometrical propositions followed, not
+from the axioms but, from the definitions. From the bare axiom
+that if equals be added to equals the wholes are equal, you can
+infer nothing. You must also perceive the particular figures
+which are compared. Of course the truth of the axioms must be
+admitted; but they do not specify the first principles from which
+geometry is evolved. In other words, geometry implies
+'intuition,' not the a priori 'intuitions' to which Mill
+objected, but the direct perception of the spatial relations. We
+must see the figure as well as admit the self-evident axiom.
+Mill, on considering this argument, thought that Stewart had
+stopped at a half truth.(35*) He ought to have got rid of the
+definitions as well as the axioms. Every demonstration in Euclid,
+says Mill, might be carried on without them. When we argue from a
+diagram in which there is a circle, we do not really refer to
+circles in general, but only to the particular circle before us.
+If its radii be equal or approximately equal, the conclusions are
+true. We afterwards extend our reasoning to similar cases; but
+only one instance is demonstrated. The definition is merely a
+'notice to ourselves and others,' stating what assumptions we
+think ourselves entitled to make; and in this way it resembles
+the major in the syllogism. The demonstration does not 'depend
+upon' it, though if we deny it, the demonstration fails. By this
+argument, Mill conceives that the case of mathematics is put on a
+level with other cases. We always argue from facts, and moreover
+from 'particular facts,' not from definitions. We start from an
+observation of this particular circle -- a sensible 'thing' or
+object, as in arguing about natural history we start from
+observation of the camel. Hence we may lay down the general
+proposition, applicable to geometry as well as to all ordinary
+observation, that, all inference is from particulars to
+particulars.'(36*) This is the 'foundation' both of Induction,
+which is 'popularly said' to reason from particulars to generals,
+and of Deduction, which is supposed to reason from generals to
+particulars.(37*) This sums up Mill's characteristic position.
+
+ III. MATHEMATICAL TRUTHS
+
+    This attempt to bring all reasoning to the same type forces
+Mill to ignore what to others seems to be of the essence of the
+case. There are, he says, two statements: 'There may exist a
+figure bounded by three straight lines'; that is the fruitful
+statement of facts. 'This figure is called a triangle'; that is
+the merely nominal definition or explanation of words. Moreover,
+as he says, we may drop the definition by substituting the
+equivalent words or simply looking at the thing. It does not
+follow that we can dispense with the mode of apprehension implied
+by the definition. Whether we use the word triangle, or the
+words, 'three lines enclosing a space,' or no words at all, we
+must equally have the conceptions or intuitions of lines and
+space. All demonstration in geometry consists in mentally
+rearranging a combination of lines and angles so as to show that
+one figure may be made to coincide absolutely with another
+figure. The original fact remains unaltered, but the ways of
+apprehending the fact are innumerable. Newton and his dog Diamond
+might both see the same circular thing; but to Diamond the circle
+was a simple round object; to Newton it was also a complex system
+of related lines, capable of being so regarded as to embody a
+vast variety of elaborate formulae.(38*) Geometry, as Mill
+undeniably says, deals with facts. Newton and Diamond have
+precisely the same fact before them. It remains the same, whether
+we stop at the simplest stage or proceed to the most complex
+evolution of geometry. The difference between the observers is
+not that Newton has seen new facts, but that he sees more in the
+same fact. The change is not in the things but in the mind,
+which, by grouping the things in the way pointed out by the
+definitions, is able to discover countless new relations involved
+in the same perception. This again may suggest that even the fact
+revealed to simple perception is not a bare 'fact,' something, as
+Mill puts it, 'external to the mind,' but is in some sense itself
+constituted by the faculty of perception. It contains already the
+germ of the whole intellectual evolution. The change is not in
+the thing perceived, but in the mode of perceiving. And,
+therefore, again, we do not acquire new knowledge, as we acquire
+it in the physical sciences, by observing new facts, discovering
+resemblances and differences, and generalising from the
+properties common to all; but by contemplating the same fact. All
+geometry is in any particular space -- if only we can find it. We
+do not proceed by comparing a number of different regions of
+spaces, and inquire whether French triangles have the same
+properties as English triangles. To Mill, however, the statement
+that geometry deals with fact leads to another conclusion. We
+must deal with these facts as with other facts, and follow the
+method of other natural sciences. We really proceed in the same
+way whether we are investigating the properties of an ellipse or
+a camel. In either case we must discover truth by experience.
+    What, then, is really implied in the doctrine that all
+knowledge rests upon experience? One of Mill's intellectual
+ancestors lays down the fundamental principle. It is absurd, says
+Hume,(39*) to try to demonstrate matter of fact by a priori
+arguments. 'Nothing is demonstrable unless the contrary implies a
+contradiction. Nothing that is distinctly conceivable implies a
+contradiction. Whatever we conceive as existent we can also
+conceive as non-existent. There is no being, therefore, whoa
+non-existence implies a contradiction.' 'Matter of fact,' then,
+must be proved by experience; but, given a 'fact' we may deduce
+necessary consequences. All necessity may be hypothetical; there
+is an 'if' to every 'must,' but remembering the 'if' the 'must'
+will be harmless. It can never take us beyond experience. The
+existence of space itself cannot be called necessary; but space
+once given, all geometry may 'necessarily' follow, and imply
+relations running through the whole fabric of scientific
+knowledge. Mill agrees that a 'hypothetical' necessity of this
+kind belongs to geometry; and adds, that in any science whatever,
+we might, by making hypotheses, arrive at an equal
+necessity.(40*) But then, he goes on to urge, the hypotheses of
+geometry are not 'absolute truths,' but 'generalisations from
+observation,' or 'inductions from the evidence of our
+senses,'(41*) which, therefore, are not necessarily true. This
+led to his keenest controversies, and, in my opinion, to his
+least successful answers. He especially claims credit in his
+Autobiography for having attacked the 'stronghold' of the
+intuitionists by upsetting belief in the a priori certainty of
+mathematical aphorisms. In fact, his opponents constantly
+appealed to the case of mathematics, and Mill assumes that they
+can be met only by reducing such truths to the case of purely
+empirical truths. He argues boldly that the 'character of
+necessity ascribed to the truths of mathematics' is 'an
+illusion.'(42*) Geometry and arithmetic are both founded upon
+experience or observation. He goes indeed still further at times.
+At one place he even holds that the principle of contradiction
+itself is simply, one of our first and most familiar
+generalisations from experience.' We know, 'by the simplest
+observation of our own minds,' that belief and disbelief exclude
+each other, and that when light is present darkness is
+absent.(43*) Mill thought himself bound, we see, to refer to
+experience not only our knowledge of facts, but even the
+capacities, which are said by another school to be the conditions
+of perceiving and thus acquiring experience. If he had studied
+Kant, he might have reached a better version of his own view. As
+it was, he was led to accepting paradoxes which he was not really
+concerned to maintain. He had to choose between a theory of
+'intuitions' -- so understood as to entitle us to assert matter
+of fact independently of experience -- and a theory which seems
+to make even the primary intellectual operations mere statements
+of empirical fact. Since necessary statements about matters of
+fact must be impossible, he argues that we cannot even draw
+necessary inferences from observed fact. Not content with saying
+that all necessity is hypothetical, he argues that all necessity,
+even the logical necessity of contradiction, is a figment. If he
+does not carry out a theory which would seem to make all
+reasoning unsatisfactory, he maintains, at least, that the
+hypotheses or assumptions involved in geometry, and even in
+arithmetic, are generalised from experience, and 'seldom, if
+ever, exactly true.' If the assumptions are inaccurate or
+uncertain, the whole superstructure of science must also be
+uncertain.
+    The nature of his argument follows from his previous
+positions. He treats space and number as somehow qualities of the
+'things,' or as attributes which we observe without in any sense
+supplying them. His argument upon geometry begins by asserting
+that there are no such 'real things' as points or lines or
+circles. Nay, they are not even possible, so far as we can see,
+consistently with the actual constitution of the universe. It is
+'customary' to answer that such lines only exist in our minds,
+and have therefore nothing to do with outward experience.(44*)
+This, however, is incorrect psychologically, because our ideas
+are copies of the realities. A line without breadth is
+'inconceivable,' and therefore does not exist even in the mind.
+Hence we must suppose that geometry deals either with
+'non-entities' or with 'natural objects.'(45*) Arithmetic fares
+little better. When we say that two and one make three, we assert
+that the same pebbles may, 'by an alteration of place and
+arrangement' -- that is, by being formed into one parcel or two
+-- be made to produce either set of sensations.(46*) Each of the
+numbers, 2, 3, 4, etc., he says elsewhere, 'denotes physical
+phenomena and connotes a physical property of those
+phenomena.'(47*) Arithmetic owes its position to the 'fortunate
+applicability' to it of the 'inductive truth' that the sums of
+equals 'are equal.'(48*) It is obvious to remark that this is
+only true of certain applications of arithmetic. When we speak of
+the numbers of a population, we imply, as Mill admits, no
+equality except that each person is a unit.(49*) We may speak
+with equal propriety of a number of syllogisms or of metaphors,
+in which we have nothing to do with 'equality' or 'physical
+properties' at all. Further, as he observes,(50*) it is the
+peculiarity of the case that counting one thing is to count all
+things. When I see that four pebbles are two pairs of pebbles, I
+see the same truth for all cases, including, for example,
+syllogisms. Mill admits, accordingly, that 'in questions of pure
+number' -- though only in such questions -- the assumptions are
+'exactly true,' and apparently holds that we may deduce exactly
+true conclusions. That ought to have been enough for him. He had
+really no sufficient reason for depriving us of our arithmetical
+faith. He can himself point out its harmlessness. As he truly
+says, 'from laws of spare and number alone nothing can be deduced
+but laws of spare and number.'(51*) We ran never get outside of
+the world of experience and observation by applying them. If we
+count, we do not say that there must be four things, but that
+wherever there are four things there are also two pairs of
+things. The unlucky 'pebble' argument illustrates one confusion.
+'Two and two are four' is changed into 'two and two make four.'
+The statement of a constant relation is made into a statement of
+an event. Two pebbles added to two might produce a fifth, but the
+original two pairs would still be four. The space-problem
+suggests greater difficulties. Space, he argues, must either be a
+property of things or an idea in our minds, and therefore a
+'non-entity.' If we consider it, however, to be a form of
+perception, the disjunction ceases to be valid. The
+space-perceptions mark the border-line between 'object' and
+'subject,' and we cannot place its product in either sphere
+exclusively. The space-relations are 'subjective,' because they
+imply perception by the mind, but objective because they imply
+the action of the mind as mind, and do not vary from one person
+or 'subject' to another. To say whether they were objective or
+subjective absolutely we should have to get outside of our minds
+altogether -- which is an impossible feat. Therefore, again, it
+is not really to the purpose to allege that such a 'thing' as a
+straight line or a perfect circle never exists. Whether we say
+that a curve deviates from or conforms to perfect circularity, we
+equally admit the existence of a perfect circle. We may be unable
+to mark it with finger or micrometer, but it is there. If no two
+lines are exactly equal, that must be because one has more spare
+than the other. Mill's argument seems to involve the confusion
+between the statement that things differ in space and the
+statement, which would be surely nonsense, that the spare itself
+differs. It is to transfer the difference from the things
+measured to the measure itself. It is just the peculiarity of
+space that it can only be measured by space; and that to say one
+space is greater than another, is simply to say, 'there is more
+space.' As in the case of number, he is really making an
+illegitimate transfer from one sphere to another. A straight line
+is a symmetrical division of space, which must be taken to exist,
+though we cannot make a perfectly straight line. Our inability
+does not tend to prove that the 'space' itself is variable. In
+applying a measure we necessarily assume its constancy; and it is
+difficult even to understand what 'variability' means, unless it
+is variability in reference to some assumed standard. If, as Mill
+seems to think, space is a property of things, varying like other
+properties, we have to ask, In what, then, does it vary? All
+other properties vary in respect of their space-relations; but,
+if space itself be variable, we seem to be reduced to hopeless
+incoherence.
+    Thus, to ascribe necessity to geometry as well as to
+arithmetic is not to ascribe 'necessity' to propositions (to use
+Hume's language again) about 'matters of fact.' The 'necessity'
+is implied in a peculiarity which Mill himself puts very
+forcibly,(52*) and which seems to be all that is wanted. An
+arithmetical formula of the simplest or most complex kind is an
+assertion that two ways of considering a fact are identical. When
+I say that two and two make four, or lay down some algebraical
+formula, such as Taylor's theorem, I am asserting the precise
+equivalence of two processes. I do not even say that two and two
+must make four, but that, if they make four, they cannot also or
+ever make five. The number is the same in whatever order we
+count, so long as we count all the units, and count them
+correctly. So much is implied in Mill's observation that counting
+one set of things is counting all things. The concrete
+circumstances make no difference. The same is true of geometry.
+The complex figure may be also regarded as a combination of
+simpler figures. It remains precisely the same, though we
+perceive that besides being one figure it is also a combination
+of figures. This runs through all mathematical truths, and, I
+think, indicates Mill's precise difficulty. He says quite truly
+that to know the existence of a fact you must always have
+something given by observation or experience. The most complex
+mathematical formulae may still be regarded as equating different
+statements of the same experience. The difference is only that
+the experience is evolved into more complex forms, not by any
+change in the data supplied, but by an intellectual operation
+which consists essentially in organising the data in various
+ways. The reasoner does not for an instant desert fact; he only
+perceives that it may be contemplated in different ways, and that
+very different statements assert the very same fact or facts. Our
+experience may be increased, either by the entrance of new
+objects into our field of observation, or by the different
+methods of contemplation. The mathematician deals with
+propositions which remain equally true if we suppose no change
+whatever to take place in the world, or, as Mill puts it, 'if all
+the objects of the universe were unchangeably fixed.'(53*) His
+theories, in short, construct a map on which he can afterwards
+lay down the changes which involve time. The filling up of the
+map depends entirely upon observation and experience; but to make
+the map itself a mere bundle of accidental coexistences is to
+destroy the conditions of experience. The map is our own faculty
+of perception.
+    'There is something which seems to require explanation,' says
+Mill,(54*) 'in the fact that an immense multitude of mathematical
+truths... can be elicited from so small a number of elementary
+laws.' It is puzzling when you identify Newton with Diamond on
+the ground that they both see the same 'fact.' But it is no more
+puzzling than anything else, as indeed Mill proceeds to show,
+when we observe the method by which in arithmetic, for example,
+an indefinite number of relations is implied by the simple
+process of counting. The fact is the same for all observers, in
+so far as they have the same data; but to perceive the data
+already implies the germ of thought from which all the
+demonstrative sciences are evolved. The knowledge can be
+transformed and complicated to an indefinite degree by simply
+identifying different ways of combining the data. Mill, in his
+anxiety to adhere to facts and experience, fails to recognise
+adequately the process by which simple observation is evolved
+into countless modifications. The difficulty appears in its
+extreme form in the curious suggestion that even the principle of
+contradiction is a product of experience. Mill is so resolved to
+leave nothing for the mind to do, that he supposes a primitive
+mind which is not even able to distinguish 'is not' from 'is.' It
+is hard to understand how such a 'mind,' if it were a 'mind,'
+could ever acquire any 'experience' at all. So when Mill says
+that the burthen of proof rests with the intuitionist, he is, no
+doubt, quite right in throwing the burthen of proof upon thinkers
+who suppose particular doctrines to have been somehow inserted
+into the fabric of knowledge without any relation to other
+truths; but it is surely not a gratuitous assumption that the
+mind which combines experience must have some kind of properties
+as well as the things combined. If it knows no 'truths' except
+from experience, it is at least possible that it may in some way
+react upon the given experience. This, at any rate, should be
+Mill's view, who takes 'mind' and 'body' to be unknowable, and
+all knowledge of fact to be a combination of 'sensations.' He
+only requires to admit that knowledge may be increased either by
+varying the data or by varying the mind's action upon fixed data.
+In neither case do we get beyond 'experience.' In many places,
+Mill seems to interpret his view in consistency with this
+doctrine. His invariable candour leads him to make admissions,
+some of which I have noticed. Yet his prepossessions lead him to
+the superfluous paradoxes which, for the rest, he maintains with
+remarkable vigour and ingenuity.
+    One other device of the enemy raised the troublesome question
+of inconceivability as a test of truth, which brought Mill into
+conflict not only with Whewell and Hamilton, but with Mr Herbert
+Spencer. I will only notice the curious illustration which it
+affords of Mill's tendency to confound statements of fact with
+the purely logical assertion that two modes of stating a fact are
+precisely equivalent. The existence of Antipodeans, in his
+favourite illustration,(55*) was declared to be 'inconceivable.'
+Disbelief in their existence involved the statement of fact:
+gravity acts here and at the Antipodes in the same direction.
+That statement could of course be disproved by evidence; and
+there is no reason to suppose that the truth, once suggested,
+would be less 'conceivable' to Augustine or, say, to Archimedes,
+than to Newton. It also involved the assertion: men (if the
+direction of gravity were constant) would drop off the earth at
+the Antipodes as they here drop off the ceiling. The denial of
+that statement is still 'inconceivable,' though the statement
+ceases to be applicable. Mill, however, infers that, as an
+'inconceivability' has been surmounted, 'inconceivability' in
+general is no test of truth. 'There is,' he says,(56*) 'no
+proposition of which it can be asserted that every human mind
+must eternally and irrevocably believe it,' and he tries, as I
+have said, to apply this even to the principle of contradiction.
+In other words, because our logic requires a basis in fact, and
+the fact must be given by experience, the logic is itself
+dependent upon experience. If 'inconceivable' be limited, as I
+think it should be limited in logic, to the contradictory, an
+inconceivable proposition is incredible because it is really no
+proposition at all. We may, no doubt, believe statements which
+are implicitly contradictory. but when the contradiction is made
+explicit, the belief becomes impossible. Similarly we may
+disbelieve statements which appear to be contradictory; and when
+the error is exposed, we may believe what was once
+'inconceivable.' That only shows that our thoughts are often in a
+great muddle, and in great need of logical unification. It does
+not prove any incoherence in the logical process itself.
+
+ IV. CAUSATION
+
+    We can now proceed to what may be called the constructive
+part of the logic. We have got rid of proofs from intuitions,
+from definitions, and from inconceivabilities, and the question
+remains how we can prove anything. All knowledge is inductive. It
+is all derived from facts; it proceeds from particulars to
+particulars; the previous coexistence of sequences which have
+been observed constitute our whole raw material. What, then,
+serves to bind facts together? or how are we to know that facts
+are bound together, or that any two given facts have this
+relation? The fundamental postulate of science is the so-called
+'uniformity of nature.' But Nature, as it is seen by the
+unscientific mind, is anything but uniform. There are, it is
+true, certain simple uniformities which frequently recur. Fire
+burns, water drowns, stones thrown up fall down; and such
+observations are the germs of what we afterwards call scientific
+'laws.' But things are constantly happening of which we can give
+no account. Catastrophes occur without any assignable
+'antecedent'; storm and sunshine seem to come at random; and the
+same combination of events never recurs in all its details.
+Variety is as manifest as uniformity. How can cosmos be made out
+of chaos? How do we come to trace regularity in this bewildering
+world of irregularities? From any fact taken by itself, as Hume
+had fully shown, we can deduce no necessity for any other fact.
+The question is, whether we are to account for the belief in
+uniformity by an 'intuition' or by James Mill's universal solvent
+of 'association of ideas.' J. S. Mill was fully convinced of the
+efficacy of this panacea, but he sees difficulties over which his
+father had passed. If association explains everything, the tie
+between ideas ought to be stronger, it might be supposed, in
+proportion to the frequency of their association. The oftener two
+facts have been joined, the more confidently we should expect a
+junction hereafter. But this does not hold true universally. A
+chemist, as Mill observes, analyses a substance; and assuming the
+accuracy of his results, we at once infer a general law of nature
+from 'a single instance.' But if any one from the beginning of
+the world has seen that crows are black, and a single credible
+witness says that he has seen a grey crow, we abandon at once a
+conjunction which seemed to rest upon invariable and
+superabundant evidence. Why is a 'single instance' sufficient in
+one case, and any number of instances insufficient in the other?
+'Whoever can answer this question,' says Mill, 'knows more of the
+philosophy of logic than the wisest of the ancients, and has
+solved the problem of induction.'(57*)
+    Here Mill again professes to set metaphysics aside. He has
+nothing to do with 'ontology.' He deals with 'physical,' not
+'efficient,' causes. He does not ask whether there be or be not a
+'mysterious' tie lying behind the phenomena and actually
+producing them.(58*) He is content to lay down as his statement
+of the 'law of causation' that there is an invariable succession
+between 'every fact in nature' and 'some other fact which has
+preceded it.' This, he assumes, is a truth, whatever be the
+nature of things in themselves. The true account is rather that
+he will show that 'ontology' is a set of meaningless phrases. He
+can answer his problem without it. Causation is, in fact,
+conceived by him as it was conceived by all the psychologists,
+including Brown; and he has simply to show that Brown's supposed
+'intuition' is a superfluity. His treatment of the question gives
+the really critical part of his philosophy. It leads to some of
+the results which have been most highly and, as I think, most
+deservedly praised. It also leads to some of his greatest errors,
+and shows the weak point of his method.
+    Mathematical knowledge, as Mill remarks, has nothing to do
+with causation. Every geometrical or arithmetical formula is true
+without supposing change. One theorem does not 'cause' the
+others; it 'implies' them. The most complex and the most simple
+are mutually involved in the single perception, though our
+knowledge of one may be the cause of our knowing the others.
+Their necessity is another way of stating this implication. We
+can show that to deny one theorem while admitting another is to
+be contradictory. The whole of physical science, however, from
+first to last, is a process of stating the changes of phenomena
+in terms of time and place, and therefore brings them all within
+the range of mathematical methods. Science is not fully
+constituted till it becomes quantitative or can speak in terms of
+definite relations of magnitudes. How, then, are its laws
+necessary? It is contradictory to say that the same thing has
+different space-relations at the same time; but there is no
+contradiction in saying that it is here now and somewhere else
+to-morrow. The formula of the 'uniformity of nature,' whatever
+may be its warrant, transfers the necessity of the geometrical
+theorem to the laws of phenomena. We assume that things are
+continuous or retain identity in change. We are no more permitted
+to say that the combination of the same elements may produce a
+compound of different properties, than to say that the product of
+two numbers may sometimes give one result and sometimes another.
+Every change is regarded as regular, or as having a 'sufficient
+reason.' The same series of changes therefore must take place
+under the same conditions, or every difference implies a
+difference in the conditions. So far as we carry out this
+assumption, we resolve the shifting and apparently irregular
+panorama into a system of uniform laws. Each law may be, and if
+it be really a law must be, absolutely true, not in the sense
+that it states a fact unconditionally, but that it is stated so
+that the conditions under. which it is absolutely true are fully
+specified. If we could reach a complete science of all physical
+phenomena, we should have a system of connected laws as
+infallible and mutually consistent as those of geometry or
+arithmetic. But in order thus to organise our knowledge, we have
+to alter -- not the facts -- but the order of grouping and
+conceiving them. We have to see identities where there were
+apparent differences, and differences in apparent identities, and
+to regard the whole order of nature from a fresh point of view.
+The fact remains just as it was; but the laws -- that is, the
+formulae which express them -- are grouped upon a new system. The
+questions remain, What is the precise nature of the scientific
+view? and What is our guarantee for a postulate which it
+everywhere implies?
+    The chapter upon causation(59*) is a vigorous assertion of
+Mill's position. He accepts the traditional view of his school,
+that cause means invariable sequence; but he makes two very
+important amendments to the previous statements. A simple
+sequence of two events is not a sufficient indication, however
+often repeated, that they are cause and effect. We speak, he
+says, of a particular dish 'causing' death; but to be accurate we
+must also include, as part of the cause, all the other phenomena
+present, the man as well as the food, the man's state of health
+at the time, and possibly even the state of the atmosphere or the
+planet. The real cause must include all the relevant phenomena.
+The cause, therefore, is, 'philosophically speaking,' the 'sum
+total of the conditions,' positive and negative, 'taken together,
+the whole of the contingencies of every description, which, being
+realised, the consequent invariably follows.'(60*) Mill's second
+amendment is made by saying that the cause does not signify
+simply 'invariable antecedence,' but also 'unconditional'
+sequence. There may be 'invariable' sequences, such as day and
+night -- a case often alleged by Reid and others, which are not
+'unconditional.' The sun, for anything we can say, might not
+rise, and then day would not follow night. The real condition,
+therefore, is the presence of a luminous body without the
+interposition of an opaque screen.(61*) These are undoubtedly
+material improvements upon previous statements; and this view
+being admitted, it follows, as Mill says, that the state of the
+whole universe is the consequence of its state at the previous
+instant. Knowing all the facts and all the laws at any time we
+could predict all the future history of the universe.(62*) Some
+curious confusions, it must be noticed, result apparently from
+Mill's use of popular language. The most singular is implied in
+his discussion of the question whether cause and effect can ever
+be simultaneous. Some 'causes,' he says, leave permanent effects;
+a sword runs a man through, but it need not remain in his body in
+order that he may 'continue dead.'(63*) The 'cause' here is taken
+to mean the 'thing' which was once a part of a set of things, and
+has clearly ceased to mean the sum of all the conditions. 'Most
+things,' he continues, once produced, remain as they are till
+something changes them. Other things require the continual
+presence of the agencies which produced them. But since all
+change, according to him, supposes a cause, it is clear that not
+only 'most things' but all things must remain as they are till
+something changes them. Persistence is implied in causation as
+much as change, for it is merely the other side of the same
+principle. Inertia is as much assumed in mechanics as mobility;
+for it is the same thing to say that a body remains in one place
+when there is no moving force, as to say that whenever it ceases
+to remain there is a moving force. The difference which Mill
+means to point out is that some changes alter permanent
+conditions of other changes, as when a man cuts his throat and
+all vital processes cease; while sometimes the change leaves
+permanent conditions unaffected, as when a man shaves himself,
+and his vital processes continue. But in no case is the effect
+produced, as he says, after the cause has ceased; it is always
+produced through the actually present conditions, which may have
+come into their present state through a change at some more or
+less remote period. Each link in a chain, according to the common
+metaphor, depends upon all the previous links and may be said to
+hang from them; but the distant link can only act through the
+intermediate links.
+    These slips imply a vagueness which leads to more serious
+results. Mill's aim is to construct a kind of logical machinery
+-- a sieve, if I may say so, through which we pass all the
+phenomenal of the universe in order to find out which are really
+loose and which are connected by the ties of causation. We are
+unweaving the complex web of nature by discovering what is the
+hidden system of connections in virtue of which one event or
+thing is somehow fastened to another. Everything, we may say,
+which appears is called up by something else -- the thunder by
+the lightning, the death by the poison, and so forth. In every
+case we can reduce a statement of causation to the form of an
+assertion of sequence or coexistence. Here, as he observes, we
+meet one difficulty. Everything is connected with some other
+thing. But then it may or must be also connected with a third.
+The two connections may interfere, and we have to consider how
+they can be disentangled. This leads to a distinction to which he
+attaches, very rightly, I think, the highest importance. In some
+cases, the correct version of the facts can be obtained by simply
+superposing the laws of simpler cases. A body moves to the north
+under certain conditions; but other conditions force it to move
+also east or south. We then have only to combine the two 'laws,'
+and to say that it is moving both north and east, that is,
+north-east, or perhaps to interpret rest as an equal movement to
+both north and south. This, as he remarks, represents the general
+case in regard to mechanical phenomena. We have simply to combine
+two rules to get what is called in dynamics 'the composition of
+forces'; and, in accordance with this phase, he uses the general
+phrase, 'the composition of causes.'(64*) But, as he observes,
+this principle is in many cases not applicable. In chemical
+combinations, in particular, we cannot infer the properties of
+the compound from the properties of the components. The laws of
+simple substances will not give us the laws of the product, and
+we can only learn these derivative laws by experiment. This
+holds, still more conspicuously, of organised bodies. From
+considering the properties of its chemical constituents
+separately you cannot deduce the properties of the human body. We
+thus come to a kind of knot in the web; we are at a deadlock,
+because the laws from which we start are superseded by an
+entirely different set of laws. Mill marks this by speaking of
+'heteropathic laws.'(65*) Such laws are not analysable into
+simple laws. He thinks, indeed, that 'heteropathic laws' are --
+at least 'in some cases may be derived from the separate laws,
+according to a fixed principle.' The fact to which he calls
+attention is undeniable. We discover countless laws as to the
+properties of bodies which it is impossible at present either to
+resolve into simpler laws, or to deduce from the laws of the
+constituent elements. Such laws are properly 'empirical.' The
+observation of the facts asserted is the sole guarantee for our
+belief in their truth; and they can he reduced under no more
+general formula. Is this, however, simply a challenge to the man
+of science to inquire further, or does it oppose an insuperable
+obstacle to further scientific researches? Mill avowedly limits
+himself to 'our present state of knowledge.' He recognised that
+Grove, in his Correlation of Forces,(66*) made out a strong,
+though still only a probable, case for believing that a
+'heteropathic law' may represent a complete transformation of one
+set of forces into another. Heat, light, and magnetism may be all
+different manifestations of a single force -- not so much causes
+of one another as 'convertible into one another.'(67*) Grove, as
+Mill adds, is not, as might be supposed, deviating into ontology,
+but giving a strictly philosophical statement. Mill is here
+speaking of a great principle, imperfectly known at the time,
+which has been accepted by modern science, and he is quite ready
+to welcome it. It is, however, noticeable that he still guards
+himself against admitting any intrusion of 'necessity.' He will
+not allow that the dependence of the properties of compounds upon
+these elements must result in all cases 'according to a fixed
+principle.' The meaning of this may appear from his later assault
+upon the doctrine that 'like produces like.' This he reckons
+among the fallacies which he discovers in all manner of pestilent
+a priori philosophising. Descartes, Spinoza, Leibniz, and
+Coleridge have all been guilty of it in various forms.(68*) We
+are therefore under no obligation to go further when we come to
+totally disparate phenomena in our series. We have unravelled our
+web sufficiently when we find laws disappearing and being
+superseded by a totally different set of laws, not describable
+even in the same language. That we may be forced to be content
+with such a result is undeniable. But it is equally true that one
+main end of scientific theorists is to get round this difficulty.
+Without inquiring in what sense the axiom that 'like produces
+like' may be fallacious, we must at least admit that to give a
+scientific law -- that is, a rule by which one set of events is
+deducible from another -- we must be able to express it in terms
+of some single measure. Til I we can get such a statement, we
+have not the complete formula. There is a breach of continuity in
+our theories, which we try to remove by reducing all the forces
+to measures assignable in terms of space and number. The
+hypothesis of an ether and vibrating atoms enables us to regard
+phenomena as corresponding in some way to the laws which, as Mill
+says, can be compounded by simple superposition, without
+introducing heterogeneous terms. Though he does not condemn this
+hypothesis, Mill regards it with a certain suspicion as an
+attempt to wander into ontology, and the search for what is in
+its nature inaccessible.(69*) At any rate, it does not appear to
+him that further inquiry is necessary when we come to an
+irreducible breach of continuity. to a case in which one set of
+phenomena is simply superseded by another, instead of being
+transformable into it. If a compound is made of certain elements
+exclusively, a physicist would clearly infer that its properties
+must be a result of the properties of the elements according to
+'some fixed principle.' Mill is only prepared to admit that this
+may be the case. The physicist, again, seeks for a mode of
+stating the principle in theorems capable of being combined and
+superposed, whereas Mill holds that our knowledge may have come
+to an ultimate insuperable end.
+
+ V. PLURALITY OF CAUSES
+
+    It is in the applications of this view that we come to what
+must be regarded as downright fallacies. If, as Mill holds, an
+effect may be something absolutely disparate from the cause -- a
+new thing which starts into existence when its antecedent occurs
+-- we are led to another result. There is, then, no apparent
+reason why the same thing should not spring up in answer to
+different summonses. Not only is this possible, but, as Mill
+thinks, it constantly occurs. This is his doctrine of the
+'Plurality of Causes.' A given cause, he holds, can only produce
+one effect. But a given effect may follow various causes. So long
+as the relation is merely one of arbitrary succession, not of
+continuity, this is obviously possible. The fully scientific
+view, I take it, would be that when we speak of 'cause and
+effect' we are really thinking of a single process regarded in
+different ways. We may analyse the process differently for
+different purposes, and infer the past from the future or the
+future from the past; but we assume that, if we could perfectly
+understand the whole process, there would be thorough continuity,
+and no abrupt supersession of one thing or one set of 'laws' by
+another. This continuity is precisely what Mill systematically
+denies. A cause, he holds, means an absolute beginning of a new
+effect.(70*) The process becomes a series of distinct terms -- a
+set of 'links' in a chain, not a flow of a stream. One remarkable
+case is enough to illustrate the point. When Bacon's claims to
+have founded a truly scientific theory are considered, it is
+generally said that his guess as to the nature of heat is a point
+in his favour.(71*) Mill, however, takes this particular case as
+an instance of Bacon's errors. Bacon, he says,(72*) 'entirely
+overlooked the Plurality of Causes. All his rules imply the
+assumption, so contrary to what we now know of nature, that a
+phenomenon cannot have more than one cause.' Bacon was misguided
+enough to apply this to heat. Now, as Mill had already argued,
+heat may have several causes: the 'sun,' or 'friction,' or
+'percussion,' or 'electricity,' or 'chemical action.'(73*)
+Consequently, the attempt to find a single cause is doomed to
+failure. We shall find, not that one antecedent but, that one of
+several antecedents is always present. Clearly the 'sun' is not
+'friction,' nor is 'percussion' 'electricity.' Each of those
+phrases indicates concrete facts involving various processes.
+Heat, as a 'mode of motion,' occurs in them all, because all
+involve particular phases of movement. From the 'raw' fact, as it
+presents itself -- 'This body is hot' -- I cannot say which of
+various laws represents the true antecedents in that case. The
+heat may have been caused by exposure to fire or by friction. In
+that sense, undoubtedly, one effect may really have any number of
+'causes.' But replace all the conditions, and it is evident that
+there can be only one true analysis of the whole process.
+    Mill's insistence upon this imaginary 'plurality of causes'
+is significant. It indicates the precise stage in the development
+of the idea of cause to which his doctrine corresponds. Taking
+what we may call the popular sense of causation, the 'plurality'
+expresses an obvious truth; and we can understand its
+plausibility. We take, in fact, two concrete events which follow
+each other, and call them cause and effect. We use a tool -- a
+knife to cut bread, for example; we are forced to attend to the
+fact that every difference in the knife will have an effect on
+the result. The work is better or worse, as the knife is sharper
+or blunter. If we did not recognise this in every purposeful
+action, all action would be intrinsically uncertain. We are,
+therefore, impressed with the necessity of admitting that the
+effect is determined by the cause. But, on the other hand, the
+knife is there. It may have been made by fifty different methods,
+and yet be the same. The handle may have been first made and then
+the blade, or vice versa, and so forth. therefore we believe, and
+in this sense of cause believe correctly, that one effect may be
+the product of any number of different 'causes.' In order to
+reach the more scientific sense of causation, we have to take
+into account all that we have neglected. The knife is one product
+of an indefinite multitude of processes, and is therefore not the
+total 'effect' of the concrete antecedent, but only a part of it
+arbitrarily singled out. We do not attend to all these collateral
+results, because for us at the moment they have no interest; but
+when we systematically carry out the 'uniformity of nature'
+principle, it is obvious that they must be taken into account. We
+then see that although precisely similar products appear in an
+infinite variety of concrete processes, they correspond only to a
+part of those processes, and may always be analysed into
+identical elements. The effect can no more have two causes than a
+cause two effects, for cause and effect are distinguished by
+observing the same process in a different order. It was just
+because men of science held that the one effect must have one
+cause that they could make a coherent theory of heat. Mill,
+however goes a step further. Bacon's error was the assumption
+that there was only one 'form' of heat. Now it is specially
+futile, says Mill, to seek for the causes of 'sensible qualities
+of objects.... In regard to scarcely any of them has it been
+found possible to trace any unity of cause.' Bacon, therefore,
+was seeking for 'what did not exist,' and to this Mill adds the
+surprising statement that 'the phenomenon of which he sought for
+the one cause has oftenest no cause at all, and, when it has,
+depends (as far as hitherto ascertained) on an unassignable
+variety of causes.'(74*)
+    To explain this rather startling assertion we must take one
+more of Mill's theories. How from the doctrine, which he fully
+admits, that every event has a cause can he reach the conclusion
+that some things have 'no cause at all'? Once more we have, I
+think, the misapplication of an undeniable truth. A 'law' of
+causation, taken by itself, will obviously not fully account for
+a single fact. It cannot lead to the conclusion: 'this fact must
+exist,' but only to the conclusion: this fact must exist if
+certain previous facts existed. We somewhere assume an initial
+stage. However far back we can go, we may still repeat the
+question. Given a single state of facts and the 'laws of
+causation,' we can go indefinitely backwards or forwards in time.
+Given the sun, the planets, and gravitation, we can trace the
+whole past and future history of the solar system; but the facts
+at some period must be 'given.' We cannot say that they must, but
+only that they do exist. Mill himself puts this(75*) with all
+desirable clearness. He expresses it by saying that besides
+'causation' there is 'collocation,' a word, he says, suggested by
+Chalmers.(76*) To know the 'collocation,' therefore, is
+essential. A 'law' does not tell us that there 'must' be plums
+and suet, but only that if there are such things in certain
+'collocations' a plum pudding 'must' be the result. All
+statements of fact have thus an empirical basis. This, however,
+takes a peculiar turn in his exposition, and one which is
+characteristic of a Utilitarian failing. He makes the distinction
+of relations correspond to a distinction of things. Instead of
+saying that both causation and collocation are implied in all
+phenomena, he speaks of some 'uniformities' as dependent upon
+causation and others as dependent upon collocation. He therefore
+writes a chapter on 'uniformities of coexistence not dependent on
+causation.'(77*) This, however, is closely connected with, and
+must be explained by, another doctrine to which he attached the
+highest importance. After telling us how he was started afresh by
+Stewart's account of axioms, he adds that he came to
+'inextricable difficulties' in regard to induction. He had come
+to the 'end of his tether,' and 'could make nothing satisfactory
+of the subject.' When, after five years' halt, he again set to
+work, he introduced his 'theory of kinds,' which, as he
+intimates, got round the difficulty. He felt, as we may
+conjecture, that he had now reduced all the facts to such purely
+empirical conjunctions that he did not see how to get any tie
+between them. Any cause, so far as we have gone, might lead to
+any effect. and even when we have seen a case of conjunction, we
+can give no reason for its recurrence. Induction enables us to
+predicate attributes of a class; but a logical class is itself
+merely a bundle of attributes arbitrarily selected, and it
+remains to see why, from a thing's possession of some of the
+class attributes, we can infer that it has the others. Why should
+not the same set of attributes form part of different bundles?
+and if so, what is the justification for the primary logical
+procedure? From featherless bipedism we infer mortality. But why
+may not some class of featherless bipeds be immortal? If we admit
+the possibility, all induction becomes precarious. The 'theory of
+kinds' was, it seems, intended as an answer to these obvious
+difficulties.
+
+ VI. REAL KINDS
+
+    Mill's account of 'real kinds' corresponds, as he tells us,
+to the old logicians' distinction between genus and species.
+Though our classification may be arbitrary and nothing properly
+deducible from it, except the mere fact that we have chosen to
+give names to certain clusters of attributes, there is also a
+real difference. Some of our classes do not correspond to 'real
+kinds,' and are mistaken for them. Others, however, correspond to
+a real or natural kind. The difference is this: a 'real kind' has
+an 'indeterminate multitude of properties, not derivable from
+each other,' whereas an arbitrary or merely logical 'kind' may
+only differ in respect of the particular attribute assigned.
+Thus, to say that Newton is a man is to attribute to him the
+'unknown multitude of properties' connoted by 'man.' To say that
+Newton is a Christian is only to attribute to him a particular
+belief and whatever consequences may follow from having that
+belief.(78*) One classification, as he says, 'answers to a much
+more radical distinction in the things themselves, than the other
+does'; and a man may thus fairly say, if he chooses, that one
+classification is made 'by Nature' and one 'by ourselves,'
+provided that he means no more than to express the distinction
+just drawn. Now, it is easy to understand why Mill felt that this
+assertion entitled him to a 'real' bond which would keep
+phenomena together in a more satisfactory way. All things had
+become so loose and disconnected that it was difficult to explain
+any extension of knowledge even by induction. Yet, whatever the
+reason, things do stick together in coherent and many-propertied
+clusters. The bond seems to be real when it is stated
+'objectively,' not 'subjectively' -- as a property of the things
+observed, not of the classes made by the mind itself. I take the
+remark to be both true and important; and, moreover, that Mill
+deserves credit for perceiving so clearly this weak joint in his
+armour. His application, however, suggests, when he had hit upon
+an apparent escape from his 'inextricable' difficulties, he was
+too much relieved to work out its full effect upon his general
+theory. The 'theory of kinds' is inserted rather than embodied in
+his philosophy, and makes rents in the attempt to fill a gap. It
+plays, however, so important a part in the doctrine that it
+requires some further consideration.
+    A real kind, we see, has two characteristics; it has
+innumerable properties, and those properties are not 'derivable'
+from the others. In fact, a derivative property would be merely a
+modification of a primitive property. A geometrical 'kind,' a
+curve of the second order, for example, has innumerable
+properties, but they are all derivative from the simple
+properties expressed in the axioms and definitions. They
+reciprocally imply each other. But can we say the same of the
+properties of a thing -- of a plant or of water or of an atom?
+Here we have the distinction already noticed. The so-called
+'thing' may be merely a collection of separate things, and we can
+discover the 'laws' applicable to all by combining the laws
+applicable to each. From a given 'collocation' we can infer past
+or future 'collocations,' and one set of results can be added to
+or superposed upon the other. But when we proceed to chemical or
+organic compounds, we have 'heteropathic' laws. The compound may
+be analysed into elements, but we cannot derive the properties of
+the compounds from the properties of the elements. Hydrogen and
+oxygen can be combined into the form of water; but we could not
+infer the properties of water from the properties of the hydrogen
+and oxygen taken apart. In organic compounds, the problem is
+still more intricate. We have to consider a series of
+inter-related changes taking place within the organism, and
+dependent partly upon the 'environment' and partly upon the
+complex constitution of the organism itself. It is a unit in so
+far as all its properties manifest an organic law or a system of
+organic laws. Individuals may differ from external causes as
+plants, for example, in different soils, and in that case we may
+regard the differences as simply derivative. Differences which
+belong to the organic law itself indicate differences of kind;
+and these are ultimate for us, so long as we cannot trace the way
+in which they are dependent upon differences of constitution.
+These, roughly stated, are the facts which Mill recognises. Now,
+in any case whatever, we can only 'explain' a fact by assuming
+both 'collocation' and 'causation'; or, in other words, we must
+have a statement of facts and of laws. Our analysis of the
+phenomena will in all cases come to showing how a given state
+results from, or results in, a previous or succeeding state. If
+new properties appear from the combination of simpler elements,
+we should infer that they result, though we may be quite unable
+in the existing state of knowledge to show how they result, from
+the properties of those elements. The properties do not manifest
+themselves, and are therefore not discoverable, till the
+combination is formed; and are thus only known to us
+'empirically.' No process of reasoning, that is, can be adduced
+to show that they must result from the combination. But, in the
+case supposed, we do not doubt that they do result, and we assume
+that the elements had certain latent properties not previously
+discoverable. This, however, is the point upon which Mill
+diverges, owing, as I think, to his imperfect view of causation.
+    The doctrine of 'kinds,' in fact, gives the answer to Mill's
+old problem, why a single instance is sometimes conclusive,
+whereas any number of instances may sometimes fail to give
+certainty. It is this reciprocal connection between the
+properties of a 'kind' which justifies the inference from one set
+of attributes to another attribute -- the inference implied in
+all induction. But Mill's interpretation of the fact seems
+strangely inconsistent. His favourite instance is the black crow.
+I have seen a million black crows. Can I say that the million and
+oneth crow will be black? To answer this we must ask whether
+blackness is a property of 'kind.'(79*) If the blackness be, 'as
+it were, an accident,' or not a property of kind, it must, he
+says, be a case of causation. If not a case of causation, it must
+be a property of kind. Hence we have the singular result, that if
+the coexistence be casual, it is caused, and if invariable, not
+caused. As 'causation' means according to him simply
+unconditional connection, the statement seems to be especially
+paradoxical. It is, however, explicable.
+    The blackness of the crow may be regarded as 'accidental,' if
+it is due to the external cause. The crow, perhaps, has fallen
+into a paint-pot. The blackness is 'caused,' then, by the
+properties of paint and by the 'accidental' collocation. It is an
+'accident' in the crow, though caused in respect of the general
+arrangements of the universe. But why, if a property of 'kind,'
+should it be called 'not caused'? Here we have a curious result
+of Mill's view of causation. Our natural reply would be that the
+colour is still caused as everything else is caused.(80*) We
+assume, that is, that 'crow' implies such a constitution that
+under a given environment crows will be black. Change something
+outside the crow and he may turn white. Or find a white crow in
+the same 'environment,' and we infer some difference in his
+constitution. There is a relation, we assume, though we cannot
+specify its nature, which determines the colour, and as in all
+cases we have at once collocation and causation. Here is Mill's
+peculiar difficulty. Causation, as he is profoundly convinced,
+always means a beginning. It is only, as we have seen, concerned
+with changes, not with persistence. Therefore, if two things,
+like blackness and crowness, exist side by side, it is a case of
+collocation, and consequently, as he supposes, not a case of
+causation. He cannot recognise a reciprocal relation, although it
+is clear that if one thing is found always to accompany another,
+the argument is the same as though one always followed another.
+Indeed, his whole theory of induction implies the possibility of
+reasoning from one property or attribute to another. Make a
+change in one and the other must be changed. He sees this clearly
+in the case of organised bodies.(81*) In that case, he says,
+there is a 'presumption' that the properties are 'derivable' and
+therefore 'caused,' because there we have sequences or one
+process following another. He thus seems to limit his 'natural
+kinds' chiefly to chemical compounds. There we have properties
+lying side by side and not 'derivable,' that is, not to be
+inferred by us from the properties of the elementary
+constituents. The very attempt to derive them is idle. As any
+event may cause any other, however unlike, so any set of
+properties may be simply stuck together. Bacon is again
+reproved(82*) for assuming that 'every object has an invariable
+coexistent.' The ultimate properties, so far as we can
+conjecture, are 'inherently properties of many different kinds of
+things, not allied in any other respect.' They simply lie side by
+side, without reference to each other. Thus Mill pushes his
+empiricism to assuming not only that our knowledge of properties
+must rest upon direct observation, but that there is absolutely
+no connection or 'cause' to be known. The 'kind' after all, which
+was meant to be an essential bond, turns out to be itself a
+purely arbitrary collection of attributes, and we have to ask
+whether it does not lose all the significance which he attached
+to it. The 'collocation' means that the attributes simply lie
+side by side, and yet are always conjoined. The tie which
+combines them is undiscoverable, and therefore for us
+non-existent. It is, as he rightly insists, important that our
+classification should correspond to natural kinds. 'Kinds,' he
+says, are classes 'between which there is an impassable barrier';
+the logical class is arbitrary, but the real class is an
+essential fact, His illustration is remarkable. He holds that the
+'species of plants are not only real kinds, but are probably all
+of them real lowest kinds, infimae species,' and that further
+subdivision would lead to no valuable results.(83*) The doctrine
+that the species of botany must correspond to 'real kinds ' is
+curious in a writer who was himself a botanist and familiar with
+the difficulty of making absolute divisions between kinds. The
+conflict with the conceptions implied in Darwinism is of the
+highest importance.(84*) The distinction between 'kinds,'
+according to Darwin, is not absolute, for it is the product of
+gradual divergence from a single form. But, on the other hand,
+the kinds existing at a given time are discrete. There are gaps
+between them, as Mill remarks; though, in so far as they have a
+common origin, not absolutely insuperable gaps. This implies that
+the organism does not correspond to a mere aggregate of
+disconnected attributes, so that the difference of kinds would be
+simply a difference of more or less, and each type pass into the
+other by imperceptible gradations. We are obliged to suppose a
+system of reciprocal relations, so that any change in one organ
+involves correlated changes in others; and thus species diverge
+along different lines instead of remaining constant or simply
+adding on new properties. Mill, it seems, has to admit of kinds
+in order to account for the possibility of inference; but then,
+as he wishes to avoid 'mystical bonds,' and inferences from
+'definitions,' and the scholastic beggings of the question, he
+declares the relation between the attributes to be 'accidental'
+or 'uncaused.' Hence, though he sees the difficulty and
+recognises the probability of 'causation' in organised bodies, he
+really reduces the 'kind' to be a mere aggregate, and destroys
+the very organic bond of which he is in need.
+
+ VII. UNIFORMITY OF NATURE
+
+    The effect of thus contra-distinguishing 'collocation' from
+causation, and admitting that 'uncaused coexistences' cover a
+large part of all observable phenomena, is to make the uniformity
+of nature exceedingly precarious. Indeed, Mill denies it to be
+conclusively proved. The chapter in which he sums up 'the
+evidence of the law of universal causation' leads to remarkable
+results. No one, he thinks, with a properly trained imagination
+will find any difficulty in conceiving that in remote parts of
+the universe 'events may succeed one another at random without
+any fixed law'. He concludes by asserting that it would be 'folly
+to affirm confidently' that the law does prevail in 'distant
+parts of the stellar regions.'(85*) A truth which depends upon
+locality might, for anything one sees, break down in Australia
+and even at Paris as easily as at Sirius. Mill, accordingly,
+reaches a thoroughly sceptical conclusion,(86*) and reduces the
+evidence for universal causation to an induction per
+enumerationem simplicem. The wider the generalisation, the
+greater the efficacy of such induction, upon which depends not
+only the law of causation but the principles of number and
+geometry. If the 'subject-matter of any generalisation' be so
+widely diffused that it can be tested at every time and place,
+and if it 'be never found otherwise than true' its truth cannot
+depend on any collocations, unless such as exist at all times and
+places, nor can it be frustrated by any counteracting agencies
+except such as never actually occur.'(87*) Now no exception to
+the 'law of causation' has ever been found, and apparent
+exceptions have only confirmed it. It is no doubt true that if a
+law be universal, it will be confirmed by all our experiments;
+but it hardly follows that, because all our experiments have
+failed to detect an exception, it is true universally. All our
+experiments have covered but a small fragment of nature, and they
+do not justify us, as he expressly asserts, in reasoning about
+the stellar regions. It is difficult, moreover, to see how an
+'exception' could ever be proved, since, wherever we do not see a
+'cause,' we can always suppose, and do in fact suppose, an
+invisible cause. Finally, the theory of 'natural kinds,' as it
+has now been interpreted, seems to fail us in our need. He takes
+it to indicate, indeed, that there are connections in nature,
+which, if known, would justify certain general inferences; but it
+does not appear that we can know what are these connections, and
+as, moreover, we have been carefully told that they are ultimate
+or not 'derivative,' we have no right to be certain that they
+will recur. We do not know, for example, whether blackness be a
+property of kind. If we found a black crow among white ones, the
+property would be casual, and therefore 'caused.' If we found a
+race of white crows in Australia, we should simply say that there
+was a kind hitherto overlooked.(88*) Such a discovery, he says,
+is not at all incredible. It might be proved by the evidence of a
+single credible witness. It merely supposes that there is a kind
+with a different set of attributes, and as the attributes are in
+no way 'derivative,' there is no improbability in this. The more
+general the rule, however, the greater the probability of its
+holding, because the greater the improbability of the exception
+being overlooked. We should easily believe in white crows, but
+not so easily in crows with a property 'at variance with any
+generally recognised universal property of birds,' and still
+less, if it were 'at variance with such a property of
+animals.'(89*) We could hardly, that is, believe in crows with
+the stomachs of wolves, or in crows without stomachs at all. But
+the difficulty appears to depend upon nothing else than the
+improbability that such animals, had they existed, would have
+been unnoticed.
+    Without trying fully to unravel this logic, we may notice one
+characteristic. Mill, trying to refer everything to 'experience,'
+has gone far to make experience impossible. What has dropped out
+of this theory of knowledge is the constructive part. He
+substitutes for organisation combinations of disparate 'things.'
+He will admit of no logic, except that. of an external connection
+of radically different objects. Attributes must be stuck together
+without any reciprocal relations. All causation becomes in his
+phrase 'collocation,' though he declares causation and
+collocation to be not only different but mutually exclusive. His
+one logical formula is the nota notae est nota rei ipsius.(90*)
+Things are marks of each other, not implied by each other. He
+forces this language even upon mathematics. Even a geometrical
+'kind,' if we may use the word, an ellipse, or a curve of the
+second order, is treated by the formula applicable to purely
+empirical conjunctions. The equality of two straight lines, it
+seems, is simply a 'mark' that if applied to each other they
+would coincide; the fact that two things are sums of equals is a
+'mark' that they are equal, and so forth.(91*) He would
+apparently be inclined to say that a thing's existence is a mark
+of its not being nothing. Thus, even the 'natural kind' becomes
+merely a permanent combination. When the properties of a curve
+are merely connected by 'marks,' it is no wonder that the
+properties of crows should be mere bundles. If it is only on such
+terms that we can thoroughly get rid of 'intuitions,' the
+advantage is doubtful.
+    I will venture to say another word upon the uniformity of
+Nature difficulty. It is easy, says Mill, to conceive of things
+happening at random. It is, indeed, in one sense perfectly easy.
+'Raw' things, or unanalysed concrete events, do happen at random,
+that is, without uniform antecedents. Nothing is easier than to
+think of things without thinking of their causes. The primitive
+mind, and even the cultivated mind, may simply watch the series
+of events without trying to find any connection or indulging in
+any reasoning. But this is quite different from thinking of
+things as positively uncaused. A phenomenon suddenly intrudes
+without warning. I may accept it without asking whence it comes,
+or why. But there is no really positive meaning in the statement
+that it is caused by 'nothing.' It does not imply a
+contradiction, such as occurs when I put together the words
+crooked and straight, round and square; but it represents no
+intelligible meaning. It corresponds to a simple absence of
+thought. When I speak of the uniformity of Nature, I mean simply
+to indicate a condition of thinking about Nature at all. I may
+cease to reason or to think; but if I think, I must think
+coherently, and assume what has been called the 'Universal
+Postulate.'(92*) The phrase seems to me to be inadequate; and at
+any rate it is a postulate with this peculiarity, that we cannot
+make any other. To deny it is to allow contradictory statements
+on the most intimate tissue of our reasoning. It is as impossible
+to do without it as to do without the principle of contradiction
+in pure logic. It helps us to no positive statement; but it is a
+warning that our statements must be coherent. Hence, we must
+allow the mind to have this modest capacity for working up its
+experience. If it starts from so unprejudiced a point of view as
+to admit contradictions, or allow of inconsistent statements
+about things, it will never be able to get anywhere, and when
+Mill has reduced all our knowledge to the relations between ideas
+in the mind, it is really quite inconsistent to allow the mind no
+power of putting ideas together. Without such a power it is
+difficult to say what is even meant by the perception of
+'coexistences' and 'sequences.' The progress of knowledge, then,
+must be understood as corresponding to the process by which the
+chaos of impressions and ideas is gradually reduced to cosmos;
+and as starting from a position in which no cause has been yet
+discovered for great masses of facts, not from a position in
+which 'no cause' is an equally probable alternative with 'some
+cause.' To reason at all about facts is to arrange them in order
+of causation, and to suppose them as having certain time- and
+space-relations. To get behind that primitive germ of reasoning
+is really to make logic impossible from the start. Mill's dread
+of a priori intuitions and necessary results thus led him into
+perfectly gratuitous difficulties. Granting the 'necessity' of
+arithmetic or geometry, it is still a hypothetical necessity. It
+can never take us beyond experience. Such theorems cannot tell us
+of the existence of a single thing or of its nature. They can
+only say that if we see things in space they will have certain
+relations which are deducible from the special confirmation.
+Without that power the universe would be undecipherable, but with
+it our knowledge still has throughout a completely empirical
+base. Not a single statement of fact can be made which is not
+derived from, and justified by, experience; nor can our
+experience ever get beyond saying that any given section of the
+whole is developed out of, and develops into, preceding and
+succeeding sections.
+
+ VIII. THE FOUR METHODS
+
+    I have dwelt upon these misconceptions to show why Mill was
+driven in defence of experience to assume the burthen of proving
+paradoxes which would be destructive to our very capacity for
+obtaining experience. Mill prided himself with some reason on his
+'four methods.' Although they have been severely criticised,(93*)
+they have, I take it, a genuine value; and, if we ask how they
+can be valuable in spite of his errors, a satisfactory answer may
+perhaps be given. In the first place, his assumptions represent
+one genuine 'moment' in all reasoning about facts. The primitive
+intellect may be supposed to regard facts as simply conjoined,
+and to be guided by 'association of ideas.' The early
+generalisations of which Mill speaks -- 'fire burns,' 'water
+drowns,' and so forth are really of this kind, and are apparently
+formed even by dogs and monkeys. Mill is quite right, moreover,
+in holding that a purely empirical element runs through the whole
+fabric of knowledge. The error, I think, is in his failure to
+allow for the way in which it is modified in scientific
+construction. The ultimate element out of which that construction
+is developed is always an observation of fact, but the fact means
+a definite relation of time and space. We start from a 'fact,'
+but it is not as a simple unanalysable unit, but as something
+which already is the base of a relation. The unit which
+corresponds to the final cell out of which tissue is composed is
+not properly a fact, but a 'truth.' We do not say simply 'this
+is,' but this is so and so, and has a certain order and
+configuration. This is gradually elaborated into physical science
+by the help of the geometrical and numerical relations already
+implied. Thus, causation, or the connection between phenomena, is
+not simple collocation, but supposes continuity. The
+unconditional sequence which Mill identifies with 'causation'
+does not, and cannot, give the 'cause,' though it does indicate
+'causal connection.' So long as two things are entirely separate
+and distinguishable, we cannot say, in the full sense, that one
+is the cause of the other; but the connection, if proved, proves
+that there is a cause which may or may not be discoverable. Brown
+was right in thinking that something was still wanting, though
+his mode of filling the gap by an intuition was erroneous. Mill's
+answer that the 'intuition' was needless left the difficulty
+where Hume had put it. Two facts are supposed to be unrelated and
+yet always combined. That states a difficulty, and only
+pronounces it to be insoluble. It has, in fact, to be surmounted
+by scientific hypotheses. Thunder and lightning, for example, are
+causally connected, but not so that lightning can be properly
+called the cause of thunder. They are regarded as due to a common
+cause to the processes which we call electric disturbance, and so
+forth. We cannot give the 'law' or state the casual connection
+adequately, but we regard them as indicating some common element,
+which is continuous and capable of being described in terms of
+pure number and geometry. Hence any observation, as soon as we
+begin to reason, may be regarded as a particular case of some
+general law, or rather, as being conceivably a case of an
+indefinite number of laws. Not only so, but any law under which
+it may be arranged is 'necessary' if all the conditions be
+restored. The process by which we select one of the possible
+formula, therefore, comes to eliminating all the formula which
+are incorrect when various conditions are altered. We all along
+assume that some coherent system of 'laws' is possible, or that
+the rule is there if only we can discover it. If lightning goes
+once with thunder, we are entitled to say not only that it may go
+with thunder hereafter, but that it must go with thunder under
+the same conditions. Therefore the simple inference from an
+empirical conjunction is justified by the 'law of causation' or
+the 'uniformity of nature.'
+    Now, Mill's 'four methods' are applicable to the merely
+empirical conjunctions, which form a large part of our knowledge,
+and are implied in every stage. The methods do, in fact, I take
+it, form an approximately accurate mode of dealing with such
+knowledge. His cases are, for the most part, selected from the
+sciences, chemistry in particular, where in point of fact our
+knowledge is still purely empirical, and we can only assert a
+collocation, or sequence, without bringing it under a more
+general rule. He also observes, and the remark must be
+remembered, that he is trying to give a method of proof, rather
+than of discovery.(94*) If the scientific theory be true, these
+purely empirical truths will hold good, although from them alone
+the theory might not have been discoverable. The phenomenon which
+we call the fall of a stone will be presented when an unsupported
+stone is near the earth, although the law of gravitation requires
+an application of methods not summed up by simple observation of
+conjoined phenomena. The most unsatisfactory part of the 'four
+methods' results from this view.(95*) The process of discovery is
+not sufficiently represented by the case of A occurring with or
+without B. The sciences which have risen to be quantitative
+advance by showing how a variety of cases can be brought within
+some general and precise formula, and every approximation to, or
+deviation from, the law be exactly measured. Mill pays too little
+attention to this essential characteristic, partly, perhaps,
+because he considers mathematics as simply one part of the
+'inductive' or empirical sciences.
+    The final position may be shortly illustrated by Mill's
+relation to his contemporaries. It will show briefly what were
+the alternatives between which he had to choose, and that, if
+that which he chose leads to error, there were at least equal
+errors on the other side. Mill frankly states in his preface that
+but for Whewell's History of the Inductive Sciences the
+corresponding part of his own book 'would probably not have been
+written.' He remarks with equal candour that Sir John Herschel,
+in his Discourse on the Study of Natural Philosophy,(96*) had
+recognised the four methods. Herschel, however, was his only
+predecessor, and a more distinct and articulate exhibition of
+their nature was desirable. Herschel and Whewell had graduated at
+Cambridge in 1813 and 1816. Both of them were able
+mathematicians, and, with their contemporary Babbage, had done
+much to introduce at their university the methods of analysis
+developed on the Continent. The university was gradually roused;
+Herschel won a great name in astronomy, and Whewell took in
+earlier life a very active part in promoting scientific studies
+in England.(97*) Both of them had much closer acquaintance with
+the physical sciences than Mill, for whom they provided a useful
+store of materials. Herschel, though a friend of Whewell,
+approximates to Mill. A 'famous' review of Whewell's two books in
+the Quarterly of June 1841(98*) gives his position; but although
+he seems to perceive the source of Whewell's weakness, he
+scarcely comes to close quarters. It is enough for my purpose to
+speak briefly of the points at issue between Mill and Whewell.
+Whewell, like his most eminent contemporaries at Cambridge, was
+becoming aware that German speculation could no longer be
+overlooked. Herschel was son of a German; and Whewell's friends,
+Julius Hare (1795-1855) and Connop Thirlwall (1797-1875) were
+taking up the study of German. Their translation of Niebuhr's
+History of Rome (1828-1832) marked an epoch in English
+scholarship. Whewell meanwhile had read Kant, and been greatly
+impressed. Especially, as he says, he accepted Kant's theories of
+space, time, and, in some degree, causation, although he differed
+from Kant's doctrine as to other so-called 'fundamental
+ideas.'(99*) He 'gladly acknowledges,' too, his obligations to
+the Scottish school.(100*) In fact, it may be said that, like Sir
+W. Hamilton, he made a compromise between two modes of thought
+which very rapidly diverge from each other. Whewell begins his
+Philosophy of the Inductive Sciences by considering the
+fundamental antithesis of philosophy, which corresponds to the
+distinction between thoughts and things, necessity and
+experience, object and subject, and so forth. Time and space are,
+in his phrase, 'fundamental ideas,' upon which are founded the
+mathematical sciences. But there are other 'fundamental ideas' --
+'cause,' 'media,' 'polarity,' 'chemical affinity resemblance,'
+'excitability,' and 'final cause' -- which in succession become
+the foundation of various sciences.
+    These fundamental ideas are, as he admits, something like
+'innate ideas,' except that they can be 'developed.' They can
+somehow be 'superinduced upon facts,' and are not 'generated by
+experience.' I shall not attempt to explain a theory which seems
+to be radically incoherent, and which made no converts. It will
+be quite enough to notice two of the points of collision with
+Mill. Mill and Whewell agree(101*) that the 'first law of motion'
+which asserts the uniform rectilinear motion of a body not acted
+upon by a force was unknown till the time of Galileo. Whewell
+admits further that, 'historically speaking,' it was made 'by
+means of experiment.' We have, however, attained a point of view
+in which we ae that it might have been certainly known to be
+true, independently of experience, Mill naturally ridicules this
+doctrine, according to which we burden ourselves with 'truths
+independent of experience' and yet admit that they were proved
+'by (or 'by means of') experiment.' The history is admitted on
+both sides. It had been observed that the motion of all bodies
+ceases unless they receive a new impulse. The statement was true,
+though vague, for all bodies upon the earth. But the progress of
+astronomy and exact sciences required a more precise statement.
+Science has not simply to recognise that motion declines, but to
+show at what rate, and under what conditions it declines. Then,
+as we cannot measure 'absolute motion,' or assign any fixed point
+in space, we can obtain no rule as to absolute motion. If we
+assume, however, that we have to account not for motion but for
+change of motion, we can get a consistent 'law' which at once
+gives a sufficient account of many observed phenomena. We proceed
+to define force as the cause of change in motion. Then it becomes
+an identical proposition that all change of motion implies force,
+or that bodies not acted upon continue to move uniformly. Thus
+the definition of force takes the shape of an a priori axiom as
+to force. We imagine that instead of simply co-ordinating our
+experience we are 'applying a fundamental idea' to it, the idea,
+namely, of a 'cause' or 'force.'(102*) The axiom is not
+'independent of experience.' Rightly understood, the whole
+process is one of interpreting experience. Mill, however, is
+hardly correct in saying that the law was proved by experiment.
+We cannot observe a 'force' apart from the moving body. Force is
+one of Bentham's 'fictitious entities,' a word which enables us
+to state the relations of moving bodies accurately. It harmonises
+our conceptions. The old belief that all motions stop is not
+disproved by discovering cases in which force is absent, but by
+postulating the presence of force wherever we find change of
+motion. The real proof is not in direct experiment but in the
+harmonising of an indefinite number of complex statements when
+once the principle is systematically applied. It can reveal no
+fact to us, for nothing but experience can show that there are
+such things as the planets fortunately are, bodies moving freely,
+so as to illustrate the law continuously. Mill puts the first law
+of motion on a level with the law that the period of the earth's
+rotation is uniform. Both 'inductions,' he says, are accurately
+true.(103*) In fact, however, the earth's motion is not
+absolutely uniform, a truth which we discover by applying the
+laws of motion, though no direct experiment could exhibit the
+fact. The law of motion has the authority derived from its
+rendering possible a consistent interpretation of experiences,
+whereas the earth's rotation is simply a particular fact which
+might change if the conditions were altered. The 'law' implies,
+therefore, a reconstruction of experience not given by simple
+observation.
+    This applies to a controversy between Mill and Whewell as to
+Kepler's great discoveries. They both accept the familiar facts.
+Kepler's problem was to show how a simple configuration of the
+solar system would present the complex appearances which we
+directly observe. The old observations gave approximately correct
+statements of the movements of the planets, assuming the earth to
+be fixed, or, as we may say, neglecting the consideration of its
+motion. His theory shows how the apparent movements must result
+if we suppose the sun to be fixed, or rather (as the sun is not
+really fixed) if we measure from it as fixed. Whewell treats this
+as a case of 'induction.' It illustrates what he calls the
+'colligation of facts' -- a happy phrase, accepted by Mill, for
+the arrangement of facts in a new order, and the application to
+the facts of the appropriate conceptions; in this case, of the
+theorems of conic sections and solid geometry. The argument takes
+the form of a discussion as to whether this should be called
+induction or an operation subsidiary to induction.(104*) Kepler,
+as Mill urges, was simply describing facts. He discovered a fact
+in which all the positions of the planet agreed -- namely, that
+they were in an ellipse. If he had been somewhere in space, or
+the planet had left a visible track, he might have actually seen
+it to be an ellipse. He had only to 'piece together' his
+observations, as a man who sails round an island discovers its
+insularity. The only induction, then, was that as Mars had been
+in an ellipse he would stay in an ellipse. Apart from the verbal
+question whether the process be rightly called induction or
+subsidiary to induction, the real issue is in Mill's complaint
+that Whewell supposed a 'conception to be something added to the
+facts.' The conception, Mill admits, is in the mind, but it must
+be a conception of 'something in the facts.' The ellipse was in
+the facts before Kepler saw it. He did not put it, but found it
+there. Whether Kepler's process was inductive or deductive or
+subsidiary, it was an essential part of scientific investigation.
+The man of science must, as Mill truly says, interpret the facts,
+and nothing but the facts; he must also, as Whewell truly
+replies, 'colligate' or arrange the facts in a new order. The
+constructive process which justifies me in saying this is an
+island, or this is an ellipse, is precisely what makes scientific
+knowledge possible, and involves something more than a mere
+putting together of raw fact. Every fact, as Whewell sees, may be
+regarded as a case of countless laws, each of which may be true
+under appropriate conditions. To eliminate the irrelevant, to
+organise the whole system of truths, so as to make the order of
+nature (as Mill forcibly says (105*)) deducible from the smallest
+possible number of general propositions, is the aim of science;
+and Mill obscures this so far as he regards such operations as
+Kepler's as mere observations of fact, in such a sense as to omit
+the necessity of a new organisation of the data.
+    I have gone into some detail in order to show what was the
+essential characteristic of Mill's doctrine, which was itself, as
+I have said, an explicit statement of the principles implicitly
+assumed by his predecessors in the same school. To do him full
+justice, it would be necessary to show what was the alternative
+presented by his opponents. The Scottish writers and Whewell
+brought back 'innate ideas,' or endeavoured to connect knowledge
+by beliefs and intuitions arbitrarily inserted into the fabric as
+a kind of supernatural revelation. To explain these intuitive
+dogmas into effects of 'association' was the natural retort.
+Meanwhile the transcendental school was taking the bolder line of
+rejecting experience altogether, treating it with contempt as a
+mere rope of sand, and inferring that the universe itself is
+incarnate logic -- a complex web woven out of dialectic, and
+capable of being evolved from mixing 'is' and 'is not.' To Mill
+this appeared rightly, as I should say, to be mysticism and
+ontology, or a chimerical attempt to get rid of the inevitable
+conditions of all knowledge of reality. The real problem of
+metaphysics appears to be the discovery of the right method of
+statement, which will explain what appeared to be the insoluble
+antithesis between empiricism and intuitionism (to take Mill's
+phrase), and show that they are attempts to formulate correlative
+and essential truths.
+
+ IX. THE MORAL SCIENCES
+
+    Happily, philosophical theories are not really important
+solely as giving tenable and definitive results, but as
+indications of the intellectual temperament of different schools,
+and of the methods of reasoning which they find congenial.
+Without further disquisition, I shall conclude by indicating
+briefly Mill's application of his principles to the 'Moral
+Sciences.' This is the subject of the last book of his treatise,
+and represents, as we have seen, the purpose of the whole. As,
+however, the full application will appear hereafter, I may here
+confine myself to certain critical points. Mill begins of course
+by arguing that the 'Moral Sciences' are possible, and are to be
+created by applying the method of the physical sciences. This
+suggests the free will difficulty. The doctrine of 'philosophical
+necessity' had 'weighed on his existence like an incubus' during
+his early depression.(106*) He escaped by the solution which now
+forms a chapter in the Logic. He discovered that the Hume and
+Brown theory removed the misleading associations with the word
+'necessity.' It would be truer, he thinks, to say that matter is
+free than that mind is not free.(107*) The supposed external
+'tie' which binds things together is a nonentity. In practice,
+however, Owen and his like had become fatalists rather than
+necessitarians. Holding that character is formed by
+circumstances, they had forgotten that our own desires are part
+of the 'circumstances,' and therefore that the mind has the power
+to co-operate in the 'formation of its own character.' This, Mill
+thinks, is the ennobling belief which is completely reconcilable
+with the admission that human actions are caused, although the
+two doctrines had been on both sides regarded as incompatible.
+Upon this endless controversy I can only suggest one hint. Mill,
+I think, was right in saying that the difficulty depends on the
+confusion of 'determinism' with 'fatalism'. that is, with the
+belief that the will is coerced by some external force. But he
+does not see that his doctrine of causation always raises the
+difficulty. He orders us to think of the succession of ideas as
+due simply to association, as in the external world events are to
+be regarded as simply following each other; and in either case it
+is impossible to avoid the impression that there must be some
+connecting link which binds together entirely disparate
+phenomena. We cannot help asking why 'this' should always follow
+'that,' and inferring that there is something more than a bare
+sequence. The real line of escape is, I think, shown by an
+improved view of causation. If we hold that the theory of cause
+and effect simply arises from the analysis of a single process,
+we need no external force to act upon the will. There is no
+'coercion' involved. Given the effect, there must have been the
+cause; as given the cause, the effect must follow. 'All the
+universe must exist in order that I must exist' is as true as
+that 'I must exist if all the universe exists.' There is not a
+man plus a law, but the law is already implied in the man; or the
+distinction of cause and effect corresponds to a difference in
+our way of regarding the facts, and implies no addition to the
+facts. I must not, however, launch into this inquiry. I only note
+that Mill's view is connected with his favourite principle of the
+indefinite modifiability of character.(108*) To Mill, as to his
+father, this seemed to hold out hopes for the 'unlimited
+possibility' of elevating the race. If J. S. Mill denied 'the
+freedom of the will,' or, rather, the existence of 'will' itself
+as a separate entity, actually originating active principles, he
+admitted that the desires erroneously hypostatised as 'will'
+could work wonders. As the causal link between events is a
+figment, so, in the sphere of mind, we are bound by no fixed
+mysterious tie. He thus escapes from the painful sense of
+coercion by holding that an infinite variety of results is made
+possible by the infinite combinations of materials, though, in
+each case, there is a necessary sequence. Association, in fact,
+is omnipotent. As it can make the so-called necessary truths, it
+can transform the very essence of character. Accordingly the
+foundation of the moral sciences is to be found in the
+psychology, for an exposition of which he refers to his father,
+to Mr Bain, and to Mr Herbert Spencer.(109*) He thus drops,
+consciously or not, the claim of treating metaphysical doctrine
+as common ground, and assumes the truth of the association
+doctrine. To pass from these principles to questions of actual
+conduct requires a science not hitherto constructed -- the
+science, namely, of human character, for which he proposes the
+name Ethology. This, as we have seen, occupied his thoughts for
+some time, till it was ultimately dropped for political economy.
+The difficulty of forming such a science upon his terms is
+obvious. It holds an ambiguous place between 'psychology' and the
+'sociology' which he afterwards accepts from Comte; and as
+Professor Bain remarks, his doctrine would not fit easily to any
+such science. He has got rid of 'necessity' only too completely.
+In fact, his view of the indefinite power of association, and his
+strong desire to explain all differences, even those between the
+sexes, as due to outward circumstances, seem to make character
+too evanescent a phenomenon to be subjected to any definite
+laws.(110*) Ethology, however, is taken by him to be the science
+which corresponds to the 'art of education,' taken in its widest
+sense, and would, if constructed, be a 'deductive science,'
+consisting of corollaries from psychology, the 'experimental
+science.'(111*) The utility of such a science from his point of
+view is obvious. It would be a statement of the way in which
+society was actually to be built up out of the clusters of
+associated ideas, held together by the unit Man.
+    His method in 'moral science' follows the lines now laid
+down. All inference, as he has urged, consists of 'inductions'
+and 'the interpretation of inductions.'(112*) Deduction is the
+application to new cases of the laws observed in previous cases.
+As our knowledge of such laws multiplies, science tends to become
+more deductive. But the deduction is still an induction; and the
+true antithesis is not between deductive and inductive but
+between 'deductive and experimental.'(113*) Deductive reasoning,
+that is, simply applies a previous induction; but reasoning
+becomes 'experimental' when we have to interrogate nature for a
+fresh rule. This has an important bearing upon the next step.
+Social phenomena of all kinds are so complex that we cannot apply
+his four methods. They belong to the region (in his phraseology)
+of the 'intermixture of laws' and 'plurality of causes';(114*)
+and though the phrases be inaccurate, the example certainly
+illustrates their plausibility. Experimental reasoning is thus
+impossible. We have, therefore, to fall back upon the 'deductive'
+method, which, indeed, would lead to mere 'conjecture' were it
+not for the essential aid of Verification.(115*) The meaning of
+this is explained in two chapters really directed against
+Macaulay and James Mill, and giving the theory which had been
+suggested by their controversy.(116*) Macaulay used the
+'chemical' method. If men in society formed a new product
+differing from the individual man, as water from oxygen and
+hydrogen, or, in Mill's phrase, if the social union afforded
+'heteropathic' laws, we should have to study social science apart
+from the science of individual human nature. But as men even in
+society are still men, the social law is derivable from the laws
+of individual nature. It is a case of 'composition of causes.'
+Now the purely empirical reasoner neglects this obvious fact. He
+reasons from immediate experience without connecting his
+conclusions with psychology. He argues offhand that because the
+English have flourished under the old parliamentary system,
+therefore the old parliamentary system was perfect. That gives
+the crude empiricism preached by Macaulay in the name of Bacon.
+James Mill, on the contrary, represents the 'geometrical method.'
+He argued about politics as if all constitutional questions could
+be settled like a geometrical problem by appeals to a single
+axiom. Therefore a doctrine applicable to the immediate question
+of parliamentary reform was put forward as a general theory of
+government. Mill tells us in the Autobiography(117*) that his
+reflection upon this controversy led to a critical point of his
+doctrine. Science must be deductive, when the effects are simply
+the sum of those due to the operating causes; inductive, when
+they are not the sum, that is, when 'heteropathic' laws appear.
+Hence, he inferred, politics must be treated deductively, though
+not as his father had done, geometrically.
+    Both the criticisms are much to the purpose. Here I need only
+remark one point which affects Mill's later conclusions. Was
+Mill's inference correct? Is it true that the social phenomena
+represent simply the sum of the individual actions? Undoubtedly,
+there is a good deal to be said for it. Society does not exist
+apart from the individuals of which it is constructed. Moreover,
+in a great many cases, if we know the average character of an
+individual, we can deduce the character of a number of
+individuals. The bulk of what is called knowledge of the world is
+made up from more or less shrewd conjectures as to the motives of
+the average man. If we know what the average man thinks, we can
+guess what will be the opinion of a majority of the House of
+Commons. There are, however, two points which are taken for
+granted. In the first place, if we are to deduce the social
+phenomena from the individual, we must know the individual, who
+is already a tolerably complex product. In Mill's language, we
+require an ethology. and the name already indicates a difficulty.
+Can we consider the average man to be a constant? or must we not
+take into account the fact that he is also a product of society,
+and varies upon our hands as society develops? And beyond this
+there is the further question, whether, in so far as society can
+be properly regarded as an 'organism,' we can fully explain the
+laws of social combination by considering the laws of individual
+character. Are not the two sets of laws so intricately combined
+and blended that the analysis of a society into separate
+individuals becomes necessarily illusory? Can we explain the
+reciprocal actions and reactions of a social body by simply
+adding together the laws of individual conduct? These questions
+will meet us in considering Mill's practical application of his
+theories. They amount to asking whether 'sociology' can be
+constituted from a purely 'individualist' basis, and Mill's view
+of sociology is a vital point in his doctrine. The name had
+already been invented by Comte, and Mill at this time was greatly
+influenced by Comte, and especially was kindled to enthusiasm by
+the last two volumes of the Philosophie Positive, containing a
+connected view of history. Although Mill had, as he says, worked
+out his theory of induction before reading Comte, he owed a great
+deal, as he fully acknowledges, to Comte's philosophy. The two
+lines of thought, however, could never completely coalesce, and
+the result appears in this part of Mill's book.
+    Admitting a deductive method to be necessary, Mill
+distinguishes the 'direct' and the 'inverse methods.'(118*) The
+direct method is that of reasoning from one 'law of human
+nature,' considering, of course, the outward circumstances. This
+justifies the system of political economy, which considers men as
+acting solely from the desire of wealth. He points out that
+fallacies may here arise from applying to one state of society
+what is true of another; but he also holds that one who knows the
+political economy of England, or even of Yorkshire, knows that of
+all nations, if he have good sense enough to modify his
+conclusions.(119*) Mill admits fully that this method can only
+give us 'tendencies' -- results which are true if certain
+conditions, never fully assignable, are actually secured; and
+that it therefore requires to be constantly checked by
+verification, that is, by showing that the results are confirmed
+by direct observation. The admission, however, that such a method
+is in any case admissible separates him from Comte, who held that
+we must in all cases start from historical generalisations, not
+from independent 'laws of human nature.'(120*) Comte, in fact,
+rejected Mill's psychology and political economy as
+pseudo-sciences, and the difference is really vital. Mill,
+however, was prepared to accept much of Comte's teaching, and in
+particular allows the legitimacy of the 'historical method.' Upon
+this he writes a chapter,(121*) which shows no want of
+appreciation of Comte or of the great French writers by whom, as
+his Dissertations show, he had been deeply impressed.(122*) He
+complains of the English want of interest in such matters. They
+know nothing in French literature except the novels of Balzac and
+Eugène Sue, and are not aware that the French historians greatly
+surpass even the Germans.(123*) He points out the importance of
+the conception of progress and of the great modifications of
+human character. Still, he charges the French with a
+misconception. History can never give us a 'law of nature,' only
+'empirical laws,' which are not scientific till duly based upon
+psychology and 'ethology.' Comte alone has seen the necessity of
+a deeper foundation; and he proceeds to give an admiring account
+of some of Comte's conclusions. Especially he insists upon the
+necessity of connecting the social phenomena with the
+intellectual development of mankind. This Comte alone has
+attempted systematically, and he ends by emphatically adhering to
+the doctrine of the three stages -- theological, metaphysical,
+and positive. The essential difference, however, remains. Comte
+held that we must not explain humanity by man, but man by
+humanity.(124*) To Mill, of course, this savoured of mysticism.
+In any case, it marks the divergence of the two: Mill is a
+thorough individualist. He thinks it absolutely necessary to base
+sociology upon 'ethology,' that is, a theory of the individual
+character, and this again must be based upon psychology.
+Sympathising with Comte's general purpose, and warmly admiring
+some of his results, Mill adheres to a doctrine which was sure to
+bring him into conflict with his master. To create the moral
+sciences, we must start from a scientific psychology. This means
+that we must work on the lines of Hartley, James Mill, and his
+own younger contemporaries, Professor Bain and Mr Herbert
+Spencer. The corollary from psychology is ethology, or the
+science of character. This view does not conflict with the
+admission of the great importance of some historical method. At
+present, it needs only to be said that Mill accepts that method
+very cordially, subject to two conditions. First, he holds that
+some social sciences -- political economy being, in fact, the
+only one to be clearly specified -- can be deduced from ethology
+and psychology independently of history, though requiring
+verification from history. Secondly, he holds that the historical
+method cannot reveal true 'laws of nature' unless it is properly
+connected with psychological data. How far Mill really
+appreciated the significance of the historical method, or
+perceived its true relation to other departments of thought, must
+be left for consideration.
+
+NOTES:
+
+1. Autobiography, p. 226.
+
+2. Logic, p. 389 (bk. iii. ch. xxi, section 1). I quote from the
+popular edition of 1898. Book, chapter and section are generally
+applicable to former edition.
+
+3. See letter in note to chapter upon Mill in Taine's History of
+English Literature.
+
+4. James Mill's Analysis, i. 352 n.
+
+5. See an interesting article in G. Croom Robertson's
+Philosophical Remains (1894), pp. 28-45.
+
+6. Logic, Introduction, section 5.
+
+7. Ibid., p. 29 (bk i, ch. iii, section 1).
+
+8. Ibid., p. 8 section 7.
+
+9. See John Grote's Exploratio Philosophica (1865), p. 209 n.
+This book is, I think, by far the most interesting comtemporary
+discussion of Mill, Hamilton, and Whewell. It was, unfortunately,
+desultory and unfinished, but it is full of acute criticism, and
+charmingly candid and modest. Mill's Logic is especially
+discussed in chapters viii and ix. Grote holds, and I think
+truly, that Mill's attempt to divide metaphysics from logic leads
+to real confusion, and especially to an untenable mode of
+conceiving the relation between 'things' and thoughts. I cannot
+discuss Grote's views; but the book is full of interesting
+suggestions though the result are rather vague. See the excellent
+account of Grote by the late Croom Robertson in the History of
+National Biography.
+
+10. Mill, in his review of Whately, refers to Du Trieu (whose
+treatise had been privately printed by him and his friends),
+Crakenthorpe and Burgersdyk; and in the Examination of Hamilton's
+Philosophy (ch. xxii) quotes also Sanderson, Wallis, Aldrich,
+Keckermann, Bartholinus, and Du Hamel as the 'authorities nearest
+at hand'. There is nothing, as I am told by the learned,
+exceptionally interesting in Du Trieu; and the selection was
+probably accidental.
+
+11. Logic, p. 13 (bk. i, ch. ii, section 1).
+
+12. Ibid., p. 29 (bk. i, ch. iii, section 1).
+
+13. Ibid., p. 49 (bk. i, ch. iii, section 15).
+
+14. Ibid., p. 35 (bk. i, ch. iv, section 6).
+
+15. Ibid., p. 38 (bk. i, ch. iv, section 7).
+
+16. Logic, p. 40 (bk. i, ch. iv, section 8).
+
+17. Ibid. p. 41 (bk. i, ch. iii, section 9).
+
+18. Logic, p. 43 (bk. i, ch. iv, section 10).
+
+19. Ibid., p. 68 (bk. i, ch. v, section 6).
+
+20. Logic, p. 61 (bk. i, ch. v, section 3).
+
+21. Ibid., p. 63 (bk. i, ch. v, section 4).
+
+22. It would be interesting to compare this part of Mill with the
+corresponding part of Hume's Treatise. Hume, like Mill, begins by
+accepting causation as one of the relations involved, and then
+explains it as merely derivative. His treatment of relations
+generally, especially the division of relations into the two
+classes, which do or do not depend upon the 'ideas' themselves,
+has a bearing upon Mill's doctrine too intricate to be considered
+here. [Treatise of Human Nature, pt. vi. sec. 1.] I do not think
+that Mill was very familiar with Hume's writings. A note to the
+concluding chapter of the Examination of Hamilton seems to imply
+that he was not acquainted with the Treatise; nor does he appear
+from his posthumous Essays to have studied Hume's writings upon
+theology. Whether T.H. Green was right in holding that Hume had a
+more distinct view than his successor of some metaphysical
+difficulties, I need not inquire.
+
+23. Logic, p. 70 (bk. i, ch. v, section 7).
+
+24. Ibid. p. 434 (bk. iv, ch. iii, section 2 n.).
+
+25. Logic, p. 132 (bk. ii. ch. v, section 4).
+
+26. Especially the early review of Whately.
+
+27. This suggests a parallel to the old English system of
+pleading -- as a preparatory process for bringing out the issues
+really involved in a dispute -- which is said to have been
+thoroughly logical, though it became excessively cumbrous and
+technical.
+
+28. Logic, p. 327 (bk. v, ch. vi, section 3). So in Examination
+of Hamilton, ch. xxii., 'The syllogism is not the form in which
+we necessarily reason, but a test of reasoning.'
+
+29. James Mill's Analysis, ii. 427.
+
+30. Logic, p. 131. (bk. ii, ch. iii, section 5).
+
+31. Logic, p. 72 (bk. i, ch. vi, section 2).
+
+32. Ibid. p. 113 (bk. ii, ch. ii, section 5).
+
+33. Autobiography, p. 181. The passage to which Mill refers is
+apparently that in Stewart's Works, iii, 24-36 and 113-52.
+Stewart quotes a passage from Dr Beddoes' Observations on the
+Nature of Demonstrative Evidence (1793), which anticipates Mill's
+view that the 'mathematical sciences are sciences of experiment
+and observation, founded solely on the induction of particular
+facts.' Stewart professes to follow Locke (see Locke's Essay, bk.
+iv, ch. xii, section 15), and gives some references to other
+discussions on the questions.
+
+34. Logic, p. 94 (bk. i, ch. viii, section 5).
+
+35. Logic, p. 125 (bk. ii, ch. iii, section 3).
+
+36. Logic, p. 126 (bk. ii, ch. iii, section 4).
+
+37. Ibid. p. 107 (bk. ii, ch. i, section 3).
+
+38. Whiston (Memoirs, i, 35) reports that Newton saw by
+intuition, or previously to formal demonstration, the equality of
+all parallelograms described about the conjugate diameters of an
+ellipse. Most of us can only learn the fact by painful
+construction.
+
+39. Hume's Works (Grose and Green), ii, 432 and iv, 134. Hume's
+statement is criticised by G.H. Lewes in his Problems, etc. i,
+391, but, I think, on an erroneous interpretation.
+
+40. Logic, p. 149 (bk. ii, ch. v. section 1).
+
+41. Ibid. p. 151 (bk. ii. ch. v. section 4).
+
+42. Ibid. p. 147 (bk. ii. ch. v. section 1).
+
+43. Ibid. p. 183 (bk. ii. ch. vii section 5). In the Examination
+of Hamilton he is less confident. It is 'not only inconceivable
+to us, but inconceivable that it should be mad conceivable' that
+the same statement should be both true and false (ch. vi. p. 67).
+Afterwards (ch. xxi. p. 418) he will only decide that such laws
+are now 'invincibly' laws of thought, though they may or may not
+be 'capable of alteration by experience.'
+
+44. Logic, p. 148 (bk. ii. ch. v. section 1).
+
+45. Ibid. p. 168 (bk. ii. ch. vi. section 2).
+
+46. Ibid. p. 400 (bk. iii. ch. xxiv. section 5).
+
+47. Ibid. p. 401 (bk. iii. ch. xxiv. section 5).
+
+48. Ibid. p. 170 (bk. ii. ch. vi. section 3).
+
+49. Ibid. p. 167 (bk. ii. ch. vi. section 2).
+
+50. Logic, p. 212 (bk. iii. ch. v. section 1).
+
+51. Logic, p. 401 (bk. iii. ch. xxiv. section 6).
+
+52. Logic, fourth edition, i. 356 (bk. iii. ch. v. section 1).
+This phase is omitted in the last edition (p. 211), but the
+meaning is apparently not altered.
+
+53. Ibid. p. 399 (bk. iii. ch. xxiv. section 5).
+
+54. See Logic, p. 177 (bk. ii. ch. vii. section 3), and p. 493
+(bk. v. ch. ii. section 3).
+
+55. Ibid. p. 370 (bk. ii. ch. xxi. section 1).
+
+56. Logic, p. 206 (bk. iii. ch. iii. section 3).
+
+57. Ibid. p. 213 (bk. iii. ch. v. section 2).
+
+58. Logic, bk. iii. ch. v.
+
+59. Ibid. p. 217 (bk. iii. ch. v. section 3).
+
+60. Logic, p. 221 (bk. iii. ch. v. section 5).
+
+61. Ibid. p. 227 (bk. iii. ch. v. section 8).
+
+62. Ibid. p. 224 (bk. iii. ch. v. section 7).
+
+63. Logic, p. 243 (bk. iii. ch. vi. section 1).
+
+64. Logic, p. 245 (bk. iii. ch. vi. section 2).
+
+65. Grove's work was first published in 1846, i.e. after the
+first edition of the Logic.
+
+66. Logic, fourth edition, p. 477 (bk. iii. ch. x. section 4). In
+the eighth edition this passage was suppressed, and Mill
+discusses the theory of 'conservation or persistence of force,"
+as he calls it, in an earlier section. -- Logic, p. 228 (bk. iii.
+ch. v. section 10).
+
+67. Logic, p. 501 (bk. v. ch. iii. section 8).
+
+68. See, for example, his criticism of a 'luminiferous ether' in
+answer to Whewell, Logic, p. 328 (bk. iii. ch. xiv. section 6).
+He agrees here with Comte (Phil. Positive, ii. 639), whom he
+perhaps follows.
+
+69. See especially the chapter on causation in the Examination of
+Hamilton.
+
+70. Tyndall, e.g., in his Heat as a Mode of Motion, quotes
+Bacon's anticipation. It is summed up by Whewell (Phil. Ind. ii.,
+Sciences, ii. 239) in the statement that the 'form of heat is an
+expansive, restrained motion, modified in certain ways, and
+exerted in the smaller particles of the body.'
+
+71. Logic, p. 500 (bk. v. ch. iii. section 7).
+
+72. Logic, p. 288 (bk. iii. ch. x. section 3).
+
+73. Logic, p. 500 (bk. v. ch. iii section 7). It may be noted
+that Whewell (in 1847) equally regards Bacon's theory as a
+complete failure. He thinks more favourably of an 'imponderable
+fluid.' Mill, therefore, had good authority as to the failure.
+The modern doctrine, says Lord Kelvin (Encycl. Britannica), was
+established about 1851. See Huxley on the 'Progress of Science'
+(Essays, i. 86) for Whewell's treatment of Bacon's guess.
+
+74. Logic, p. 226 (bk. iii. ch. v. section 7).
+
+75. Logic, p. 306 (bk. iii. ch. xii. section 2). See Chalmer's
+Natural Theology, bk. ii. ch. i.
+
+76. Logic, pp. 377-85 (bk. iii. ch. xxii).
+
+77. Logic, pp. 79-81 (bk. i. ch. vii. section 4).
+
+78. Logic, pp. 377-86 (bk. iii. ch. xxii).
+
+79. It has been suggested that upon Mill's principles the change
+of a lobster's colour to red is 'caused' when he is boiled, but
+the colour before boiling uncaused. A case in the South
+Kensington Museum showing variously coloured crows is a tacit
+comment on Mill's illustration. The colour of crows is obviously
+considered by modern men of science as implying causal relations.
+
+80. Logic, p. 382 (bk. iii. ch. xxii. section 6).
+
+81. Ibid., p. 381 (bk. iii. ch. xxii. section 4).
+
+82. Logic, p. 470 (bk. iv. ch. vii. section 4). It is curious
+that this remains in the last edition, that is, after the first
+Darwinian controversies.
+
+83. See Sigwart's Logik (1889), ii. 456, etc.
+
+84. Logic, pp. 370-76 (bk. iii. ch. xx. section 1, 4).
+
+85. Ibid. p. 372 (bk. iii. ch. xxi. section 2).
+
+86. Ibid. p. 373 (bk. iii. ch. xxi. section 3).
+
+87. Logic, p. 382 (bk. iii. ch. xxii. section 5).
+
+88. Ibid. p. 384 (bk. iii. ch. xxii. section 8).
+
+89. As he says in the Examination of Hamilton, ch. xix.
+
+90. Logic. p. 142 (bk. ii. ch. iv. section 4).
+
+91. Some writers, especially G.H. Lewes, have tried to maintain
+that the statement of the uniformity of Nature is an 'identical
+proposition.' The attempt is unsatisfactory, and certainly does
+not seem to have found favour with later writers; but, though I
+am unable to discuss the question, I will suggest that it seems
+to indicate the ideal result of reasoning. We assume that, if our
+knowledge were complete, we could state all the laws of action
+and reaction of any element as necessary consequences of its
+primitive constitution, as we can deduce all the properties of
+number and space from primary principles. Though we can never
+attain such a consummation, we can reject any theory which
+contradicts it, and, therefore, such doctrines as the 'plurality
+of causes,' which come to supposing that an identical process may
+be analysed in two inconsistent ways.
+
+92. E.g., by Mr F.H. Bradley in his Principles of Logic (1883),
+pp. 329-42. Dr Venn, who is much more favourable to Mill,
+discusses them in his Empirical or Inductive Logic (1889), pp.
+400-31, shows very clearly how they assume what he calls the
+'popular', as distinguished from the 'rigidly scientific', view
+of causation. Elsewhere (p. 58) he remarks that the popular might
+be called the 'Brown-Herschel-Mill view,' as those writers
+popularised the doctrine first clearly set forth by Hume. See
+also Sigwart's Logik (1889), ii. 469-500.
+
+93. Logic, p. 284 (bk. iii. ch. ix. section 6).
+
+94. Sigwart's Logik (1889) ii. 461.
+
+95. Herschel's Discourse first appeared in 1830 as the first
+volume of Lardner's Cabinet Cyclopaedia. The 'four methods' are
+noticed, as Mill states, though with comparative vagueness, in
+chap. vi of the Discourse. Jevons prefers the statement to
+Mill's. Whewell makes the obvious remark (Philosophy of
+Discovery, p. 284) that the four methods resemble some of Bacon's
+Praerogative Instantiarum.
+
+96. For Whewell, see the Writing so described as to form a
+biography by I. Todhunter (2 vols. 1876). The Life and
+Correspondence, by Mrs Stair Douglas, appeared in 1888. Whewell's
+chief philosophical works are: History of the Inductive Sciences
+(3 vols. 8vo, 1837; section edition, 1840; third edition, 1857);
+Philosophy of the Inductive Sciences (2 vols. 1840: second
+edition, 1857). This book was afterwards divided into three: --
+History of Scientific Ideas, 2 vols. 1858; Novum Organum
+Renovatum, 1 vol. 1858; and Philosophy of Discovery, 1 vol. 1860.
+Whewell also wrote a pamphlet Of Induction with special reference
+to Mr J. Stuart Mill's 'System of Logic'. This is republished as
+chap. xxii of his Philosophy of Discovery.
+
+97. Republished in Herschel's Essays (1857), pp. 142-256.
+
+98. Scientific Ideas, i. 88 (note added to this edition).
+
+99. Philosophy of the Inductive Sciences (1847), ii. 311.
+
+100. Philosophy of the Inductive Sciences, i. 80.
+
+101. Whewell's Philosophy of Inductive Sciences, i. 216-21;
+Mill's Logic, pp. 160, 265 (bk. ii. ch. v. section 6, and bk.
+iii. ch. viii. section 7).
+
+102. Whewell, indeed, says that the 'necessary law' is that a
+change of velocity must have a cause; the 'empirical law' tells
+us that the time during which it has been moving is not a cause.
+-- Philosophy of the Inductive Sciences, ii. 591. I need not go
+into this.
+
+103. Logic, p. 151 (bk. ii. ch. v. section 3).
+
+104. Logic, p. 190, etc. (bk. iii. ch. ii. section 3, 4); Ibid.
+p. 423 (bk. iv. ch. i. section 4).
+
+105. Logic, p. 207 (bk. iii. ch. iv. section 1).
+
+106. Autobiography, pp. 168, 173.
+
+107. Logic, p. 548 (bk. vi. ch. ii. section 2).
+
+108. Autobiography, p. 108.
+
+109. Logic, p. 557 (bk. vi. ch. iv. section 3).
+
+110. See his view that the difference of character between the
+sexes is due to external circumstances, and therefore removable.
+-- Logic, p. 566 (bk. vi. ch. v. section 3).
+
+111. Logic, pp. 567, 569 (bk. vi. ch. v. section 4, 5). (Art is
+misprinted 'act' in the last edition.)
+
+112. Ibid. p. 185 (bk. iii. ch. i. section 1).
+
+113. Logic. p. 144 (bk. ii. ch. iv. section 5).
+
+114. Ibid. pp. 576, 585 (bk. vi. ch. vii. section 4; bk. iv. ch.
+ix. section 2).
+
+115. Ibid, p. 303 (bk. iii. ch. xi. section 3).
+
+116. Autobiography, p. 159.
+
+117. Autobiography, p. 160.
+
+118. Logic, p. 583 (bk. vi. ch. ix. section 1).
+
+119. Ibid. p. 590 (bk. vi. ch. i. section 3).
+
+120. Ibid. p. 584 (bk. vi. ch. ix. section 1).
+
+121. Bk. vi. ch. x.
+
+122. See especially the reviews of Tocqueville, Michelet, and
+Guizot in the Dissertations.
+
+123. Dissertations, ii. 121.
+
+124. Lettres inédites de Mill à Comte (1899), p. xxxv. Mill's
+letters to Comte upon his view of ethology are significant.
+

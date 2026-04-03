@@ -1,0 +1,2865 @@
+
+
+
+
+
+The Principles of Economics
+
+
+by Alfred Marshall
+
+
+
+
+
+Book II
+
+
+
+Some Fundamental Notions
+
+
+
+
+
+Chapter 1
+
+
+
+Introductory
+
+
+
+    1. We have seen that economics is, on the one side, a Science
+
+of Wealth; and, on the other, that part of the Social Science of
+
+man's action in society, which deals with his Efforts to satisfy
+
+his Wants, in so far as the efforts and wants are capable of
+
+being measured in terms of wealth, or its general representative,
+
+i.e. money. We shall be occupied during the greater part of this
+
+volume with these wants and efforts; and with the causes by which
+
+the prices that measure the wants are brought into equilibrium
+
+with those that measure the efforts. For this purpose we shall
+
+have to study in Book III wealth in relation to the diversity of
+
+man's wants, which it has to satisfy; and in Book IV wealth in
+
+relation to the diversity of man's efforts by which it is
+
+produced.
+
+    But in the present Book, we have to inquire which of all the
+
+things that are the result of man's efforts, and are capable of
+
+satisfying man's wants, are to be counted as Wealth; and into
+
+what groups or classes these are to be divided. For there is a
+
+compact group of terms connected with Wealth itself, and with
+
+Capital, the study of each of which throws light on the others;
+
+while the study of the whole together is a direct continuation,
+
+and in some respects a completion, of that inquiry as to the
+
+scope and methods of economics on which we have just been
+
+engaged. And, therefore, instead of taking what may seem the more
+
+natural course of starting with an analysis of wants, and of
+
+wealth in direct relation to them, it seems on the whole best to
+
+deal with this group of terms at once.
+
+    In doing this we shall of course have to take some account of
+
+the variety of wants and efforts; but we shall not want to assume
+
+anything that is not obvious and a matter of common knowledge.
+
+The real difficulty of our task lies in another direction; being
+
+the result of the need under which economics, alone among
+
+sciences, lies of making shift with a few terms in common use to
+
+express a great number of subtle distinctions.
+
+    2. As Mill says:(1*) - "The ends of scientific classification
+
+are best answered when the obj ects are formed into groups
+
+respecting which a greater number of general propositions can be
+
+made, and those propositions more important, than those which
+
+could be made respecting any other groups into which the same
+
+things could be distributed." But we meet at starting with the
+
+difficulty that those propositions which are the most important
+
+in one stage of economic development, are not unlikely to be
+
+among the least important in another, if indeed they apply at
+
+all.
+
+    In this matter economists have much to learn from the recent
+
+experiences of biology: and Darwin's profound discussion of the
+
+question(2*) throws a strong light on the difficulties before us.
+
+He points out that those parts of the structure which determine
+
+the habits of life and the general place of each being in the
+
+economy of nature, are as a rule not those which throw most light
+
+on its origin, but those which throw least. The qualities which a
+
+breeder or a gardener notices as eminently adapted to enable an
+
+animal or a plant to thrive in its environment, are for that very
+
+reason likely to have been developed in comparatively recent
+
+times. And in like manner those properties of an economic
+
+institution which play the most important part in fitting it for
+
+the work which it has to do now, are for that very reason likely
+
+to be in a great measure of recent growth.
+
+    Instances are found in many of the relations between employer
+
+and employed, between middleman and producer, between bankers and
+
+their two classes of clients, those from whom they borrow and
+
+those to whom they lend. The substitution of the term "interest"
+
+for "usury" corresponds to a general change in the character of
+
+loans, which has given an entirely new key-note to our analysis
+
+and classification of the different elements into which the cost
+
+of production of a commodity may be resolved. Again, the general
+
+scheme of division of labour into skilled and unskilled is
+
+undergoing a gradual change; the scope of the term "rent" is
+
+being broadened in some directions and narrowed in others; and so
+
+on.
+
+    But on the other hand we must keep constantly in mind the
+
+history of the terms which we use. For, to begin with, this
+
+history is important for its own sake; and because it throws side
+
+lights on the history of the economic development of society. And
+
+further, even if the sole purpose of our study of economics were
+
+to obtain knowledge that would guide us in the attainment of
+
+immediate practical ends, we should yet be bound to keep our use
+
+of terms as much as possible in harmony with the traditions of
+
+the past; in order that we might be quick to perceive the
+
+indirect hints and the subtle and subdued warnings, which the
+
+experiences of our ancestors offer for our instruction.
+
+    3. Our task is difficult. In physical sciences indeed,
+
+whenever it is seen that a group of things have a certain set of
+
+qualities in common, and will often be spoken of together, they
+
+are formed into a class with a special name; and as soon as a new
+
+notion emerges, a new technical term is invented to represent it.
+
+But economics cannot venture to follow this example. Its
+
+reasonings must be expressed in language that is intelligible to
+
+the general public; it must therefore endeavour to conform itself
+
+to the familiar terms of everyday life, and so far as possible
+
+must use them as they are commonly used.
+
+    In common use almost every word has many shades of meaning,
+
+and therefore needs to be interpreted by the context. And, as
+
+Bagehot has pointed out, even the most formal writers on economic
+
+science are compelled to follow this course; for otherwise they
+
+would not have enough words at their disposal. But unfortunately
+
+they do not always avow that they are taking this freedom;
+
+sometimes perhaps they are scarcely even aware of the fact
+
+themselves. The bold and rigid definitions, with which their
+
+expositions of the science begin, lull the reader into a false
+
+security. Not being warned that he must often look to the context
+
+for a special interpretation clause, he ascribes to what he reads
+
+a meaning different from that which the writers had in their own
+
+minds; and perhaps misinterprets them and accuses them of folly
+
+of which they had not been guilty.(3*)
+
+    Again, most of the chief distinctions marked by economic
+
+terms are differences not of kind but of degree. At first sight
+
+they appear to be differences of kind, and to have sharp outlines
+
+which can be clearly marked out; but a more careful study has
+
+shown that there is no real breach of continuity. It is a
+
+remarkable fact that the progress of economics has discovered
+
+hardly any new real differences in kind, while it is continually
+
+resolving apparent differences in kind into differences in
+
+degree. We shall meet with many instances of the evil that may be
+
+done by attempting to draw broad, hard and fast lines of
+
+division, and to formulate definite propositions with regard to
+
+differences between things which nature has not separated by any
+
+such lines.
+
+    4. We must then analyze carefully the real characteristics of
+
+the various things with which we have to deal; and we shall thus
+
+generally find that there is some use of each term which has
+
+distinctly greater claims than any other to be called its leading
+
+use, on the ground that it represents a distinction that is more
+
+important for the purposes of modern science than any other that
+
+is in harmony with ordinary usage. This may be laid down as the
+
+meaning to be given to the term whenever nothing to the contrary
+
+is stated or implied by the context. When the term is wanted to
+
+be used in any other sense, whether broader or narrower, the
+
+change must be indicated.
+
+    Even among the most careful thinkers there will always remain
+
+differences of opinion as to the exact places in which some at
+
+least of the lines of definition should be drawn. The questions
+
+at issue must in general be solved by judgments as to the
+
+practical convenience of different courses; and such judgments
+
+cannot always be established or overthrown by scientific
+
+reasoning: there must remain a margin of debatable ground. But
+
+there is no such margin in the analysis itself: if two people
+
+differ with regard to that, they cannot both be right. And the
+
+progress of the science may be expected gradually to establish
+
+this analysis on an impregnable basis.(4*)
+
+
+
+NOTES:
+
+
+
+1. Logic, Bk. IV, ch. VII, Par. 2.
+
+
+
+2. Origin of Species, ch. XIV.
+
+
+
+3. We ought "to write more as we do in common life, where the
+
+context is a sort of unexpressed 'interpretation clause'; only as
+
+in Political Economy we have more difficult things to speak of
+
+than in ordinary conversation, we must take more care, give more
+
+warning of any change; and at times write out 'the interpretation
+
+clause' for that page or discussion lest there should be any
+
+mistake. I know that this is difficult and delicate work; and all
+
+that I have to say in defence of it is that in practice it is
+
+safer than the competing plan of inflexible definitions. Any one
+
+who tries to express various meanings on complex things with a
+
+scanty vocabulary of fastened senses, will find that his style
+
+grows cumbrous without being accurate, that he has to Use long
+
+periphrases for common thoughts, and that after all he does not
+
+come out right, for he is half the time falling back into the
+
+senses which fit the case in hand best, and these are sometimes
+
+one, sometimes another, and almost always different from his
+
+'hard and fast' sense. In such discussions we should learn to
+
+vary our definitions as we want, just as we say 'let x, y, z,
+
+mean' now this, and now that, in different problems; and this,
+
+though they do not always avow it, is really the practice of the
+
+clearest and most effective writers." (Bagehot's Postulates of
+
+English Political Economy, pp. 78-9.) Cairnes also (Logical
+
+Method of Political Economy, Lect. VI) combats "the assumption
+
+that the attribute on which a definition turns ought to be one
+
+which does not admit of degrees"; and argues that "to admit of
+
+degrees is the character of all natural facts."
+
+
+
+4. When it is wanted to narrow the meaning of a term (that is, in
+
+logical language, to diminish its extension by increasing its
+
+intension), a qualifying adjective will generally suffice, but a
+
+change in the opposite direction cannot as a rule be so simply
+
+made. Contests as to definitions are often of this kind: - A and
+
+B are qualities common to a great number of things, many of these
+
+things have in addition the quality C, and again many the quality
+
+D, whilst some have both C and D. It may then be argued that on
+
+the whole it will be best to define a term so as to include all
+
+things which have the qualities A and B, or only those which have
+
+the qualities A, B, C, or only those which have the qualities A,
+
+B, D; or only those which have A, B, C, D. The decision between
+
+these various courses must rest on considerations of practical
+
+convenience, and is a matter of far less importance than a
+
+careful study of the qualities A, B, C, D, and of their mutual
+
+relations. But unfortunately this study has occupied a much
+
+smaller space in English economics than controversies as to
+
+definitions; which have indeed occasionally led indirectly to the
+
+discovery of scientific truth, but always by roundabout routes,
+
+and with much waste of time and labour.
+
+
+
+Chapter 2
+
+
+
+Wealth
+
+
+
+1. All wealth consists of desirable things; that is, things which
+
+satisfy human wants directly or indirectly: but not all desirable
+
+things are reckoned as wealth. The affection of friends, for
+
+instance, is an important element of wellbeing, but it is not
+
+reckoned as wealth, except by a poetic licence. Let us then begin
+
+by classifying desirable things, and then consider which of them
+
+should be accounted as elements of wealth.
+
+    In the absence of any short term in common use to represent
+
+all desirable things, or things that satisfy human wants, we may
+
+use the term Goods for that purpose.
+
+    Desirable things or goods are Material, or Personal and
+
+Immaterial. Material goods consist of useful material things, and
+
+of all rights to hold, or use, or derive benefits from material
+
+things, or to receive them at a future time. Thus they include
+
+the physical gifts of nature, land and water, air and climate;
+
+the products of agriculture, mining, fishing, and manufacture;
+
+buildings, machinery, and implements; mortgages and other bonds;
+
+shares in public and private companies, all kinds of monopolies,
+
+patent-rights, copyrights; also rights of way and other rights of
+
+usage. Lastly, opportunities of travel, access to good scenery,
+
+museums, etc. are the embodiment of material facilities, external
+
+to a man; though the faculty of appreciating them is internal and
+
+personal.
+
+    A man's non-material goods fall into two classes. One
+
+consists of his own qualities and faculties for action and for
+
+enjoyment; such for instance as business ability, professional
+
+skill, or the faculty of deriving recreation from reading or
+
+music. All these lie within himself and are called internal. The
+
+second class are called external because they consist of
+
+relations beneficial to him with other people. Such, for
+
+instance, were the labour dues and personal services of various
+
+kinds which the ruling classes used to require from their serfs
+
+and other dependents. But these have passed away; and the chief
+
+instances of such relations beneficial to their owner now-a-days
+
+are to be found in the good will and business connection of
+
+traders and professional men.(1*)
+
+    Again, goods may be transferable or non-transferable. Among
+
+the latter are to be classed a person's qualities and faculties
+
+for action and enjoyment (i.e. his internal goods); also such
+
+part of his business connection as depends on personal trust in
+
+him and cannot be transferred, as part of his vendible good will;
+
+also the advantages of climate, light, air, and his privileges of
+
+citizenship and rights and opportunities of making use of public
+
+property.(2*)
+
+    Those goods are free, which are not appropriated and are
+
+afforded by Nature without requiring the effort of man. The land
+
+in its original state was a free gift of nature. But in settled
+
+countries it is not a free good from the point of view of the
+
+individual. Wood is still free in some Brazilian forests. The
+
+fish of the sea are free generally: but some sea fisheries are
+
+jealously guarded for the exclusive use of members of a certain
+
+nation, and may be classed as national property. Oyster beds that
+
+have been planted by man are not free in any sense; those that
+
+have grown naturally are free in every sense if they are not
+
+appropriated; if they are private property they are still free
+
+gifts from the point of view of the nation. But, since the nation
+
+has allowed its rights in them to become vested in private
+
+persons, they are not free from the point of view of the
+
+individual; and the same is true of private rights of fishing in
+
+rivers. But wheat grown on free land and the fish that have been
+
+landed from free fisheries are not free: for they have been
+
+acquired by labour.
+
+    2. We may now pass to the question which classes of a man's
+
+goods are to be reckoned as part of his wealth. The question is
+
+one as to which there is some difference of opinion, but the
+
+balance of argument as well as of authority seems clearly to
+
+incline in favour of the following answer.
+
+    When a man's wealth is spoken of simply, and without any
+
+interpretation clause in the context, it is to be taken to be his
+
+stock of two classes of goods.
+
+    In the first class are those material goods to which he has
+
+(by law or custom) private rights of property, and which are
+
+therefore transferable and exchangeable. These it will be
+
+remembered include not only such things as land and houses,
+
+furniture and machinery, and other material things which may be
+
+in his single private ownership, but also any shares in public
+
+companies, debenture bonds, mortgages and other obligations which
+
+he may hold requiring others to pay money or goods to him. On the
+
+other hand, the debts which he owes to others may be regarded as
+
+negative wealth; and they must be subtracted from his gross
+
+possessions before his true net wealth can be found.
+
+    Services and other goods, which pass out of existence in the
+
+same instant that they come into it, are, of course, not part of
+
+the stock of wealth.(3*)
+
+    In the second class are those immaterial goods which belong
+
+to him, are external to him, and serve directly as the means of
+
+enabling him to acquire material goods. Thus it excludes all his
+
+own personal qualities and faculties, even those which enable him
+
+to earn his living; because they are internal. And it excludes
+
+his personal friendships, in so far as they have no direct
+
+business value. But it includes his business and professional
+
+connections, the organization of his business, and - where such
+
+things exist - his property in slaves, in labour dues, etc.
+
+    This use of the term Wealth is in harmony with the usage of
+
+ordinary life: and, at the same time, it includes those goods,
+
+and only those, which come clearly within the scope of economic
+
+science, as defined in Book I; and which may therefore be called
+
+economic goods. For it includes all those things, external to a
+
+man, which (i) belong to him, and do not belong equally to his
+
+neighbours, and therefore are distinctly his; and which (ii) are
+
+directly capable of a money measure, - a measure that represents
+
+on the one side the efforts and sacrifices by which they have
+
+been called into existence, and, on the other, the wants which
+
+they satisfy.(4*)
+
+    3. A broader view of wealth may indeed be taken for some
+
+purposes; but then recourse must be had to a special
+
+interpretation clause, to prevent confusion. Thus, for instance,
+
+the carpenter's skill is as direct a means of enabling him to
+
+satisfy other people's material wants, and therefore indirectly
+
+his own, as are the tools in his work-basket; and perhaps it may
+
+be convenient to have a term which will include it as part of
+
+wealth in a broader use. Pursuing the lines indicated by Adam
+
+Smith,(5*) and followed by most continental economists, we may
+
+define personal wealth so as to include all those energies,
+
+faculties, and habits which directly contribute to making people
+
+industrially efficient; together with those business connections
+
+and associations of any kind, which we have already reckoned as
+
+part of wealth in the narrower use of the term. Industrial
+
+faculties have a further claim to be regarded as economic in the
+
+fact that their value is as a rule capable of some sort of
+
+indirect measurement.(6*)
+
+    The question whether it is ever worth while to speak of them
+
+as wealth is merely one of convenience, though it has been much
+
+discussed as if it were one of principle.
+
+    Confusion would certainly be caused by using the term
+
+"wealth" by itself when we desire to include a person's
+
+industrial qualities. "Wealth" simply should always mean external
+
+wealth only. But little harm, and some good seems likely to arise
+
+from the occasional use of the phrase " material and personal
+
+wealth."
+
+    4. But we still have to take account of those material goods
+
+which are common to him with his neighbours; and which therefore
+
+it would be a needless trouble to mention when comparing his
+
+wealth with theirs; though they may be important for some
+
+purposes, and especially for comparisons between the economic
+
+conditions of distant places or distant times.
+
+    These goods consist of the benefits which he derives from
+
+living in a certain place at a certain time, and being a member
+
+of a certain state or community; they include civil and military
+
+security, and the right and opportunity to make use of public
+
+property and institutions of all kinds, such as roads, gaslight,
+
+etc., and rights to justice or to a free education. The townsman
+
+and the countryman have each of them for nothing many advantages
+
+which the other either cannot get at all, or can get only at
+
+great expense. Other things being equal, one person has more real
+
+wealth in its broadest sense than another, if the place in which
+
+the former lives has a better climate, better roads, better
+
+water, more wholesome drainage; and again better newspapers,
+
+books, and places of amusement and instruction. House-room, food
+
+and clothing, which would be insufficient in a cold climate, may
+
+be abundant in a warm climate: on the other hand, that warmth
+
+which lessens men's physical needs, and makes them rich with but
+
+a slight provision of material wealth, makes them poor in the
+
+energy that procures wealth.
+
+    Many of these things are collective goods. i.e. goods, which
+
+are not in private ownership. And this brings us to consider
+
+wealth from the social, as opposed to the individual point of
+
+view.
+
+    5. Let us then look at those elements of the wealth of a
+
+nation which are commonly ignored when estimating the wealth of
+
+the individuals composing it. The most obvious forms of such
+
+wealth are public material property of all kinds, such as roads
+
+and canals, buildings and parks, gasworks and waterworks; though
+
+unfortunately many of them have been secured not by public
+
+savings, but by public borrowings, and there is the heavy
+
+"negative" wealth of a large debt to be set against them.
+
+    But the Thames has added more to the wealth of England than
+
+all its canals, and perhaps even than all its railroads. And
+
+though the Thames is a free gift of nature (except in so far as
+
+its navigation has been improved), while the canal is the work of
+
+man, yet we ought for many purposes to reckon the Thames a part
+
+of England's wealth.
+
+    German economists often lay stress on the non-material
+
+elements of national wealth; and it is right to do this in some
+
+problems relating to national wealth, but not in all. Scientific
+
+knowledge indeed, wherever discovered, soon becomes the property
+
+of the whole civilized world, and may be considered as
+
+cosmopolitan rather than as specially national wealth. The same
+
+is true of mechanical inventions and of many other improvements
+
+in the arts of production; and it is true of music. But those
+
+kinds of literature which lose their force by translation, may be
+
+regarded as in a special sense the wealth of those nations in
+
+whose language they are written. And the organization of a free
+
+and well-ordered State is to be regarded for some purposes as an
+
+important element of national wealth.
+
+    But national wealth includes the individual as well as the
+
+collective property of its members. And in estimating the
+
+aggregate sum of their individual wealth, we may save some
+
+trouble by omitting all debts and other obligations due to one
+
+member of a nation from another. For instance, so far as the
+
+English national debt and the bonds of an English railway are
+
+owned within the nation, we can adopt the simple plan of counting
+
+the railway itself as part of the national wealth, and neglecting
+
+railway and government bonds altogether. But we still have to
+
+deduct for those bonds etc. issued by the English Government or
+
+by private Englishmen, and held by foreigners; and to add for
+
+those foreign bonds etc. held by Englishmen.(7*)
+
+    Cosmopolitan wealth differs from national wealth much as that
+
+differs from individual wealth. In reckoning it, debts due from
+
+members of one nation to those of another may conveniently be
+
+omitted from both sides of the account. Again, just as rivers are
+
+important elements of national wealth, the ocean is one of the
+
+most valuable properties of the world. The notion of cosmopolitan
+
+wealth is indeed nothing more than that of national wealth
+
+extended over the whole area of the globe.
+
+    Individual and national rights to wealth rest on the basis of
+
+civil and international law, or at least of custom that has the
+
+force of law. An exhaustive investigation of the economic
+
+conditions of any time and place requires therefore an inquiry
+
+into law and custom; and economics owes much to those who have
+
+worked in this direction. But its boundaries are already wide;
+
+and the historical and juridical bases of the conceptions of
+
+property are vast subj ects which may best be discussed in
+
+separate treatises.
+
+    6. The notion of Value is intimately connected with that of
+
+Wealth; and a little may be said about it here. "The word value"
+
+says Adam Smith "has two different meanings, and sometimes
+
+expresses the utility of some particular object and sometimes the
+
+power of purchasing other goods which the possession of that
+
+object conveys." But experience has shown that it is not well to
+
+use the word in the former sense.
+
+    The value, that is the exchange value, of one thing in terms
+
+of another at any place and time, is the amount of that second
+
+thing which can be got there and then in exchange for the first.
+
+Thus the term value is relative, and expresses the relation
+
+between two things at a particular place and time.
+
+    Civilized countries generally adopt gold or silver or both as
+
+money. Instead of expressing the values of lead and tin, and
+
+wood, and corn and other things in terms of one another, we
+
+express them in terms of money in the first instance; and call
+
+the value of each thing thus expressed its price. If we know that
+
+a ton of lead will exchange for fifteen sovereigns at any place
+
+and time, while a ton of tin will exchange for ninety sovereigns,
+
+we say that their prices then and there are ?5 and ?0
+
+respectively, and we know that the value of a ton of tin in terms
+
+of lead is six tons then and there.
+
+    The price of every thing rises and falls from time to time
+
+and place to place; and with every such change the purchasing
+
+power of money changes so far as that thing goes. If the
+
+purchasing power of money rises with regard to some things, and
+
+at the same time falls equally with regard to equally important
+
+things, its general purchasing power (or its power of purchasing
+
+things in general) has remained stationary. This phrase conceals
+
+some difficulties, which we must study later on. But meanwhile we
+
+may take it in its popular sense, which is sufficiently clear and
+
+we may throughout this volume neglect possible changes in the
+
+general purchasing power of money. Thus the price of anything
+
+will be taken as representative of its exchange value relatively
+
+to things in general, or in other words as representative of its
+
+general purchasing power.(8*)
+
+    But if inventions have increased man's power over nature very
+
+much, then the real value of money is better measured for some
+
+purposes in labour than in commodities. This difficulty however
+
+will not much affect our work in the present volume, which is
+
+only a study of the "Foundations" of economics.
+
+
+
+NOTES:
+
+
+
+1. For, in the words in which Hermann begins his masterly
+
+analysis of wealth, "Some Goods are internal, others external, to
+
+the individual. An internal good is that which he finds in
+
+himself given to him by nature, or which he educates in himself
+
+by his own free action, such as muscular strength, health, mental
+
+attainments. Everything that the outer world offers for the
+
+satisfaction of his wants is an external good to him."
+
+
+
+2. The above classification of goods may be expressed thus:
+
+        Goods are: 1. external a. material i. transferable
+
+                                          ii. non-transferable
+
+                               b. personal i. transferable
+
+                                          ii. non-transferable
+
+                   2. internal-personal-non-transferable
+
+
+
+Another arrangement is more convenient for some purposes:
+
+        Goods are: 1. material-external i. transferable
+
+                                       ii. non-transferable
+
+                   2. personal a. external i. transferable
+
+                                          ii. non-transferable
+
+                               b. internal-non-transferable
+
+
+
+
+
+3. That part of the value of the share in a trading company which
+
+is due to the personal reputation and connection of those who
+
+conduct its affairs ought properly to come under the next head as
+
+external personal goods. But this point is not of much practical
+
+importance.
+
+
+
+4. It is not implied that the owner of transferable goods, if he
+
+transferred them, could always realize the whole money value,
+
+which they have for him. A well-fitting coat, for instance, may
+
+be worth the price charged for it by an expensive tailor to its
+
+owner, because he wants it and cannot get it made for less: but
+
+he could not sell it for half that sum. The successful financier
+
+who has spent ?0,000 on having a house and grounds made to suit
+
+his own special fancy, is from one point of view right in
+
+reckoning them in the inventory of his property at their cost
+
+price: but, should he fail, they will not form an asset to his
+
+creditors of anything like that value.
+
+    And in the same way from one point of view we may count the
+
+business connection of the solicitor or physician, the merchant
+
+or the manufacturer, at the full equivalent of the income he
+
+would lose if he were deprived of it; while yet we must recognize
+
+that its exchange value, i.e. the value which he could get for it
+
+by selling it, is much less than that.
+
+
+
+5. Comp. Wealth of Nations, Bk. II, ch. II.
+
+
+
+6. "The bodies of men are without doubt the most valuable
+
+treasure of a country," said Davenant in the seventeenth century;
+
+and similar phrases hve been common whenever the trend of
+
+political developments has made men anxious that the populations
+
+should increase fast.
+
+
+
+7. The value of a business may be to some extent due to its
+
+having a monopoly, either a complete monopoly, secured perhaps by
+
+a patent; or a partial monopoly, owing to its wares being better
+
+known than others which are really equally good; and in so far as
+
+this is the case the business does not add to the real wealth of
+
+the nation. If the monopoly were broken down, the diminution of
+
+national wealth due to the disappearance of its value would
+
+generally be more than made up, partly by the increased value of
+
+rival businesses, and partly by the increased purchasing power of
+
+the money representing the Wealth of other members of the
+
+community. (It should, however, be added that in some exceptional
+
+cases, the price of a commodity may be lowered in consequence of
+
+its production being monopolized: but such cases are very rare,
+
+and may be neglected for the present.)
+
+    Again, business connections and trade reputations add to the
+
+national wealth, only in so far as they bring purchasers into
+
+relation with those producers who will meet their real wants most
+
+fully for a given price; or in other words, only in so far as
+
+they increase the extent to which the efforts of the community as
+
+a whole meet the wants of the community as a whole. Nevertheless
+
+when we are estimating national wealth, not directly but
+
+indirectly as the aggregate of individual wealth, we must allow
+
+for these businesses at their full value, even though this partly
+
+consists of a monopoly which is not used for the public benefit.
+
+For the injury they do to rival producers was allowed for in
+
+counting up the values of the businesses of those rivals; and the
+
+injury done to consumers by raising the price of the produce,
+
+which they buy, was allowed for in reckoning the purchasing power
+
+of their means, so far as this particular commodity is concerned.
+
+    A special case of this is the organization of credit. It
+
+increases the efficiency of production in the country, and thus
+
+adds to national wealth. And the power of obtaining credit is a
+
+valuable asset to any individual trader. If, however, any
+
+accident should drive him out of business, the injury to national
+
+wealth is something less than the whole value of that asset;
+
+because some part at least of the business, which he would have
+
+done, will now be done by others with the aid of some part at
+
+least of the capital which he would have borrowed.
+
+    There are similar difficulties as to how far money is to be
+
+reckoned as part of national wealth; but to treat them thoroughly
+
+would require us to anticipate a good deal of the theory of
+
+money.
+
+
+
+8. As Cournot points out (Principes Mathematiques de la Theorie
+
+des Richesses, ch. II), we get the same sort of convenience from
+
+assuming the existence of a standard of uniform purchasing power
+
+by which to measure value, that astronomers do by assuming that
+
+there is a "mean sun" which crosses the meridian at uniform
+
+intervals, so that the clock can keep pace with it; whereas the
+
+actual sun crosses the meridian sometimes before and sometimes
+
+after noon as shown by the clock.
+
+
+
+Chapter 3
+
+
+
+Production, Consumption, Labour, Necessaries
+
+
+
+    1. Man cannot create material things. In the mental and moral
+
+world indeed he may produce new ideas; but when he is said to
+
+produce material things, he really only produces utilities; or in
+
+other words, his efforts and sacrifices result in changing the
+
+form or arrangement of matter to adapt it better for the
+
+satisfaction of wants. All that he can do in the physical world
+
+is either to readjust matter so as to make it more useful, as
+
+when he makes a log of wood into a table; or to put it in the way
+
+of being made more useful by nature, as when he puts seed where
+
+the forces of nature will make it burst out into life.(1*)
+
+    It is sometimes said that traders do not produce: that while
+
+the cabinet-maker produces furniture, the furnituredealer merely
+
+sells what is already produced. But there is no scientific
+
+foundation for this distinction. They both produce utilities, and
+
+neither of them can do more: the furniture-dealer moves and
+
+rearranges matter so as to make it more serviceable than it was
+
+before, and the carpenter does nothing more. The sailor or the
+
+railway-man who carries coal above ground produces it, just as
+
+much as the miner who carries it underground; the dealer in fish
+
+helps to move on fish from where it is of comparatively little
+
+use to where it is of greater use, and the fisherman does no
+
+more. It is true that there are often more traders than are
+
+necessary; and that, whenever that is the case, there is a waste.
+
+But there is also waste if there are two men to a plough which
+
+can be well worked by one man; in both cases all those who are at
+
+work produce, though they may produce but little. Some writers
+
+have revived the medieval attacks on trade on the ground that it
+
+does not produce. But they have not aimed at the right mark. They
+
+should have attacked the imperfect organization of trade,
+
+particularly of retail trade.(2*)
+
+    Consumption may be regarded as negative production. Just as
+
+man can produce only utilities, so he can consume nothing more.
+
+He can produce services and other immaterial products, and he can
+
+consume them. But as his production of material products is
+
+really nothing more than a rearrangement of matter which gives it
+
+new utilities; so his consumption of them is nothing more than a
+
+disarrangement of matter, which diminishes or destroys its
+
+utilities. Often indeed when he is said to consume things, he
+
+does nothing more than to hold them for his use, while, as Senior
+
+says, they "are destroyed by those numerous gradual agents which
+
+we call collectively time".(3*) As the "producer" of wheat is he
+
+who puts seed where nature will make it grow, so the "consumer"
+
+of pictures, of curtains, and even of a house or a yacht does
+
+little to wear them out himself; but he uses them while time
+
+wastes them.
+
+    Another distinction to which some prominence has been given,
+
+but which is vague and perhaps not of much practical use, is that
+
+between consumers' goods (called also consumption goods, or again
+
+goods of the first order), such as food, clothes, etc., which
+
+satisfy wants directly on the one hand; and, on the other hand,
+
+producers' goods (called also production goods, or again
+
+instrumental, or again intermediate goods), such as ploughs and
+
+looms and raw cotton, which satisfy wants indirectly by
+
+contributing towards the production of the first class of
+
+goods.(4*)
+
+    2. All labour is directed towards producing some effect. For
+
+though some exertions are taken merely for their own sake, as
+
+when a game is played for amusement, they are not counted as
+
+labour. We may define labour as any exertion of mind or body
+
+undergone partly or wholly with a view to some good other than
+
+the pleasure derived directly from the work.(5*) And if we had to
+
+make a fresh start it would be best to regard all labour as
+
+productive except that which failed to promote the aim towards
+
+which it was directed, and so produced no utility. But in all the
+
+many changes which the meaning of the word " productive,, has
+
+undergone, it has had special reference to stored-up wealth, to
+
+the comparative neglect and sometimes even to the exclusion of
+
+immediate and transitory enjoyment;(6*) and an almost unbroken
+
+tradition compels us to regard the central notion of the word as
+
+relating to the provision for the wants of the future rather than
+
+those of the present. It is true that all wholesome enjoyments,
+
+whether luxurious or not, are legitimate ends of action both
+
+public and private; and it is true that the enjoyment of luxuries
+
+affords an incentive to exertion, and promotes progress in many
+
+ways. But if the efficiency and energy of industry are the same,
+
+the true interest of a country is generally advanced by the
+
+subordination of the desire for transient luxuries to the
+
+attainment of those more solid and lasting resources which will
+
+assist industry in its future work, and will in various ways tend
+
+to make life larger. This general idea has been in solution, as
+
+it were, in all stages of economic theory; and has been
+
+precipitated by different writers into various hard and fast
+
+distinctions by which certain trades have been marked off as
+
+productive and certain others as unproductive.
+
+    For instance, many writers even of recent times have adhered
+
+to Adam Smith's plan of classing domestic servants as
+
+unproductive. There is doubtless in many large houses a
+
+superabundance of servants, some of whose energies might with
+
+advantage to the community be transferred to other. uses. but the
+
+same is true of the greater part of those who earn their
+
+livelihood by distilling whisky; and yet no economist has
+
+proposed to call them unproductive. There is no distinction in
+
+character between the work of the baker who provides bread for a
+
+family, and that of the cook who boils potatoes. If the baker
+
+should be a confectioner, or fancy baker, it is probable that he
+
+spends at least as much of his time as the domestic cook does, on
+
+labour that is unproductive in the popular sense of providing
+
+unnecessary enj oyments.
+
+    Whenever we use the word Productive by itself, it is to be
+
+understood to mean productive of the means of production, and of
+
+durable sources of enjoyment. But it is a slippery term, and
+
+should not be used where precision is needed.(7*)
+
+    If ever we want to use it in a different sense, we must say
+
+so: for instance we may speak of labour as productive of
+
+necessaries, etc.
+
+    Productive consumption, when employed as a technical term, is
+
+commonly defined as the use of wealth in the production of
+
+further wealth; and it should properly include not all the
+
+consumption of productive workers, but only that which is
+
+necessary for their efficiency. The term may perhaps be useful in
+
+studies of the accumulation of material wealth. But it is apt to
+
+mislead. For consumption is the end of production; and all
+
+wholesome consumption is productive of benefits, many of the most
+
+worthy of which do not directly contribute to the production of
+
+material wealth.(8*)
+
+    3. This brings us to consider the term Necessaries. It is
+
+common to distinguish necessaries, comforts, and luxuries; the
+
+first class including all things required to meet wants which
+
+must be satisfied, while the latter consist of things that meet
+
+wants of a less urgent character. But here again there is a
+
+troublesome ambiguity. When we say that a want must be satisfied,
+
+what are the consequences which we have in view if it is not
+
+satisfied? Do they include death? Or do they extend only to the
+
+loss of strength and vigour? In other words, are necessaries the
+
+things which are necessary for life, or those which are necessary
+
+for efficiency?
+
+    The term Necessaries, like the term Productive, has been used
+
+elliptically, the subject to which it refers being left to be
+
+supplied by the reader; and since the implied subject has varied,
+
+the reader has often supplied one which the writer did not
+
+intend, and thus misunderstood his drift. In this, as in the
+
+preceding case, the chief source of confusion can be removed by
+
+supplying explicitly in every critical place that which the
+
+reader is intended to undsertand.
+
+    The older use of the term Necessaries was limited to those
+
+things which were sufficient to enable the labourers, taken one
+
+with another, to support themselves and their families. Adam
+
+Smith and the more careful of his followers observed indeed
+
+variations in the standard of comfort and "decency"; and they
+
+recognized that differences of climate and differences of custom
+
+make things necessary in some cases, which are superfluous in
+
+others.(9*) But Adam Smith was influenced by reasonings of the
+
+Physiocrats: they were based on the condition ofthe French people
+
+in the eighteenth century, most of whom had no notion of any
+
+necessaries beyond those which were required for mere existence.
+
+In happier times, however, a more careful analysis has made it
+
+evident that there is for each rank of industry, at any time and
+
+place, a more or less clearly defined income which is necessary
+
+for merely sustaining its members; while there is another and
+
+larger income which is necessary for keeping it in full
+
+efficiency.(10*)
+
+    It may be true that the wages of any industrial class might
+
+have sufficed to maintain a higher efficiency, if they had been
+
+spent with perfect wisdom. But every estimate of necessaries must
+
+be relative to a given place and time; and unless there be a
+
+special interpretation clause to the contrary, it may be assumed
+
+that the wages will be spent with just that amount of wisdom,
+
+forethought, and unselfishness, which prevails in fact among the
+
+industrial class under discussion. With this understanding we may
+
+say that the income of any class in the ranks of industry is
+
+below its necessary level, when any increase in their income
+
+would in the course of time produce a more than proportionate
+
+increase in their efficiency. Consumption may be economized by a
+
+change of habits, but any stinting of necessaries is
+
+wasteful.(11*)
+
+    4. Some detailed study of the necessaries for efficiency of
+
+different classes of workers will have to be made, when we come
+
+to inquire into the causes that determine the supply of efficient
+
+labour. But it will serve to give some definiteness to our ideas,
+
+if we consider here what are the necessaries for the efficiency
+
+of an ordinary agricultural or of an unskilled town labourer and
+
+his family, in England, in this generation. They may be said to
+
+consist of a well-drained dwelling with several rooms, warm
+
+clothing, with some changes of underclothing, pure water, a
+
+plentiful supply of cereal food, with a moderate allowance of
+
+meat and milk, and a little tea, etc., some education and some
+
+recreation, and lastly, sufficient freedom for his wife from
+
+other work to enable her to perform properly her maternal and her
+
+household duties. If in any district unskilled labour is deprived
+
+of any of these things, its efficiency will suffer in the same
+
+way as that of a horse that is not properly tended, or a
+
+steam-engine that has an inadequate supply of coals. All
+
+consumption up to this limit is strictly productive consumption:
+
+any stinting of this consumption is not economical, but wasteful.
+
+    In addition, perhaps, some consumption of alcohol and
+
+tobacco, and some indulgence in fashionable dress are in many
+
+places so habitual, that they may be said to be conventionally
+
+necessary, since in order to obtain them the average man and
+
+woman will sacrifice some things which are necessary for
+
+efficiency. Their wages are therefore less than are practically
+
+necessary for efficiency, unless they provide not only for what
+
+is strictly necessary consumption, but include also a certain
+
+amount of conventional necessaries.(12*)
+
+    The consumption of conventional necessaries by productive
+
+workers is commonly classed as productive consumption; but
+
+strictly speaking it ought not to be; and in critical passages a
+
+special interpretation clause should be added to say whether or
+
+not they are included.
+
+    It should however be noticed that many things which are
+
+rightly described as superfluous luxuries, do yet, to some
+
+extent, take the place of necessaries; and to that extent their
+
+consumption is productive when they are consumed by
+
+producers.(13*)
+
+
+
+NOTES:
+
+
+
+1. Bacon, Novum Organon IV, says "Ad opera nil aliud potest homo
+
+quam ut corpora naturalia admoveat et amoveat, reliqua natura
+
+intus agit" (quoted by Bonar, Philosophy and Political Economy,
+
+p. 249).
+
+
+
+2. Production, in the narrow sense, changes the form and nature
+
+of products. Trade and transport change their external relations.
+
+
+
+3. Political Economy, p. 54. Senior would like to substitute the
+
+verb "to use" for the verb "to consume."
+
+
+
+4. Thus flour to be made into a cake when already in the house of
+
+the consumer, is treated by some as a consumers' good; while not
+
+only the flour, but the cake itself is treated as a producers'
+
+good when in the hand of the confectioner. Carl Menger
+
+(Volkswirtschaftslehre, ch. I, 2) says bread belongs to the first
+
+order, flour to the second, a flour mill to the third order and
+
+so on. It appears that if a railway train carries people on a
+
+pleasure excursion, also some tins of biscuits, and milling
+
+machinery and some machinery that is used for making milling
+
+machinery; then the train is at one and the same time a good of
+
+the first, second, third and fourth orders.
+
+
+
+5. This is Jevons' definition (Theory of Political Economy, ch.
+
+v), except that he includes only painful exertions. But he
+
+himself points out how painful idleness often is. Most people
+
+work more than they would if they considered only the direct
+
+pleasure resulting from the work; but in a healthy state,
+
+pleasure predominates over pain in a great part even of the work
+
+that is done for hire. Of course the definition is elastic; an
+
+agricultural labourer working in his garden in the evening thinks
+
+chiefly of the fruit of his labours; a mechanic returning home
+
+after a day of sedentary toil finds positive pleasure in his
+
+garden work, but he too cares a good deal about the fruit of his
+
+labour; while a rich man working in like manner, though he may
+
+take a pride in doing it well, will probably care little for any
+
+pecuniary saving that he effects by it.
+
+
+
+6. Thus the Mercantilists who regarded the precious metals;
+
+partly because they were imperishable, as wealth in a fuller
+
+sense than anything else, regarded as unproductive or "sterile"
+
+all labour that was not directed to producing goods for
+
+exportation in exchange for gold and silver. The Physiocrats
+
+thought all labour sterile which consumed an equal value to that
+
+which it produced; and regarded the agriculturist as the only
+
+productive worker, because his labour alone (as they thought)
+
+left behind it a net surplus of stored-up wealth. Adam Smith
+
+softened down the Physiocratic definition; but still he
+
+considered that agricultural labour was more productive than any
+
+other. His followers discarded this distinction; but they have
+
+generally adhered, though with many differences in points of
+
+detail, to the notion that productive labour is that which tends
+
+to increase accumulated wealth; a notion which is implied rather
+
+than stated in the celebrated chapter of The Wealth of Nations
+
+which bears the title, "On the Accumulation of Capital, or on
+
+Productive and Unproductive Labour." (Comp. Travers Twiss,
+
+Progress of Political Economy, Sect. vi, and the discussions on
+
+the word Productive in J.S. Mill's Essays, and in his Principles
+
+of Political Economy.)
+
+
+
+7. Among the means of production are included the necessaries of
+
+labour but not ephemeral luxuries; and the maker of ices is thus
+
+classed as unproductive whether he is working for a pastry cook,
+
+or as a private servant in a country house. But a bricklayer
+
+engaged in building a theatre is classed as productive. No doubt
+
+the division between permanent and ephemeral sources of enjoyment
+
+is vague and unsubstantial. But this difficulty exists in the
+
+nature of things and cannot be completely evaded by any device of
+
+words. We can speak of an increase of tall men relatively to
+
+short, without deciding whether all those above five feet nine
+
+inches are to be classed as tall, or only those above five feet
+
+ten. And we can speak of the increase of productive labour at the
+
+expense of unproductive without fixing on any rigid, and
+
+therefore arbitrary line of division between them. If such an
+
+artificial line is required for any particular purpose, it must
+
+be drawn explicitly for the occasion. But in fact such occasions
+
+seldom or never occur.
+
+
+
+8. All the distinctions in which the word Productive is used are
+
+very thin and have a certain air of unreality. It would hardly be
+
+worth while to introduce them now: but they have a long history;
+
+and it is probably better that they should dwindle gradually out
+
+of use, rather than be suddenly discarded.
+
+    The attempt to draw a hard and fast line of distinction where
+
+there is no real discontinuity in nature has often done more
+
+mischief, but has perhaps never led to more quaint results, than
+
+in the rigid definitions which have been sometimes given of this
+
+term Productive. Some of them for instance lead to the conclusion
+
+that a singer in an opera is unproductive, that the printer of
+
+the tickets of admission to the opera is productive; while the
+
+usher who shows people to their places is unproductive, unless he
+
+happens to sell programmes, and then he is productive. Senior
+
+points out that "a cook is not said to make roast meat but to
+
+dress it; but he is said to make a pudding.... A tailor is said
+
+to make cloth into a coat, a dyer is not said to make undyed
+
+cloth into dyed cloth. The change produced by the dyer is perhaps
+
+greater than that produced by the tailor, but the cloth in
+
+passing through the tailor's hands changes its name; in passing
+
+through the dyer's it does not: the dyer has not produced a new
+
+name, nor consequently a new thing." Pol. Econ. pp. 51-2.
+
+
+
+9. Compare Carver, Principles of Political Economy, p. 474; which
+
+called my attention to Adam Smith's observation that customary
+
+decencies are in effect necessaries.
+
+
+
+10. Thus in the South of England population has increased during
+
+the last hundred years at a fair rate, allowance being made for
+
+migration. But the efficiency of labour, which in earlier times
+
+was as high as that in the North of England, has sunk relatively
+
+to the North; so that the low-waged labour of the South is often
+
+dearer than the more highly-paid labour of the North. We cannot
+
+thus say whether the labourers in the South have been supplied
+
+with necessaries, unless we know in which of these two senses the
+
+word is used. They have had the bare necessaries for existence
+
+and the increase of numbers, but apparently they have not had the
+
+necessaries for efficiency. It must however be remembered that
+
+the strongest labourers in the South have constantly migrated to
+
+the North; and that the energies of those in the North have been
+
+raised by their larger share of economic freedom and of the hope
+
+of rising to a higher position. See Mackay in Charity
+
+Organization Journal, Feb. 1891.
+
+
+
+11. If we considered an individual of exceptional abilities we
+
+should have to take account of the fact that there is not likely
+
+to be the same close correspondence between the real value of his
+
+work for the community and the income which he earns by it, that
+
+there is in the case of an ordinary member of any industrial
+
+class. And we should have to say that all his consumption is
+
+strictly productive and necessary, so long as by cutting off any
+
+part of it he would diminish his efficiency by an amount that is
+
+of more real value to him or the rest of the world than he saved
+
+from his consumption. If a Newton or a Watt could have added a
+
+hundredth part to his efficiency by doubling his personal
+
+expenditure, the increase in his consumption would have been
+
+truly productive. As we shall see later on, such a case is
+
+analogous to additional cultivation of rich land that bears a
+
+high rent: it may be profitable though the return to it is less
+
+than in proportion to the previous outlay.
+
+
+
+12. Compare the distinction between "Physical and Political
+
+Necessaries" in James Steuart's Inquiry, A.D. 1767, II, xxi.
+
+
+
+13. Thus a dish of green peas in March, costing perhaps ten
+
+shillings, is a superfluous luxury: but yet it is wholesome food,
+
+and does the work perhaps of three pennyworth of cabbage; or
+
+even, since variety undoubtedly conduces to health, a little more
+
+than that. So it may be entered perhaps at the value of fourpence
+
+under the head of necessaries, and at that of nine shillings and
+
+eightpence under that of superfluities; and its consumption may
+
+be regarded as strictly productive to the extent of one fortieth.
+
+In exceptional cases, as for instance when the peas are given to
+
+an invalid, the whole ten shillings may be well spent, and
+
+reproduce their own value.
+
+    For the sake of giving definiteness to the ideas it may be
+
+well to venture on estimates of necessaries, rough and random as
+
+they must be. Perhaps at present prices the strict necessaries
+
+for an average agricultural family are covered by fifteen or
+
+eighteen shillings a week, the conventional necessaries by about
+
+five shillings more. For the unskilled labourer in the town a few
+
+shillings must be added to the strict necessaries. For the family
+
+of the skilled workman living in a town we may take twenty-five
+
+or thirty shillings for strict necessaries, and ten shillings for
+
+conventional necessaries. For a man whose brain has to undergo
+
+great continuous strain the strict necessaries are perhaps two
+
+hundred or two hundred and fifty pounds a year if he is a
+
+bachelor: but more than twice as much if he has an expensive
+
+family to educate. His conventional necessaries depend on the
+
+nature of his calling.
+
+
+
+Chapter 4
+
+
+
+Income, Capital
+
+
+
+    1. In a primitive community each family is nearly
+
+self-sufficing, and provides most of its own food and clothing
+
+and even household furniture. Only a very small part of the
+
+income, or comings in, of the family is in the form of money;
+
+when one thinks of their income at all, one reckons in the
+
+benefits which they get from their cooking utensils, just as much
+
+as those which they get from their plough: one draws no
+
+distinction between their capital and the rest of their
+
+accumulated stock, to which the cooking utensils and the plough
+
+alike belong.(1*)
+
+    But with the growth of a money economy there has been a
+
+strong tendency to confine the notion of income to those
+
+incomings which are in the form of money; including "payments in
+
+kind" (such as the free use of a house, free coals, gas, water),
+
+which are given as part of an employee's remuneration, and in
+
+lieu of money payments.
+
+    In harmony with this meaning of Income, the language of the
+
+market-place commonly regards a man's capital as that part of his
+
+wealth which he devotes to acquiring an income in the form of
+
+money; or, more generally, to acquisition (Erwerbung) by means of
+
+trade. It may be convenient sometimes to speak of this as his
+
+trade capital; which may be defined to consist of those external
+
+goods which a person uses in his trade, either holding them to be
+
+sold for money or applying them to produce things that are to be
+
+sold for money. Among its conspicuous elements are such things as
+
+the factory and the business plant of a manufacturer; that is,
+
+his machinery, his raw material, any food, clothing, and
+
+house-room that he may hold for the use of his employees, and the
+
+goodwill of his business.
+
+    To the things in his possession must be added those to which
+
+he has a right and from which he is drawing income: including
+
+loans which he has made on mortgage or in other ways, and all the
+
+command over capital which he may hold under the complex forms of
+
+the modern "money market." On the other hand debts owed by him
+
+must be deducted from his capital.
+
+    This definition of capital from the individual or business
+
+point of view is firmly established in ordinary usage; and it
+
+will be assumed throughout the present treatise whenever we are
+
+discussing problems relating to business in general, and in
+
+particular to the supply of any particular group of commodities
+
+for sale in open market. Income and capital will be discussed
+
+from the point of view of private business in the first half of
+
+the chapter; and afterwards the social point of view will be
+
+considered.
+
+    2. If a person is engaged in business, he is sure to have to
+
+incur certain outgoings for raw material, the hire of labour,
+
+etc. And, in that case, his true or net income is found by
+
+deducting from his gross income "the outgoings that belong to its
+
+production."(2*)
+
+    Anything which a person does for which he is paid directly or
+
+indirectly in money, swells his nominal income; while no services
+
+that he performs for himself are commonly reckoned as adding to
+
+his nominal income. But, though it is best generally to neglect
+
+them when they are trivial, account should for consistency be
+
+taken of them, when they are of a kind which people commonly pay
+
+for having done for them. Thus a woman who makes her own clothes
+
+or a man who digs in his own garden or repairs his own house, is
+
+earning income; just as would the dressmaker, gardener or
+
+carpenter who might be hired to do the work.
+
+    In this connection we may introduce a term of which we shall
+
+have to make frequent use hereafter. The need for it arises from
+
+the fact that every occupation involves other disadvantages
+
+besides the fatigue of the work required in it, and every
+
+occupation offers other advantages besides the receipt of money
+
+wages. The true reward which an occupation offers to labour has
+
+to be calculated by deducting the money value of all its
+
+disadvantages from that of all its advantages; and we may
+
+describe this true reward as the net advantages of the
+
+occupation.
+
+    The payment made by a borrower for the use of a loan for,
+
+say, a year is expressed as the ratio which that payment bears to
+
+the loan, and is called interest. And this term is also used more
+
+broadly to represent the money equivalent of the whole income
+
+which is derived from capital. It is commonly expressed as a
+
+certain percentage on the "capital" sum of the loan. Whenever
+
+this is done the capital must not be regarded as a stock of
+
+things in general. It must be regarded as a stock of one
+
+particular thing, money, which is taken to represent them. Thus
+
+?00 may be lent at four per cent., that is for an interest of ?
+
+yearly. And, if a man employs in business a capital stock of
+
+goods of various kinds which are estimated as worth ?0,000 in
+
+all; then ?00 a year may be said to represent interest at the
+
+rate of four per cent. on that capital, on the supposition that
+
+the aggregate money value of the things which constitute it has
+
+remained unchanged. He would not, however, be willing to continue
+
+the business unless he expected his total net gains from it to
+
+exceed interest on his capital at the current rate. These gains
+
+are called profits.
+
+    The command over goods to a given money value, which can be
+
+applied to any purpose, is often described as "free" or
+
+"floating" capital.(3*)
+
+    When a man is engaged in business, his profits for the year
+
+are the excess of his receipts from his business during the year
+
+over his outlay for his business. The difference between the
+
+value of his stock of plant, material, etc. at the end and at the
+
+beginning of the year is taken as part of his receipts or as part
+
+of his outlay, according as there has been an increase or
+
+decrease of value. What remains of his profits after deducting
+
+interest on his capital at the current rate (allowing, where
+
+necessary, for insurance) is generally called his earnings of
+
+undertaking or management. The ratio in which his profits for the
+
+year stand to his capital is spoken of as his rate of profits.
+
+But this phrase, like the corresponding phrase with regard to
+
+interest, assumes that the money value of the things which
+
+constitute his capital has been estimated: and such an estimate
+
+is often found to involve great difficulties.
+
+    When any particular thing, as a house, a piano, or a sewing
+
+machine is lent out, the payment for it is often called Rent. And
+
+economists may follow this practice without inconvenience when
+
+they are regarding the income from the point of view of the
+
+individual trader. But, as will be argued presently, the balance
+
+of advantage seems to lie in favour of reserving the term Rent
+
+for the income derived from the free gifts of nature, whenever
+
+the discussion of business affairs passes from the point of view
+
+of the individual to that of society at large. And for that
+
+reason, the term Quasirent will be used in the present volume for
+
+the income derived from machines and other appliances for
+
+production made by man. That is to say, any particular machine
+
+may yield an income which is of the nature of a rent, and which
+
+is sometimes called a Rent; though on the whole, there seems to
+
+be some advantage in calling it a Quasi-rent. But we cannot
+
+properly speak of the interest yielded by a machine. If we use
+
+the term "interest" at all, it must be in relation not to the
+
+machine itself, but to its money value. For instance if the work
+
+done by a machine which cost ?00 is wortb ? a year net, that
+
+machine is yielding a quasi-rent of ? which is equivalent to
+
+interest at four per cent. on its original cost: but if the
+
+machine is worth only ?0 now, it is yielding five per cent. on
+
+its present value. This however raises some difficult questions
+
+of principle, which will be discussed in Book V.
+
+    3. Next to consider some details relating to capital. It has
+
+been classed as Consumption capital, and Auxiliary or
+
+Instrumental capital: and though no clear distinction can be
+
+drawn between the two classes, it may sometimes be convenient to
+
+use the terms, with the understanding that they are vague. Where
+
+definiteness is necessary, the terms should be avoided; and
+
+explicit enumerations should be given. The general notion of the
+
+distinction which the terms are designed to suggest, can be
+
+gathered from the following approximate definitions.
+
+    Consumption capital consists of goods in a form to satisfy
+
+wants directly; that is, goods which afford a direct sustenance
+
+to the workers, such as food, clothes, house-room, etc.
+
+    Auxiliary, or instrumental, capital is so called because it
+
+consists of all the goods that aid labour in production. Under
+
+this head come tools, machines, factories, railways, docks,
+
+ships, etc.; and raw materials of all kinds.
+
+    But of course a man's clothes assist him in his work and are
+
+instrumental in keeping him warm; and he derives a direct benefit
+
+from the shelter of his factory as he does from the shelter of
+
+his house.(4*)
+
+    We may follow Mill in distinguishing circulating capital
+
+"which fulfils the whole of its office in the production in which
+
+it is engaged, by a single use," from fixed capital "which exists
+
+in a durable shape and the return to which is spread over a
+
+period of corresponding duration."(5*)
+
+    4. The customary point of view of the business man is that
+
+which is most convenient for the economist to adopt when
+
+discussing the production of goods for a market, and the causes
+
+which govern their exchange value. But there is a broader point
+
+of view which the business man, no less than the economist, must
+
+adopt when he studies the causes which govern the material
+
+wellbeing of the community as a whole. Ordinary conversation may
+
+pass from one point of view to another without any formal note of
+
+the change: for if a misunderstanding arises it soon becomes
+
+manifest; and confusion is cut short by a question or by a
+
+volunteered explanation. But the economist may take no risks of
+
+that sort: he must make prominent any change in his point of view
+
+or in his uses of terms. His path might have seemed smoother for
+
+the time, if he had passed silently from one use to another: but
+
+in the long run better progress is made by a clear indication of
+
+the meaning attached to each term in every doubtful case.(6*)
+
+    Let us then during the remainder of this chapter deliberately
+
+adopt the social, in contrast with the individual point of view:
+
+let us look at the production of the community as a whole, and at
+
+its total net income available for all purposes. That is, let us
+
+revert nearly to the point of view of a primitive people, who are
+
+chiefly concerned with the production of desirable things, and
+
+with their direct uses; and who are little concerned with
+
+exchange and marketing.
+
+    From this point of view income is regarded as including all
+
+the benefits which mankind derive at any time from their efforts,
+
+in the present and in the past, to turn nature's resources to
+
+their best account. The pleasure derived from the beauties of the
+
+rainbow, or the sweet taste of the fresh morning air, are left
+
+out of the reckoning, not because they are unimportant, nor
+
+because the estimate would in any way be vitiated by including
+
+them; but solely because reckoning them in would serve no good
+
+purpose, while it would add greatly to the length of our
+
+sentences and the prolixity of our discussions. For a similar
+
+reason it is not worth while to take separate account of the
+
+simple services which nearly every one renders to himself, such
+
+as putting on his clothes; though there are a few persons who
+
+choose to pay others to do such things for them. Their exclusion
+
+involves no principle; and time spent by some controversial
+
+writers on discussing it has been wasted. It simply follows the
+
+maxim De minimis non curat lex. A driver who, not noticing a pool
+
+in his way, splashes a passer by is not held to have done him
+
+legal injury; though there is no distinction in principle between
+
+his act and that of another, who by a similar lack of attention,
+
+did serious harm to someone else.
+
+    A man's present labour yields him income directly, when
+
+devoted to his own use; and he looks to be paid for it in some
+
+form or another if he devotes it as a matter of business to the
+
+service of others. Similarly any useful thing which he has made
+
+or acquired in the past, or which has been handed down to him,
+
+under the existing institutions of property, by others who have
+
+so made or acquired it, is generally a source of material benefit
+
+to him directly or indirectly. If he applies it in business, this
+
+income generally appears in the form of money. But a broader use
+
+of this term is occasionally needed, which embraces the whole
+
+income of benefits of every sort which a person derives from the
+
+ownership of property however applied: it includes for instance
+
+the benefits which he gets from the use of his own piano, equally
+
+with those which a piano dealer would win by letting out a piano
+
+on hire. The language of common life while averse to so broad a
+
+use of the term Income as this even when discussing social
+
+problems, yet habitually includes a certain number of forms of
+
+income, other than money income.
+
+    The Income Tax Commissioners count a dwelling-house inhabited
+
+by its owner as a source of taxable income, though it yields its
+
+income of comfort directly. They do this, not on any abstract
+
+principle; but partly because of the practical importance of
+
+house-room, partly because the ownership of a house is commonly
+
+treated in a business fashion, and partly because the real income
+
+accruing from it can easily be separated off and estimated. They
+
+do not claim to establish any absolute distinction in kind
+
+between the things which their rule includes, and those which it
+
+excludes.
+
+    Jevons, regarding the problem from a purely mathematical
+
+point of view, was justified in classing all commodities in the
+
+hands of consumers as capital. But some writers, while developing
+
+this suggestion with great ingenuity, have treated it as a great
+
+principle; and that appears to be an error in judgment. A true
+
+sense of proportion requires us not to burden our work with the
+
+incessant enumeration of details of secondary importance, of
+
+which no account is taken in customary discourse, and which
+
+cannot even be described without offending against popular
+
+conventions.
+
+    5. This brings us to consider the use of the term capital
+
+from the point of view of inquiries into the material wellbeing
+
+of society as a whole. Adam Smith said that a person's capital is
+
+that part of his stock from which he expects to derive an income.
+
+And almost every use of the term capital, which is known to
+
+history, has corresponded more or less closely to a parallel use
+
+of the term Income: in almost every use, capital has been that
+
+part of a man's stock from which he expects to derive an income.
+
+    By far the most important use of the term Capital in general,
+
+i.e. from the social point of view, is in the inquiry how the
+
+three agents of production, land (that is, natural agents),
+
+labour and capital, contribute to producing the national income
+
+(or the national dividend, as it will be called later on); and
+
+how that income is distributed among the three agents. And this
+
+is an additional reason for making the terms Capital and Income
+
+correlative from the social, as we did from the individual point
+
+of view.
+
+    Accordingly it is proposed in this treatise to count as part
+
+of capital from the social point of view all things other than
+
+land, which yield income that is generally reckoned as such in
+
+common discourse; together with similar things in public
+
+ownership, such as government factories: the term Land being
+
+taken to include all free gifts of nature, such as mines,
+
+fisheries, etc., which yield income.
+
+    Thus it will include all things held for trade purposes,
+
+whether machinery, raw material or finished goods; theatres and
+
+hotels; home farms and houses: but not furniture or clothes owned
+
+by those who use them. For the former are and the latter are not
+
+commonly regarded as yielding income by the world at large, as is
+
+shown by the practice of the income tax commissioners.
+
+    This usage of the term is in harmony with the common practice
+
+of economists of treating social problems in broad outline to
+
+start with, and reserving minor details for later consideration:
+
+it is in harmony also with their common practice of taking Labour
+
+to include those activities, and those only, which are regarded
+
+as the source of income in this broader use of the term. Labour
+
+together with capital and land thus defined are the sources of
+
+all that income of which account is commonly taken in reckoning
+
+up the National Income.(*7)
+
+    6. Social income may be estimated by adding together the
+
+incomes of the individuals in the society in question, whether it
+
+be a nation or any other group of persons.
+
+    We must however not count the same thing twice. If we have
+
+counted a carpet at its full value, we have already counted the
+
+values of the yarn and the labour that were used in making it;
+
+and these must not be counted again. And further, if the carpet
+
+was made of wool that was in stock at the beginning of the year,
+
+the value of that wool must be deducted from the value of the
+
+carpet before the net income of the year is reached; while
+
+similar deduction must be made for the wear and tear of machinery
+
+and other plant used in making it. This is required by the
+
+general rule, with which we started, that true or net income is
+
+found by deducting from gross income the outgoings that belong to
+
+its production.
+
+    But if the carpet is cleaned by domestic servants or at steam
+
+scouring works, the value of the labour spent in cleaning it must
+
+be counted in separately; for otherwise the results of this
+
+labour would be altogether omitted from the inventory of those
+
+newly-produced commodities and conveniences which constitute the
+
+real income of the country. The work of domestic servants is
+
+always classed as "labour" in the technical sense; and since it
+
+can be assessed en bloc at the value of their remuneration in
+
+money and in kind without being enumerated in detail, its
+
+inclusion raises no great statistical difficulty. There is
+
+however some inconsistency in omitting the heavy domestic work
+
+which is done by women and other members of the household, where
+
+no servants are kept.
+
+    Again, suppose a landowner with an annual income of ?0,000
+
+hires a private secretary at a salary of ?00, who hires a
+
+servant at wages of ?0. It may seem that if the incomes of all
+
+these three persons are counted in as part of the net income of
+
+the country, some of it will be counted twice over, and some
+
+three times. But this is not the case. The landlord transfers to
+
+his secretary, in return for his assistance, part of the
+
+purchasing power derived from the produce of land; and the
+
+secretary again transfers part of this to his servant in return
+
+for his assistance. The farm produce the value of which goes as
+
+rent to the landlord, the assistance which the landlord derives
+
+from the work of the secretary, and that which the secretary
+
+derives from the work of the servant are independent parts of the
+
+real net income of the country; and therefore the ?0,000 and the
+
+?00 and the ?0 which are their money measures, must all be
+
+counted in when we are estimating the income of the country. But
+
+if the landlord makes an allowance of ?00 a year to his son,
+
+that must not be counted as an independent income; because no
+
+services are rendered for it. And it would not be assessed to the
+
+Income tax.
+
+    As the net payments on account of interest etc. due to an
+
+individual-net, i.e. after deducting those due from him to others
+
+are part of his income, so the money and other things received
+
+net by a nation from other countries are part of its income.
+
+    7. The money income, or inflow, of wealth gives a measure of
+
+a nation's prosperity, which, untrustworthy as it is, is yet in
+
+some respects better than that afforded by the money value of its
+
+stock of wealth.
+
+    For income consists chiefly of commodities in a form to give
+
+pleasure directly; while the greater part of national wealth
+
+consists of the means of production, which are of service to the
+
+nation only in so far as they contribute to producing commodities
+
+ready for consumption. And further, though this is a minor point,
+
+consumable commodities, being more portable, have more nearly
+
+uniform prices all the world over than the things used in
+
+producing them: the prices of an acre of good land in Manitoba
+
+and Kent differ more tban those of a bushel of wheat in the two
+
+places.
+
+    But if we look chiefly at the income of a country we must
+
+allow for the depreciation of the sources from which it is
+
+derived. More must be deducted from the income derived from a
+
+house if it is made of wood, than if it is made of stone; a stone
+
+house counts for more towards the real richness of a country than
+
+a wooden house which gives equally good accommodation. Again, a
+
+mine may yield for a time a large income, but be exhausted in a
+
+few years: in that case, it must be counted as equivalent to a
+
+field, or a fishery, which yields a much smaller annual income,
+
+but will yield that income permanently.
+
+    8. In purely abstract, and especially in mathematical,
+
+reasoning the terms Capital and Wealth are used as synonymous
+
+almost perforce, except that "land" proper may for some purposes
+
+be omitted from Capital. But there is a clear tradition that we
+
+should speak of Capital when considering things as agents of
+
+production; and that we should speak of Wealth when considering
+
+them as results of production, as subjects of consumption and as
+
+yielding pleasures of possession. Thus the chief demand for
+
+capital arises from its productiveness, from the services which
+
+it renders, for instance, in enabling wool to be spun and woven
+
+more easily than by the unaided hand, or in causing water to flow
+
+freely wherever it is wanted instead of being carried laboriously
+
+in pails; (though there are other uses of capital, as for
+
+instance when it is lent to a spendthrift, which cannot easily be
+
+brought under this head). On the other hand the supply of capital
+
+is controlled by the fact that, in order to accumulate it, men
+
+must act prospectively: they must "wait" and "save," they must
+
+sacrifice the present to the future.
+
+    At the beginning of this Book it was argued that the
+
+economist must forego the aid of a complete set of technical
+
+terms. He must make the terms in common use serve his purpose in
+
+the expression of precise thought, by the aid of qualifying
+
+adjectives or other indications in the context. If he arbitrarily
+
+assigns a rigid exact use to a word which has several more or
+
+less vague uses in the market place, he confuses business men,
+
+and he is in some danger of committing himself to untenable
+
+positions. The selection of a normal use for such terms as Income
+
+and Capital must therefore be tested by actually working with
+
+it.(8*)
+
+
+
+NOTES:
+
+
+
+1. This and similar facts have led some people to suppose not
+
+only that some parts of the modern analysis of distribution and
+
+exchange are inapplicable to a primitive community; which is
+
+true: but also that there are no important parts of it that are
+
+applicable; which is not true. This is a striking instance of the
+
+dangers that arise from allowing ourselves to become the servants
+
+of words, avoiding the hard work that is required for discovering
+
+unity of substance under lying variety of form.
+
+
+
+2. See a report of a Committee of the British Association, 1878,
+
+on the Income Tax.
+
+
+
+3. Professor Clark has made the suggestion to distinguish between
+
+Pure Capital and Capital Goods: the former is to correspond to a
+
+waterfall which remains stationary; while Capital Goods are the
+
+particular things which enter and leave the business, as
+
+particular drops pass through the waterfall. He would of course
+
+connect interest with pure capital, not with capital goods.
+
+
+
+4. See above II, iii, sec. 1.
+
+
+
+5. Adam Smith's distinction between fixed and circulating capital
+
+turned on the question whether the goods "yield a profit without
+
+changing masters" or not. Ricardo made it turn on whether they
+
+are "of slow consumption or require to be frequently reproduced";
+
+but he truly remarks that this is "a division not essential, and
+
+in which the line of demarcation cannot be accurately drawn."
+
+Mill's modification is generally accepted by modern economists.
+
+
+
+6. Compare above II. i, sec. 3.
+
+
+
+7. Just as for practical purposes it is better not to encumber
+
+ourselves with specifying the "income" of benefit which a man
+
+derives from the labour of brushing his hat in the morning, so it
+
+is better to ignore the element of capital vested in his brush.
+
+But no such consideration arises in a merely abstract discussion:
+
+and therefore the logical simplicity of Jevons' dictum that
+
+commodities in the hands of consumers are capital has some
+
+advantages and no disadvantages for mathematical versions of
+
+economic doctrines.
+
+
+
+8. A short forecast of some of this work may be given here. It
+
+will be seen how Capital needs to be considered in regard both to
+
+the embodied aggregate of the benefits derivable from its use,
+
+and to the embodied aggregate of the costs of the efforts and of
+
+the saving needed for its production: and it will be shown how
+
+these two aggregates tend to balance. Thus in V, IV, which may be
+
+taken as in some sense a continuation of the present chapter,
+
+they will be seen balancing directly in the forecasts of an
+
+individual Robinson Crusoe; and for the greater part at least in
+
+terms of money in the forecasts of a modern business man. In
+
+either case both sides of the account must be referred to the
+
+same date of time; those that come after that date being
+
+"discounted" back to it; and those that come before being
+
+"accumulated" up to it.
+
+    A similar balancing in regard to the benefits and the costs
+
+of capital at large will be found to be a chief corner stone of
+
+social economy: although it is true that in consequence of the
+
+unequal distribution of wealth, accounts cannot be made up from
+
+the social point of view with that clearness of outline that is
+
+attainable in the case of an individual, whether a Robinson
+
+Crusoe, or a modern business man. In every part of our discussion
+
+of the causes that govern the accumulation and the application of
+
+productive resources, it will appear that there is no universal
+
+rule that the use of roundabout methods of production is more
+
+efficient than direct methods; that there are some conditions
+
+under which the investment of effort in obtaining machinery and
+
+in making costly provision against future wants is economical in
+
+the long run, and others in which it is not: and that capital is
+
+accumulated in proportion to the prospectiveness of man on the
+
+one hand, and on the other to the absorption of capital by those
+
+roundabout methods, which are sufficiently productive to
+
+remunerate their adoption. See especially IV, VII, sec, 8; V, IV,
+
+VI, I, sec. 8; and VI, VI, sec. 1.
+
+    The broader forces, that govern the production of capital in
+
+general and its contribution to the national income, are
+
+discussed in IV, VII, IX XI: the imperfect adjustments of the
+
+money measures of benefits and costs to their real volume are
+
+discussed chieJy in III, III-V; IV, VII; and VI, III VIII; the
+
+resulting share in the total product of labour and capital, aided
+
+by natural resources, which goes to capital, is discussed chieJy
+
+in VI, I, II, VI-VII, XI, XII.
+
+    Some of the chief incidents in the history of the definitions
+
+of Capital are given in Appendix E.
+
+
+
+

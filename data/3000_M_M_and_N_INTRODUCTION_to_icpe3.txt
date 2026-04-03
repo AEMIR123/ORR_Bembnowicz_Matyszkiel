@@ -1,0 +1,390 @@
+                                Karl Marx 
+ 
+                             INTRODUCTION TO  
+             A CONTRIBUTION TO A CRITIQUE OF POLITICAL ECONOMY 
+ 
+ 
+          Written between end of August and middle September 1857. 
+ 
+          Marx intended this to be the Introduction to his  
+          _Contribution to a Critique of Political Economy_ (1859), 
+          but, as his Preface to that work notes, he decided to  
+          omit it. 
+ 
+          The unfinished rough draft, which was found among Marx's 
+          papers after his death.  First published 1903, in _Die  
+          Neue Zeit_.  Would become the first manuscript in the 
+          _Grundrisse_.  
+ 
+ 
+    I. PRODUCTION, CONSUMPTION, DISTRIBUTION, EXCHANGE (CIRCULATION) 
+ 
+ 
+                   3. The Method of Political Economy 
+ 
+When examining a given country from the standpoint of political economy, 
+we begin with its population, the division of the population into 
+classes, town and country, the sea, the different branches of 
+production, export and import, annual production and consumption, 
+prices, etc.  
+ 
+It would seem to be the proper thing to start with the real and concrete 
+elements, with the actual preconditions -- e.g., to start in the sphere 
+of the whole economy with population -- which forms the basis and the 
+subject of the whole social process of production.  Closer consideration 
+shows, however, that this is wrong.  Population is an abstraction if, 
+for instance, one disregards the classes of which it is composed.  These 
+classes, in turn, remain empty terms if one does not know the factors on 
+which they depend -- e.g., wage-labor, capital, and so on.  These 
+presuppose exchange, division of labor, prices, etc.  For example, 
+capital without wage-labor, without value, money, prices, etc., is 
+nothing.  If one were to take population as the point of departure, it 
+would be a very vague notion of a complex whole and through closer 
+definition, one would arrive analytically at increasingly simple 
+concepts; from imaginary concrete terms, one would move to more and more 
+tenuous abstractions, until one reached the most simple definition.  
+From there, it would be necessary to make the journey again in the 
+opposite direction until one arrived once more at the concept of 
+population, which is this time not a vague notion of a whole, but a 
+totality comprising many determinations and relations.  The first course 
+is the historical one taken by political economy at tis inception.  The 
+17th century economists, for example, always took as their 
+starting-point the living organism, the population, the nation, the 
+state, several states, etc., but analysis led them always, in the end, 
+to the discovery of a few decisive abstract, general relations (such as 
+division of labor, money, and value).  When these separate factors were 
+more or less clearly deduced and established, economic systems were 
+evolved which from simple concepts, such as labor, division of labor, 
+demand, exchange value, advanced to categories like state, international 
+exchange and world market.  This latter is obviously the correct 
+scientific method.  The concrete concept is concrete because it is a 
+synthesis of many definitions, thus representing the unity of diverse 
+aspects.  It appears, therefore, in reasoning as a summing-up, a result, 
+and not as the starting-point -- although it is the real point of 
+origin, and thus also the point of origin of perception and imagination.  
+The first procedure attenuates meaningful images to abstract 
+definitions; the second leads from abstract definitions by way of 
+reasoning to the reproduction of the concrete situation.  Hegel 
+accordingly conceived the illusory idea that the real world is the 
+result of thinking, which causes its own synthesis, its own deepening, 
+and its own movement; whereas the method of advancing from the abstract 
+to the concrete is simply the way in which thinking assimilates the 
+concrete and reproduces it as a concrete mental category.  This is, 
+however, by no means the process of evolution of the concrete world 
+itself.  For example, the simplest economic category -- e.g., exchange 
+value -- presupposes population, a population moreover which produces 
+under definite conditions, as well as a distinct kind of family, or 
+community, or state, etc.  Exchange value cannot exist except as an 
+abstract, _unilateral_ relation of an already existing concrete organic 
+whole.  But exchange value as a category leads an antediluvian 
+existence.  Thus, to consciousness -- and this comprises philosophical 
+consciousness -- which regards the comprehending mind as the real man, 
+and hence the comprehended world as such as the only real world; to 
+consciousness, therefore, the evolution of categories appears as the 
+actual process of production -- which, unfortunately, is given an 
+impulse from outside -- whose result is the world; and this (which is 
+however again a tautological expression) is true in so far as the 
+concrete totality regarded as a conceptual mental totality, as a mental 
+fact, is indeed a product of thinking, of comprehension; but it is by no 
+means a product of the idea which evolves spontaneously and who think 
+proceeds outside and above perception and imagination, but is the result 
+of the assimilation and transformation of perceptions and images into 
+concepts.  The totality as a conceptual entity seen by the intellect is 
+a product of the thinking intellect, which assimilates the world in the 
+only way open to it, a way which differs from the artistic, religious 
+and practically intelligent assimilation of the world.  The concrete 
+subject remains outside the intellect and independent of it -- that is, 
+so long as the intellect adopts a purely speculative, purely theoretical 
+attitude.  The subject, society, must always be envisaged therefore as 
+the precondition of comprehension, even when the theoretical method is 
+employed.  
+ 
+But have not these simple categories also an independent historical or 
+natural existence preceding that of the more concrete ones? This 
+depends.  Hegel, for example, correctly takes ownership -- the simplest 
+legal relation of the subject -- as the point of departure of the 
+philosophy of law.  No ownership exists, however, before the family or 
+the relations of master and servant are evolved, and these are much more 
+concrete relations.  It would, on the other hand, be correct to say that 
+families and entire tribes exist which have as yet only _possessions_ 
+and not _property_.  The simpler category appears, thus, as a relation 
+of simple family or tribal communities to property.  In societies which 
+have reached a higher stage, the category appears as a comparatively 
+simple relation existing in a more advanced community.  The concrete 
+substratum underlying the relation of ownership is, however, always 
+presupposed.  One can conceive an individual savage who has possessions; 
+possession in this case, however, is not a legal relation.  It is 
+incorrect that in the course of historical development possession gave 
+rise to the family.  On the contrary, possession always presupposes this 
+"more concrete category".  One may, nevertheless, conclude that the 
+simple categories represent relations or conditions which may reflect 
+the immature concrete situation without as yet positing the more complex 
+relation or condition which is conceptually expressed in the more 
+concrete category; on the other hand, the same category may be retained 
+as a subordinate relation in more developed concrete circumstances.  
+Money may exist and has existed in historical time before capital, 
+banks, wage-labor, etc., came into being.  In this respect, it can be 
+said that the simpler category expresses relations in a more advanced 
+entity; relations which already existed historically before the entity 
+had developed the aspects expressed in a more concrete category.  The 
+procedure of abstract reasoning which advances from the simplest to more 
+complex concepts to that extent conforms to actual historical 
+development.  
+ 
+It is true, on the other hand, that there are certain highly-developed 
+(but nevertheless historically immature) social formations which employ 
+some of the most advanced economic forms -- e.g., cooperation, developed 
+division of labor, etc.  -- without having developed any money at all -- 
+for instance, Peru.  In Slavonic communities, too, money -- and it's 
+precondition, exchange -- is of little or no importance within the 
+individual community, but is used on the borders where commerce with 
+other communities takes place; and it is altogether wrong to assume that 
+exchange within the community is an original constituent element.  On 
+the contrary, in the beginning exchange tends to arise in the 
+intercourse of different communities with one another, rather than among 
+members of the same community.  Moreover, although money begins to play 
+a considerable role very early and in diverse ways, it is known to have 
+been a dominant factor in antiquity only among nations developed in a 
+particular direction -- i.e., merchant nations.  Even among Greeks and 
+Romans (the most advanced nations of antiquity) money reaches its full 
+development, which is presupposed in modern bourgeois society, only in 
+the period of their disintegration.  The full potential of this quite 
+simple category thus emerges historically not in the most advanced 
+phases of society, and it certainly does not penetrate into all economic 
+relations.  For example: taxes in kind and deliveries in kind remained 
+the basis of the Roman empire even at the height of its development; 
+indeed, a completely-evolved monetary system existed in Rome only in the 
+army, and it never permeated the whole complex of labor.  Although the 
+simpler category, therefore, may have existed historically before the 
+more concrete category, its complete intensive and extensive development 
+can nevertheless occur in a complex social formation, whereas the more 
+concrete category may have been fully evolved in a more primitive social 
+formation.  
+ 
+Labor seems to be a very simple category.  The notion of labor in this 
+universal form (as labor in general) is also extremely old.  
+Nevertheless, "labor" in this simplicity is economically considered just 
+as modern a category as the relations which give rise to this simple 
+abstraction.  The Monetary System, for example, still regards wealth 
+quite objectively as a thing existing independently in the shape of 
+money.  Compared with this standpoint, it was a substantial advance when 
+the manufacturing or Mercantile system transferred the source of wealth 
+from the object to the subjective activity -- mercantile or industrial 
+labor -- but it still considered that only this circumscribed activity 
+itself produced money.  In contrast to this system, the Physiocrats 
+assume that a specific for of labor -- agriculture -- creates wealth, 
+and they see the object no longer in the guise of money, but as a 
+product in general, as the universal result of labor.  In accordance 
+with the still circumscribed activity, the product remains a naturally 
+developed product, an agricultural product, a product of the land _par 
+excellence_.  
+ 
+It was an immense advance when Adam Smith rejected all restrictions with 
+regard to the activity that produces wealth -- for him, it was labor as 
+such, neither manufacturing, nor commercial, nor agricultural labor, but 
+all of them.  The abstract universality which creates wealth implies 
+also the universality of the objects defined as wealth: they are 
+products as such, or once more labor as such, but in this case past, 
+materialized labor.  How difficult and immense a transition that was is 
+demonstrated by the fact that Adam Smith himself occassionally relapses 
+once more into the Physiocratic system.  It might seem that in this way 
+merely an abstract expression was found for the simplest and most 
+ancient relation in which human beings act as producers -- irrespective 
+of the type of society they live in.  This is true in one respect, but 
+not in another.  
+ 
+The fact that the specific kind of labor is irrelevant presupposes a 
+highly-developed complex of actually existing kinds of labor -- none of 
+which is any more the all-important one.  The most general abstractions 
+arise on the whole only when concrete development is most profuse, so 
+that a specific quality is seen to be common to many phenomena, or 
+common to all.  Then it is no longer perceived solely in a particular 
+form.  This abstraction of labor is, on the other hand, by no means 
+simply the conceptual resultant of a variety of existing concrete types 
+of labor.  The fact that the particular kind of labor employed is 
+immaterial is appropriate to a form of society in which individuals 
+easily pass from one type of labor to another, the particular type of 
+labor being accidental to them and therefore irrelevant.  Labor, not 
+only as a category but in reality, has become a means to create wealth 
+in general, and has ceased to be tied as an attribute to a particular 
+individual.  This state of affairs is most pronounced in the United 
+States, the most modern form of bourgeois society.  The abstract 
+category "labor", "labor as such", labor _sans phrase_, the point of 
+departure in modern economics, thus becomes a practical fact only there.  
+The simplest abstraction, which plays a decisive role in modern 
+political economy, an abstraction which expresses an ancient relation 
+existing in all social formations, nevertheless appears to be actually 
+true in this abstract form only as a category of the most modern 
+society.  It might be said that phenomena which are historical products 
+in the United States -- e.g., the irrelevance of the particular type of 
+labor -- appear to be among the Russians (for instance) naturally 
+developed predispositions.  But in the first place, there is an enormous 
+difference between barbarians having a predisposition which makes it 
+possible to employ them in various tasks, and civilized people who apply 
+themselves to various tasks.  As regards the Russians, moreover, their 
+indifference to the particular kind of labor performed is in practice 
+matched by their traditional habit of clinging fast to very definite 
+kind of labor from which they are extricated only by external 
+influences.  
+ 
+The examples of labor strikingly demonstrates how even the most abstract 
+categories (despite their validity in all epochs) -- precisely because 
+they are abstractions -- are equally a product of historical conditions 
+even in the specific form of abstractions, and they retain their full 
+validity only for and within the framework of these conditions.  
+ 
+Bourgeois society is the most advanced and complex historical 
+organization of production.  The categories which express its relations, 
+and an understanding of its structure, therefore, provide and an insight 
+into the structure and the relations of production of all formerly 
+existing social formations the ruins and component elements of which 
+were used in the creation of bourgeois society.  Some of these 
+assimilated remains are still carried on within bourgeois society; 
+others, however, which previously existed only in rudimentary form, have 
+been further developed and have attained their full significance, etc.  
+The anatomy of man is a key to the anatomy of the ape.  On the other 
+hand, rudiments of more advanced forms in the lower species of animals 
+can only be understood when the more advanced forms are already known.  
+Bourgeois economy thus provides a key to the economy of antiquity, etc., 
+but it is quite impossible [to gain this insight] in the manner of those 
+economists who obliterate all historical differences and who see in all 
+social phenomenon only bourgeois phenomenon.  If one only knows rent, it 
+is possible to understand tribute, etc., but they do not have to be 
+treated as identical.  
+ 
+Since bourgeois society is, moreover, only a contradictory form of 
+development, it contains relations of earlier societies often merely in 
+very stunted form, or even in the form of travesties -- e.g., communal 
+ownership.  Thus, although it is true that the categories of bourgeois 
+economy are valid for all other social formations, this has to be taken 
+_cum grano salis_, for they may contain them in an advanced, stunted, 
+caricatured, etc., form -- that is, always with substantial differences.  
+What is called historical evolution depends, in general, on the fact 
+that the latest form regards earlier ones as stages in the development 
+of itself, and conceives them always in a one-sided manner -- since only 
+rarely, and under quite special conditions, is a society able to adopt a 
+critical attitude towards itself.  In this context, we are not, of 
+course, discussing historical periods which themselves believe that they 
+are periods of decline.  The Christian religion was able to contribute 
+to an objective understanding of earlier mythologies only when its 
+self-criticism was, to a certain extent, prepared, as it were 
+potentially.  Similarly, only when the self-criticism of bourgeois 
+society had begun, was bourgeois political economy able to understand 
+the feudal, ancient, and oriental economies.  In so far as bourgeois 
+political economy did not simply identify itself with the past in a 
+mythological manner, its criticism of earlier economies -- especially of 
+the feudal system against which it still had to wage a direct struggle 
+-- resembled the criticism that Christianity directed against 
+heathenism, or which Protestantism directed against Catholicism.  
+ 
+Just as, in general, when examining any historical period or social 
+science, so also in the case of the development of economic categories 
+is it always necessary to remember that the subject (in this context, 
+contemporary bourgeois society) is presupposed both in reality and in 
+the mind, and that therefore categories express forms of existence and 
+conditions of existence (and sometimes merely separate aspects) of this 
+particular society, the subject; thus the category, _even from the 
+scientific standpoint_, by no means begins at the moment when it is 
+discussed _as such_.  This has to be remembered, because it provides 
+important criteria for the arrangement of the material.  For example, 
+nothing seems more natural than to begin with rent -- i.e., landed 
+property, since it is associated with the earth, the source of all 
+production and all life -- and agriculture, the first form of production 
+in all societies that have attained a measure of stability.  But nothing 
+would be more erroneous.  There is, in every social formation, a branch 
+of production which determines the position and importance of all 
+others; and the relations obtaining in this branch accordingly determine 
+the relations of all other branches, as well.  It is as though light of 
+a particular hue were cast upon everything, tinging all other colors and 
+modifying their special features; or as if a special ether determined 
+the specific gravity of everything found in it.  Let us take, as an 
+example, pastoral tribes.  (Tribes living exclusively on hunting or 
+fishing are beyond the boundary line from which real development 
+begins.) A certain types of agricultural activity occurs among them, and 
+this determines land ownership.  It is communal ownership and retains 
+this form in a larger or smaller measure, according to the degree to 
+which these people maintain their traditions -- e.g., communal ownership 
+among the Slavs.  Among settled agricultural people -- settled already 
+to a large extent -- where agriculture predominated, as in societies of 
+antiquity and the feudal period, even manufacture (its structure and the 
+forms of property corresponding thereto) have, in some measure, 
+specifically agrarian features.  Manufacture is either completely 
+dependent on agriculture, as in the earlier Roman period, or as in the 
+Middle Ages, it copies in the town and in its conditions the 
+organization of the countryside.  Even in the Middle Ages, capital -- 
+unless it was solely money capital -- consisted of the traditional 
+tools, etc., and retained a specifically agrarian character.  The 
+reverse takes place in bourgeois society.  Agriculture, to an increasing 
+extent, becomes just a branch of industry and is completely dominated by 
+capital.  The same applies to rent.  In all forms in which landed 
+property is the decisive factor, natural relations still predominate; in 
+the forms in which the decisive factor is capital, social, 
+historically-evolved elements predominate.  Rent cannot be understood 
+with capital, but capital can be understood without rent.  Capital is 
+the economic power that dominates everything in bourgeois society.  It 
+must form both the point of departure and the conclusion and it has to 
+be expounded before landed property.  After analyzing capital and landed 
+property separately, their interconnection must be examined.  
+  
+It would be inexpedient and wrong therefore to present the economic 
+categories successively in the order in which they have played the 
+dominant role in history.  On the contrary, their order of succession is 
+determined by their mutual relation in modern bourgeois society and this 
+is quite the reverse of what appears to be natural to them, or in 
+accordance with the sequence of historical development.  The point at 
+issue is not the role that various economic relations have played in the 
+succession of various social formations appearing in the course of 
+history; even less is it their sequence "as concepts" (Proudhon) (a 
+nebulous notion of the historical process), but their position within 
+modern bourgeois society.  
+ 
+It is precisely the predominance of agricultural people in the ancient 
+world which caused the merchant nations -- Phoenicians, Carthaginians -- 
+to develop in such purity (abstract precision) in the ancient world.  
+For capital in the shape of merchant or money capital appears in the 
+abstract form where capital has not yet become the dominant factor in 
+society.  Lombards and Jews occupied the same position with regard to 
+mediaeval agrarian societies.  
+ 
+Another example of the various roles which the same categories have 
+played at different stages of society are joint-stock companies, one of 
+the most recent features of bourgeois society; but they arise also in 
+its early period in the form of large privileged commercial companies 
+with rights of monopoly.  
+ 
+The concept of national wealth finds its way into the works of the 
+economists of the 17th century as the notion that wealth is created for 
+the state, whose power, on the other hand, is proportional to this 
+wealth -- a notion which to some extent still survives even among 18th 
+century economists.  This is still an unintentionally hypocritical 
+manner in which wealth and the production of wealth are proclaimed to be 
+the goal of modern states, and production itself is regarded simply as a 
+means for producing wealth.  
+ 
+The disposition of material has evidently to be made in such a way that 
+[section] 
+ 
+     One - comprises general abstract definitions, which, therefore, 
+           appertain in some measure to all social formations, but in 
+           the sense set forth earlier.  
+ 
+     Two - the categories which constitute the internal structure of 
+           bourgeois society and on which the principal classes are 
+           based.  Town and country.  The three large social classes; 
+           exchanges between them.  Circulation.  The (private) credit 
+           system.  
+ 
+     Three - the state as the epitome of bourgeois society.  Analysis of 
+           its relations to itself.  The "unproductive" classes.  Taxes.  
+           National debt, public credit, Population, Colonies, 
+           Emigration.  
+ 
+     Four - international conditions of production.  International 
+           division of labor.  International exchange.  Export and 
+           import.  Rate of exchange.  
+ 
+     Five - world market and crises. 
+ 
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+                                           

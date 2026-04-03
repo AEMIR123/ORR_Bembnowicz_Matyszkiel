@@ -1,0 +1,1759 @@
+
+
+
+Natural Value
+
+	by Friedrich Wieser
+
+	translated by Christian A. Malloch
+
+English Edition, 1893. German Edition, 1889.
+
+
+
+
+Author's Preface
+
+
+    It has been said that one finds in Adam Smith nearly all the
+explanations of value which have ever been attempted. What is
+certain is that, in his explanation, Adam Smith has put together
+two views that contradict each other. To put it shortly: he gives
+two theories, one philosophical, the other empirical. In the
+first he tries to make clear what should be thought of as the
+characteristic attribute of value; what it is we ascribe to some
+things and deny to others that, to all appearance, are entirely
+the same; what it is of which we ascribe a great deal to certain
+things and very little to other things which, measured by outside
+standards, seem infinitely superior. In this view value is an
+attribute per se, coinciding with no other that we know, and,
+least of all, with the usefulness of things. In carrying out this
+attempt Adam Smith first of all abstracts from the complicated
+circumstances of ordinary economic life, and confines himself to
+the simple, primitive, natural state. In this state he finds that
+it is labour in which value originates. Goods are worth to us
+what they cost in labour, and what, therefore, their possession
+saves us in labour. The idea of value thus arrived at Adam Smith
+goes on to apply to the empirical instances of the phenomenon of
+value. Thereafter when he comes across value he sees nothing
+mysterious in it; he has a means of distinguishing it from the
+other attributes of things; he knows how to get to the heart of
+it; indeed, through its relation to the labour from which it
+receives its content, he can even measure it. 
+    But, independently of this, Adam Smith describes -- and here
+we come to his empirical theory -- the causes of value and of the
+more or less of value, as he finds them in actual life. He sees
+clearly that labour which he has recognised as, philosophically,
+the sole cause of value, is not also, practically, its sole
+cause. As a rule three factors together, he thinks, make up the
+exchange value of products; besides the labour of production
+there is also interest on the capital required and rent of the
+land required. This is not to say that the "value" of observed
+experience is of another nature from the "value" of philosophy.
+That value which is created by land and capital is of the same
+nature as that created by labour. As regards it also, it is
+labour to which we must refer, if we are to grasp its content and
+measure it. The only sign of his being aware that there is any
+contradiction between his philosophical and his empirical
+explanation is where he passes from describing the primitive
+natural condition of economic life to describing a society based
+on private property in land and capital. Here he cannot resist a
+gibe at those who "love to reap where they never sowed,"
+although, once within the kingdom of reality, he takes interest
+and rent into his system as self-intelligible facts. 
+    Nearly half a century passed, and then Ricardo tried to clear
+his master's doctrines of their imperfections. Ricardo deeply
+felt the contradiction which Adam Smith had scarcely noticed. How
+did he seek to remove it? In a way that, more than Adam Smith's
+mistake, betrayed how young a science political economy was.
+To-day when, in virtue of the labours of these great pioneers of
+the science, we stand face to face with the problems which are to
+be solved, it is scarcely possible to put ourselves back into
+those conceptions in which they first gave shape to their
+observations and thoughts. In their effort to escape from
+absolute perplexity they took frank delight in explanations
+which, to us now, are more of a riddle than the phenomenon they
+were meant to explain. What, then, did Ricardo attempt? His whole
+endeavour exhausted itself in tying to show that the
+philosophical and the empirical theory of Adam Smith, -- both of
+which, indeed, in taking up this position he had to clear and
+carry further, -- did not contradict each other so much as at
+first sight would appear. If we limit ourselves to the general
+rule and the average, value as it is and value as we get it from
+labour, agree in their amounts -- not altogether, indeed, but
+almost so -- with one exception, which is so trifling that it may
+be quite properly neglected. Of the two empirical factors in the
+formation of value which Adam Smith named besides labour, the
+rent of land -- and this was the ultimate gain of Ricardo's
+famous theory -- is entirely eliminated. Rent does not determine
+the value of products but is determined by that value. Interest,
+of course, remains, but Ricardo thinks he has shown that it
+increases with the value of products in, approximately, the same
+ratio as the quantities of labour required for production, so
+that the quantities of labour do, in the long run, give a fairly
+true measure of the value relations of all products. Interest, as
+treated in this way, forms no hindrance to his system, and
+Ricardo consequently does not really try to explain it. He takes
+it as he finds it -- a fact that needs no explanation. This
+treatment, which has excited the astonishment of so many later
+writers, is perfectly intelligible if we remember the impulse
+which set Ricardo's mind to work. He had no intention of
+explaining the whole of economics. He wished to show only that
+the value which is, is very much the same as the value which can
+-- although only from a certain point of view -- be understood.
+Ricardo was the last man in the world to think of reforming
+economic life. He never opposed, to the value which is, the value
+which ought to be. It never came into his mind to condemn
+interest, and his system, understood in the sense of its author,
+does not in the least involve the condemnation of interest. In
+this there is nothing illogical, and when the socialists base
+their crusade against interest on his system, they do not
+complete it, as they imagine they are doing, but destroy it. Only
+if interest is undoubtedly a good thing can over pass over it as
+Ricardo does. 
+    Since Ricardo's book appeared another half-century has fled,
+and, since the Wealth of Nations, more than a century. In that
+time the demands on the social sciences have grown apace. In Adam
+Smith's day people explained the existing condition of things by
+the "original" nature of man and the "original" state of things,
+and were content. We, on the other hand, like to explain reality
+by reality. Philosophy itself has become empirical. It allows no
+argument which is not drawn from well-founded experience. The
+historical state, positive law, the economy of every-day life,
+are the objects of research, and, at the same time, the ultimate
+sources of the instruments of research. If Adam Smith and Ricardo
+were writing to-day, they would be full of the spirit of to-day,
+and even if they had not command of the abundance of observation
+and knowledge which the genius of the one and the acuteness of
+the other have put at our service, their books would be ever so
+much more perfect than they could have been in their time.
+Certainly they would avoid the mistakes which the human spirit
+since their day has outgrown. 
+    Their school, however, still pursues the path they trod,
+hesitating between uncomprehended empiricism and the purest
+speculation. And it is a great school. It is strange indeed to
+find that while, as regards questions of politics and of method,
+whole sides have renounced the English parent school, -- from the
+socialists to the adherents of the historical school in Germany,
+-- as regards the old economic problem of value many of the newer
+economists have remained true to its dogmas. As a man's judgment
+about value, so, in the last resort, must be his judgment about
+economics. Value is the essence of things in economics. Its laws
+are to political economy what the law of gravity is to mechanics.
+Every great system of political economy up till now has
+formulated its own peculiar view on value as the ultimate
+foundation in theory of its applications to practical life, and
+no new effort at reform can have laid an adequate foundation for
+these applications if it cannot support them on a new and more
+perfect theory of value. 
+    Of course the ruling theories of value have, in many
+respects, put themselves in antagonism to the theory of Adam
+Smith and Ricardo, particularly in Germany -- although, indeed,
+in that country there as of late years been a widening acceptance
+of the labour theory. The advances which theory has made
+therefrom can scarcely be overestimated. More particularly may it
+be noted that Use Value has now been put by the side of Exchange
+Value, and that, besides the economic life of the individual, we
+now take cognisance of national and other more general economies.
+Here, again, the connection between the theory of value and
+practical politics is strikingly shown. Hostility to the
+individualist reading of the conception of value took sides with
+the struggle against the individualist tendency in economics. It
+seems, however, as if this branch of the ruling doctrine also has
+exhausted its force, and that this movement also hangs on the
+"dead centres." As economic research stands to-day, people, on
+the whole, are investigating, not the phenomenon of value, but
+the popular conception or conceptions of value. I have said in
+another place that, for the sciences which deal with human action
+in any of its departments, the peculiar danger is that of missing
+their mark. Passing by the act and its motive, they are too ready
+to investigate the meanings which men take out of their own
+actions. Thus we get "popular theories," particularly those which
+can be read out of the ordinary meaning of the terms in which
+phenomena they deal with are expressed. This remark seems to me
+peculiarly applicable to the value theories just spoken of. 
+    That the theory of value needs reforming from the very
+foundation no one will, I think, deny. The imperfection of the
+prevailing views is confessed even by their own adherents. But
+while the great majority of economists are still at a loss where
+to turn, a new theory has come to the front. At first unnoticed,
+and then for long but little thought of, worked out by men who,
+for the most part, did not know of each other but yet agreed
+where so many had doubted and disagreed, came a new theory based
+on a new foundation -- an empirical theory on an empirical
+foundation. 
+    The new theory starts from the old proposition, that the
+value of goods comes from the Utility of goods, or -- what is the
+same thing -- from the satisfactions of want which goods assure.
+To find the laws of value, then, one must first know the laws of
+want. Now, in this pursuit, we come upon the fact that the want
+for the same things -- even in the same person, and in given
+economic conditions -- is of quite different strengths, varying
+according to the degree in which the want has already been
+satisfied through the employment of goods. But since the
+employment of goods depends upon the amount of goods which one
+possesses, the quantity of goods obtains a decisive influence on
+the valuation of wants and so on the source of value itself. This
+observation is the starting-point of the wider investigation. In
+itself it is of great importance because it ultimately gives the
+solution of the paradoxical phenomenon that value falls as goods
+increase. But it is as important through its effects on economic
+method, because it guides the economist, from the false objects
+to which speculative methods and ordinary language point, to the
+empirical heart of the phenomenon of value. 
+    As forerunners of the theory we may name generally all those
+who have derived value from utility; specially those who were
+persistent in basing even exchange value altogether on utility,
+particularly when they did not shrink from their principle in
+spite of the obvious influence of costs of production. Usually on
+this point the statement of the theory is either inconsequent or
+obscure, or retains its logic and its clearness, at the expense
+of renouncing completeness, by leaving out the question of costs.
+As forerunners of the new theory in the stricter sense of the
+term we may name those who take up the question of quantities of
+goods as well as their utility. Usually, of course, this goes
+only to the extent of showing the changes in the amount of value
+which follow from changes in supply and demand. But, in the case
+of a few writers, it has taken a much more exact form, where
+"scarcity," "limitation of supply" is recognised as condition
+under which utility creates value -- and that not only, as
+Ricardo says, as regards certain rare goods, but as regards goods
+generally. Among writers answering to this description, who may
+be held the immediate precursors of our theory, are Auguste
+Walras (De la Nature de la Richesse et de l'Origine de la Valeur,
+Evreux, 1831), and also Condillac, Genovesi, and Senior.(1*)
+    Passing by those numerous pioneer works, we meet with no less
+than four authors who had worked out the same theory
+independently of each other, Gossen,(2*) Jevons,(3*) Menger,(4*)
+and Leon Walras.(5*) Gossen's statement, in spite of many quite
+classical points of superiority, is, on the whole, the most
+imperfect. That of Walras, though admirable of its kind, suffers,
+to my mind, from the preponderance of the mathematical element.
+The laws which govern amounts of value undoubtedly allow of a
+mathematical expression; nay, the more complicated of these can
+be expressed exactly only by means of mathematics; and here
+certainly mathematics has a great task to fulfil. But in the
+value theory we have to do with something more than the
+expression of the laws of amounts. The obscure conception of
+value is to be made clear; all its manifold forms are to be
+described; the service of value in economic life is to be
+analysed; the connection of value with so many other economic
+phenomena is to be shown; in short, we have to give a philosophy
+of value which needs words, not numbers. And, besides all this,
+the empirical existence of the alleged facts is to be
+established. 
+    Finally, Jevons's statement, in spite of its amazing wealth
+of observation and reflection, in spite of its finished
+expression, in spite of the catholic spirit which speaks from it,
+must be placed second to that of Menger. Menger goes more deeply
+into the subject, inasmuch as he starts from a more general
+conception of value. For this Menger is indebted to the German
+school of national economists with its patient untiring labour in
+formulating the general economic conceptions, and pressing
+forward from concrete phenomena to that height of abstraction
+from which the phenomena are to be logically arranged. It may be
+said that, in great part, the German school long ago formulated
+the conceptions, leaving for us only the task of filling them out
+by adequate observation. In this it has laid up a treasure from
+which all succeeding economic effort may draw indefinitely. 
+    Of Jevons's system one part, the "theory of utility," as he
+calls it, has passed into English literature. Among the works of
+Continental economists who adopted the new theory, may be
+mentioned the fine statements of Pierson,(6*) and Charles
+Gide;(7*) and in Germany a work of Launhardt(8*) on the lines of
+Jevons and Walras. But it is in Austria, in the lineal succession
+to Menger, that the development of the new value theory is to be
+sought. I may be allowed to refer to my own Ursrpung und
+Hauptgesetze des wirthschaftlichen Werthes, Vienna, 1884, in
+which I applied Menger's theory to the phenomena of costs. On
+this followed a work by Bohm-Bawerk,(9*) which, independently of
+its extremely clear presentation and its careful and fruitful
+revision of many matters of detail, is particularly valuable from
+its treatment of the theory of objective value. Finally came a
+comprehensive work of E. Sax,(10*) extending the theory of value
+over entirely new material to which no previous writer had
+applied it -- to public imposts, and thus giving the theory one
+of its richest applications. 
+    The ground-plan of the new theory is drawn, but much remains
+to be done; not only to widen its reach generally, but to
+complete it in itself. The following pages are an attempt to
+supplement what has already been done. In distinction from my
+earlier work I have not paused to discuss the assumptions of the
+value theory, but limited myself severely to the subject of value
+and its direct content. On the other hand I have attempted to
+exhaust the entire sphere of the phenomena of value without any
+exception, and, besides that, so far as my ability goes, to think
+out more exactly the subjects I had already treated of. The
+present work is on that account in no way a repetition of my
+former one, but an entirely new book, treating for the most part
+of entirely new matter, and having nothing more in common with it
+than the general fundamental propositions. I hope this time to
+have met the objection urged against the Ursprung des Werthes
+that I had omitted the connections -- the "bridges," as one
+critic called them -- between the principles laid down and the
+concrete phenomena of value with which we are familiar. Whatever
+may be thought of its truth or correctness, I think I may venture
+to say that no value theory has ever yet been put forward more
+complete and exhaustive in external form and treatment. 
+    The very multitude of single matters which I had to touch on
+has compelled me to pass over almost every critical analysis that
+differed from mine, and indeed to leave out almost every appeal
+to economic authorities outside of those authors who belong to
+the same school, and from whom I directly took the propositions I
+had put forward. Similarly I have refrained from discussing any
+of the economic conceptions I had to employ outside of that of
+value. I shall very willingly put up with the reproach of being
+incomplete by reason of this if it should succeed in making any
+clearer the inner connection of the book. At the same time I
+should not like to be suspected of having done so from any
+undervaluing of the theoretical work of other economists -- least
+of all, of those of Germany. 
+    I have just said how deeply indebted, in my opinion, every
+theoretical attempt of to-day is to the labours of German theory.
+And to it the new value theory stands most nearly related -- it
+is in truth the fulfilment of what German theory had long
+demanded. 
+
+NOTES:
+
+1. Rau, too, with his "concrete Gebrauchswerth" may be included.
+There is a notable treatise of the mathematician Daniel
+Bernoulli: Specimen theoriae novae de mensura sortis (Commentarii
+Academiae Scientiarum imperialis Petropolitanae, tomus V. Ad
+annos 1730 et 1731. Petropoli, 1738). Bernoulli maintains that it
+is valde probabile, lucrulum quodvis semper emolumentum afferre
+summae bonorum reciproce proportionale. He is fully acquainted
+with the subjective character of value, as well as with the most
+important law of the change of value. His work is referred to by
+Jevons in an extract from another of his books. By the kindness
+of Professor Menger I have seen the original. Dupuit's De
+l'influence des Peages, 1849, mentioned by Jevons, I have not
+been able to consult. 
+
+2. Entwicklung der Gesetze des menschlichen Verkehrs und der
+daraus fliessenden Regein fur das menschliche Handeln.
+Braunschweig, 1854. 
+
+3. First in a paper before the British Association, 1862, then
+fully in the Theory of Political Economy, London, 1871; 2nd edit.
+1879. 
+
+4. Grundsatze der Voikswirthschaftslehre, Vienna, 1871.
+
+5. Elements d'economie politique pure ou Theorie de la richesse
+sociale. Lausanne, 1874-77. -- Theorie mathematique de la
+richesse sociale. Lausanne, 1883. -- Theorie de la Monnaie.
+Lausanne, 1886. 
+
+6. Leerboek der staathuishoudkunde. Haarlem, 1884.
+
+7. Principes d'economie poiitique. Paris, 1884. 
+
+8. Mathematische Begrundung der Volkswirthschaftsiehre. Leipzig,
+1885.
+
+9. Grundzuge der Theorie des wirthschaftlichen Gulerwerths.
+Conrad's Jahrbucher, N.F. vol. xiii. Jena, 1886. 
+
+10. Grundlegung der theoretischen Staatswirthschaft. Vienna,
+1887. 
+
+
+Book I: The Elementary Theory of Value
+
+Chapter 1
+The Origin of Value
+
+    Whence do things get their value? If we put the question to
+any intelligent and trained man of business, who had no knowledge
+of the various attempts of theorists towards an explanation of
+value, whose mind was unbiassed by the forms of speech which echo
+learned theories and have passed into ordinary business use, and
+who was, therefore, capable of judging only through the medium of
+his own personal experience, he would undoubtedly answer, as the
+first theorists did, -- "from their Utility." He would be very
+much surprised to learn that several considerations made the
+truth of this answer improbable, and that many facts -- some of
+them to a certain extent generally known, and familiar even to
+himself -- seemed to prove, with almost absolute certainty, that
+utility could not be the source of value. These facts we may
+state as follows. 
+    First: goods which are to be had in superfluity, and which
+any one may appropriate at will, no one will pay anything for, be
+they ever so useful. In many places water, although indispensable
+to man, is entirely without value. Of course this observation
+refers immediately only to value in money, the so-called
+"exchange value," and it might be thought that it was not true of
+value in the using of goods, the so-called "value-in-use." Closer
+examination shows, however, that it is true also of value-in-use.
+In the household, as in the market, the superfluous is regarded
+as the valueless, and is clearly separated from those things of
+which there is no superfluity. However frugally we may act with
+regard to other things, we should never think of economising in
+things which we are always sure of having in over-abundance. No
+one will ever try to secure possession of them: there is no
+property in them; no interest is taken in them. They are used,
+but we think no more about them. 
+    Second: things which have a great deal of use have often a
+smaller value than those which have little use. Iron, for
+instance, has less value than gold. This is true equally of its
+money value, and of its value-in-use, in the market and in the
+household. Even in the socialist state -- supposing its citizens
+still to possess the aesthetic sense -- it will be considered of
+less moment to lose an ounce of iron than an ounce of gold. 
+    Third: a large quantity has, under certain circumstances,
+less value than a smaller quantity of the same thing. It is well
+known that the Dutch East India Company destroyed a considerable
+part of their produce and of their plantations, in order to
+create a more lively demand, and so secure for the remainder a
+greater value than the whole property had originally possessed.
+The same thing is observed as regards the returns derived from
+good and from bad harvests, -- the bad harvests showing better
+than the good. This also, as I hope to show later, applies to
+value-in-use as well as to exchange value. 
+    Fourth: while the measure of use is in such frequent and
+striking contradiction with that of value, it happens, as often
+and as strikingly, that value is in agreement with the exact
+antithesis of use -- namely, with costs. I say "antithesis"
+because, if goods, by their use, prove themselves the friends of
+man, they prove his enemy by the costs which they necessarily
+involve. 
+    A great many of the writers who have occupied themselves in
+the investigation of value -- and, we may add, for a long time
+many of the best of them -- have for this reason refused to
+consider at all the idea that value may arise from utility; they
+assert that the value of goods comes from the difficulty of their
+attainment, and is proportionate to it. Those again who have
+based their theory upon utility, have, for the most part, done so
+in a manifestly unsatisfactory fashion. They have either placed
+themselves in contradiction to the facts already mentioned
+without explaining away the contradiction, or laid so much stress
+on these facts that, in the end, they can scarcely be
+distinguished from those writers who have rejected the principle
+of utility, except by their express avowal of that principle.
+Only a few authors, the more important of whom are mentioned in
+the preface, have struck the right road. These have conceived the
+idea of Use Value in such a way that it is neither confuted nor
+disturbed by the foregoing considerations, but on the contrary is
+entirely confirmed by them. 
+    It is as these last-mentioned writers understand it that I
+mean to state the theory of value. Before beginning, I may be
+allowed to make a single introductory remark as to the manner in
+which I intend to carry out my task, and, particularly, as to the
+nature of the proofs which will be used.
+     The economist who undertakes to explain value has to explain
+the procedure of those who value. He describes in plain language
+the meaning of transactions carried on, times without number, by
+all of us. He does, on a large scale and with a difficult
+subject, the same thing as one who accurately describes some
+trade or some mechanical operation, which every one can do, but
+which it is not easy, without the assistance of concrete
+instances, to present and follow up in all its complexity of
+conditions. As the poet gives expression to the thought which
+every one feels but cannot express, or the actor's genius shows
+the passion which perhaps he may not even feel, so does the man
+of science describe in words, and apart from their concrete
+realisation, the actions which every one is accustomed to
+perform. He does not require to have any actual case before him,
+or to accompany his description with any practical working out. 
+    Any layman in economics knows the whole substance of the
+theory of value from his own experience, and is a layman only in
+so far as he does not grasp the matter theoretically, i.e.
+independently, and for and by itself, -- but only practically, --
+that is to say, in some given situation, and in connection with
+its working out in that situation. If this be true, how else
+shall we better prove our scientific statements than by appealing
+to the recollection which every one must have of his own economic
+actions and behaviour? For this reason, every expression which
+may be taken as confirming this recollection, is welcome as an
+aid to our investigation. For instance, when we find that the
+unbiassed answer of the layman indicates that he considers
+usefulness to be the source of value, this judgment is a
+finger-post which we dare not neglect, unless the most searching
+and careful examination has proved that it points in a wrong
+direction. And who else is the final judge of the theory but the
+public? The only true theory of the estimate we call "value,"
+will be that to which practical life gives its entire assent.
+Only, of course, the judge must first himself be educated. He has
+to judge whether he recognises himself in a description which
+informs him about his own life and being, and which he himself is
+incapable of giving. 
+    I trust that what follows may meet the approval of those who
+not only act economically, but reflect on their actions. I have
+no other wish than to gain this approval, but I cannot allow the
+right of judgment to those who protest without having reflected.
+It costs much trouble to give a clear description of even the
+simplest and most familiar trade or business, and certainly, in
+the theoretical study of a matter so many-sided and complicated
+as that of value -- even though it is so familiar to all, perhaps
+because it is so familiar to all -- we cannot do without the most
+earnest and ample reflection. 
+
+
+Chapter 2
+
+The Value of Satisfaction of Want
+
+    In its ordinary use among economic writers the word Want
+signifies every human desire, whether great or small, justifiable
+or unjustifiable, necessary or unnecessary, material or
+immaterial. Bodily well-being, idle delights, artistic pleasure,
+moral satisfaction may all be classed together as objects of
+human want. 
+    In this sense all the "use of goods" -- all the utility which
+goods afford -- amounts in the last resort to satisfaction of
+wants, and the opinion that the value of goods arises from their
+use may be more exactly stated by saying that it rests upon the
+satisfaction of wants which they furnish. It is the satisfaction
+of wants which, in the first instance, has value, or "worth" or
+"importance to" us. Satisfaction is that which is really desired,
+and is worthy of desire: and, as we do not desire goods for
+themselves, but for the satisfaction they give, so do we value
+them only for that satisfaction. The value of goods is derived
+from the value of wants. 
+    The theory of value, then, has first of all to do with the
+value of wants, this being the form in which value first appears.
+
+    What it is that gives value to the satisfaction itself we
+shall not here attempt to explain. It will be enough if we give
+the symptom by which the degrees of value or importance are
+recognised. It is the intensity with which the satisfaction is
+desired. Were we to place the different satisfactions on a
+graduated scale, it would probably be remarked that those which
+stand highest are not those which provide the purest pleasure, or
+which will most serve to beautify our lives. Our most urgent
+concern is rather with the warding off of extreme want, and with
+the prevention of care and suffering; the necessaries of life
+must first be assured "before we can reach the good things of
+this world." There is a difference between what men might like to
+have, and what they must first decide to secure; and it is
+according to the latter, not the former, that interests are
+actually ranged above and below one another. The actual ranking
+of the valuable -- no matter how moral judgment or fancy would
+dictate -- is simply that which men recognise by their actions
+when they are called on to choose between having one thing and
+another. 
+    In this sense the amount of the value of want depends on the
+class of want, but, within this class, it depends upon the degree
+of satisfaction already attained. 
+    This latter point in detail we must now discuss. Here, first,
+we shall have occasion to remark the influence of quantity upon
+value. And it is not the value of goods alone that is affected by
+quantity, but the value of wants. 
+
+Chapter 3
+
+Gossen's Law of the Satiation of Want
+
+    Every one knows that the desire for food decreases as the
+want is gradually satisfied, until, finally, when what we may
+call the "satiation point" is reached, the desire is for a
+certain time entirely allayed, and possibly changed into its
+opposite, surfeit and disgust. Every one knows that the same
+happens in the case of numerous other desires; satisfaction
+diminishes the craving, and in the end fully destroys and
+transforms it. 
+    There are several authors who have the merit of having,
+independently of each other, extended this observation
+scientifically speaking, and made it the starting-point of their
+theory of value. These have been mentioned in the preface. Among
+them Gossen is worthy of particular notice, owing to the fate of
+the book in which he gave expression to his discovery and to his
+ideas on economics generally. His Entwicklung der Gesetze des
+menschlichen Verkehrs und der daraus fliessenden Regeln fur das
+menschliche Handeln, was published in Brunswick in 1854, but it
+almost entirely disappeared from sight in Germany, although its
+author had hoped to win for it a Copernican fame. Any one who
+reads the book will understand why, as well on account of the
+peculiarities of its excellences as of its faults, both of which
+are great. Jevons, in the introduction to the second edition of
+his Theory of Political Economy, and also Walras, in an essay
+which appeared in the Journal des Economistes in 1885, have given
+somewhat detailed accounts of both book and author. Economics
+owes a great debt to Gossen, and it is with this feeling that I
+call the law of the satiation of want Gossen's Law, although my
+statement of it is not entirely in accordance with his. 
+    It scarcely requires illustration. Gossen himself added to
+its clearness by the following addition. Alongside of the
+weakening effect which continued satisfaction has upon desire, we
+find also, in certain circumstances, the opposite tendency; that
+the desire grows by repetition and exercise, inasmuch as it is
+thus developed, gets to know itself, its own end and its own
+means, becomes purified and elevated. Thus, during the period of
+development, the law of diminishing desire meets with an opposite
+tendency, and the law applies unlimitedly only to wants which are
+entirely developed. Granting this, however, it applies to every
+want without exception. 
+    There can be no doubt that it applies to those coarser
+material wants, which recur periodically, as, for instance, the
+desire for food. Here, however, we must distinguish between the
+want as a whole and the several feelings of want which are
+included in it. 
+    The want as a whole of course retains its strength so long as
+man retains his health; satisfaction does not weaken but rather
+stimulates it, by constantly contributing to its development,
+and, particularly, by giving rise to a desire for variety. It is
+otherwise with the separate sensations of the want. These are
+narrowly limited both in point of time and in point of matter.
+Any one who has just taken a certain quantity of food of a
+certain kind will not immediately have the same strength of
+desire for another similar quantity. Within any single period of
+want every additional act of satisfaction will be estimated less
+highly than a preceding one obtained from a quantity of goods
+equal in kind and amount. 
+    Many material wants are not intermittent, but require a
+continuous satisfaction. Such for instance is the need of warmth,
+the human body requiring to be kept at a certain temperature.
+Here also Gossen's law applies. That action which is needed to
+secure the required minimum temperature, -- that is, the
+expenditure for clothing, fuel, and so on, indispensable for
+keeping the body in sufficient warmth, -- will be most intensely
+desired, while the multiplication of this necessary expenditure
+does not affect our well-being in the same degree, and will be
+much less eagerly desired. In the long run the prospect of any
+further increase will be met with aversion. 
+    With regard to the higher wants, -- those which come into
+existence whenever the necessaries of life are secured, -- the
+same law obtains. It is not, however, so noticeable to ordinary
+observation, and, indeed, appearances are rather against it. The
+wants of wealth appear to be the very opposite to those of
+poverty. The latter are urgent but narrowly limited; the former
+can be done without, but, when awakened, show themselves
+many-sided and extensive. Many-sided, because they are from the
+first rich in varieties, and become always more so, as one gives
+rise to another; and extensive, because they frequently include
+objects of great compass, increasing with the degree of culture
+attained. On this account it might well be thought that such
+wants were infinite and subject to no diminution. But on looking
+more closely at the matter we shall find that, when the same act
+of enjoyment is repeated without variation, -- the very same, and
+neither extended nor changed,the result is in this case also
+weariness and disgust. The thirst of a collector seems to be
+insatiable, and his object certainly is one of extraordinary
+compass, even though it be confined to one article. The man who
+collects books or pictures requires a great fortune, and may not
+even then be able to fully satisfy his wish. Every new book he
+acquires serves to stimulate instead of to weaken his desire, and
+this is not due to morbid extravagance: it is entirely
+justifiable, as it brings him nearer to his object, the
+possession of a perfect library or a perfect picture gallery. 
+    But how would it be, if he were offered a duplicate of some
+work he already had? This and this alone, as Gossen remarked,
+would be a case of exact repetition, -- of the repeated
+satisfaction of the same impulse; and here, without doubt, the
+desire would be much lessened, probably entirely destroyed. And
+thus we shall ever find it to be if we direct our attention
+strictly to the proper object. Even desires such as that of power
+or of wisdom, even ambition, greed of honour, thirst for
+knowledge are not exempt from the same rule. The sum of what
+these crave, when at their height, is infinite; no man's life or
+strength is sufficient to satisfy them wholly even once, not to
+speak of repeating it. But the single acts which make up this
+whole sum, the individual effects, exercises of power,
+acquisitions of knowledge can be repeated and tired of. The charm
+of the whole lies in the power to vary the items. Nothing on
+earth is of such a nature that man can go on enjoying it over and
+over again, and lose himself in its contemplation. This holds of
+all emotions, from hunger to love. 
+
+Chapter 4
+
+The Scales of Satiation
+
+    If we were to follow out the course of satisfaction of a
+want, and mark every separate act of satisfaction with the value
+that accompanied it, we should obtain a diminishing scale, the
+zero of which would be reached with full satisfaction or
+"satiation," while its higher point would correspond with the
+first act of satisfaction. If we had a common and exact measure
+for desire and non-desire, we might be able to put into figures
+the "satiation scale" of every want, and so compare the scales
+with each other. We are far from having that. But we are able to
+say quite positively that there are great disparities between the
+individual scales. It is not only that the higher points of such
+scales differ, and differ to an extraordinary degree, as the
+experience of every one sufficiently shows, but that, in the
+scales, the degrees between one act and the next are very
+different. There are many wants which almost leap from the point
+of highest desire to that of full satisfaction -- such, for
+instance, as the coarser needs of daily life. There are others
+which, although little felt to begin with, continue for long
+periods without any very perceptible diminution of their
+strength, -- as, for instance, many of the finer wants. Even as
+regards the individual want the decrease of desire is frequently
+quite irregular -- decreasing more slowly now at the beginning,
+now at the end of the scale. It must not in the least be expected
+that every scale will present all the different degrees of desire
+between which it is possible to distinguish. Assuming the
+possibility of distinguishing between one hundred different
+degrees of intensity of desire on the whole, we should certainly
+find no single scale that would show exactly all the hundred
+degrees; each would miss one, or another, or even many of the
+degrees; we should not perhaps find any scale which would
+regularly move, say, ten degrees at a time. Individual scales
+are, indeed, likely to be formed with considerable irregularity,
+and we shall find such a series as 100, 90, 80, 10, 0; or 20, 14,
+5, 3, 2, 1, 0, and so on. 
+    This statement, rude and imperfect as it is, will be found of
+great use in what follows. We shall have to turn back to it at
+several important points. Even here, it gives us a first
+suggestion of how one of the fundamental difficulties of the
+problem of value may be overcome; that, namely, arising from
+observation of the contradiction between value and usefulness. A
+few words will make this clearer. A sensation of want which
+belongs to a very important class of wants may nevertheless not
+possess any great importance. The importance of the entire class
+is measured by the entire scale of satiation, especially by its
+highest degree. But the importance of every separate sensation of
+desire is measured by some particular and possibly low point upon
+the scale, according to the condition of satisfaction which has
+already been reached. The want for food, measured by its class,
+is more important than that for adornment or finery, but none the
+less may the individual sensations of vanity, in the first stages
+of their satisfaction, be far stronger than the desire for food,
+supposing the latter desire to be satisfied for the time being. 
+    Classes of goods correspond to classes of wants, and
+judgments concerning the importance of classes of wants will
+correspond with judgments on the usefulness of classes of goods.
+But the single commodity need no more realise the usefulness of
+its class than the separate sensation of desire need realise the
+importance of its class. The last course eaten by one who has
+almost dined has a comparatively small utility, although it
+contains in itself the property of saving from the pangs of
+hunger. Suppose that one has a sufficiently large number of goods
+of the highest usefulness, some of them can be put only to a very
+trifling use, and, indeed, if there is a superfluity of them, he
+will have no use whatever for that part of the supply which is in
+excess of the demand. 
+    In economic life we have to do not only with classes of wants
+and classes of goods, but also with the state of subjective
+satisfaction already reached, or the supply. We cannot,
+therefore, judge of goods simply by their usefulness; we must
+judge by the amount of use attainable in the individual case;
+and, consequently, the value of goods must be kept at least as
+distinct from their usefulness as the use to which we put them
+is.
+
+
+Chapter 5
+
+Marginal Utility
+
+    Even where nature is most lavish with her gifts, there are
+but few kinds of goods with which she provides man in such
+superfluity that he can satisfy every, even the most
+insignificant, sensation of want. As a rule the supply of goods
+of which he can avail himself is so scanty that he must break off
+his satisfaction at a point on the scale short of complete
+satiation. This point -- the smallest utility obtainable in the
+circumstances, assuming the most thorough possible utilisation of
+the goods -- is of peculiar importance, both for the act of
+valuation and for economic life. To it refer the expressions,
+"Werth des letzten Atoms," of Gossen, "Final degree of utility,"
+or "Terminal utility" of Jevons; and "Intensite du dernier besoin
+satisfait (rarete)" of Walras. Menger uses no particular
+designation. The name "Marginal Utility" was suggested by me
+(Ursprung des Werthes, p. 128), and has since been generally
+accepted. 
+    Where the supply of goods is too scanty to satisfy every
+sensation of desire, the necessary break must be so made that it
+will be felt as little as possible. This will be the case when we
+begin by satisfying the most intense sensations of want, and go
+on to extend to its utmost the compass of enjoyment; or, in other
+words, when we reach, in unbroken satisfaction, the lowest
+possible marginal point of enjoyment. Economic conduct requires
+that the marginal utility in this sense be placed as low as
+possible. The means by which to reach this end are, on the one
+hand, the utmost possible quantitative exploitation of goods,
+and, on the other hand, the utmost care in choosing how the goods
+are to be employed where there are several competing ways of
+employing them. Such a competition of employments may arise from
+two circumstances -- first, where goods are capable of manifold
+and various uses, and, second, where supplies are accumulated and
+their consumption should be spread over periods of time. In the
+first case our concern must be to choose between the separate
+forms of employment, and to keep the economic balance even; in
+the second, to distribute the goods so as best to meet the wants
+of the whole period. 
+    The difference between the various satiation scales of wants
+comes into play in the case of goods of many-sided usefulness.
+Every different kind of employment has its own particular scale
+of satiation, with a culminating point peculiar to itself and a
+course of satisfaction peculiar to itself. On account of this the
+determination of the marginal utility in the given case becomes a
+very complicated matter. Its principle will be best explained by
+an example, and we need be at no loss for examples, as goods of
+manifold utility are numerous enough. The most important are
+found among the means of production. Who could count up the
+services which iron, wood, or coal is capable of rendering? Or
+those for which human labour is fitted? The most many-sided of
+all goods is, however, money; through exchange it can be turned
+into almost any other commodity, and thus made serviceable for
+the satisfaction of almost any want. From no other commodity can
+we obtain so clear a presentation of the idea of "marginal
+utility." I therefore take it as example, although money is
+really useful only as a medium, and presupposes the existence of
+exchange, a phenomenon of which we shall not treat till the
+following book. 
+    The money income of the richest man is usually not sufficient
+to cover every outlay that he might desire. Acting economically
+therefore, so as to secure what Gossen calls the Grosste an
+Genuss, the greatest possible enjoyment, we shall distribute our
+expenditure so as to "make it go as far as possible," from the
+satisfaction of the most urgent wants down to the most
+insignificant. The larger the income is, the farther it will go,
+and the longer will it be before we need to break off our
+satisfaction. But the Grosste an Genuss could not be reached if
+the separate branches of expenditure were not adequately weighed
+against each other. Nowhere must the boundary-line be
+overstepped, which is fixed by the general circumstances of our
+wealth. Every overstepping in one branch will have to be paid for
+in another, which other, as represented by a higher degree on the
+scale of wants, will impose a sacrifice greater than the
+enjoyment got from it. To this extent it is quite possible to
+speak of a "level of household expenditure," of a general
+condition of life prescribed for every household by the peculiar
+amount of its demand and the peculiar amount of its means, and
+necessitating strict adherence to it in all its branches. It
+would, however, be a mistake to believe -- as almost every writer
+who has occupied himself with this question has done, Jevons more
+than any other -- that it is necessary to keep strictly in every
+branch of expenditure to the same degree of satisfaction, the
+same level, the same marginal utility. That is quite against the
+nature of wants, for wants have not each an equal but each a
+peculiar satiation scale. Were the "level of household
+expenditure" to be understood in this way, every addition to
+income would require to be laid out equally in corresponding
+enlargement of every branch of expenditure. As a matter of fact
+it is usually spent on a few individual branches, while the
+others remain as they were; or, if the additional income be so
+great as to allow of an improved condition of things all round,
+the extra expenditure is distributed in the most irregular
+manner. The satiation scales of wants are very diverse; the
+receptive power of one want is great, that of another
+comparatively small; that is to say, one is susceptible of a
+degree of intensity which another does not teach, or which it
+oversteps. The principle for the economic employment of goods of
+manifold usefulness is not, then, that we must, in every
+employment, obtain the same lowest possible marginal utility, but
+that in all employment as low a marginal utility be reached as is
+possible without necessitating the loss, in some other
+employment, of a higher utility. 
+    What has just been said applies as well to the economic
+management of supplies of goods destined to cover periods of
+time. Premature and extravagant indulgence should not impose
+unnecessary burdens on the future. It would be best to divide the
+enjoyment equally over the whole period, but this is frequently
+made impossible by the nature of goods, which does not allow of
+their being kept, as also by the uncertainty of providing for
+changes of value in the economy in question. The limit of
+employment should always be of such a sort as promises the
+greatest amount of utilisation on the whole.(1*) 
+    A special question is here suggested: -- Are present and
+future satisfactions to be estimated entirely alike? Is not
+precedence in time also precedence in degree of importance? Is it
+not right that enjoyments should be considered of less value the
+further they are in the darkness of the future? Jevons has
+answered this question in the affirmative, and since him many
+others, some with great positiveness, though, as I think,
+wrongly. We cannot avoid going into this matter more closely,
+even though it detains us a little from the attainment of our
+present object, the deduction of the elementary law of value. 
+
+NOTES:
+
+1. See Ursprung des Werthes, p. 146, and Sax, p. 371.
+
+
+Chapter 6
+
+The Value of Future Satisfactions of Want
+
+
+    If we did not possess the power of providing for future
+wants, our lives would be but poorly provided for. No new
+products would be prepared; those we already possessed would be
+thoughtlessly dissipated; only chance and the goodwill of nature
+would provide for the morrow. And as it is of importance that we
+should be sensible in advance of the wants of the future, so is
+it of importance that the degree of that sensibility should be
+sufficient. Anxiety about future necessaries should be as
+powerful as the passion with which we give ourselves away before
+the urgent feelings of the moment. If future satisfactions of
+want were represented in present valuation, not at their full
+future value but at only a small fraction of the same, all
+economic life must in the end fall to pieces, just as though they
+were not represented at all; only that the course of economic
+decay would be less rapid and its end farther off.
+    It is evident that man possesses the capacity of acting in
+consideration of future feelings of want, but observation of
+human nature makes it very obvious that he will act with less
+energy than when he is under the influence of present feelings.
+The future want, wherever it comes into the domain of the
+present, is preceded by a psychical reflection, and this
+reflection is of a totally different nature from the want itself.
+It is far finer, more innerlich, and, even in the case of purely
+bodily wants, is always mental. The hunger of a future day, e.g.,
+does not act as hunger, but as anxiety for sustenance; the object
+of desire is the same, but the desiring is different. Instead of
+a want of we have an interest in. Is not, then, some energy lost
+in this change from the coarser to the finer? Must not the
+anxiety about a future want always have less weight than the
+actual appetite that comes after it? 
+    If men in civilised societies do possess the degree of
+foresight required for a prosperous economic condition, one thing
+is certain; -- they have not always possessed it. It has been
+gained through the labour of civilisation, just as, in moral
+conflicts, strength to meet the fires of passion has been gained
+through the feeling of duty. At bottom the economic conflict
+between the needs of to-day and those of to-morrow is really of a
+moral nature; it is a special case of the struggle between
+impulse and reason. Uncivilised races are only to a small extent
+capable of considering in advance the wants of the future; -- to
+so small an extent, in fact, that the miserable condition in
+which they are found can be fully explained by this alone. It is
+not only the foreknowledge that is wanting, but, quite as much,
+the previous mental excitation, the uneasiness which the
+civilised man experiences in the consciousness that wants are
+coming for which there is no provision. A heavy numb apathy
+deadens the sense of the savage. He awaits with indifference, or
+at most with a feeling of helplessness, the misery from which he
+does not suppose it possible to escape, but which he certainly
+could escape had he only the energy to will it. 
+    Whether civilised races have reached the high-water mark of
+development that is desirable, may easily be ascertained by
+consideration of their economic actions. How do they behave in
+the majority of cases? Do most people sacrifice their means for
+the pleasure of the moment, or do they lay by for future needs?
+-- There can be no doubt that, on the whole, the wise
+householders outnumber the spendthrifts. Certainly there is no
+one entirely without economical sin; no one who has never
+consumed too soon some thing which he afterwards bitterly desired
+and had not. But, on the whole, it is an economic principle which
+is as well obeyed as any of the fundamental economic principles,
+that wealth and income should be economised with a view to the
+future and to old age. Every supply of goods should, so far as
+possible, be distributed over the wants of the period of time
+which it is intended to cover, in such a way that, whether the
+time at which they occur be earlier or later, all the more
+important sensations may be satisfied, and only the less
+important -- those which it is impossible for the supply to cover
+-- be left out. The exceptions to this rule are so few in number,
+that a theoretical inquiry which regards the principle as
+invariable, and asks as to its further effects will help to
+explain our economy, not only as it ought to be, but also as it
+actually is. 
+    To avoid misunderstanding I shall try to explain my meaning
+more exactly. I have no wish to deny that, in general, the
+futurity of an event has the effect of weakening its impression.
+As a rule this is also true in economics. It seems to me,
+however, that, in a civilised state, every good householder, and,
+in the main, every average one, has learnt to master this
+weakness of human nature in one respect; -- so far, namely, as to
+distribute a regularly-acquired income among regularly-expected
+wants, and, in connection with this again, so far as to try to
+acquire a regular income, and secure the conditions thereof by
+exercise of labour power, and maintenance of the parent stock of
+wealth. The call for forethought in this latter connection is
+peculiarly strong, and it should not excite wonder that it is
+more active here than in any other direction. 
+    Moreover a well-regulated and prosperous economic condition
+does not in the least demand that every future sensation be fully
+realised in the present. Only those require to be considered
+which have to be provided for, and those again only in so far as
+they require to be provided for. First in importance are all
+those wants which must be covered by the present supply of
+consumption goods, and by the income available at the moment, and
+which consequently, in economic management, come into conflict
+with present desires. Alongside of these we may put the far more
+numerous wants which have to be covered by suitable employment of
+the present parent wealth. Our conception of both groups of
+wants, but particularly of the latter, takes a peculiarly
+simplified form, which easily gives the impression that they are
+entirely shoved into the background. They are conceived of in the
+mass, and grouped together in periods of time; and we are
+generally conscious of them only in so far as they are
+represented by the goods which are devoted to their satisfaction.
+Foresight for the wants of a remote future and of later
+generations, for instance, is seen in the precept which forbids
+diminishing of the parent stock of wealth, even although this
+precept only refers to the goods which form the wealth, while the
+wants themselves appear to retreat more and more into a darkness
+which the imagination does not seek and need not seek to
+illuminate.(1*)
+
+NOTES:
+
+1. Many economists would explain interest, particularly the
+interest on productive capital, by the difference in value
+between present and future feelings. This seems to me an error.
+Interest derived from productive capital is a phenomenon of the
+very best ordered economic transactions, of those managed with
+the highest possible degree of foresight. It is not in the least
+a sign of a defective economy. See, however, Book IV. 
+
+
+Chapter 7
+
+The Value of Goods
+
+    Originally only the human has importance for man. Thought for
+one's self, interest in one's self, comes by nature. Towards
+things, on the other hand, man is originally indifferent, and his
+interest in them only awakens in so far as he finds them
+connected with human interests and destinies. This takes various
+forms; such as pity, when the lower animals are seen to suffer
+just as man does, or religious or poetic emotion, when
+observation of the living in nature awakens suspicion of the
+connection of all life, or, finally, economic valuation, when
+things are conceived of as instruments to and conditions of human
+well-being. This is the coldest form that our interest takes, as
+it regards things simply as means to human ends; it is, however,
+at the same time, the most far-reaching, as it embraces most
+things, and claims not only existence, but property. 
+    Our natural indifference towards things is nevertheless so
+great that it requires a special compulsion, a peremptory
+challenge, to make us look upon them as objects of importance,
+objects possessing value. Nor does the mere observation that
+things are "of use" to us, and that the use has for us importance
+or value exert this compulsion. Where we employ goods for our own
+uses, but where at the same time these goods are at our disposal
+in absolutely assured superfluity, we use them, but concern
+ourselves no more about them than about the sands of the sea.
+Whether they increase or decrease -- always supposing that the
+superfluity remains -- we merely think, "What does it matter? we
+have always enough and more than enough of them!" In Paradise
+nothing would have value but satisfactions -- neither things nor
+goods. Because there one could have everything, one would not be
+dependent on anything. 
+    On the other hand, where there is not an assured superfluity,
+interest awakens in the train of self-seeking calculation, and
+communicates itself to such goods as we notice ourselves using
+and not caring to lose. Men in general thus lay their account
+with things, as the egoist with persons. And here we are not
+speaking only of cases of real need, of extremest want, where the
+little that one has is guarded with an Argus eye; nor of objects
+of great scarceness or rarity, such as a work of art which is
+quite unique, and whose loss it would be impossible to replace.
+We refer also to cases where people are fairly prosperous, but
+nevertheless require to economise; and even to cases of extreme
+wealth -- always supposing it is not assured natural superfluity
+-- where, in many respects, a man has everything, but where, all
+the same, the "everything" requires continual guarding,
+administration, and renewal. In these circumstances there is not
+a single change in a man's possessions which is entirely
+indifferent. Every addition brings some addition of enjoyment;
+every loss, even the slightest, disturbs, makes some gap, and
+breaks the expected line of enjoyments. Happiness and sorrow are
+dependent on our possessions; the destinies of goods mean the
+destinies of men. There is an intimate association of ideas
+between human interests and goods. Goods, indifferent in
+themselves, receive value from that value which their employments
+have. 
+    Goods which are to be had in an assured and natural
+superfluity are called Free goods; all others are Economic goods.
+Thus only economic goods can possess value. The value of goods,
+according to Menger's definition, is "the importance which
+concrete goods, or quantities of goods, receive for us from the
+fact that we are conscious of being dependent on our disposal
+over them for the satisfaction of our wants."
+    It should be noticed that no part of free goods receives
+value; neither that part which is superfluous, and cannot
+therefore be used, nor yet that part which is used. Of the water
+which flows abundantly from some spring, neither that portion
+which fills the jar, nor that which overflows has value. The
+value of goods, although it has its origin in use, does not all
+the same reflect the utility: there are cases in which great use
+is obtained, where nevertheless no value -- i.e. no value of
+goods -- is created. The theorist, therefore, who would explain
+value must not content himself with explaining the change in
+amounts of utility; he must go further and examine those laws by
+which amounts of utility are changed into amounts of value. It
+may be suspected -- and we shall find this suspicion confirmed in
+what follows -- that value, owing in many cases so little of its
+origin to utility, is, even where it has so originated, equally
+far from always containing the full amount of utility. 
+    If the use of a good in the individual case be so far removed
+from its general usefulness, its value, if our suspicion is
+indeed confirmed, must be even further removed from that general
+usefulness -- and here is opened up to us a second point of view
+from which we may explain and make intelligible the
+contradictions which experience points out between value and
+usefulness. 
+
+
+Chapter 8
+
+The Valuation of a Single Commodity
+
+    Goods are valued either individually and by themselves, or in
+connection with other goods. The latter form of valuation takes
+place chiefly in one of three ways. A good may be valued in
+connection with other similar goods belonging to one and the same
+stock or supply; or in connection with goods from which it can be
+produced; or in connection with goods which can be added to it by
+purchase. Of these three cases the first is the elementary one,
+to which both of the others may be traced back. It is with this
+first alone, therefore, that we shall deal in the elementary
+theory of value. 
+    It is extremely seldom that goods are valued singly. It may
+be some chance or other which has isolated them, or it may be a
+consequence of some peculiar character which allows of them being
+obtained only individually. In the first case, they are
+irreplaceable during the period of their isolation; in the
+second, they are altogether so; and, in both cases, they must, on
+any reasonable valuation, have ascribed to them the full value of
+the utility which is expected from them. The means without which
+an end cannot be reached must be valued as highly as the end
+itself. If the good is by nature fitted for several purposes
+which, however, mutually exclude each other, so that it can
+actually serve only one of them, that employment to which the
+greatest importance belongs decides its value. Only a barbarian
+could value the Venus de Milo by the utility of the material of
+which it is made. A starving man will value his last bite at its
+full life-saving value, -- supposing the saving of his life to be
+of consequence to him. 
+    Now and then, too, considerable supplies of goods are valued
+as one indivisible whole, and, consequently, as one good. A
+vendor may, for instance, lay down as a condition of selling some
+large supply of goods, that it be bought entire or not at all. If
+circumstances force the buyer to consent to this condition, he on
+his part must estimate the value of the supply as a whole. He has
+to reckon up the whole sum of useful services which he may
+expect, from the highest utility which the goods composing the
+stock are capable of rendering, down to the marginal utility
+fixed by the amount of the stock and of the demand for it; and
+the sum of all those services gives him the value. Value here
+reflects the whole utility aimed at in employing the goods. 
+    Suppose a community were forced to buy the grain it requires
+from some foreign country and in one lot, if the conditions just
+described were laid down, the government would have to make a
+valuation which would be almost infinite. It would require to
+consider that, without the purchase, a great part of the
+community might die of hunger, and to calculate all that would be
+gained by the prevention of this most extreme misfortune, and by
+securing the health and vigour of the people. 
+    Besides that would have to be reckoned all the less important
+useful results, which really are obtained although their marginal
+effects are inappreciable. It is obvious that the valuation of
+the harvest which is actually made stands far behind any such
+valuation as this. And what is the reason of it, seeing that the
+actual effects of the harvest are no less important, -- that it
+does in truth keep away hunger and misery, and maintain the
+strength of the citizens? Why does its full use not enter into
+the valuation? The reason is, obviously, that we are not forced
+to obtain and value the harvest in one lot. It comes through
+thousands of busy hands, by a thousand different means of
+transport, from thousands of storehouses; and it passes through
+thousands of purchases to those who need it, and is by them
+consumed in thousands of different acts. The question as to the
+effect on the whole is never put; the only thing we have ever to
+do with is the effect of individual parts, which, compared with
+the whole, are vanishingly small. And this brings us to a law of
+valuation by which an amount of value is ascribed to the single
+part, and, therefore, finally, to the sum of all the parts, which
+is as far removed from the amount of value that would otherwise
+pertain to the united whole, as the resisting power of all the
+single rods in a bundle is from that of the whole bundle. 
+    This law we have now to trace. It might be described as the
+General Law of Value, since it holds in almost every case. Almost
+all supplies which we possess and employ, which are bought and
+sold, which are used up and produced, are acquired and used in
+parts. Seldom only is a supply of goods the object of economic
+use and valuation as a whole -- a whole of which nothing can be
+lost without everything being lost. As a rule every supply or
+stock of goods comes to us as a sum of parts, each of which has
+its separate destiny, and can be individually disposed of. 
+
+
+Chapter 9
+
+The Valuation of Goods in Stocks. The Law of Marginal Utility the
+General Law of Value
+
+    Suppose a poor man receives every day two pieces of bread,
+while one is enough to allay the pangs of positive hunger, what
+value will one of the two pieces of bread have for him? If for
+instance a still poorer man, who has nothing whatever, begged of
+him one piece, what sacrifice would the first make in complying
+with the request? Or -- what comes to the same thing -- what use
+or utility would he retain if he refused to comply with it? The
+answer is easy enough. If he gives away the piece of bread he
+will lose, and if he keeps it he will secure, provision for that
+degree of want which makes itself felt whenever positive hunger
+is allayed. We may call this the 2nd degree. 
+    One of two entirely similar goods is, therefore, equal in
+value to the 2nd degree in the scale of utility of that
+particular class of goods. One of three goods, under the same
+conditions, will have the value of the 3rd degree; one of four,
+of the 4th; in short, any one good, in a stock of goods of the
+same kind, will have in general the value of the final or
+marginal utility. The larger the supply -- the need remaining
+unaltered -- the smaller will be the marginal utility and the
+value, and vice versa; while, on the other hand, the greater the
+need the higher will be both marginal utility and value, and vice
+versa.(1*)
+    This, however, is not enough. Not only has one of two goods
+the value of the second degree of utility, but either of them has
+it, whichever one may choose. In our example, neither of the two
+pieces of bread -- so long as the possessor has both -- will have
+that value which belongs to the allaying of positive hunger,
+because, so long as they are both in his possession, he will
+never be exposed to this extremity. He may give away one of them
+-- whichever he likes, so long as he keeps the other -- without
+losing his provision against starvation. But, if either of the
+two pieces is equal in value to the second degree of utility,
+both together have twice this value. And three pieces have
+together three times the value of the third degree of utility,
+and four pieces have four times the value of the fourth degree.
+In a word, the value of a supply of similar goods is equal to the
+sum of the items multiplied by the marginal utility. 
+    Say that a harvest, consisting of 1,000,000 quarters, is
+short, and that the community has to be so sparing in its use of
+it that grain dare not be consumed unless the act of consumption
+yield a satisfaction equal to the figure 10: the value of the
+harvest will be calculated as 1,000,000 x 10. The value of a
+harvest of 2,000,000 quarters, where the act of consumption need
+only yield, say, 4, is equal to 2,000,000 x 4. The value of
+1,000,000 tons of iron, where the marginal utility is 1, is
+1,000,000, and the value of 100,000 oz. of gold, with a marginal
+utility of 50, is 5,000,000. 
+    As the use obtained from free goods represents no value
+whatever, so is the use obtained from supplies of economic goods
+not fully represented in their value, and for the same reason In
+the case of free goods we need not concern ourselves at all about
+their use, that being always assured so long as the goods remain
+in superfluity; and in the case of economic goods, our only
+concern is with the marginal utility, all the higher utilities
+being assured so long as the amount of the supply remains
+unaltered. In the former case we need have no anxiety as regards
+the provision for our wants generally; in the latter we need have
+no anxiety as regards the provision for the principal part of our
+wants -- and the larger the supply the less the anxiety -- and
+need only concern ourselves to see that the proper margin of
+employment is maintained. 
+    The law of value just described owes its existence, on the
+one side, to the peculiar formation of the scales of want, but,
+on the other, to the peculiar conditions under which goods are
+possessed. If goods did not come forward in stocks or supplies
+consisting of similar items, but only individually and each with
+a separate form, the law would not hold. Where such stocks do
+appear, however, it must hold. How could things entirely similar
+be differently valued, -- supposing, of course, that they belong
+to the same person, and are used to satisfy the same demand? Even
+if any one in an anxious mood were to set apart certain items, as
+a reserve for extreme exigency, and, as such, might think of
+putting a special value on them, he would surely find, on
+reflection, that the reserved goods were in no way different from
+all the rest, and that there would be no danger of this extreme
+case arising, even if some accident destroyed the reserve, so
+long as the other stock held out. 
+    This law of value unites the conceptions of value and of
+utility in a way that is fully confirmed by facts. When
+experience shows that iron is worth less than gold, and that an
+abundant harvest may be of less value than a poor one, our law
+can give the explanation. In the main, it clears up all the
+contradictions which appear to separate the conceptions of value
+and utility from each other; and it only remains for us now to
+combine the fact of costs with the law of marginal utility, -- a
+task we shall undertake later. Meanwhile we have not yet
+completely exhausted the elementary theory of value. In the first
+place we have only externally resolved the contradictions between
+value and utility. Under certain conditions iron must be of less
+value than gold, and the rich harvest of less value than the poor
+one -- but what hidden import is contained in this? However
+unconditionally one adopts our law and is convinced by our logic,
+he will nevertheless scarcely be able to deny that its inmost
+content is veiled in darkness. In one connection it appears
+paradoxical; in another it even seems to comprehend within itself
+a complete antinomy. The final task of the elementary theory of
+value will be to clear up this paradox and explain away this
+antinomy. Only when this is done, shall we obtain a clear idea of
+the essential nature of the phenomenon of value.(2*)
+
+NOTES:
+
+1. The amount of supply depends chiefly on the result of
+production, and thus the elements of production come into
+relation with value. The nature of this relation we shall first
+discuss, however, in Book V, under the head of "Costs." Meantime
+we shall assume that supplies exist without production. 
+
+2. We have here reached a decisive point in our examination.
+Experience shows us daily that similar goods obtain similar
+prices; and the majority of theorists (although they may use
+different names for the same thing) are agreed that these prices
+are fixed by a marginal law. In this is involved that exchange
+value, which rests on prices, is the same for all similar goods,
+and obeys a marginal law. We, however, have gone still further,
+and say that Value generally and in every form, even in that of
+use, and even where there is no exchange -- as e.g. in a
+community organised on a socialist basis -- must be the same for
+all similar goods, and must obey a marginal law. Jevons, Gossen,
+and Walras have not gone so far as to assert this. To these
+writers the utility of the separate portions or items of one
+supply is different, according to the amount of use which each
+actually gives. I can scarcely hope to have brought home to the
+reader, and still less to have converted him all at once to such
+an unfamiliar aspect of the question. But I trust that the
+following presentation of the theory of value, which is founded
+on the foregoing, and which examines, and -- so far as my
+judgment goes -- explains all the different relations of value,
+will be found convincing. 
+    There is just one more point to which I should like now to
+draw special attention. Price not only regulates the amount paid
+by buyers, but also the amount of production by sellers: it gives
+to the latter its level. All goods produced for the market are
+produced under a valuation which considers similar goods as equal
+to one another, and which subjects them to a marginal law, and it
+is with reference to this valuation that the costs permissible
+are calculated, that all stocks are inventoried, that all
+undertakings make up their balance-sheets, and that all profit
+and loss is reckoned. If a socialist community were to give up
+exchange -- the payment of buyer to seller -- it would not on
+that amount require to give up this measuring scale for the
+valuation of goods. It could continue to value similar goods at
+the same figure, and to bring them all under a marginal law. And
+might we not gave some right to ask, what reasons it would have
+to discontinue this? Certainly it would require weighty ones to
+justify a change in a method of valuation which has been followed
+ever since, if not before, human economics began to be enlarged
+through trade. And, finally, we have still to ask whether it
+would ever be possible to cease valuing goods in this way. Is it
+possible to value equal things unequally? Can we ever regard the
+useful but unimportant as important? 
+    Menger's theory of value differs essentially from its rivals
+on this point. He asserts that the law of equality and the
+marginal law refer not only to price but to value. In my opinion
+this places his theory in advance of all the others, and wins for
+him the fame of being the first to lay a perfect foundation for
+the theory of value. The other authors we have named examine only
+the laws of want and the laws of price. Menger alone includes the
+laws of value. His view of the question is the most
+wide-reaching, inasmuch as it not only aids us to the clearest
+comprehension of the present economy, but also enables us to
+think out possible future forms of economy. 
+
+
+Chapter 10
+
+The Paradox of Value
+
+    Assume that a man owns one good, and that the employment of
+it gives a utility equal to 10; and suppose that his holding
+gradually increases up to 11 goods, in the course of which the
+marginal utility decreases proportionally down to 0. The value of
+the stock at each point will be as follows: -- 
+
+When he has        The value is         =  
+    1                 1 x 10           10
+    2                 2 x 9            18
+    3                 3 x 8            24
+    4                 4 x 7            28
+    5                 5 x 6            30
+    6                 6 x 5            30
+    7                 7 x 4            28
+    8                 8 x 3            24
+    9                 9 x 2            18
+   10                10 x 1            10
+   11                11 x 0             0
+ goods              units of value
+
+Here a regular decrease of the marginal utility, and, therefore,
+of the value of the single good, is seen to take place along with
+an increase of the supply, and further explanation is
+unnecessary. Each additional good brings with it a diminished
+increment of utility and must, therefore, bring only a diminished
+increment of value. It is otherwise when we consider the value of
+the whole stock, and follow its development from 10 up to 30, and
+back again from 30 down to 10 and 0. Judged from the standpoint
+of that aspect of value with which daily economical life
+impresses us, this scale seems completely paradoxical. Value is
+commonly regarded by us as a simple and absolutely desirable
+characteristic of goods, mathematically expressible as a positive
+amount. It corresponds with this view when the series shows an
+increase of value along with the first additions to the stock,
+but it entirely contradicts it when, towards the end of the
+series, every further addition to the stock is accompanied by a
+corresponding decrease in value, until, finally, when the point
+of superfluity is reached, value completely disappears. Whence
+comes this contradiction? How is it to be explained? The first
+half of the series appears to confirm the view that value is
+something desirable, something positive, while the second shows
+it as a negative quantity, something burdensome or evil. Which
+then is true? And how can both ever be brought to agree? 
+    Very easily, so soon as one gives up the preconceived notion
+that value is a simple positive amount. Value (as marginal value)
+arises from a combination of two elements, the one positive, the
+other negative. It is a complex amount; or, more exactly, a
+residual amount. So soon as one distinguishes between these two
+elements in the formation of value, the series we have just drawn
+above explains itself in the simplest manner possible; and the
+semblance of irregularity, which must have proved insuperable for
+those who expected and sought a simple progression, disappears. 
+    Both elements in the formation of value have been explained
+by what has already been said. 
+    The positive element is the enjoyment in the use of goods.
+Every additional use which is furnished by a newly-acquired good
+is welcome. The good which is first acquired brings the largest
+increment of utility because it satisfies the most urgent stage
+of desire; every one that follows has a lesser utility because it
+meets a desire which has been already comparatively satisfied.
+And should the accretion of goods cross the margin of want, there
+will be no addition to the positive element in the formation of
+value. There will now be no employment for additional goods; they
+will not bring enjoyment to any one. 
+    Taking the former figures, the increment of the positive
+element in value will be as follows: -- 
+
+    With        there will be
+    1               10
+    2                9
+    3                8
+    4                7
+    5                6
+    6                5
+    7                4
+    8                3
+    9                2
+   10                1
+   11                0
+ goods              units of goods
+
+
+    And the total amount of this positive element, calculated for
+the whole stock, will be as under: -- 
+
+
+    With            The total enjoyment is
+    1                   10 
+    2                   19   (10 + 9)
+    3                   27   (19 + 8)
+    4                   34   (27 + 7)
+    5                   40   (34 + 6)
+    6                   45   (40 + 5)
+    7                   49   (45 + 4)
+    8                   52   (49 + 3)
+    9                   54   (52 + 2)
+   10                   55   (54 + 1)
+   11                   55   (55 + 0)
+ goods              units of value
+
+
+The negative element arises from the indifference with which men
+naturally regard goods. Only when forced to it, do we transfer
+our interest from the uses of goods to the goods themselves; and,
+in the process of transferring, we have to overcome a natural
+opposition which varies in strength according to the
+circumstances. The greater the need, the more eager will we be to
+get possession and keep possession of goods: the smaller in this
+case will be the opposition. The opposition will be completely
+broken down where our need rises to extremity, for here we
+identify our destiny with that of the goods, and in their loss we
+see our own calamity. On the other hand, the opposition will be
+complete where everything is present in superfluity; here we can
+enjoy without any feeling of gratitude for, or interest in, the
+objects which procure for us the enjoyment. Between extremest
+need and superfluity the opposition is a graduated one: we bestow
+upon goods an amount of interest derived from the interest we
+have in the services they render us. But we do not give them the
+whole of this interest; we make a certain reservation. That is to
+say, all the single items of a stock are considered only at the
+value of their marginal utility. The surplus value, that which
+goes beyond their marginal utility, is withheld from the goods.
+Here, then, is the numerical expression for the strength of this
+opposition: the negative element in the formation of value is
+equal to the subtracted surplus value. Making use once again of
+the foregoing figures, we find that, so long as we own only one
+good, there is no deduction in the formation of its value; the
+entire value of the use is transferred, undiminished, to the
+good. With two goods, on the other hand, there will be a
+deduction of 1 from the value, as each of these is valued only
+according to its marginal utility 9, while the utilities of both
+added together amount to 10 + 9. Three goods have each a value
+only of 8, and their utility is equal to 10 + 9 + 8, the surplus
+value deducted being therefore 3. Reckoning further in the same
+way, we shall find the minus amount in the formation of value as
+follows: --
+
+With a stock of         the minus is
+    1                       0
+    2                       1
+    3                       3
+    4                       6
+    5                      10
+    6                      15
+    7                      21
+    8                      28
+    9                      36
+   10                      45
+   11                      55
+ goods                  units of value.
+
+If we put together the plus and minus amounts we shall obtain the
+following as result: --
+
+    Positive (+)       Negative (-)        Residual (+)
+ 1       10                  0                10
+ 2       19                  1                18
+ 3       27                  3                24
+ 4       34                  6                28
+ 5       40                 10                30
+ 6       45                 15                30
+ 7       49                 21                28
+ 8       52                 28                24
+ 9       54                 36                18
+10       55                 45                10
+11       55                 55                 0
+goods  units of value   units of value      units of value
+
+Thus we obtain the same scale as that which resulted from the
+multiplication of amount by marginal utility. 
+    It is now seen that the apparent irregularity of the scale is
+really a consequence of the strict regularity of its conditions. 
+    The value of a supply must increase with the increase of its
+items so long as the positive element preponderates; in other
+words, so long as the increment of value, furnished by the
+utility of the newly-acquired good, is greater than the value
+which is lost through the decrement of value which its addition
+causes to every good already in the stock. This is the ascending
+branch of the movement of value, or, as we might call it, the "up
+grade" of value. 
+    On the other hand, the value of a supply must decrease with
+its augmentation, whenever the negative element gains the
+ascendency. This is the descending branch of the movement of
+value, or the "down grade" of value. 
+    Strange though it seems, the value must touch zero twice in
+the course of its development: in the one case, where we have
+nothing; in the other, where we have everything. If we possess
+nothing, there are no objects to value; if we possess everything,
+there is -- just on account of the superfluity -- no subjective
+inducement to an act of valuation. Only if we possess something
+-- be it much or little -- does the phenomenon of value appear;
+and between the two zero points, so different in their
+importance, it has its existence. It presents itself with the
+first goods that come into our possession, and increases up to a
+certain culminating point, from which it decreases, until, when
+superfluity is reached, interest is again completely withdrawn
+from the goods. 
+    As a matter of fact, human economies move almost entirely in
+the ascending branch. In most things we are so far from having a
+superfluity that almost every multiplication of goods shows a
+corresponding increase in the total value. The single good
+certainly falls in value as the stock increases, but as a rule we
+find that the loss in the items is outweighed by the gain on the
+whole. On this account we are accustomed to measure wealth and
+riches by the sum of value of their constituent parts, and regard
+it as a misfortune if the value of property and revenue goes
+down. And therefore it appears to us paradoxical when, at times,
+we are forced to notice that, although the amount of goods and of
+enjoyments, of wealth and well-being, has been augmented, their
+value has decreased. It may be that exceptionally favourable
+weather has resulted in an over-abundant harvest; or it may be
+the discovery of some new productive stratum of unsuspected
+fertility; or some sudden and enormous increase of returns
+through advance in technical processes: or it may be caused by
+some error on the part of the producer, who has been misled by
+greed of gain, or a mistaken and exaggerated estimate of demand,
+into too greatly enlarging his production. But it is always some
+unusual accident when individual branches of economy are
+transferred to the descending branch in the movement of value. It
+is improbable that our whole economic system will ever
+permanently come under such favourable conditions, and production
+be brought so near to superfluity, that the ascending movement of
+value will cease to be the dominant one. The example, however, of
+those few free goods which nature offers leaves us no room for
+doubt that value disappears whenever superfluity is reached; and
+this is really the best proof for our contention that value must
+begin to decrease whenever superfluity approaches. Even though
+experience shows the scale of value to have many gaps, yet it
+gives us sufficient facts to let us trace its ideal course from
+end to end. 
+
+
+Chapter 11
+
+The Antinomy of Value and the Service of Value
+
+
+    As consequence of the observation that, in the overwhelming
+majority of cases, the value of possessions increases with
+economic prosperity, the exceptions have been either entirely
+forgotten, or put on one side as unessential and unimportant
+disturbances. The idea has gone abroad that value is the highest
+principle in economic life, and that all our economic action must
+be regulated with reference to it. It has been said that people
+should so act as to obtain on the whole the greatest amount of
+value. 
+    If this idea were correct, our economic life would be
+directed by a power which would, in some measure, work against
+the aims of economic conduct; to the extent, namely, of
+preventing the realisation of economic ends beyond a certain
+point; that is, beyond the up grade of value. And one would be
+justified in speaking of an antinomy in the law of value, which
+would refer not only to exchange value, as Proudhon has asserted,
+but to every form of value. It would be expedient for every one,
+not only from a money-making and selling point of view, but in
+his own private economy -- even for a Robinson Crusoe who could
+not sell at all -- to convert superfluity into want, and want
+into greater want, in order to create and increase value. No one,
+however, would wish to act in this way, and it is therefore
+untrue that value has the guidance of our economies. The highest
+principle of all economy is utility. Where value and utility come
+into conflict utility must conquer; there is nothing in the
+nature of value which could give it the ascendency. Utility is
+imperfectly contained in value, with the accompanying peculiarity
+that the amount of utility which is contained is intimately
+associated with the very idea of goods. But this latter
+phenomenon cannot have the effect of preventing any one from
+entering into transactions which a complete addition of the
+utilities to be got from the goods acquired would show to be
+profitable. If I were able, by any method whatever, to secure for
+myself a constant superfluity of all the services of goods, the
+idea that my interest need not thereafter be cared over from the
+services to the goods themselves, would not cause me a moment's
+hesitation in securing the superfluity. Or suppose that I
+expected a great amount of utility from some transaction. and the
+transaction at the same time caused me a certain loss of interest
+in the goods, this latter circumstance would not deter me in the
+faintest degree from carrying through the transaction. 
+    Under these conditions, then, what service remains for value
+to render in economic life? A highly important one. The cases
+where there is a conflict between value and utility -- where
+increase of the one is decrease of the other -- occur but seldom.
+Experience shows that economic life moves almost always on the
+"up grade," and here the tendencies of increase or decrease are
+similar for value and utility. Whenever the utility of a stock
+increases with the augmentation of the stock, the value also
+increases, and whenever the utility of a stock decreases with a
+diminution of the stock, the value also decreases. A greater
+value almost always corresponds with the greater utility, and a
+lesser value with the lesser utility, and on this account
+transactions which commend themselves in consideration of their
+utility, commend themselves also in consideration of their value.
+The service of value consists, then, in representing utility
+wherever both show the same tendency. We do not calculate
+utilities; we calculate values. Value is the form in which
+utility is calculated, and this renders calculation infinitely
+more easy. It is difficult indeed to estimate the utility of a
+stock; easy to estimate its value. That is to say, the value of a
+stock can be expressed as the single product of stock and
+marginal utility; it is a multiple of the marginal utility:
+whereas utility can be expressed only by a sum which contains as
+numerous and as various amounts as the stock contains items. The
+utility, for instance, of a harvest of a million quarters can be
+represented only by an almost inexhaustible description of all
+the benefits accruing from it, from its greatest effects down to
+those of the least important employments economically permissible
+in the circumstances of the case. The value of this same harvest
+is easily and shortly ascertained by multiplying the utility of
+the marginal employments by the whole amount. mathematically
+expressed, the formula for expressing the utility of a stock of
+50 items, the most intense use of which -- that of the first item
+-- reaches the figure of 100, if we assume a regular decrease in
+intensity for every successive item, will run: 100 + 99 + 98 +
+... 51. But the value formula will be simply: -- 50 x 51.(1*)
+    The simplification of economic calculation by the use of a
+value instead of a utility measurement is noticeable in
+proportion to the economic state of development. While the
+utility formula becomes continually more wearisome and less
+clear, the value formula becomes more comprehensive and uniform,
+particularly through the entrance of costs, -- which we shall
+discuss later. Where money is the medium of exchange everything
+is measured equally, for purposes of trade, according to its
+money value; all utility in its illimitable variety is reckoned
+by the value of coin, the separate items of which are all equal
+to each other, and the amounts of which appear in the
+calculations as multiples of one and the same unit. 
+    It is the possibility of calculating utility in terms of
+value which first puts us in a position to draw out exact
+economic plans and foresee their necessary limitation. Thus value
+comes to be the controlling power in economic life. 
+
+
+NOTES:
+
+
+1. The value formula is an abridged utility formula. Only that
+part is left out which, on the one hand, renders calculation more
+difficult, and, on the other hand, is really unnecessary as an
+adequate motive to economic actions; viz. that surplus utility
+which is above the marginal utility. Economic actions which have
+value (in the up grade) for their motive, are not only
+approximately, but completely and exactly weighed and limited.
+The greater utility is always reached when the greater value is
+aimed at. 
+    It may be interesting to go more into detail regarding this.
+There are two occasions on which economic goods become objects of
+valuation; first, when we wish to acquire goods, and to measure
+the amount of the acquisition; and, second, when we wish to part
+with goods in order to devote them to some given end, and to
+measure the amount of the service which they thus will render. On
+the one side, then, we have to measure results in goods, and, on
+the other, outlays in goods. It may be remarked in passing that,
+without some such end in view, goods are never valued: they are
+never valued for valuing's sake. At most, goods are valued in
+advance to be ready for any contingency; but value never plays
+the role so readily ascribed to it by, theory; -- it never acts
+simply as the means of valuing wealth. Wealth may be valued in
+all sorts of ways, according to the purpose which it is intended
+to serve. The rules of valuation which are actually followed have
+their origin in the fact that they serve towards the ends of
+economic life, whatever these may be. Value is adapted to its
+economic environment, and can only be understood through it. 
+    First, as to the measurement of results in goods. All
+acquisitions of goods which increase value are profitable. Of two
+acquisitions, between which one may choose, that one will be
+chosen which gives the greater amount of value, because it also
+gives the greater utility. Augmentations of value arising from
+intentional destruction of goods are unprofitable, and, in
+consideration of utility -- which is the stronger consideration
+wherever there is a collision between it and value -- are
+forbidden. Acquisitions of goods which, inasmuch as they follow
+the "down grade" of value, diminish the amount of value, are
+nevertheless profitable. 
+    An increase of value occasioned by increased necessity, and
+unaccompanied by any change in the amount of goods, must not be
+described as an economical result. It is not created by any
+economical act. Once created, however, it naturally influences
+economic action, etc., through the fact that it changes the value
+of goods used as outlay. 
+    Second, as to the measurement of "outlay" in goods -- whether
+in purchase of other goods, or in production, or in mere
+satisfaction of personal want. In every appropriation of goods to
+a particular purpose the value of the sacrifice involved must be
+estimated an compared with the expected result. The greater the
+sacrifice of value, -- if we disregard the circumstances of the
+"down grade," -- the greater the sacrifice of utility, and it
+must be justified and made good by the obtaining of a higher
+result. It is different to show this as regards consumption. The
+employment of goods towards the satisfaction of personal wants
+must also be guided by the value of goods. But how can marginal
+value serve this end? Would not that require that only marginal
+wants be satisfied? The difficulty solves itself whenever we give
+up the old and deep-rooted but erroneous belief that consumption
+as such is an economical act. Consumption as such does not arise
+from any economical considerations. It is only economising in
+consumption that is economical (see Ursprung des Werthes, p.
+133). The demands of economising are, however, exactly met when
+we keep to the marginal utility. In other words, value does not
+control consumption: it only forbids uneconomical consumption;
+that, namely, which would not assure uninterrupted satisfaction
+down to the lowest attainable utility. This prohibition and
+nothing else is expressed in marginal value; no employment of
+goods which goes below the margin drawn can be allowed. Through
+the fact that want on its side is active and demands
+satisfaction, economic satisfaction is reached by a combination
+of claims and refusals. Whoever possesses 1000 items of the value
+of 10, may permit himself every enjoyment which has an intensity
+of 10 or more. Whoever possesses 2000 items of the value of 8 may
+go further, and allow himself all enjoyments which have at least
+an intensity of 8, two thousand times. This is the true meaning
+of that estimate of the value of supplies of consumption goods,
+to which we generally give the more material formulation, that
+the first possesses 1000 x 10 = 10,000, and the second possesses
+2000 x 8 = 16,000 units of value.
+    See, upon the calculation of value my Ursprung des Werthes,
+p. 180, and Bohm-Bawerk's Werth, p. 46; further, on the service
+of value, Book II, chaps. iv and v and Book V, chap. xiii below.
+

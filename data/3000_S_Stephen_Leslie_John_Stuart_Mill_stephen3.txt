@@ -1,0 +1,2682 @@
+Chapter III
+
+Political Economy(1*)
+
+I. Mill's Starting-Point
+
+    Mill's decision to abandon 'ethology' in favour of political
+economy, had one clear advantage. The function of a philosophical
+pioneer in the vast and vague region indicated by the new science
+was beset with difficulty. It was doubtful whether the proposed
+science could be constructed at all; and any conclusions
+attainable would certainly have belonged to a region remote from
+specific application to the questions of the day. Political
+economy offered a field for inquiry with a narrower aim of easier
+achievement. The greatest problems of the time were either
+economical or closely connected with economical principles. Mill
+had followed the political struggles with the keenest interest:
+he saw clearly their connection with underlying social movements;
+and he had thoroughly studied the science or what he took to be
+the science -- which must afford guidance for a satisfactory
+working out of the great problems. The philosophical Radicals
+were deserting the old cause and becoming insignificant as a
+party. But Mill had not lost his faith in the substantial
+soundness of their economic doctrines. He thought, therefore,
+that a clear and full exposition of their views might be of the
+highest use in the coming struggles. Hence arises one broad
+characteristic of his position. Mill was steeped from childhood
+in the principles of Malthus and Ricardo. In that capacity he had
+been a champion of their views against the followers of Owen. But
+he had come to sympathise with the aims, though he could not
+accept the theories, of the Owenites. Hence he was virtually
+asking how, given Ricardo's premises, are we to realise Owen's
+aspirations? The groundwork of argument, however, remained
+throughout. Though a more favourable estimate of Socialism was
+introduced in one chapter of his book, as I have already noticed,
+no corresponding changes were made in the remainder.
+    The Political Economy speedily acquired an authority
+unapproached by any work published since the Wealth of Nations.
+In spite of many attacks, it still holds a position among
+standard textbooks; and in the case of textbooks, fifty years may
+be counted as remarkable longevity. During the first half of that
+period, a large school looked up to Mill as an almost infallible
+oracle. If in the later half that belief has vanished, we ought
+to recognise merits, sometimes overlooked by his assailants. The
+most undeniable is the singular skill of exposition. Mill had an
+admirable sense of proportion; each topic is taken up in
+intelligible order and treated with sufficient fulness; general
+principles are broadly laid down and clearly illustrated; and
+applications to actual cases are sufficiently indicated, without
+those superfluous digressions into minuter details which often
+entangle or break the main thread of an argument. The style is
+invariably lucid, and Mill, while free from arrogance and
+singularly courteous to opponents, wears his magisterial robes
+with the dignity of acknowledged authority. Whatever fallacies
+lie beneath the equable flow of didactic wisdom, we can
+understand what was the charm which concealed them from early
+readers. The book seemed to be a unique combination of scientific
+reasoning and practical knowledge, while the logical apparatus,
+so harshly creaking in the hands of Ricardo, not only worked
+smoothly but was in the hands of one whose opposition to
+'sentimentalism' was plainly no cynical mask for coldness of
+heart.
+    Mill states his aim in the preface. He wished to expound the
+doctrine of Adam Smith with the 'latest improvements.' But he
+would take Smith for his model in combining economics with 'other
+branches of social philosophy.' Smith, he says, by never losing
+sight of this aim, succeeded in attracting both the general
+reader and the statesman. Mill certainly achieved a similar
+result. If he did not emulate Smith's wide researches into
+economic history, and had not Smith's curious felicity of
+illustration, he took a comprehensive view of the great issues of
+the time, and spared no pains in filling his mind with the
+necessary materials. His surprising power of assimilating
+knowledge had been strengthened by official experience. No one
+had a more vigorous digestion for blue-books, or -- what is
+perhaps rarer -- less desire to make a display by pouring out the
+raw material.
+    Although Mill's work upon pure political economy, lies mainly
+beyond my province, it illustrates one important point. Mill
+speaks as one expounding an established system. The speed with
+which the book was written shows that it did not imply any
+revision of first principles. Mill is working in general upon
+Ricardo's lines, in whose 'immortal Principles,' for example, he
+finds the first philosophical account of international trade.(2*)
+He assumes too easily that a mere modification of old doctrines
+is needed, where later writers have demanded a thoroughgoing
+reconstruction. He has incurred some ridicule, for example, by an
+utterance characteristic of his position . He says,(3*) that
+'there is nothing in the laws of Value which remains for the
+present or any future writer to clear up; the theory of the
+subject is complete.' The phrase was rash. Apparently
+unassailable theories have an uncomfortable trick of suddenly
+exploding. Later economists often take this for a case in point.
+They have, they think, made a specially successful breach in this
+part of Mill's doctrine, and his confidence was singularly
+infelicitous. Mill's luckless boast was suggested by his
+rectification of an ambiguity in the terminology of the science.
+How, he asked, could there be a 'proportion' between two
+disparate things, a 'quantity' (supply) and a 'desire'
+(demand)?(4*) He proceeds to remove the ambiguity by an account
+of the 'equation' between demand and supply, explaining the
+process by which values adjust themselves so that the quantity
+supplied at the current price will be equal to the quantity
+demanded at that price. I take it that his account of the facts
+is substantially correct, and that, by removing certain
+inconsistencies of language, he had purified the theory from one
+at of fallacies. But he himself seems to regard the improvement
+as merely one of terminology. He thinks that his predecessors
+meant to state the same facts, and, indeed, that they must have
+seen the truth, though he could not find in them an express
+statement. We may ask whether later improvements of Mill himself
+amount to a substantial change in the theory, or merely to a
+better mode of expression. I do not doubt that modern economists
+have much improved the language in which the theory is expressed.
+Nor, again, can it be doubted that the logic is rectified by
+rectifying the language. The only question can be as to the
+importance of the improvement. What strikes the sceptic is that,
+after all, when we approach any practical application of the
+theory, the old and the new theorists seem to be guided by pretty
+much the same reasoning. The improvement in elegance and
+consistency of the language does not bring with it a
+corresponding improvement in the treatment of actual problems.
+The obvious reason is that political economy has not reached, if
+it ever will reach, the stage at which the application of a
+refined logical method is possible or fruitful. The power of
+using delicate scientific instruments presupposes a preliminary
+process. We must have settled distinctly what are the data to be
+observed and measured; and the use of mathematical formulae is
+premature and illusory till we know precisely what we have to
+count and how to count it. The data and the psychological
+assumptions of economists are still far too vague and disputable
+to admit of such methods, except by way of illustration.
+Meanwhile rough and even inaccurate statements may be adequate to
+convey the knowledge which we can really apply. We are really
+making use of facts admitted on all hands, and known with
+sufficient accuracy, though the principles upon which they depend
+have not been clearly defined. 
+
+ II. CONTEMPORARY MOVEMENTS
+
+    To appreciate Mill's position, it is necessary briefly to
+notice the prejudices which he had to encounter and the
+sympathies upon which he could reckon. Political economy had been
+exultant in the days of James Mill. He and his allies were
+entering the promised land. They took the science to be in the
+same stage as astronomy just after the publication of Newton's
+Principia. The main truths were established, though prejudice and
+sentiment still blinded the outside world to the clearest
+demonstration. A narrow and unpopular circle naturally retorts
+dislike by fanaticism. The Utilitarians were, and knew themselves
+to be, bitterly hated; though they took the hatred to be an
+unconscious tribute to their real authority -- the homage of the
+stupid to irresistible logic. Richard Jones in the preface to his
+Treatise on Rent (1831), says, that the Ricardians had not only
+put forward 'startling and in some instances, unhappily,
+disgusting and most mischievous paradoxes,' but that they had
+thus alienated mankind and caused a distrust of political
+economy. When J. S. Mill's treatise appeared, this position was
+modified. The 'philosophical Radicals' had declined as a party;
+but the assault upon protectionism in which they had acted as
+forlorn hope had conquered a much wider circle. Their ideas had
+spread, whether by stress of argument or congeniality to the
+aspirations of the newly enfranchised classes. The conspicuous
+instance, of course, is the free trade movement. The triumph over
+the corn-laws seemed to establish the truth of the economic
+theory. Doctrines preached by professors and theorists had been
+accepted and applied by politicians on a grand scale. The result,
+as Cairnes, one of Mill's chief followers observes, was not
+altogether an advantage to the science.(5*) The popular mind
+identified political economy with free trade, and thought that
+all difficulties could be solved by a free use of the sacred
+words 'supply and demand.' The strict economic doctrine had been,
+as Cairnes held, adulterated in order to suit the tastes of the
+exoteric audience. This remark suggests the problem, not strictly
+soluble, as to the causes of the free trade victory. Did it mark
+a triumph of logic, or was it due to the simple fact that the
+class which wanted cheap bread was politically stronger than the
+class which wanted dear bread? Cobden admitted fully that the
+free trade propaganda was a 'middle-class agitation.'(6*) The
+genuine zealots were the manufacturers and merchants; and it was
+so far a trial of strength between the leaders of industry and
+the owners of the soil -- a class struggle not between rich and
+poor, but between the 'plutocracy' and the 'aristocracy.' Cobden
+was proud of the order to which he belonged, and held that the
+aristocracy represented blind prejudice. Some verses often quoted
+by popular orators declared that the landowners' motto was 'down
+with everything' (including health, wealth, and religion) 'and up
+with rent'; and Bright in 1842 told the workmen that 'the
+greatest enemy of the remorseless aristocracy of Britain must
+almost of necessity be their firmest friend.'(7*) As usual in
+such cases, a legend arose which regarded the victory as due
+exclusively to the force of truth. Beyond all doubt, argument
+played its part as well as class prejudice. Cobden, though little
+interested in abstract theories, was an admirable, cogent, and
+clear reasoner. He was fully competent to assimilate so much
+political economy as was required for his purpose, and used it
+most effectively. Later history, however, has shown that in such
+matters pure reason cannot by itself win the battle against
+interested prejudice. For the time, the victory, taken by the
+winners to be a victory of reason, reflected glory upon the
+economists who from the days of Adam Smith had been labouring to
+indoctrinate the public mind. The triumph of the agitation was
+thus due to sheer force of argument and the Consequent
+recognition of the principles of justice to the poor and goodwill
+to all mankind. Science and philanthropy had joined hands. The
+enthusiasm which soon afterwards greeted the Exhibition of 1851
+showed the widespread conviction that the millennium of peace and
+liberty, of which the Wealth of Nations marked the dawn, was at
+last appearing in full daylight. And Mill was regarded as the
+authorised representative in philosophy of the principles now at
+last fully applied to practice.
+    Mill himself did not fully shire the optimistic exultation
+which helped to strengthen his authority; nor was it accepted by
+the class most immediately affected. The 'big loaf' was a cry, it
+might be thought, which should appeal most strongly to the
+hungriest. Yet the Chartists, whose agitation was beginning when
+the Anti-Corn Law League was founded, were lukewarm or positively
+hostile. They interrupted free trade meetings and looked askance
+at the agitation.(8*) The Chartists thought that the middle
+class, having got into power by their help, were throwing them
+over and monopolising all the fruits of victory. Their ablest
+leaders admitted, indeed, that free trade would be desirable, but
+desirable only on condition that the charter should first be
+conceded and democracy invested with political power to guard
+against misappropriation of the economic advantages. The
+employers, as they suspected, wanted cheap bread, because, as
+Lord Shaftesbury once put it, 'cheap bread means low wages.'(9*)
+The free-traders, indeed, had constantly to meet this argument.
+Cobden constantly and earnestly denied the imputation. He desired
+free trade, as he asserted with unmistakable sincerity, above all
+in justice to workmen, and ridiculed the notion that wages sank
+with the price of corn.(10*) Cobden, however, appeals rather to
+obvious facts than to economic theorems; and Chartists who read
+Ricardo and M'Culloch might find some excuse for their opinion.
+If the 'iron law' held good, free trade in multiplying the
+labourers might only multiply the mass of misery. It might
+increase the aggregate wealth without raising the average
+welfare. The economical purists might reply that the poor would
+profit by the change on condition of also accepting the gospel
+according to Malthus. But the very name of Malthus stank in the
+nostrils of all Chartist leaders.
+    Another agitation gave special importance to this view. The
+credit which accrued to political economists from free trade was
+affected by their responsibility for the new poor-law. The
+passage of this measure in 1834 might be taken as a victory not
+merely of the economists in general, but specifically of the
+hated Malthus. He and his followers had denounced the old system
+most effectually, and had denounced it in the name of his
+principles. To Malthus and to Ricardo the only remedy seemed to
+be the ultimate abolition of the poor-laws. Their disciples were
+prominent in carrying the new law. Nassau Senior (already
+mentioned) had resolved when a young man to reform the poor-laws.
+He had lectured in 1828 on the Principles of Population as an
+adherent (with some modification) of Malthus. As an early member
+of the Political Economy Club he was at the very focus of sound
+doctrine. He was an active member of the commission of 1832, and
+is said to have drawn up the famous report upon which the new
+measure was founded.(11*) The measure itself hid therefore the
+highest credentials that strict political economists could
+desire. Brougham as Lord Chancellor helped Miss Martineau, a most
+orthodox adherent of the school, and a personal friend of
+Malthus, to prepare the public mind by a continuation of her
+Tales.
+    The new poor-law, though placed to the credit of Malthusians,
+was by no means a pure and simple application of the Malthus
+theory. The gross abuses, rate-aided wages, and so forth, were
+suppressed in accordance with his views; but the complete
+abolition of the poor-law, to which he had looked forward, was
+out of the question. The position was already critical. An
+experienced magistrate told the commission(12*) that if the
+system went on for another ten years 'a fearful and bloody
+contest must ensue.' A generation of superfluous labourers, he
+said, had grown up demanding support. To maintain the system was
+dangerous, but simply to abolish it was to provoke a social war.
+The alternative was a cautious and gradual remodelling of the
+system; and the transmutation of a demoralising into a
+disciplinary system. This meant so great a deviation from the
+extreme proposals that it might even tend to perpetuate the
+system by removing its abuses. Many of the evils resulted from
+the very fact which, in the eyes of Ricardo, was its chief
+palliation -- the obligation of each parish to keep its own
+paupers. It had produced not economy but chaos. The commission
+recommend that the power of making regulations, now exercised 'by
+upwards of fifteen thousand unskilled and (practically)
+irresponsible authorities liable to be biased by sinister
+interests' (Bentham's sacred phrase) should, now be confided to
+the central board of control, on which responsibility is most
+strongly concentrated, and which will have the most extensive
+information.'(13*) The competition between the parishes had
+produced the tangled laws of settlement, leading to endless
+litigation: the depopulation of some places, the overcrowding of
+others, the peculations and jobbery due to the 'sinister
+interests' of petty local authorities, and the utter absence of
+any uniform or rational system. To compel the fifteen thousand
+bodies to substitute co-operation for competition, to check their
+accounts,and to enforce general rules, it was necessary to create
+a central board with wide administrative authority. For such a
+scheme, now obvious enough, the commissioners found their only
+precedent in a measure by which a barrister had been appointed to
+inspect savings banks and friendly societies.(14*)
+    The new poor-law was thus a 'centralising' measure, and
+marked a most important step in that direction. It was denounced
+for that reason on both sides, and among the orthodox economists
+by M'Culloch. J. S. Mill defended it warmly against this
+'irrational clamour'; and but for certain restraining influences,
+especially the teaching of Tocqueville, would he thinks have gone
+into the opposite excess.(15*) It seems, however, that the
+Utilitarians generally accepted the law as a judicious
+application of Malthus, tempered by proper regard for
+circumstances. They were indeed bound in principle to be shy of
+the direct application of a priori formula. Yet it may also be
+briefly noted that this was one of the cases on which the
+Utilitarians unconsciously forwarded a tendency to which they
+objected in general terms. They wished to codify and simplify the
+poor-law, and found it necessary to introduce a central
+regulating body. Though they meant to stimulate local activity,
+they were calling the central authority into fresh activity.
+    Meanwhile their opponents were equally ready to see nothing
+in it but Malthus, and to denounce it with corresponding
+bitterness. It was contrary to Christianity to the rights of man,
+and to the good old laws of England. It was a part of the
+machinery by which cold-blooded economists were enslaving the
+poor. The operative, says the Chartist historian,(16*) thought
+that it broke the last link in the chain of sympathy between rich
+and poor. Prison-like workhouses were rising to remind the poor
+of their 'coming doom.' They could expect nothing but 'misery in
+the present, and the Bastille in the future, in which they were
+to be immured when their rich oppressor no longer required their
+services.' The historian of the factory movement(17*) confirms
+this statement. The poor man was to work or starve. Poverty,
+then, was to be treated as a crime. The parochial system was to
+be broken up, and the clergy thus separated from the poor. The
+whole system was anti-Christian: had not the commissioners put
+out a warning against alms-giving?(18*) The commissioners again
+proposed the emigration of pauperised agricultural labourers into
+manufacturing districts, and were so playing into the hands of
+the capitalists. Cobbett's view gave the keynote to another
+version of the case. He saw as clearly as any one the evils of
+pauperisation, but the old law at least admitted the poor man's
+right to support. In good old times he had been supported by the
+church. The great robbery at the Reformation had been partly
+compensated by the poor-law. To abolish or restrict the old right
+was to consummate the abominable robbery and to fleece the poor
+man more thoroughly at the bidding of 'parson Malthus.' Cobbett's
+view not only commended itself to his own class, but was more or
+less that of the 'Young Englanders,' who aspired to a
+reconstruction of the old social order. The Times denounced the
+new law bitterly, and its proprietor, Walter, thought (as Kydd
+says), and no doubt thought rightly, that the indignation roused
+by the measure had done much to foster Chartism.(19*) Meanwhile,
+to Mill and his friends the whole of this declamation came under
+the head of the later 'sentimentalism.' They held with Malthus
+that an unlimited right to support meant an indefinite
+multiplication of poverty. To admit the right was to undertake an
+impossible task and provoke a revolution on its inevitable
+failure. Right must be based upon fact; and it is idle to neglect
+the inevitable conditions of human life. This position might be
+logically unassailable; and the measure supported on the strength
+of it is now admitted to have been a vast reform. It came to be
+cited as one of the claims to gratitude of the economists. Their
+science had arrested an evil which appeared to be almost
+incurable. Sound reason had again triumphed over vague
+sentimentalism. The new law was, however, still given as an
+illustration of the heartlessness of political economists. Mill,
+who might claim justly that he was as anxious as any one to raise
+the poor, had sorrowfully to admit that the masses were too
+ignorant and their leaders too sentimental to recognise his good
+intentions. They took the surgeon for an assassin.
+    Among the enemies of the new poor-law were the keenest
+agitators for factory legislation. The succession of leaders in
+that movement is characteristic. The early measures introduced by
+the first Sir Robert Peel and supported by Owen had been
+tentative and of limited application. As a demand arose for more
+drastic measures, the first bill was introduced in 1831 by John
+Cam Hobhouse (1786-1869), afterwards Lord Broughton. Hobhouse's
+election for Westminster in 1820 had been a triumph for the
+Benthamites; and he was afterwards one of the members through
+whom Place tried to influence legislation. Hobhouse was too much
+of the aristocrat to be up to Place's standard of Radicalism, and
+on this point he was too much of an economist to lead the
+movement. He declared the demands of the agitators to be
+hopelessly unpractical; or, as Oastler put it, gave in to 'the
+cold, calculating, but mistaken Scottish philosophers,' who had
+an overwhelming influence on the country.(20*) The lead passed to
+Michael Thomas Sadler (1780-1835). Sadler, a Tory and an
+evangelical, had proposed to introduce the poor-law system into
+Ireland. He had attacked Malthus (1830) in a book to be presently
+noticed. He declared that Hobhouse had surrendered to the
+economists, who were 'the pests of society and the persecutors of
+the poor.'(21*) He now proposed a more stringent measure, which
+led to the appointment of a committee of the House of Commons in
+1832. The report (presented 8th August 1832) startled and shocked
+the public. A royal commission was appointed in 1833 to collect
+further evidence. Sadler had meanwhile been defeated by Macaulay
+in a sharp contest for Leeds. His health soon afterwards broke
+down, under the strain of carrying on the agitation, and the lead
+fell to Lord Shaftesbury (then Lord Ashley). Shaftesbury, again,
+as an aristocrat and an evangelical, was a natural enemy of the
+Utilitarian. He was heartily approved by Southey, from the study
+of whose works he professed himself to have 'derived the greatest
+benefit.' He thought that the country was 'drooping under the
+chilly blasts of political economy,' and regarded the millowner
+as 'the common enemy of the operatives and the
+country-gentleman.'(22*) Richard Oastler, the most effective and
+popular organiser of the agitation outside of parliament, was
+also a Tory, a churchman, and a protectionist. He had joined in
+the anti-slavery movement, and now thought that the factory
+system involved a worse slavery than that of the negro. He
+accepted the title of 'king of the factories,' given in ridicule
+by his enemies.(23*) He became a martyr to his hatred of the new
+Poor-law by resigning his place as agent to an estate rather than
+enforce its provisions. He, too, hated the economists, and
+denounced , the horrible Malthusian doctrine,' which he took to
+be that the 'Creator sent children into the world without being
+able to find food for them.'(24*) John Fielden, who became the
+parliamentary leader in 1846, upon Shaftesbury's temporary
+retirement from the House, had been brought up as a Quaker and a
+Tory. He became a Utilitarian and a Radical. The typical Radical
+for him was not Place but Cobbett, his colleague for Oldham in
+the first reformed parliament. 'Honest John Fielden' made a
+fortune by cotton-spinning, but wrote a tract called the Curse of
+the Factory System, and no doubt shared Cobbett's hatred of the
+Scottish 'philosophers' and Parson Malthus.
+    These brief indications may be sufficient for one point. The
+agitators on behalf of the factory movement took the political
+economists, 'Malthusians,' and Utilitarians to be their natural
+and their most dangerous enemies. They assumed that the economist
+doctrine might be condensed into the single maxim 'do nothing.'
+Whether it were a question of encouraging trade or supporting the
+poor, or putting down 'white slavery' in a factory, government
+was to leave things alone or, in other words, to leave them to
+the devil. Chalmers, though an ultra-Malthusian in some respects,
+approved the factory movement, because, as he said, it was a
+question between free trade and Christianity.(25*) Christianity
+orders us to help our neighbours, and political economy to let
+them alone. Mill, of course, would have repudiated this doctrine.
+Political economy, he would have replied, does not forbid us to
+do good, or it would be opposed to Utilitarianism as well as to
+Christianity. It only shows us what will do good by pointing out
+the consequences of our actions, and Christianity can scarcely
+forbid us to disregard consequences. Nor, in fact, was it true
+that the economists unequivocally condemned the factory acts.
+Malthus had approved them, and M'Culloch wrote warmly to
+Shaftesbury to express his sympathy.
+    Undoubtedly, however, the opposition to the factory
+legislation appealed to the principles accepted and most
+vigorously enforced by the Utilitarians. It came from the
+free-traders, and from the inner circle of orthodox theorists. In
+the later debates, Bright and Cobden, Villiers and Milner-Gibson,
+Bowring, Bentham's trusted disciple, Roebuck, a wayward, though
+at first an eager, follower, and the sturdy Joseph Hume were
+jealous opponents. The Edinburgh and the Westminster Reviews
+rivalled each other in orthodoxy.(26*) The Edinburgh declared
+(July 1835) that Sadler's famous report was full of false
+statements, if not wholly false; and the Westminster (April 1833)
+thought that it was 'a stalking horse' to divert attention from
+the agitation against the corn-laws and slavery. Fraser's
+Magazine, on the contrary, which was attacking the economists in
+a series of articles, made a special point of the horrors
+revealed by the report. They might be summed up as 'child murder
+by slow torture.' The Tory organs, the Quarterly and Blackwood,
+took the same side. The manufacturers denied the existence of the
+evils alleged, complained of spies and unfair reports, and
+taunted the landowners with neglect of the suffering agricultural
+labourers. Shaftesbury says(27*) that the argument most
+frequently used was a famous statement by Senior. That high
+authority had declared that all the profits of manufacturers were
+made in the last two hours of the twelve. Cut down the twelve to
+ten, and profits would disappear, and with them the manufacturing
+industry.(28*) The same doctrine, in fact, worked into a variety
+of forms, sometimes fitted for practical men, and sometimes
+seeking the dignity of scientific formulation, was the main
+argument to be met. This is, in fact, typical of the economists'
+position. Some of them made concessions, and some of the Whigs
+shrank from the rigid doctrine.(29*) But it was more in their
+way, at least, to supply 'chilling blasts' of criticism than to
+give any warm support. One qualification must be noticed. The
+agitation began from the undeniable cruelty to children. The
+enthusiast's view was put into epigrammatic form by Michelet. The
+monster Pitt had bought the manufacturers' support by the awful
+phrase, 'take the children.'(30*) In reality the employment of
+children had at first appeared desirable from a philanthropic
+point of view; but it had developed so as to involve intolerable
+cruelty. The hideous stories of children worked to death, or to
+premature decrepitude, revealed by the commissions had made a
+profound impression. So far the Utilitarians as moralists were
+bound and willing to protest. They hated slavery, and to do
+nothing was to permit the most detestable slavery. A child of
+tender years might be worked to death by brutal employers with
+the help of careless parents. This was fully admitted, for
+example, by Cobden, who said that he entirely approved of
+legislation for children, but held equally that adults should be
+encouraged to look for help to themselves and not to
+government.(31*) Even the straitest economists seem to have
+admitted so much. The problem, however, remained as to the
+principle upon which the line must be drawn. If helpless children
+should be protected, have not women, or even working men in
+dependent positions, an equal right to protection? Moreover, can
+interference in one case be practically carried out without
+involving interference in the whole system?
+    The economic position was thus assailed on many points,
+though by enemies mutually opposed to each other. The general
+tendency of the economists was against government interference,
+and their most popular triumph on application of the do-nothing
+principle. In the free-trade agitation, their main opponents were
+the interested classes, the landowners, and the merely stupid
+Conservatives. Elsewhere they were opposed by a genuine, even if
+a misguided, philanthropy; by Conservatives who wished to meet
+revolution not by simple obstruction, but by rousing the
+government to a sense of its duties. Southey's 'paternal
+government' might be ridiculed by Macaulay and the Whigs;
+Cobbett's good old times might be treated as the figment of an
+ignorant railer. The Young Englanders who found their gospel in
+Disraeli's Sibyl might be taken to represent mere fanciful
+antiquarianism masquerading as serious politics; and Carlyle,
+with his fierce denunciations of the 'dismal science' in Chartism
+and the Latter-Day Pamphlets set down as an eccentric and
+impatient fanatic naturally at war with sound reason. The
+appropriate remedy, as Mill thought, was a calm, scientific
+exposition of sound principles. His adversaries, as he thought,
+reproduced in the main the old sentimentalism against which
+Bentham and James Mill had waged war, taking a new colouring from
+a silly romanticism and weak regrets for a picturesque past. But
+there was a perplexing fact. Churchmen and Tories were acting as
+leaders of the very classes to whom Radicals look for their own
+natural allies. Shaftesbury complained that he could not get the
+evangelicals to take up the factory movement.(32*) They had been
+the mainstay of the anti-slavery movement, but they did not seem
+to be troubled about white slavery. The reason, no doubt, was
+obvious; the evangelicals were mainly of the middle class, and
+class prejudices were too strong for the appeals to religious
+principles. On the other hand, the Radical artisans would accept
+men like Sadler or Shaftesbury for leaders as a drowning man may
+accept help from an enemy. The point of agreement was simply that
+something should be done, and that was enough to alienate the
+poor man from Whigs and Utilitarians, who were always proving
+that nothing should be done.
+    While these controversies were in the foreground the
+remarkable movement of which Mr and Mrs Sidney Webb (33*) are the
+first historians, was developing itself. Workmen were learning
+how to organise effective trades-unions, and co-operators were
+turning into a more practicable channel some of the aspirations
+of which Owen had been the prophet. What Mill thought of such
+movements will appear presently . Meanwhile it is enough to say
+that the economists generally confined themselves to throwing
+cold water upon what they held to be irrational schemes. The
+working classes could not raise their position by combination,
+though they had an undeniable right to try fruitless experiments.
+They were going astray after false prophets, and blind to the
+daylight of a true science. The co-operative movement, indeed,
+received a warmer welcome when it came to be known. But the
+remarkable point is once more the wide gap between the
+'philosophical Radicals' and the classes whom they aspired to
+lead. The aspirations of the poorer class took a form condemned
+as simply absurd and illogical by the theories of their would-be
+leaders.(34*) 
+
+ III. MALTHUSIAN CONTROVERSY
+
+    Popular instinct recognised its natural enemy in Malthus.
+'Malthusian' was a compendious phrase for anti-Christian,
+hard-hearted, grovelling, materialist, fatalistic. The formal
+controversy was dying out. One of the last 'confutations' was by
+the enthusiastic Sadler, which provoked a slashing attack in the
+Edinburgh by the rising light Macaulay.(35*) Alison had prepared
+a ponderous treatise(36*) by 1828, which, however, did not appear
+till 1840, when his popularity as a historian encouraged its
+publication. Thomas Doubleday (1790-1870), an amiable man and a
+sturdy reformer, published his True Law of Population in
+1831.(37*) Sadler, the churchman and philanthropist, Alison, the
+ponderous Tory, and Doubleday, the Radical, are agreed upon one
+point. They are all defending the beneficence of the deity, and
+take Malthus to be a devil's advocate. Sadler, who was a
+mathematician, devotes the greatest part of his book to a
+discussion, helped by elaborate tables, of the famous geometrical
+progression. Alison, of course, rambles over all the articles of
+the Tory faith, defending the corn-laws, protection, and slavery
+along with the factory acts, the poor-law, and the allotment
+system, and expounding his simple philosophy of history and the
+inevitable currency question. The real difficulty is to assign
+the precise point at issue. If Malthus is taken as asserting
+that, as a matter of fact, population actually and invariably
+doubles every twenty-five years, or at any rate always multiplies
+to starvation point, it is easy to 'confute' him; but then he had
+himself repudiated any such doctrine. If, on the other hand, you
+only say that over-population is in fact restrained by some
+means, Malthus had said so himself. It was common ground, for
+example, that great towns were unfavourable to population; and
+Macaulay could fairly tell Sadler that this was admitted by
+Malthus, and was really a case of the famous 'positive
+checks.'(38*) Alison takes similar ground in much of his
+argumentation. The difference seems to be that Sadler and
+Doubleday assume a pre-established harmony where Malthus traces
+the action of 'checks.' Sadler,(39*) for example, agrees with the
+opinion of Muret, ridiculed by Malthus, that God had made the
+force of life 'in inverse ratio to fecundity.' Sadler and
+Doubleday agree that 'fecundity' is diminished by comfort. Men
+multiply less as they become richer, instead of becoming richer
+as they multiply less. J. S. Mill says that Doubleday alone among
+the Anti-Malthusians had some followers, but thinks that this
+argument is sufficiently confuted by a glance at the enormous
+families of the English upper classes.(40*) Macaulay had taken
+more trouble to reply by statistics drawn from the Peerage. The
+one obvious point is that none of the disputants could properly
+talk of 'scientific laws.' What Malthus had indicated was a
+'tendency,' or a consequence of the elasticity of population
+which might arise under certain conditions, and to which it was
+important to attend. But this gives no approach to a formula from
+which we can infer what will be the actual growth under given
+conditions. Macaulay showed clearly enough the futility of
+Sadler's reasoning. It was hopeless to compare areas, taken at
+random, large and small, heterogeneous or uniform, in different
+countries, climates, and social states, and attempt by a summary
+process to elicit a distinct 'law.' All manner of physiological,
+psychological, and sociological questions are involved; not to be
+set aside by a hasty plunge into a wilderness of statistics. To
+discover a tenable 'law of population' we shall have to wait for
+the constitution of hitherto chaotic sciences.
+    Meanwhile, it may be noticed that the Whigs as represented by
+Macaulay were upon this matter as dogmatic as James Mill himself,
+whose dogmatism Macaulay had censured as roundly as he censured
+Sadler. Malthus, in fact, had triumphed; and Mill's Malthusianism
+dominates his whole treatise. He had been brought up as an
+uncompromising Malthusian; in youth he had become something of a
+martyr in the cause, and he never flinched from upholding the
+general principle. What was it? In an early chapter(41*) of his
+treatise he lays down the Malthusian propositions. 'Twenty or
+thirty years ago,' he says, they might have been in need of
+enforcement. The evidence is, however, so incontestable that they
+have steadily made way against all opposition, and may now be
+regarded as 'axiomatic.' This incontestable doctrine, as Mill
+here explains, is, firstly, that the human race can double itself
+in a generation; and, secondly, that the obvious consequences can
+be avoided only by limiting this power through Malthus's positive
+or preventive checks that is, by prudence on the one hand, and
+starvation and disease on the other.(42*) This prudential
+restraint, then, is, if not the one thing necessary, the
+universal condition without which no other scheme of improvement
+can be satisfactory. It is the focus upon which his whole
+argument converges. Mill, however, gives a characteristic turn to
+the argument. The doctrine that the progress of society must 'end
+in shallows and in miseries'(43*) was not, as had been thought, a
+'wicked invention' of Malthus. Implicitly or explicitly, it was
+the doctrine of his 'most distinguished predecessors' and can
+only be successfully combated on his principles. The publication
+of his essay is the era from which better views of this subject
+must be dated.'(44*) It gives the really fundamental principle.
+Mill agrees with Malthus that the root of social evil is not the
+inequality of property. Even an unjust distribution of wealth
+does not aggravate, but at most accelerates, the advent of
+misery. 'With the existing habits of the people' an equal
+division of property would only cause them to populate down to
+the former state.(45*) And yet Mill here parts company from.
+Malthus in the spirit, if not in the logic, of his argument.
+Malthus no doubt was thoroughly benevolent, and like many amiable
+country clergymen desired to see the spread of savings banks,
+friendly societies, and schools; but he was painfully conscious
+of the difficulty of infusing ideas into the sodden, sluggish
+labourers of his time, and hoped rather for the diminution of
+abuses than for the regeneration of mankind. Mill, on the
+contrary, sympathised with the revolutionists who had alarmed
+Malthus. He tells them, indeed, with Malthus, that their schemes
+must conform to actual and inevitable conditions. But he also
+holds that the 'existing habits' of the 'people' can be
+materially modified; and believes that a 'just distribution of
+wealth' would tend to modify them. Malthus emphasises the point
+that nothing can be done unless the standard of life be raised.
+Mill dwells on the other aspect: if the standard be raised, an
+indefinite improvement can be effected. What Malthus took to be a
+difficult though not impassable barrier Mill took to represent a
+difficulty which men might be trained to recognise and surmount.
+His sanguine belief in the educability of mankind enabled him to
+regard as a realisable hope what to Malthus in his early days had
+seemed a mere vision, and even in later days a remote ideal. The
+vis medicatrix is the same for Mill as for Malthus, but Mill has
+a far more vivid expectation of the probability of curing the
+patient. 
+
+ IV. PEASANT-PROPRIETORSHIP
+
+    One of Mill's most characteristic doctrines shows
+conspicuously this relation. Malthus had found in Norway and
+Switzerland communities which flourished because they
+spontaneously practised his principles. 'It is worthy of remark,'
+says Mill,(46*) 'that the two countries thus honourably
+distinguished are countries of small landed proprietors.' This
+coincidence was not accidental; and Mill's Malthusianism falls in
+with his admiration for peasant-proprietorship. He diverged in
+this respect from the orthodox economical tradition. The
+economists generally left it to sentimentalists to regret the
+British yeoman, and to weep musically with Goldsmith over the
+time 'when every rood of ground maintained its man.' Wordsworth
+had dwelt pathetically upon the homely virtues of the
+North-country statesman.(47*) Cobbett had in his happiest
+passages dwelt fondly upon the old rural life, and denounced in
+his bitterest invectives the greedy landowners and farmers who
+had plundered and degraded the English peasant. The economists
+looked at the matter from the point of view represented by Arthur
+Young. Enclose commons; consolidate small holdings; introduce
+machinery; give a free hand to enterprising landlords and
+substantial farmers, and agriculture will improve like commerce
+and manufactures. Small holders are as obsolete as handloom
+weavers; competition, supply and demand, and perfect freedom of
+trade will sweep them away, new methods will be adopted, capital
+introduced, and the wages of the labourer be raised. M'Culloch,
+for example, took this view;(48*) denounced small holdings, and
+prophesied (49*) that France would in fifty years become the
+greatest 'pauper-warren in Europe.' A remarkable advocate of a
+similar view was Richard Jones (1790-1855), who in 1835 succeeded
+Malthus at Haileybury.(50*) Jones admired Malthus and accepted
+with qualifications the account of rent given by Malthus and
+West. But he denounced Malthus's successors, Ricardo, James Mill,
+and M'Culloch for preferring 'anticipation' to 'induction', and
+venturing to start with general maxims and deduce details from
+them. Jones deserves the credit of perceiving the importance of
+keeping historical facts well in view. He shows sufficiently that
+Ricardo's theory, if taken to be a historical statement of the
+actual progress of events, is not correct. He refuses to define
+rent, but treats historically of the various payments made in
+respect of land. After classifying these, he decides that rent of
+the Ricardian kind prevails over less than a hundredth part of
+the earth's surface. He considers it, however , as representing a
+necessary stage of progress. It is far superior to the early
+stages, because it supposes the growth of a class of capitalists,
+able to direct labour and introduce the best methods of
+cultivation. Hence Jones comes by a different route to an
+agreement with M'Culloch. He prophesies that peasant-proprietors
+will rapidly fall into want and their numbers be limited only by
+the physical impossibility of procuring food. They were precisely
+in the position least favourable to the action of prudential
+checks.(51*)
+    Mill upon this matter dissented most emphatically both from
+the 'classical' and the historical champion. The point is with
+him of vital importance. His French sympathies had prepared him
+to see the other side of the question. The most unequivocal
+triumph claimed, with whatever truth, for the French revolution
+was the elevation of the cultivators of the land. Mill, at any
+rate, held emphatically that the French revolution had
+'extinguished extreme poverty for one whole generation,'(52*) and
+had thereby enabled the French population to rise permanently to
+a higher level. Contemporary English history gave the other side.
+Poor-law controversies had brought into striking relief the
+degradation of the English agricultural labourer. The Morning
+Chronicle articles, to which he had devoted six months, combined
+with an advocacy of peasant-proprietorship an exposition of the
+inadequacy of poor-laws. The excellent W. T. Thornton (1813-1880)
+had been from 1836 Mill's colleague in the India House, and was
+one of the few friends who communicated freely with him during
+his seclusion.(53*) In 1846 Thornton published a book upon Over
+Population and its Remedy, in which he declares himself to be a
+thoroughgoing Malthusian, and rebukes M'Culloch for saying that
+Malthus's work exemplified the 'abuse' of general principles.
+Thornton, like Mill, follows Malthus in thinking that
+over-population must be checked by preventing imprudent
+marriages;(54*) but he makes a special point of the doctrine that
+misery is not only the effect but the 'principal promoter' of
+over-population.(55*) Hence he is not content with Malthus's
+negative position. The evil will not die out of itself. His
+favourite remedy at this time was the 'allotment system.' From
+this Mill dissents.(56*) They agree, however, upon the merits of
+peasant-proprietorship, upon which Thornton published a book in
+1848, shortly before the appearance of Mill's treatise.(57*) Mill
+says that this ought to be the standard treatise on that side 'of
+the question.'(58*) Neither Mill nor Thornton had any firsthand
+knowledge of agriculture; but they forcibly attacked the
+assumptions then prevalent among English agriculturists. Thornton
+had been especially impressed by the prosperity of the Channel
+Islands -- a rather limited base for a wide induction; but both
+he and Mill could refer to experience on a much larger scale
+throughout wide districts on the Continent. The pith of Mill's
+position is condensed in Michelet's picturesque passage, where
+the peasant is described as unable to tear himself away even on
+Sunday from the contemplation of his beloved plot of land. The
+three periods when the peasant had been able to buy land were
+called the 'good King Louis XII,' the 'good King Henry IV' and
+the revolution. Arthur Young's famous phrase of the 'magic of
+property' which 'turns sand to gold' was a still more effective
+testimony, because Young was the Coryphaeus of the modern ,
+English school of agriculturists.'(59*)
+    France, then, represented the good effects of Malthusianism
+in action. The French peasantry, as Thornton says after
+Lavergne,(60*) had not read Malthus, but they instinctively put
+his advice in practice. Mill triumphantly quotes the figures
+which showed the slow rate of increase of the French
+population.(61*) The case of Belgium, as he remarks, showed that
+peasant-proprietorship might be consistent with a rapid increase,
+but the French case proved conclusively that this was not a
+necessary result of the system. The 'pauper-warren' theory at
+least is conclusively disproved. M'Culloch's unfortunate
+prediction might be explained by his a priori tendencies; but it
+is curious to find Mill confuting Jones, the advocate for a
+historical method, by an appeal to experience and statistics. The
+possession of the soundest method does not make a man infallible.
+Jones and M'Culloch, as Mill said, had confounded two essentially
+different things. They had argued simply as to the economic
+advantages of production on a large and small scale without
+reference to the moral effect upon the cultivator. Their
+criterion is simply the greatness of the return to a given amount
+of capital on different systems. They had therefore treated the
+cases of France and Ireland as identical, whereas in one vital
+circumstance they are antithetical. France represented the
+observance of Malthus's true principle, because the peasant was
+moved by the 'magic of property'; he had absolute security in his
+little plot; and the vis medicatrix or desire to save was raised
+to its highest point. Ireland represents the defiance of Malthus,
+because the Irish cottiers, with no security, and therefore no
+motive for saving, multiplied recklessly and produced a true
+'pauper-warren.' Mill accordingly reaches the conclusion that
+while peasant-proprietorship does not of necessity involve rude
+methods of cultivation, it is more favourable than any other
+existing system to intelligence and prudence, less favourable to
+'improvident increase of numbers,' and therefore more favourable
+to moral and physical welfare.(62*)
+    Jones would admit small culture as a natural stage towards
+the development of the English system. Mill considers it to be in
+advance of that system, but neither does he consider it to
+represent the absolutely best system. In a later passage he
+repudiates an opinion which, he says, might naturally be
+attributed to him by readers of the earlier chapters.(63*) Though
+the French peasant is better off than the English labourer, he
+does not hold that we should adopt the French system, nor does he
+consider that system to be the ideal one. To cover the land with
+isolated families may secure their independence and promote their
+industry, but it is not conducive to public spirit or generous
+sentiment. To promote those qualities we must aim at
+'association, not isolation, of interests.' This view is
+significant. Peasant-proprietorship, we are constantly told, is
+the great barrier against Socialism. It represents, in fact,
+'individualism' in its highest degree. It stimulates the
+Malthusian virtues, prudence, industry, and self-help, and makes
+each man feel the necessity of trusting to his own energy. Yet
+Mill, with all his Malthusianism, thinks that such virtues might
+be stimulated too much; and, after preaching the merits of
+individualism, shows a leaning towards the antagonistic ideal of
+Socialism. He says little -- perhaps it would hardly have been
+relevant to say much -- of the historical aspect of the question.
+But there is a tacit implication of his argument of no little
+importance. According to him, the English labourer had been
+demoralised, and the whole Irish peasantry brought to the edge of
+starvation, while the French and other peasantries were
+prosperous and improving. To what historical causes was this vast
+difference due? The French revolution, however important, can
+only be understood through its antecedents. Systems of
+land-tenure, it is obvious, have been connected in the most
+intricate way with all manner of social, industrial, and
+political phenomena. Commerce and manufactures may seem in some
+sense a kind of natural growth-a set of processes at which
+government can look on from outside, enforcing at most certain
+simple rules about voluntary contracts. But, in the case of land,
+we have at every point to consider the action and reaction of the
+whole social structure and of the institutions which represent
+all the conflicts and combinations of the great interests of the
+state. Consequently neither the results actually attained, nor
+those which we may hope to attain, can be adequately regarded
+from the purely industrial side alone. Systems have not
+flourished purely because of their economical merits, nor can
+they be altered without affecting extra-economical interests. To
+do nothing is to leave agricultural institutions to be perverted
+by political or 'sinister' interests. Mill was very little
+inclined to do nothing. He saw in the superiority of the foreign
+to the British systems a proof of the malign influence of the
+'sinister interests' in our constitution. The landed aristocracy
+were the concrete embodiment of the evil principle. The nobility
+and the squirearchy represented the dead weight of dogged
+obstructiveness. They were responsible for the degradation of the
+labourer; and the Ricardian doctrine of rent explained why their
+interests should be opposed to those of all other classes.
+Although Mill attributed enormous blessings to the revolution in
+France, he was far too wise to desire a violent revolution in
+England, and he was far too just to attribute to individual
+members of the class a deliberate intention to be unjust. Yet he
+was prepared to advocate very drastic remedies; and if there were
+any human being of moderate cultivation from whom he was divided
+by instinctive repulsion and total incapacity to adopt the same
+point of view, it was certainly the country squire. The natural
+antipathy was quaintly revealed when Mill found himself in the
+House of Commons opposed to thick rows of squires clamouring for
+protection against the cattle-plague.
+    So far Mill's position is an expansion or adaptation of
+Malthus. Obedience to Malthus makes the prosperous French
+peasant; disobedience, the pauperised English labourer. Malthus,
+as Mill interprets him, means that all social improvement depends
+upon a diminished rate of increase, relatively to
+subsistence;(64*) and to diminish that rate the prudential check
+must be strengthened. 'No remedies for low wages,' therefore,
+'have the smallest chance of being efficacious which do not
+operate on and through the minds and habits of the people';(65*)
+and every scheme which has not for its foundation the diminution
+of the proportion of the people to the funds which support them,
+is 'for all permanent purposes a delusion.'(66*) The two
+propositions taken together sum up Mill's doctrine. Social
+welfare can be brought about only by stimulating the vis
+medicatrix or sense of individual responsibility. Every reform
+which does not fulfil that condition is built upon sand. The
+application to England is a practical comment. The true remedies
+for low wages (67*) are first an 'effective national education'
+so designed as to cultivate common-sense. This will affect the
+'minds of the people' directly. Secondly, a 'great national
+measure of colonisation.' This will at once diminish numbers.
+Thirdly, a national system for 'raising a class of
+peasant-proprietors.' This will provide a premium to prudence and
+economy affecting the whole labouring class. Besides this, Mill
+approves of the new poor-law, which has shown that people can be
+protected against the 'extreme of want' without the demoralising
+influence of the old system.(68*) Mill here accepts, though he
+does not often insist upon, the doctrine upon which Thornton had
+dwelt in his Over Population: that poverty is self-propagating so
+far as it makes men reckless: education, as he remarks, is 'not
+compatible with extreme poverty'.(69*) Hence the remedies
+themselves require another condition to make them effective. He
+declares emphatically that in these cases small means do not
+produce small effects, but no effect at all.(70*) Nothing will be
+accomplished, unless comfort can be made habitual to a whole
+generation. The race must be lifted to a distinctly higher plane,
+or it will rapidly fall back. Mill, I fancy, would have been more
+consistent if he had admitted that great social changes must be
+gradual. But in any case, he was far from accepting the
+do-nothing principle. Political economy, he says, would have 'a
+melancholy and a thankless task' if it could only prove that
+nothing could be done.(71*) He holds that a huge dead lift is
+required to raise the labourers out of the slough of despond, and
+he demands therefore nothing less than great national schemes of
+education, of home and foreign colonisation. He speaks, too, with
+apparent approval of laws in restraint of improvident
+marriages.(72*) It is, indeed, true that upon his schemes
+government is to interfere in order to make the people
+independent of further interference. Whether such a compromise be
+possible is another question. 
+
+ V. CAPITALISTS AND LABOURERS
+
+    Meanwhile a wider problem has to be considered. Unless some
+remedy can be found for the existing evils, he says, the
+industrial system of this country -- the dependence, that is, of
+the whole labouring class upon the wages of hard labour -- though
+regarded by many writers as the ne plus ultra of civilisation,
+must be 'irrevocably condemned.'(73*) The agricultural labourer
+can be taken out of that position. By making him a proprietor he
+can be brought -- within the range of new motives. The
+independent peasant has in visible form before his eyes the base
+from which he and his family must draw supplies. It requires no
+abstract reasoning to show him that, if he brings more mouths
+into existence, his fields will not therefore bear double crops.
+But for the artisan who is a minute part of a vast organisation,
+whose wages come out of an indefinite, unexplored reservoir which
+may be affected by changes in commerce of the origin and exact
+nature of which he is completely ignorant, there is no such
+palpable limit. The springs from which his subsistence flows may,
+for anything he sees, be inexhaustible. He is a unit in a large
+multitude, which, taken as a whole, must undoubtedly be somehow
+dependent upon the general resources of the nation. But how to
+explain the intricate relations of the different classes is a
+problem puzzling to the best economists, and capable of all
+manner of fallacious solutions. As an individual, the artisan
+might learn like other people to be prudent; but to know what is
+prudent he must understand his position. Can the labourer
+rightfully demand or reasonably expect to get a larger share of
+the wealth which he produces, or must he confine himself to
+limiting his numbers, and trusting to supply and demand to bring
+his right share? Here the workman was misled by all manner of
+false lights; and it became incumbent upon Mill to explain the
+position.
+    A population entirely dependent on wages never, says
+Mill,(74*) refrains from over-population unless from 'actual
+legal restraint,' or some 'custom' which 'insensibly moulds their
+conduct.' The English agricultural labourer seems to multiply
+just as far as he can.(75*) All 'checks' have gone or are going.
+If the artisan is better off, it is due to the rapid expansion of
+our trade. Should the market for our manufactures -- not actually
+fall off but cease to expand as rapidly as it has done for fifty
+years, we may fall into the state of Ireland before 1846. He
+hopes, indeed, that the factory population may be intelligent
+enough to adapt itself to circumstances. The fact that so large a
+part of our population is composed of middle classes or skilled
+artisans is the only security for some restraint. Yet Mill's
+opinion even of the artisan was low. English experience confirms
+the evidence of Escher of Zürich.(76*) The head of the English
+artisan is turned by the idea of equality. 'When he ceases to be
+servile, he becomes insolent.'(77*) There is nowhere, he says
+elsewhere,(78*) any friendly sentiment between labourers and
+employers. The artisan, swamped by the growing multiplication of
+unskilled labour, will too probably, we may infer, take a false
+view of the situation, and ascribe his poverty not to his own
+neglect of Malthus, but to the greed and hard-heartedness of the
+capitalist. Such an anticipation was likely enough to be
+realised.
+    This leads to the great problem of the true relation between
+capital and labour. The distinctive peculiarity of England was
+the dependence of the masses upon wages. How, as Mill has asked,
+is this state of things reconcilable with improvement? He will
+assume, as his predecessors had substantially done, that the
+capitalist and labourers are separate classes, and that the
+labourer derives his whole support from the capitalist. Though
+this is not everywhere true, it is for him the really important
+case. Moreover, he seems to think that the rule derived from
+considering the classes separately will not be altered when the
+two characters are united in individuals. The labourer, so far as
+he has 'funds in hand,' is also a capitalist; and that part of
+his income is still decided by the general law of profits.(79*)
+The assumption of a complete separation, made for convenience of
+argument, might no doubt be confounded with a statement of fact.
+At any rate, it is merely an explicit avowal of the tacit
+assumption of the orthodox economists.
+    Here, then, we pass from Malthus to Ricardo. Mill adopts the
+Ricardian scheme, though trying to make it more elastic.
+Ricardo's doctrine of a 'minimum' rate of wages to which the
+'general rate' constantly approximates has enough truth for the
+'purposes of abstract science.'(80*) The rate indeed varies with
+the standard of living, and that, as we have seen, is a critical
+point. Yet the main outlines of the theory remain. As population
+presses upon the land, the landlord gets the benefit of his
+'monopoly of the better soil,' and capitalist and labourer divide
+the remainder. Profits and wages, as Ricardo had said, vary
+inversely; a 'rise of general wages falls on profits; there is no
+possible alternative.'(81*) Here, indeed, an important
+modification must be made in Ricardo's words, in order to state
+what Ricardo 'really meant.'(82*) Profit depends, not upon wages
+simply, but upon the 'cost of labour.' The labourer is not a
+fixed quantity, representing so many 'foot-pounds' of energy; his
+efficiency, as Mill argued, may vary indefinitely with his moral
+and intellectual qualities; (83*) it may be profitable to pay for
+the effective labour double the wages of the ineffective; and, in
+point of fact, 'the cost of labour is frequently at its highest
+where wages are lowest.'(84*)
+    Thus interpreted, Ricardo, like Malthus, admits of progress.
+By improving in efficiency, and by maintaining his standard of
+life, the labourer's position may be improved. Still, however,
+improvement supposes a due regard to the interests of the
+capitalists, who make all the advances and receive all the
+produce. Here we have the old doctrine of the 'tendency of
+profits to a minimum.'(85*) This theory, admitted though
+inadequately explained by Adam Smith, had been illustrated by E.
+G. Wakefield, and as Mill thinks, most scientifically treated by
+his friend Ellis. Another writer, to whom Mill refers with his
+usual generosity, was John Rae, whose New Principles of Political
+Economy had, he thinks, done in regard to accumulation of capital
+what Malthus had done in regard to population.(86*) The necessity
+of resorting to inferior soils, which enriches the landowner,
+causes the difficulty of raising the labourer's 'real wages.'
+Profits are lowered not by the 'competition of capitalists,' but
+by the limitation of the national resources. As the difficulty of
+raising new supplies becomes more pressing, the 'cost of labour'
+rises, and the capitalist's profits diminish. Now, in every
+country, as Rae had shown, there is a certain 'effective desire
+of accumulation.'(87*) It varies widely, and corresponds, we may
+say, to the principle which limits population -- the 'effective
+desire' of propagation. There is a certain rate of profit which
+will induce men to save, and saving is the one source of capital.
+Hence, if the rate obtainable falls to this point, saving will
+cease, the capital which supports labour will not increase, and
+the country will be in the 'so-called stationary state.' Such a
+state, no doubt, is possible and often actual. Given a nation
+forced to draw its resources from a fixed area, and unable to
+improve its methods of cultivation, it is obvious that it may
+reach a point at which it can only just maintain its actual
+position. Mill holds not only that such a result is possible, but
+that it is always imminent. In an 'old country,' he says, 'the
+rate of profit is habitually within, as it were, a hair's-breadth
+of the minimum, and the country therefore on the very verge of
+the stationary state.'(88*) He does not mean, he explains, that
+such a state is likely soon to be reached in Europe, but that, if
+accumulation continued and nothing occurred to raise the rate of
+profit, the stationary state would be very quickly reached. We
+have still the Malthusian view. We are always 'within a
+hair's-breadth' of the dead wall which will absolutely limit
+progress. Improvements are in fact constantly staving off the
+impending catastrophe. We are drifting, so to speak, towards a
+lee-shore, where, if not wrecked, we shall at least come to a
+standstill. Again and again we manage to make a Little way, and
+by new devices to weather another dangerous point. By prudence,
+too, we may turn each new advantage to account, and improve our
+condition by refraining from increasing our numbers. But the
+danger is always threatening.
+    One noteworthy result is Mill's chapter upon the stationary
+state.(89*) He has, it seems, been so impressed by the
+probability that he will find refuge from his fears by facing the
+worst. After all, are not the grapes sour? If we are unable to
+grow richer, is the loss of wealth so great a misfortune? He
+turns to think of the 'trampling, crushing, elbowing, and
+treading on each other's heels which form the existing type of
+human life.'(90*) Is such a state desirable? In America, where
+all privileges are abolished, poverty unknown, and the six points
+of the Chartists accepted, the main result achieved is that 'the
+whole of one sex is devoted to dollar-hunting and the whole of
+the other to breeding dollar-hunters.' (91*) Coarse stimuli are
+needed for coarse minds; but a better ideal should be possible.
+We might aim at an order quite compatible with the 'stationary
+state,' where labourers should be comfortable, no enormous
+fortunes accumulated, and a much larger part of the population
+free from mechanical toil and enabled to 'cultivate freely the
+graces of life.' Nor is it desirabLe that cultivation should
+spread to every corner of the world, every flowery waste ploughed
+up and all wild animals extirpated. 'A world from which solitude
+is extirpated is a very poor ideal.'
+    Mill agreed with Ruskin, though Ruskin did not agree with
+Mill, and, indeed, called him a goose. A stationary state of
+wealth need not, says Mill, imply a stationary state of the 'art
+of living.' That art was more likely to improve when we were not
+all engrossed by the 'art of getting on.' How far that is true I
+do not presume to say . It seems possible that in such a state
+the struggle to be stationary might be as keen, though advance
+would be hopeless. But, without criticising a theory which
+represents rather a temporary protest than a settled conviction,
+we may be content to notice how far removed was this typical
+economist from the grovelling tendencies often ascribed to his
+kind. Mill, as even Carlyle would have admitted, was not a mere
+devotee of 'pig's-wash.'
+    This vision of a stationary state comes in the book in which
+Mill passes from the 'statics,' as he calls it, to the 'dynamics'
+of political economy. His purpose is to trace the influence of
+industrial progress. His first chapter (92*) notices the vast
+mechanical discoveries, the increased security of society and
+greater capacity for united action, which give reasons for hoping
+indefinite growth of aggregate wealth There is, he thinks, 'not
+much reason to apprehend' that population will outrun, though we
+must sadly admit the possibility that it will keep up with,
+production and accumulation. This leads to the chapters in which
+he discusses the effect of progress upon the various classes
+concerned.(93*) How does the 'progress of industry' affect the
+three classes -- landowners, capitalists, and labourers? Land is
+a fixed quantity; but population may increase, capital may
+increase, and the arts of production may improve by supposing
+each to increase separately and then together. A long and careful
+analysis gives us the general result. It is enough to notice the
+conclusion.(94*)
+    Land represents the fixed 'environment' of the race. The
+proprietors of the land will be enriched by economical progress
+and the growing necessity for resort to inferior soils. The cost
+of raising the labourer's subsistence increases, and profits
+therefore tend to fall. The improvement of the arts of
+agricultural production acts as a 'counteracting force.' It
+relaxes the pressure and postpones the stationary state. For the
+moment the improvement may diminish (as Ricardo had argued), but
+in the long run must promote, the 'enrichment of landlords,' and,
+if population increases, will transfer to them the whole benefit.
+Mill, as we have seen, was fully alive to the enormous increase
+in past times of the general efficiency of labour and to the
+indefinite possibilities of the future. Yet the improvement seems
+here, again, to be regarded rather as checking the gravitation
+towards the stationary state, than as justifying any confident
+hopes of improvement. Meanwhile the elevation of the labouring
+classes depends essentially upon their taking advantage of such
+improvements to raise their standard, instead of treating an
+addition to their means 'simply as convertible into food for a
+greater number of children.'(95*)
+
+ VI. THE WAGE-FUND
+
+    This doctrine led to one of the strangest of controversial
+catastrophes. In his chapter upon 'wages' (96*) Mill had begun
+with an unlucky paragraph. He introduced the word 'wage-fund' to
+describe the sums spent in 'the direct purchase of labour'; and
+stated that wages necessarily depended upon the proportion of
+this fund to the labouring population. This doctrine was assailed
+by Thornton in 1869.(97*) Mill, reviewing Thornton, astonished
+the faithful by a complete recantation; and, though a disciple or
+two -- especially Cairnes and Fawcett -- continued to uphold the
+doctrine, or what they took to be the doctrine, political
+economists have ever since been confuting it, or treating it as
+too ridiculous for confutation. If we are to assume that the
+wage-fund was at once an essential proposition of the old
+'classical' economy and a palpable fallacy, the whole structure
+collapses. The keystone of the arch has crumbled. Nor, again, is
+it doubtful that this catastrophe marked a critical change in the
+spirit and methods of political economy. And yet, when the actual
+discussion is considered, it seems strange that it should have
+had such importance. What was this 'wage-fund theory'? The answer
+is generally given by quoting the passage already mentioned from
+M'Culloch, a paragraph from Mill, and Fawcett's reproduction of
+Mill. Mill's sentences, says Professor Taussig, 'contain all that
+he ever said directly and explicitly on the theory of the
+wage-fund.'(98*) It is strange that so vital a point should have
+been so briefly indicated. Then Mill's ablest follower, Cairnes,
+declares that though he had learned political economy from Mill,
+he had never understood the wage-fund theory in the sense which
+Thornton put upon it and which Mill accepted.(99*) But for Mill's
+admission, he says, he would 'have confidently asserted' that not
+only no economist but 'no reasonable being' had ever asserted the
+doctrine. We are left to doubt whether it be really a
+corner-stone of the whole system or an accidental superstructure
+which had really no great importance. At any rate it was rather
+assumed than asserted; and yet is so closely connected with the
+system that I must try to indicate the main issue.
+    In the first place, the 'wage-fund' is Mill's equivalent for
+Adam Smith's 'fund which is destined for the maintenance of
+servants';(100*) and Mill, again, starts from a proposition
+inherited from Smith. 'Industry,' he says, 'is limited by
+capital' -- a doctrine, as he adds, perfectly obvious though
+constantly neglected.(101*) Undoubtedly an industrial army
+requires its commissariat: its food, clothes, and weapons. Its
+very existence presupposes an accumulation of such supplies in
+order to the discharge of its functions. A more doubtful
+assumption is stated by Adam Smith. 'The demand,' he says,(102*)
+'for those who live by wages naturally increases with the
+increase of national wealth, and cannot possibly increase without
+it.' The growth of the national wealth, that is, 'naturally'
+involves the growth of the wealth of every class. Machinery
+increases the efficiency of labour and therefore increases the
+power at least of supporting labourers. Moreover, in the long
+run, and generally at the moment, this power will certainly be
+exercised.(103*) The interests of the capitalist will lead him to
+support more labourers. The identity of interest between the
+classes concerned might thus be taken for granted. Hence, we may
+trust to the spontaneous or 'natural' order of things to bring to
+all classes the benefit of improved industrial methods. This
+natural order, again, including the rate of wages, is understood
+to imply, at least, the absence of state interference. Political
+rulers must not tamper with the industrial mechanism. It will
+spontaneously work out the prosperity of the whole nation and of
+each class. Left to itself the industrial organism generates
+those economic harmonies upon which the optimist delighted to
+dwell. 'Natural' seems to take the sense of 'providential.' The
+'economic harmonies' are, like the harmonies perceived by Paley
+or the Bridgewater Treatise writers in external nature, so many
+proofs of the divine benevolence; any attempt to interfere with
+them could only lead to disaster. To show in detail the mischiefs
+involved, to expose the charlatans whose schemes implied such
+interference, was the grand aim of most economists. Mill, as we
+shall see, was very far from accepting this view without
+qualification. He thought with the Utilitarians generally that
+the 'sovereign' had enormous powers, and moreover was bound to
+apply them for the redress of social evils. Society, he held, was
+full of injustice. Laws aggravated many evils and could suppress
+others. Still the normal function of government is to prevent
+violence, see fair play, and enforce voluntary contracts. When it
+exceeds these functions, and tries by sheer force to obtain
+results without considering the means, it may do infinite
+mischief. It acts like an ignorant mechanic, who violently moves
+the hands of the clock without regard to the mechanism. Erroneous
+conceptions of the very nature of the machinery had led to the
+pestilent fallacies which Smith and his successors had been
+labouring to confute. The free-traders(104*) had often to expose
+one sophistry which deluded the vulgar. Its essence is, as Mill
+puts it, that we attend to one half of the phenomenon and
+overlook the other.(105*) The protectionist thinks of the
+producer and forgets the consumer. Half the popular fallacies
+imply the failure to take into account all the actions and
+reactions which are implied by a given change. The processes by
+which industry adapts itself to varying conditions --
+compensating for an ebb in one quarter by a flow in another -- is
+mistaken for a change in the whole volume. From the neglect to
+trace out the more remote, though necessary consequences, all
+manner of absurd doctrines had arisen. The doctrine of 'gluts'
+and 'over-production' confounded the case of a production of the
+wrong things with an excess of production in general. Improved
+machinery was supposed not merely to displace one class of
+labourers for a time, but to supersede 'labour' in general. We
+should forbid the substitution of power-looms and steam-ploughs
+for hand-weaving and spades, or try to increase wealth by
+depriving workmen of their tools. A strange confusion of ideas is
+involved. People, said Whately,(106*) ask for 'work' when what
+they want is really 'wages.' They assume that because more labour
+is required, more wages will be forthcoming. The fire of London,
+as Mandeville observed, was an excellent thing for the builders.
+If their wages had simply dropped out of the skies, it might have
+been good for everybody. So, again, Mill has to labour the point
+(107*) that society does not gain by unproductive expenditure,
+that is, by the support of horses and hounds, but by
+'production'; that is, by expenditure on mines and railways. He
+lays down a principle which, he says, is most frequently
+overlooked, that , demand for commodities is not demand for
+labour.' His doctrine has been ridiculed and treated as
+paradoxical. It implies at any rate an important distinction. It
+is intended to draw the line between changes which merely mean
+that a different employment is being found for labourers, and
+changes which mean that a greater sum is being devoted to the
+support of labourers in general.(108*) The argument against such
+fallacies might naturally be summed up by saying that the real
+point to be considered was the effect of any change upon the
+'wage-fund.' The error, common to all, is the confusion between
+the superficial and the more fundamental -- the functional, we
+may say, and the organic changes. They are exposed by tracing the
+secondary results, which have been overlooked in attending to the
+more palpable but less conspicuous part of the phenomenon. Then
+we see that some changes imply not a change in the quantity of
+labour supported; only a redistribution of the particular
+energies. They do not affect the 'wage-fund.' The phrase was
+useful as emphasising this point; and useful, though it might be
+in some sense a truism. Truisms are required so long as
+self-contradictory propositions are accepted. But a further
+problem is suggested. What, after all, is the wage-fund? What
+determines its amount? If this or that phenomenon does not imply
+a change in the fund, what does imply a change, and what are its
+laws? To this we get, in the first place, the old Malthusian
+answer. Whatever the fund may precisely be, the share of each man
+will be determined by the whole number depending upon it. This is
+obviously true, but does not answer the question, What actually
+fixes the sum to be divided? That problem seems to drop out of
+sight or to be taken as somehow implicitly answered. The answer
+should, however, be indicated by Mill's treatment of the most
+important cases.
+    The distribution problem, made prominent by Ricardo, was
+emphasised by controversies over the poor-law or the factory acts
+and trades-unionism. The economists had been constantly
+endeavouring to expose quack remedies for poverty. The old
+attempts to regulate wages by direct legislation had been too
+long discredited to be worth powder and shot. Mill, in discussing
+'popular remedies for low wages,' (109*) argues that competition
+'distributes the whole wage-fund among the whole labouring
+population.' If wages were below the point at which this happens
+there would be 'unemployed capital'; capitalists would therefore
+compete and wages would be raised. If, on the other hand, law or
+'opinion' fixes wages above the point, some labourers will be
+unemployed, or the 'wage-fund' must be forcibly increased.
+'Popular sentiment,' however, claimed that 'reasonable wages'
+should be found for everybody. Nobody, he says, would support a
+proposal to this effect more strenuously than he himself, were
+the claim made on behalf of the existing generation.(110*) But
+when the claim extends to all whom that generation or its
+descendants chooses 'to call into existence' the case is altered.
+The result would be that the poor-rate would swallow up the whole
+national income, and the check to population be annihilated.
+Here, again, instead of hearing clearly why or how the wage-fund
+is fixed, we are at once referred to Malthus. The factory
+legislation suggests the same question. The rigid economists had
+maintained that here again the attempt to interfere must be
+injurious. It would hamper the growth of capital, and therefore
+injure those dependent upon capital. Mill treats the case with
+remarkable brevity. He apparently regarded the whole movement as
+savouring of quackery. But he discusses the question briefly from
+the moral point of view. Children, he says, should of course be
+protected from overwork, for in their case , freedom of contract
+is but another word for freedom of coercion.'(111*) Women, he
+notes, are protected by the factory acts; but this is only
+excusable, if excusable at all, because, as things now are, women
+are slaves. If they were free, it would be tyrannical to limit
+their labour. The old political economy still suffices. Meanwhile
+the problem was coming up in other shapes. The Utilitarians have
+been active in procuring the repeal of the laws against
+combination. They had thought, indeed, that the workmen, once set
+free, would find combination needless, and would learn to act by
+means of individual competition. Trades-unionism, on the
+contrary, had developed, and was producing long and obstinate
+struggles with the capitalist. Were these struggles attempts to
+interfere with a 'natural' order? Were they wasteful modes of
+attempting to secure a share of the 'wage-fund' which would come
+to them in any case by the spontaneous play of the industrial
+machinery? Socialists were beginning to declare that instead of
+an identity there was a radical opposition of interests. The
+answer made by orthodox economists implies some wage-fund theory
+. They were never tired of declaring that all attempts to raise
+wages by combination were fallacious. The struggle was always
+costly, and, even if successful, could only benefit one section
+of workmen at the expense of others. What precise assumption
+might underlie this doctrine is another question not so easily
+answered. It is taken for granted that there is a definite fund,
+such that no struggling can wring more from the capitalist; and
+all the rugging and riving of labourers and unions can only
+succeed in one body getting a larger share out of the mouth of
+the others. Mill's final view seems to be given in his discussion
+of erroneous methods of government interference. Legislation
+against combinations to raise wages is most vigorously
+condemned.(112*) The desire to keep wages down shows 'the
+infernal spirit of the slave-master,' though the effort to raise
+them beyond a fixed limit is doomed to failure. We ought to
+rejoice if combination could really raise the rate of wages; and
+if all workmen could combine such a result might be possible. But
+even then they could not obtain higher wages than the rate fixed
+by 'supply and demand' -- the rate which distributes the 'whole
+circulating capital of the country among the labouring
+population.'(113*) Combinations are successful at times, but only
+for small bodies. The general rate of wages can be affected by
+nothing but the 'general requirements of the labouring people.'
+While these requirements (corresponding to the standard of
+living) remain constant, wages cannot long fall below or remain
+above the corresponding standard. The improvement, indeed, of
+even a small portion would be 'wholly a matter of satisfaction'
+if no general improvement could be expected. But as such
+improvement is now becoming possible, it is to be hoped that the
+better artisans will seek advantage in common with, or 'not to
+the exclusion of, their fellow labourers.' The trades-union
+movement, therefore, is taken to be equivalent to the formation
+of little monopolies through which particular classes of
+labourers benefit at the expense of others. Yet Mill is evidently
+anxious to make what concessions he can. Strikes, he thinks, have
+been the 'best teachers of the labouring classes' as to the
+'relation between labour and the demand and supply of labour.'
+They should not be condemned absolutely -- only when they are
+meant to raise wages above the 'demand and supply' limit; and,
+even then, he remembers that 'demand and supply' are not
+'physical agencies'; that combinations are required to help poor
+labourers to get their rights (the 'demand and supply' rate) from
+rich employers; and, that trades-unions tend to advance the time
+when labourers will regularly 'participate in the profits derived
+from their labour.' Finally, it is desirable, as he
+characteristically adds, that 'all economical experiments,
+voluntarily undertaken, should have the fullest licence.'
+    Mill, unlike his rigid predecessors, is anxious to make out
+as good a case as he can for trades-unions. His sympathies are
+with them, if only the logic can be coaxed into approval. To
+elevate the labouring class is the one worthy object of political
+action. Yet he is hampered by the inherited scheme. However
+modified, it always involves the assumption of a fixed sum to be
+distributed by 'supply and demand.' Limit the supply of labour,
+and you raise the price. No other plan will really go to the
+bottom of the problem. The rate of wages is fixed by 'supply and
+demand'; and the phrase seemed to imply that the rate of wages
+was fixed by a bargain, like the price of corn or cloth at a
+given time and place. Error, as Mill truly observes,(114*) is
+often caused by not 'looking directly at the realities of
+phenomena, but attending only to the outward mechanism of buying
+and selling.' Are we looking directly at realities when we take
+for granted that 'labour' is bought and sold like corn and
+cotton? Are we not coming in sight of more fundamental changes,
+questions of the structure as well as the functions of industrial
+organism, which cannot be so summarily settled? Thornton argues
+as though workmen secreted 'labour' as bees secrete honey, and
+the value of the product were fixed by the proportion between the
+quantity in the market and the quantity which purchasers are
+prepared to take at the price. He only tries to show that the
+price may still be indeterminate. The 'equation' between supply
+and demand of which Mill had spoken might be brought about at
+varying rates of exchange. The whole supply might conceivably be
+taken off either at a high or at a low price. We need not go
+behind the immediate motives which govern a set of buyers meeting
+a set of sellers at an auction. Mill accepts the same
+assumptions. It is quite true, he says, that in the case of wages
+various rates may satisfy the 'equation.' The whole labouring
+population may be forced to put up with starvation allowance or
+may be able to extort enough to raise their standard of life.
+This, he says, upsets the 'wage-fund' doctrine, hitherto taught
+by nearly all economists 'including myself.'(115*) Moreover, the
+employer has the advantage in the 'higgling,' owing to what Adam
+Smith had already called 'the tacit combination of
+employers.'(116*) This depressing influence can be resisted by a
+combination of the employed; and therefore the doctrine which
+declared the necessary incapacity of trades-unions to raise wages
+must be thrown aside. 
+    Mill has received, and fully deserves, high praise for his
+candour in this recantation. We must, however, regret the
+facility with which he abandoned a disagreeable doctrine without
+sufficiently considering the effects of his admission upon his
+whole scheme.(117*) To what, in fact, does the argument amount to
+which he thus yielded? He says that the capitalist starts with
+the 'whole of his accumulated means, all of which is potentially
+capital.' Out of this he pays both his labourers and his family
+expenses. No 'law of nature' makes it impossible for him to give
+to the labourer all 'beyond the necessaries of life', which he
+had previously spent upon himself. The only limit to possible
+expenditure on wages is that he must not be ruined or driven out
+of business.(118*)
+    This surely is obvious. No law of nature or of man forbids me
+from giving all that I have to my labourers, though I cannot give
+more than I have. If I have a balance at my bankers, I may pay my
+wage-bill by a cheque for any smaller sum, and live on the
+difference. Difficulties at once arise when we look at the
+'realities' of the phenomena and turn from 'money wages' to 'real
+wages.' It is easy for an individual to give what he pleases, but
+not so easy to make such a change in the whole concrete
+industrial machinery as to apply it all to the production of
+labourers' commodities. What, in any case, was precisely the
+economical dogma inconsistent with Mill's statement? According to
+him, it was the doctrine that, at any given time, there is a
+certain fund in existence which is 'unconditionally devoted' to
+the payment of wages. This was taken to 'be at any given moment a
+predetermined amount.' (119*) But how was it supposed to be
+predetermined? All events are predetermined by their causes, and
+to treat political economy as a possible science is to assume
+that wages, among other things, are somehow determinate. Mill
+means apparently to deny a determination by something in the
+nature of the capital itself. The capital might mean something
+which could not, even if everybody wished it, be applied in any
+other way. The circulating might bear to the fixed capital the
+same relation as wool, for example, to mutton. Save at all, and a
+certain part of your savings will be wages, as a certain part of
+the sheep will be wool. Unless you waste it, you will employ it
+on the only purpose for which it is adapted.
+    Such a 'predetermination' is of course a fiction. Was it ever
+taken for a fact? (120*) It was rather, I believe, an assumption
+which has slipped into their reasoning unawares. Starting from
+the old proposition that 'industry is limited by capital,' and
+remarking that some capital did not go directly to wages, they
+simply amended the proposition by saying that wages depended on
+'circulating' capital, and thought that the corrected formula
+would do as well as the old. Perhaps they assumed roughly that
+'circulating' must bear a fixed proportion to capital in general;
+or that, at any rate, the proportion was somehow determined by
+general causes. The doctrine thus understood tends to become a
+merely identical proposition: the 'wage-fund' means simply the
+wages, and the rate of wages is given by the total paid divided
+by the number of receivers. The economists continued to lecture
+the labourers upon the futility of their aims with the airs of
+professors exploding the absurdity of schemes for perpetual
+motion. It must, however, be observed that neither Mill nor his
+disciples held that the rate of wages was unalterable. They had
+the strongest belief that it could be raised, and raised through
+the agency of trades-unions. Mill's disciple, Fawcett, as
+Professor Taussig remarks,(121*) lays down the old wage-fund
+formula, and yet proceeds to argue about strikes raising wages
+without reference to this supposed impossibility. In an early
+article,(122*) highly praised by Mill, Fawcett discussed strikes.
+He appeals to the wage-fund doctrine throughout, and yet he
+approves of trades-unions, and only exhorts men to strike when
+trade is improving, instead of striking when it is falling off.
+It does not for a moment occur to him that 'supply and demand' or
+the wage-fund theory determine every particular case. Undoubtedly
+men, by combining and taking advantage of the 'conjuncture', may
+get the best of a bargain. Fawcett holds, indeed, that the
+immediate advantage will be temporary or limited to one trade.
+Still combination will, for the time, enable the men to get an
+earlier share of the improved profits. Then, he argues, and it is
+of this that Mill approves, that such a system, by interesting
+the men in business and letting them perceive the conditions of
+success, will lead to the consummation most ardently desired by
+Mill and himself; to a perception of an ultimate identity of
+interests and a final acceptance of some system of co-operation.
+Thus, by listening to Malthus and raising the standard of life,
+the artisan will himself become a capitalist or a sharer in
+profits.
+    The wage-fund doctrine, so understood, included a reference
+not to the immediate bargain alone but to a more remote series of
+consequences. The 'predetermination' refers to the whole set of
+industrial forces which work gradually and tentatively. The
+ablest defender of the wage-fund, understood in this sense, was
+J. E. Cairnes (1823-1875),(123*) who, like Thornton, was a
+personal friend of Mill; and, though an acute and independent
+thinker, was an admiring disciple. He met Mill's recantation by
+applying Mill's earlier faith. He does not believe in that
+'economic will-o'-the-wisp,' (124*) as Thornton calls it, the
+wage-fund, which supposes that in the bargain between men and
+masters there is a 'predetermined' amount which must be spent in
+wages. It is only predetermined, he says, in so far as all men
+act from certain motives which, under given circumstances, must
+bring about certain results. Thornton, he says, has talked as if
+'supply and demand' meant a power which forced men to act in a
+certain way, instead of being merely a general phrase indicating
+the normal operation of these motives. To determine the general
+rate of wages we have to look at the whole mechanism, not at the
+special bargain. To explain that action Cairnes starts again from
+the Ricardian scheme. On the one hand we have, of course,
+Malthus; and on the other, the relation between wages and
+profits, the effective desire of accumulation, the necessity of
+resorting to inferior soils, with the consequent 'tendency of
+profits to a minimum' (for the proof of which he refers to Mill
+himself), and the accepted statement that profits are already
+within a hand's-breadth of the minimum.(125*) Cairnes modifies
+the scheme in various ways, upon which I need not dwell: as by
+admitting , non-competing industrial groups,' and arguing that
+the amount of the fixed and circulating capital is more or less
+determined by the direction of the national industries. Such
+conditions, he argues, determine the permanent rate of gages,
+though for a time oscillations within comparatively narrow limits
+may of course take place. Mill, in his unregenerate days, had
+argued, as we have seen, that the whole 'wage-fund' must be
+distributed, without giving any precise reason for the necessity.
+He now held, with Thornton, that a 'conspiracy of employers ,
+might retain any part of it. Cairnes holds this conspiracy to be
+a fiction. It is not, as is often said, a question of rich men
+bargaining with poor men, but of rich men competing with each
+other. The competition of capitalists, as he holds, will always
+take place, not from any mysterious characteristic of
+'circulating capital,' but because, as things are, they are
+always on the look-out for profitable employment of their
+capital. That process keeps wages up as the competition of
+labourers keeps them down, and, though it may act slowly, will
+inevitably keep wages approximating to an average.(126*)
+    In this view Cairnes takes himself to be only expanding the
+doctrine which pervades Mill's whole treatise: in spite of the
+occasional obiter dicta about the wage-fund. He does not abandon
+-- he declares that nobody ever held -- the 'will-o'-the-wisp, --
+the absolute predetermination.(127*) Certainly a doctrine which
+struck so thorough a student as one of which he had never even
+heard, and which appeared to him to be palpably absurd, could
+hardly have had the prominence usually assigned to it. When it
+has disappeared, the real point at issue is changed. Cairnes
+maintains that Thornton, though denouncing the sham doctrine,
+still virtually holds the old doctrine. Thornton said (128*) that
+'unionism could not keep up the rate (of wages) in one trade
+without keeping it down in others.' And this, as Cairnes says,
+implies some sort of 'predetermination,' though not the absolute
+predetermination of the abandoned wage-fund. The main difference
+is that Cairnes holds that capitalists will always compete;
+whereas Thornton holds that they will ultimately combine and then
+be certain of victory.(129*)
+    This, I think, indicates the true underlying difficulty. The
+'natural' rate of wages, said the economists, is fixed by 'supply
+and demand.' 'Supply and demand' suggests the ordinary processes
+which level prices in the market. Thornton declares that 'labour'
+is bought and sold like corn or cotton. The analogy might be
+denied. Mr Frederic Harrison observed that 'labour' is not 'a
+thing' which can be bought and sold. Thornton treats this as a
+purely verbal distinction, and expects even his antagonist to
+admit that 'hiring' is simply a case of 'buying,' and therefore
+governed by the same laws.(130*) If so, we may apply formula
+derived from the case of the market. Then we tacitly introduce
+the ordinary economic assumptions. The proposition that wages are
+fixed by 'supply and demand' is taken to mean that the rate can
+be deduced from the simple process of bargaining. The whole
+theory of distribution can be worked out by considering the
+fluctuations of the labour market: the value of labour being
+fixed by the number of labourers, and the demand for capital
+being represented by the rate of profit. The doctrine, it may be
+admitted, is approximately true at a given time and place. It
+simply generalises the arguments used in every strike. Capital
+may be driven from a trade if wages be excessive; the influx or
+efflux of capital will raise or lower wages in a given district,
+and so forth. The facts may often be inaccurately stated by
+interested parties, but their relevance is undeniable. The forces
+of which Cairnes speaks, the competition of capitalists for
+profits, of labourers for gages, and their effect upon
+accumulation and population are undoubtedly the important
+factors. It was precisely because the economists recognised these
+obvious phenomena that they convinced themselves and persuaded
+others. They talked a great deal of undeniable common-sense. They
+could, again, fairly demand that some allowance should be made
+for 'friction' -- for the fact, that is, that competition and the
+various changes which it implies do not take place so rapidly and
+automatically as they assumed. They took, it is true,
+considerable liberties; they spoke as if capital could be changed
+by magic, and a thousand quarters of corn transformed into a
+steam-engine; or as if the population could instantaneously
+expand or contract in proportion to its means of support. They
+could forget at times that such phrases involve a kind of logical
+shorthand, and suppose a 'fluidity' of capital, a rapidity in the
+processes by which adaptations are carried out, which is unreal,
+and may cover important errors.
+    Still, with whatever allowances, we may accept the
+approximate truth of the assumptions, as describing the process
+by which immediate variations in wages are actually determined.
+The real difficulty comes at the next stage. Granting the
+approximate truth of the formulae at any given time and place,
+can they give us a general theory of 'distribution' -- formulae
+which can be applied to determine generally what share of the
+total produce will go to labourers and what to capitalists? That
+is, in other words, can the purely economic formula become also a
+'sociological' formula? Will it not only assign the conditions
+which govern the particular bargains, but enable us to determine
+the whole process by which the industrial mechanism is built up?
+That, as I take it, is the point at which the old economists
+broke down. Their doctrines, applicable and important within the
+appropriate sphere, become totally inadequate when they are
+supposed to give a complete theory of industrial development.
+    The unreality of the whole theory becomes obvious when we
+give it the wider interpretation. The excuse of 'friction'
+becomes insufficient. That may be applicable when the error is
+simply due to a permissible simplification of the data; not when
+the data are themselves wrongly stated. Ricardo, we have seen,
+had virtually made an assumption as to the social order. The
+labourers, we may say, are a structureless mass; a multitude of
+independent units, varying in numbers but otherwise of constant
+quality; the value of labour was thus dependent simply on the
+abundance or scarcity of the supply, and the labourers were
+assumed to be wholly dependent for support upon the capitalist.
+The formula applicable upon such a hypothesis might be correct so
+far as the data were correct. They would require a complete
+revision when we consider the actual and far more complex social
+state. Every difference of social structure will affect the play
+of competition; the degree in which population is stimulated or
+retarded; and the general efficiency of industry. A lowering of
+wages instead of producing an increase of profit and an
+accumulation of capital may lead to social degeneration, in which
+labour is less efficient and the whole organism is slack and
+demoralised. Conversely, rise of wages may lead to a more than
+corresponding increase of production. The effect, again, of
+accumulation of capital cannot be expressed simply by the
+increased demand for labour. That seems plausible only so long as
+capital is identified with money. It really implies an alteration
+of the industrial system and conditions under which the bargain
+is made. It may, again, be true that in any particular trade,
+capital will be attracted or repelled by fluctuations in the rate
+of profit; but it is by no means clear that we can infer that a
+general rise or fall of profit will have the same effect upon
+accumulation generally. For such reasons, as I take it, an
+investigation of the laws of distribution would require us to go
+beyond the abstractions about 'supply and demand,' however
+appropriate they may be to immediate oscillations or relatively
+superficial changes. No such short cut is possible to a real
+sociological result. 'To follow out all the causes or conditions
+involved would be,' as Professor Taussig says,(131*) 'to write a
+book not only on distribution but on social philosophy at large.'
+Mill, and especially Cairnes, were sensible of the need of taking
+a wider set of considerations. Still no satisfactory conclusion
+could be reached so long as it was virtually attempted to solve
+the problem by bringing it under the market formula, instead of
+admitting that the play of market is itself determined by the
+structure behind the market. You have really assumed an
+abnormally simple structure, and erroneously suppose that you
+have avoided the necessity of considering the structure at all.
+The wage-fund controversy brought out the inadequacy of the
+method. One result has perhaps been to encourage some writers to
+fall back into simple empiricism; to assume that because the
+supposed laws were not rightly stated there are no laws at all;
+that the justice of the peace can after all fix wages
+arbitrarily; and that political economy should shrink back to be
+'political arithmetic,' or a mere collection of statistics. The
+more desirable method, one must hope, would be to assign the
+proper sphere to the old method, and incorporate the sound
+elements in a wider system. 
+
+ VII. SOCIALISM
+
+    Meanwhile, the over-confidence of the economists only
+encouraged Socialists to revolt against the whole doctrine. It
+might be a true account of actual facts; but, if so, demonstrated
+that the existing social order was an abomination and a
+systematic exploitation of the poor by the rich. The 'iron
+necessity' was a necessity imposed by human law -- not, that is,
+a legitimate development of social order, but something imposed
+by force and fraud. In some directions Mill sympathised with such
+doctrines. He professed to be in some sense a 'Socialist,' though
+he was not acquainted with some of the works published during his
+lifetime. He makes no reference to Marx or Lassalle and other
+German writers. Possibly a study of their writings might have led
+to modifications of his teaching. To him the name suggested Owen,
+Fourier, St. Simon, or his friend Louis Blanc.(132*) Socialism,
+as understood by the early leaders, commended itself to Mill,
+because it proposed the formation of voluntary communities, like
+Fourier's Phalansteries or Owen's New Harmony. They are capable
+of being tried on a moderate scale, with no risk to any one but
+the triers.(133*) They involve simply social experiments which
+could only injure those who tried them. But a different view was
+showing itself. Cairnes, commenting upon his master's so-called
+Socialism, says that the name now implies the direct interference
+of the state for the instant realisation of 'ideal
+schemes.'(134*) He objects to this, and therefore, by
+anticipation, to 'state Socialism.' Here Mill's position is
+ambiguous. In the first place, while agreeing with the aims of
+the Socialists, he 'utterly dissents from the most conspicuous
+and vehement part of their teaching, their declamations against
+competition.'(135*) 'Where competition is not,' he adds,
+'monopoly is'; and monopoly means 'the taxation of the
+industrious for the support of indolence, if not of plunder.'
+Competition raises wages, if the supply of labourers is limited,
+and can never lower them, unless the supply is excessive. As
+Cobden is reported to have said, the real question is simply
+whether two masters are running after one man, or two men after
+one master. No one could speak more emphatically or forcibly upon
+this. point, nor does he seem to have ever abandoned it. Both
+Mill and his disciples saw the only solution in a different
+direction. Co-operation is their panacea; and they are never
+tired of appealing to the cases of its successful operation,
+beginning with M. Leclaire's experiment in France and the
+Rochdale pioneers in England. The pith of the doctrine was
+already given in the famous chapter (136*) upon 'the probable
+futurity of the labouring class' due to Mrs Mill's influence. His
+hope for them lay in cooperation, and later editions only
+differed from the first by recording new experiments. Cairnes
+deduces the same conclusion from his wage-fund. The labourer can
+only improve by ceasing to be a 'mere labourer'; profits must
+'re-inforce' the wage-fund; co-operation shows how this is to be
+done, and, constitutes the one and only solution of our present
+problem.'(137*) Thornton reaches the same conclusion,
+co-operation giving the only compromise which can end the
+internecine contest. He can only express his feelings in poetry,
+and his last chapter upon 'labour's Utopia' is written with
+creditable skill in the difficult terza rima. Fawcett fully
+shared this enthusiasm; and the reason is sufficiently obvious.
+Co-operation, in their sense, means simply the joint effort of
+independent individuals. Competition is assumed to remain in full
+force. All combinations, as Mill says of trades-unions, must be
+voluntary. That is an 'indispensable condition of tolerating
+them.'(138*) The member of a co-operative society is as free to
+join or to leave as the shareholder in any commercial company.
+The societies compete with each other and with capitalists at
+every point. 'Supply and demand' regulate every part of their
+transactions. The motive for joining is simply the desire of each
+member to invest his savings, and therefore the vis medicatrix is
+duly stimulated. Each man can thrive better by working in
+concert; but he resigns none of his rights as an individual. He
+has not enlisted in an army bound by discipline, but has joined
+in a voluntary expedition.
+    So far we have what seems to be the logical and consistent
+result of the individualist view. But Mill, though he remains an
+'individualist' philosophically, is also led to conclusions very
+far from the ordinary individualist theory. The last part of his
+treatise is devoted to a discussion of the limits of government
+interference. He urges energetically that there should be some
+space in human 'existence entrenched round and sacred from
+authoritative intrusion,'(139*) a doctrine inherited from his
+teachers and eloquently expanded in his Liberty. It marks the
+point of transition from his economic to his ethical and
+political teaching. After repeating the ordinary arguments
+against excessive interference by way of protection, usury laws
+and the like, he states as a general principle that the burden of
+proof is on the advocates of interference, and that 'letting
+alone should be the general practice.'(140*) All coercion, as
+Bentham had said, is an evil, but, in certain cases, it is the
+least possible evil; and Mill, as becomes an empiricist,
+declining to lay down an absolute rule, only asks what are the
+particular cases in which the evil is over-balanced by the good
+of interference. But, here, if we consider the list of
+exceptions, we must admit that the general principle is
+remarkably flexible. Some cases have been already noticed. Mill
+not only allowed but strongly advocated a national system of
+education.(141*) He approved a great national scheme of
+emigration (142*) and a scheme for home colonisation, and this
+expressly with a view to lifting the poor, not gradually but
+immediately into a higher level of comfort. He held that laws in
+restraint of imprudent marriage were not wrong in principle,
+though they might be inexpedient under many or most
+circumstances. He approved of measures tending to equalisation of
+wealth. He proposed that the right of bequest should be limited
+by forbidding any one to acquire more than a certain sum, and so
+counteracting the tendency to the accumulation of large
+fortunes.(143*) He held that government should take measures for
+alleviating the sufferings of labourers displaced by new
+inventions or the excessive change of 'circulating', into 'fixed
+capital.'(144*) He not only approved of measures for forming a
+peasant-proprietary, but, in his last years, became president of
+an association for altering the whole system of land tenure. He
+thought that government should retain a property in canals and
+railways, though the working should be leased to private
+companies. He approved, as I have said, of the poor-law in its
+new form. The factory legislation alone was still uncongenial to
+his principles, though on moral grounds he accept the protection
+of children. Even in this direction he incidentally makes a
+remarkable concession. A point to which political economists had
+not, he thinks, sufficiently attended is illustrated by the case
+of the 'Nine Hours Bill.'(145*) Assuming, though only for the
+sake of argument, that a reduction of labour hours from ten to
+nine would be to the advantage of the workmen, should the law, he
+asks, interfere to enforce reduction? The do-nothing party would
+reply, No; because if beneficial, the workmen would adopt the
+rule spontaneously. This answer, says Mill, is inconclusive. The
+interest of the individual would be opposed to the interest of
+the 'class collectively.' Competition might enforce the longer
+hours; and thus classes may need the assistance of the law, to
+give effect to their deliberate collective opinion of their own
+interest.' Here again Mill seems to be admitting as an
+'exception' a principle which goes much further than he observed.
+He is mainly interested by the ethical problem, Is it ever right
+to force a man to act against his own wishes in a matter
+primarily concerning himself alone? He concludes that it may be
+right, because each man may wish for a rule on condition that
+every one else obeys it. In that case, the law only gives effect
+to the universal desire. But the argument really involves an
+exception to the beneficent action of competition. The case is
+one in which, upon his assumptions, free competition of
+individuals may lead to degeneration instead of a better
+development. In such cases, it is possible that association,
+enforced by law, may lead to benefits unattainable by the
+independent units. This admission would go far in the Socialist
+direction. It would justify the principle of 'collective
+bargaining' to sanction the collective interests. In the same way
+his justification of the factory acts in the case of children
+leads beyond the moral to economic grounds. Mill's view, so far
+as he goes, would fall in with the opinion that there was here a
+necessary conflict between Christian morality and political
+economy; or the admission that economic loss must be incurred for
+moral considerations. But, in the long run, the two views
+coincide; for practices which stint and degrade the breed must be
+ultimately fatal to economic efficiency. As was often said at the
+time, to forbid interference for economic reasons was to suppose
+that the country could only flourish by treating children as it
+might conceivably be necessary to treat them under stress of some
+deadly and imminent peril. When economists looked beyond the
+instantaneous advantage of the market, and remembered that
+children were made of flesh and blood, it was obvious that on the
+purest economic grounds, a system which implied the degradation
+of the labourer must be in the end pernicious to every interest.
+In this case, therefore, the interference of the law was
+desirable from the economic as well as from the moral point of
+view.
+    Nobody, of course, would have admitted this more cordially
+than Mill, and the admission would imply that we must here look
+beyond mere , supply and demand , or individual competition. When
+we sum up these admissions, it appears that Mill was well on the
+way to state Socialism. Lange, the historian of materialism,
+praises him warmly upon this ground.(146*) Lange is enthusiastic
+about Mill's Liberty, as well as about his Political Economy. He
+praises the Economy on the ground that Mill's great aim is to
+humanise the science; and, especially, that in the various
+proposals which I have noticed Mill desires an active
+interference of government towards raising the moral level of
+society. Mill, in short, would have sympathised, had he come to
+know it, with the Socialism of the Chair, which was beginning at
+the time of his death to make a mark in Germany. Lange's
+appreciation was, I think, in great part correct; and suggests
+the question, How or how far was Mill consistent? Could a system
+essentially based upon Malthus and Ricardo be reconciled with
+modern Socialism?
+    Mill once more was an individualist in the philosophical
+sense. He assumes society to be formed of a number of independent
+units, bound together by laws enforced by 'sanctions.' The
+fundamental laws should be just; and justice presupposes
+equality; equality, at at least in this sense, that the position
+of each unit should depend upon his own qualities, and not upon
+mere outward accidents. In his articles upon Socialism Mill
+declared most emphatically that in the present state of society
+any idea of such justice was 'manifestly chimerical';(147*) and
+that the main conditions of success were first birth, and
+secondly accident. In his first edition his discussion of
+Socialism ends by justifying 'private property.' The best scheme
+is that which lets every man's share of the produce depend on his
+own exertions. He complains, however, that the principle has
+'never yet had a fair trial in any country.' Inequalities have
+been created and aggravated by the law.(148*) This passage
+disappeared when he rewrote his views of Socialism. From the
+first, however, he asserts a principle for which he gives the
+chief credit to his wife.(149*) Laws of production, he says, are
+'real laws of nature'; methods of distribution depend on the
+human will, or, as he says in the Political Economy, 'the
+distribution of wealth depends on the laws and customs of
+society.'(150*) Can the laws secure a just distribution?
+    Here, then, is a critical problem. As a Utilitarian he would
+reply that government should make fair rules for the general
+relations of individuals, and trust to the best man winning in an
+open competition. Mill's point of difference from the Socialists
+was precisely that he believed in competition to the last, and
+was so far a thorough 'individualist.' Yet, as a matter of fact,
+vast inequalities of wealth and power had developed, and exiled
+justice from the world -- if, indeed, justice had ever existed
+there. So far as this could be attributed to laws, unjust because
+made by force and fraud, the remedy might lie in reforming the
+laws. That case was exemplified by land. 'Landed property', he
+says, in Europe, derives 'its origin from force.'(151*) English
+land laws were first designed 'to prop up a ruling class.'(152*)
+By force, in fact, the landowners had secured the best places at
+Malthus's feast, and were enabled to benefit by, without
+contributing to, the growth of the national wealth. Rent, says
+Cairnes, is 'a fund ever growing, even while its proprietors
+sleep.'(153*) Mill, of course, admitted that part of rent is due
+to the application of capital; and he does not propose to
+confiscate the wealth of the actual proprietors who had acquired
+their rights fairly under the existing system. But he is
+convinced that land differs radically from movable property.
+Capital diminishes in value, as society advances; 'land alone...
+has the privilege of steadily rising in value from natural
+causes.' (154*) Hence we have the famous proposal of taking the
+'unearned increment.'(155*) If the landowner was dissatisfied, he
+should be paid the selling price of the day. A good many
+landlords may regret that they had not this offer at the time
+that it was proposed (1873). Thus land was to be nationalised;
+the state was to become the national landlord, as in India,(156*)
+and at any rate nothing was to be done by which more land could
+get into private hands. He seems, indeed, still to believe in a
+peasant-proprietary,(157*) but does not ask how far the doctrine
+is compatible with nationalisation.
+    If, then, the forcible acquisition of land by its first
+owners be still a taint upon the existing title, is property in
+other wealth altogether just? Mill admits in his discussion of
+Thornton's book that something is to be said against capitalists.
+'Movable property,' indeed, has, on the whole, a purer 'origin
+than landed property.' It represents industry , not simply force.
+There has, indeed, been a good deal of fraud, and many practices
+at which 'a person of delicate conscience' might scruple.(158*)
+This is a gentle adumbration of the view of some recent
+Socialists. Is not capital, they would say, precisely the product
+of fraud, and stained through and through by cheating? If Mill
+was far from the doctrine of Marx, and did not hold that capital
+was a mere name for the process of exploitation, he admitted at
+least that there was no such thing as justice in the actual
+industrial order. Wealth clearly represents something very
+different from a reward given in proportion to industry. In the
+first place, it is inherited, and Mill, as I have said, proposed
+therefore to limit inheritances; and, in the next place, nobody
+can suppose that a poor man who grows rich, even by purely
+honourable means, gets a prize proportioned to his virtue or to
+his utility; while, finally, the poor man certainly does not
+start on equal terms with his richer rival. He that hath not may
+not lose that which he hath; but he has small chances of climbing
+the ladder, and if he climbs, his success means devotion to his
+private interest.(159*) Mill's abandonment of the wage-fund,
+again, involved the acceptance of the 'tacit conspiracy.' The
+poverty of the mass is not due to a 'law of nature'; and
+therefore it is due, partly at least, to the combination of
+capitalists, which enables them to bring their power to bear in
+keeping down the rate of wages to an indefinite extent.
+    The social injustice against which he protests exists under a
+system in which the laws are substantially equal. They no longer
+recognise class distinctions explicitly; they have ceased to
+forbid combinations or to fix the rate of wages; the paternal
+theory of government is gone, as he says, for ever, and the old
+relation of protector and protected supplanted by a system of
+equality before the law.(160*) And yet monstrous inequalities and
+therefore injustices remain. What is the inference? Here we have
+the real inconsistency or, at least, failure to reconcile
+completely two diverging principles. Mill and all his disciples
+place their hopes in 'co-operation.' Co-operation can, they
+think, be reconciled with the 'liberty' which they regarded both
+as desirable in itself and as equivalent to the absence of law.
+Co-operation, on this showing, implies first absolute freedom to
+join or to leave the co-operative body. The individual joins with
+other individuals, but does not sacrifice his individuality. The
+relation is still, so to speak, 'external,' and the various
+associations compete with each other as fully and unreservedly as
+the component individuals. And yet there is an obvious
+difficulty. Co-operation must involve a loss of 'liberty,' though
+the loss may be compensated. If I co-operate, I undertake
+obligations, enforcible by law, though not originally imposed by
+law. Mill throws out the conjecture that the choice between
+Socialism and individualism will 'depend mainly on one
+consideration, viz., which of the two systems is consistent with
+the greatest amount of human liberty and spontaneity.' (161*) Now
+all association limits action in fact. When great companies take
+up an industrial function of any kind, they put a stress upon the
+individual, not necessarily the less forcible because not legally
+imposed. A great railway, for example, soon destroys other
+private enterprises, and makes itself practically necessary. It
+is equally governed by a body in which most individual
+shareholders exercise as little influence as though they were
+appointed by the state. As the industrial machinery, human or
+material, is developed, it becomes as much a part of social order
+as if it were created by the legislature. The point upon which
+Mill insists, that all associations must be 'voluntary,' then
+becomes insignificant. I may be legally at liberty to stand
+aside; but, in fact, they become imperative conditions of life.
+That is to say, that the distinction drawn by the old
+individualism between the state institutions and those created by
+private action ceases to have the old significance. When a
+society once develops an elaborate and complex structure, it
+becomes almost pedantic to draw a profound distinction between a
+system which is practically indispensable and one which is
+legally imperative.
+    I will not inquire further whether Mill's position could be
+made logically coherent. One thing is pretty clear. If his views
+had been actually adopted; if the state educated, nationalised
+the land, supported the poor, restrained marriage, regulated
+labour where individual competition failed, and used its power to
+equalise wealth, it would very soon adopt state Socialism, and
+lose sight of Mill's reservations. Mill, as I believe, had been
+quite right when he insisted on the vast importance of
+stimulating the sense of individual responsibility. That is, and
+must always be, one essential moment of the argument. His
+misfortune was, that having absorbed an absolute system in his
+youth, and accepting its claims to scientific validity, he was
+unable when he saw its defects to see the true line (if any one
+yet sees the true line) of conciliation. His doctrine, therefore,
+contained fragments of opposite and inconsistent dogmas. While
+fancying that he was developing the individualist theories, he
+adopted not only Socialism, but even a version of Socialism open
+to the objections on which he sometimes forcibly insisted. Mill
+and the Socialist are both individualists; only the Socialist
+makes right precede fact, and Mill would make fact precede right.
+Every individual, says the Socialist, has a right to support; the
+consequences of granting the right must be left to Providence.
+This, says Mill following Malthus, would be fatal, because the
+individual would have no motive to support himself. He must only
+have such a right as implies personal responsibility. But then,
+as facts also show, many individuals may be unable to support
+themselves even if they wish it, and their responsibility becomes
+a mockery. If we enforce duties on all, must we not make the duty
+possible? Must not every one be so trained and so placed that
+work will be sure of reward? There is the problem, which he sees
+and feels, though his answer seems to imply a doubtful shifting
+between antagonistic theories. 
+
+ VIII. LOGICAL METHOD
+
+    I must glance finally at the relation of Mill's method to his
+general principles. In an early essay (162*) he declares that the
+method must be 'a priori,' that is, as he explains, 'reasoning
+from an assumed hypothesis.'(163*) In the Logic it is treated as
+a case of the 'direct deductive method.' This involves an
+important point in his system. He had derived from Comte, as he
+tells us,(164*) only one 'leading conception' of a purely logical
+kind, the conception, namely, of the 'historical' or 'inverse
+deductive method.' This method, implied in Comte's sociology,
+starts, as Mill says, from the 'collation of specific
+experience.' Now Mill agrees that this 'historical' method was
+appropriate to sociology in general. He agrees, too, with Comte
+that it was not the method used by economists. But, whereas Comte
+had inferred that political economy must for that reason be a
+sham science,(165*) Mill holds that economists were justified in
+using a different method. Comte, he thought, had failed to see
+that in certain cases the method of 'direct deduction' was
+applicable to sociological inquiry. One such case, though he will
+not undertake to decide what other instances there may be, is
+political economy.(166*) He decides that the difficulties,
+regarded by Comte as insuperable, may be overcome. His early
+account is still valid; and he therefore explicitly rejects the
+'historical' method.
+    I confess that the use of these technical phrases appears to
+me to be rather magniloquent, and to lead to some confusion.
+Setting them aside, Mill's view may be briefly stated. He argues,
+in the first place, that we cannot apply the ordinary method of
+experiment to economic problems. To settle by experience whether
+protection was good or bad, we should have to find two nations
+agreeing in everything except their tariffs; and that, of course,
+if not impossible, is exceedingly difficult.(167*) It follows
+that if there be a true science of political economy, it must
+have a different method. We might indeed adopt Comte's answer:
+'There is no such science'; a view for which there is much to be
+said. Mill, however, being confident that the science existed had
+to justify its methods. Political economy, he says, considers man
+solely as a wealth-desiring being; it predicts the 'phenomena of
+the social state' which take place in consequence; and makes
+abstraction of every other motive except the laziness or the
+desire of present enjoyment which 'antagonise' the desire of
+wealth. Hence it deduces various laws, though, as a fact, there
+is scarcely any action of a man's life in which other desires are
+not operative. Political economy still holds true wherever the
+desire of wealth is the main end. 'Other cases may be regarded as
+affected by disturbing causes' -- comparable, of course, to the
+inevitable 'friction' -- and it is only on account of them that
+we have an 'element of uncertainty' in political economy.
+Otherwise it is a demonstrable science, presupposing an
+'arbitrary definition' of a man as geometry presupposes an
+'arbitrary definition 'of a straight line.'(168*)
+    The relation of this doctrine to Mill's general views on
+logic is clear, but suggests some obvious criticisms. 'Desire for
+wealth,' for example, is not a simple but a highly complex
+desire, involving in different ways every human passion.(169*) To
+argue from it, as though its definition were as unequivocal as
+that of a straight line, is at least audacious. Mill, no doubt,
+means to express an undeniable truth. Industry, in general,
+implies desire for wealth, and the whole mechanism supposes that
+men prefer a guinea to a pound. The fact is clear enough, and if
+proof be required can be proved by observation. We must again
+admit that whatever psychological theorem is implied in the fact
+must be assumed as true. But it does not follow that because we
+assume the 'desire for wealth' we can deduce the phenomena from
+that assumption. That inference would confound different things.
+If we were accounting for the actions of an individual, we might
+adopt the method. In some actions a man is guided by love of
+money, and in others by love of his neighbour. We may 'deduce'
+his action in his counting-house from his love of money, and
+consider an occasional fit of benevolence as a mere 'disturbing
+cause' to be neglected in general or treated as mere 'friction.'
+A similar principle might be applied to political economy if we
+could regard it as the theory of particular classes of actions.
+But we have to consider other circumstances to reach any general
+and tenable theory. We have to consider the whole social
+structure, the existence of a market and all that it implies, and
+the division of society into classes and their complex relations:
+the distribution of functions among them and the creation of the
+settled order which alone makes commerce possible. We cannot
+argue to the action without understanding the structure of which
+the agent is a constituent part, and which determines all the
+details of his action. The building up of society implies the
+influence not of any single desire, but of all the desires, modes
+of thought, and affections of human beings. If, therefore, a
+comprehension of existing institutions be necessary to political
+economy, the deductive method is clearly unequal to the task
+which he, partly following Comte, regards as implied in
+'sociology' generally. To deduce, not the social structure at
+large, but any social organ, from such an abstraction is
+hopeless, because every organ is affected through and through by
+its dependence upon other organs. Mill virtually supposes that
+because the particular function can be understood by abstracting
+from accidental influences, the organ of which it is a function
+can be understood by abstracting from its essential relations to
+the organism.
+    Here, in fact, is the error which I take to be implied in
+Mill's individualism. Given the social structure as it is, you
+may fairly make some such abstraction as the postulates. You may
+consider large classes of actions, exchange of wealth, and all
+the normal play of commercial forces, as corresponding to the
+rather vague 'desire for wealth,' and ask how an individual or a
+number of individuals will act when under the influence of that
+dominant motive. That is legitimate, and applies to what is
+called 'pure political economy' -- the relatively superficial
+study of the actual working of the machinery without considering
+how the machinery came to have its actual structure. But directly
+you get beyond this, to problems involving organic change, you
+get to 'sociology,' and can only proceed -- if progress be
+possible -- by the 'historical method,' or, in other words, by
+studying the growth of the institutions of which we form a part,
+and of which we may be considered as the product. This again
+means that the general conception of the Utilitarians, which
+recognises nothing but the individual as an ultimate unit, though
+capable of combining and grouping in various ways, omits one
+essential element in the problem. It regards all social
+structures as on the same plane, temporary and indefinitely
+alterable arrangements; and involves a neglect of the historical
+or general point of view which is essential not only to an
+understanding of society, but also of the individuals whose whole
+nature and character is moulded by it. I have tried to show the
+results upon the legal and political conceptions of Mill's
+teachers. We now see how the conception of political economy as a
+'deductive' or a priori science naturally misled the school. When
+they mistook their rough generalisations for definitive science,
+they brought discredit upon the theory, and played into the hands
+of their enemies, the sentimentalists, who, finding that the
+science was not infallible, resolved to trust to instincts and
+defy 'laws of nature' in general. Read as common-sense
+considerations upon social questions, the writings of Mill and
+his followers were generally to the point and often conclusive.
+When read as scientific statements, they fail from their obvious
+inadequacy and the vague terminology which takes the airs of
+clearly defined conceptions. Yet it is impossible to conclude
+without noticing two admirable characteristics of Mill and his
+disciples. The first is the deep and thorough conviction that the
+elevation of the poorer classes is the main end of all social
+inquiries. The second and the rarer is the resolution to speak
+the plain truth, and to denounce all sophists who, professing the
+same end, would reach it by illusory means. Mill's sympathies
+never blinded him to the duty of telling the whole truth as he
+saw it. 
+
+NOTES:
+
+1. Mill's Political Economy reached a sixth edition in 1865. A
+popular edition was first reprinted in 1865 from the sixth
+edition. I quote from the popular edition of 1883 by chapter and
+section. This is applicable, with very slight exception, to all
+editions. The 'table of contents' is almost identical from the
+first to the last edition. Some sections were expanded by adding
+later information as to land-tenures and co-operation. The early
+chapter upon Ireland was altered on account of changes, which
+Mill thought, made it no longer appropriate. An addition was made
+to the chapter on "International Values"; and book ii, chap. i
+was rewritten in order to give a more favourable estimate of
+Socialism. On the whole, the changes were remarkably small.
+
+2. See Unsettled Questions (1877) p. 1.
+
+3. Political Economy, p. 265 (bk. iii. ch. i. section 1).
+
+4. Ibid. p. 270 (bk. iii. ch. ii. section 3).
+
+5. Logical Method of Political Economy (1875), p. 4.
+
+6. See Morley's Life of Cobden (1881), ii. 249.
+
+7. Prentice's Anti-Corn Law League, i. 77, 378.
+
+8. Cobden's famous debate with Feargus O'Connor, the Chartist
+leader, took place on 5th August 1844. Cobden's victory is
+admitted even by the Chartist historian, who regards it as a
+proof of O'Connor's incapacity -- R.C. Gammage's Chartist
+Movement (1894), p. 254. Prentice has much to say of the
+perverseness of the Chartist leaders.
+
+9. Hodder's Shaftesbury, p. 341. This was in 1841. Shaftesbury
+afterwards accepted free trade.
+
+10. See, e.g., Cobden's Political Speeches, i., 119, 197.
+
+11. Reprinted in 1884.
+
+12. Report of 1834, p. 73.
+
+13. Report of 1834, p. 169.
+
+14. Report, p. 167.
+
+15. Autobiography, p. 193.
+
+16. Gammage's Chartist Movement, p. 54.
+
+17. Alfred's Factory Movement, pp. 70-78. Alfred is a pseudonym
+for Samuel Kydd.
+
+18. Archbishop Whately is said to have thanked God that he had
+never give a penny to a beggar. The view suggests some confusion
+between the Political Economy Club and the Christian Church. In
+Newman's Idea of a University (1875, p. 88, etc.) there is an
+interesting passage upon the contrast between Christianity and
+the doctrine of the first professor of Political Economy at
+Oxford (Senior), that the accumulation of wealth was 'the
+greatest source of moral improvement.' The contrast was
+undeniable.
+
+19. Miss Martineau attributes the apostasy of the Times to the
+desire of the proprietors to please the country justices. See
+History of the Peace (1877), ii. 508.
+
+20. Alfred's Factory Movement, i, 138, 141.
+
+21. See his life in Dictionary of National Biography.
+
+22. Hodde's Shaftesbury, i. 161, 339.
+
+23. Alfred's Factory Movement, i. 258.
+
+24. Alfred's Factory Movement, i. 229.
+
+25. Ibid. ii. 251.
+
+26. See Westminster Review for April and October 1833; Edinburgh
+Review for July 1835 and January 1844; Blackwood's Magazine for
+April 1833; Fraser's Magazine for April 1833; and the Quarterly
+Review for December 1836.
+
+27. Hanzard, lxxiv. 911.
+
+28. The passage was quoted in full by Milner-Gibson, 15th March
+1844.
+
+29. Macaulay's speech, 22nd May 1846 (in Miscellaneous Works,
+1870, pp. 207-17), arguing that the moral question cannot be
+answered by pure economists, and defending the Ten Hours' Bill,
+is worth notice.
+
+30. See Alfred's Factory Movement, i, 2.
+
+31. See Cobden's letter at the end of the first volume of Mr
+Morley's Life.
+
+32. Holder's Shaftesbury, i, 300, 325.
+
+33. History of Trades-Unionism (1894). See especially chaps. iii
+and iv (from 1829 to 1860).
+
+34. For the view of the economists, especially Nassau Senior, and
+of a Whig government 'pledged to the doctrines of philosophical
+Radicalism', see Mr and Mrs Sidney Webb's Trades-Unionism, pp.
+123, etc., and the same writers' Industrial Democracy, p. 249.
+
+35. Sadler's Law of Population, 2 vols. 8vo, appeared in 1830,
+and was reviewed in the Edinburgh for July by Macaulay, who in
+the number for January 1831 published a 'refutation' of Sadler's
+'refutation.' The articles were first collected in Macaulay's
+Miscellaneous Works.
+
+36. Principles of Population and their Connection with Human
+Happiness, 2. vols. 8vo, 1840.
+
+37. The True Law of Population shown to be connected with the
+Good of the People, 1 vol. 8vo, 1841 (second edition, 1847). G.
+Poulette Scrope (1797-1876), better known as a geologist than an
+economist, declares in his Political Economy (1833) that if every
+nation were to be freed from all checks and 'to start off
+breeding at the fastest possible rate,' very many generations
+would pass 'before any necessary pressure could be felt.' (p.
+276) The doctrine that there is an 'iron necessity' for resorting
+to inferior soils is in contradiction to 'every known fact.' (p.
+266) Scrope was a sentimentalist who starts from the 'natural
+rights' of man to freedom, the 'bounties of creation,'
+'property,' and 'good government.' Given these 'simple and
+obvious principles, 'everything will go right.
+
+38. Miscellaneous Works, p. 193.
+
+39. Sadler's Population, ii, p. 387.
+
+40. Political Economy, bk. i, ch. x, section 3 n. W.T. Thornton,
+in his Over Population (p. 121), though a professed disciple of
+Malthus, agrees with Doubleday. Mr Herbert Spencer criticises
+Doubleday in his Biology, chap. xii, (section 366 n.) in course
+of an elaborate discussion of the general question of fertility.
+
+41. Bk. i, ch. x.
+
+42. Political Economy, p. 212 (bk. ii, ch. xi, section 3).
+
+43. One of Mill's rare quotations. See Shakespeare's Julius
+Caesar, act iv, sc. iii.
+
+44. Political Economy, p. 452, (bk. iv, ch. vi, section 1).
+
+45. Ibid. p. 118 (bk, i, ch. xiii, section 2).
+
+46. Political Economy, p. 99 (bk. i, ch. x, section 3).
+
+47. See Mill's reference to Wordsworth, Political Economy, p. 155
+(bk. ii, ch. vi, section 1 n).
+
+48. See, e.g., his note to the Wealth of Nations, p. 565 seq.
+
+49. As quoted by W.T. Thornton, Plea for Peasant Proprietors
+(1874), p. 133.
+
+50. Jones's Essay on the Distribution of Wealth and on the
+Sources of Taxation: Book 1, Rent, appeared in 1831. Though
+constantly pressed by his intimate friend, Whewell, to complete
+the book, Jones never found the time for the purpose. In 1859,
+Whewell published Jones's Literary Remains -- chiefly notes for
+lectures -- with a life.
+
+51. Rent, pp. 68, 146. Whewell in his preface to Jones's Remains
+(p. xvii) seems to charge Mill with approprating Jones's
+classification without due recognition of the merits. Mill used
+the book freely, and calls it a 'copious repertory of valuable
+facts' (Political Economy, bk. ii, ch. v, section 4). If he did
+not speak more strongly of the merits of Jones's classification
+(into 'labour', 'métayer,' 'ryot,' and 'cottier' rents) it was
+probably because he thought Jones responsible for a fatal
+confusion between 'cottiers' and 'peasant-proprietors'. In the
+Rent this distinction is ignored. In the Remains, which Mill had
+not seen, Jones speaks (pp. 208, 217, 438, 522, 537) of the
+'peasant-proprietors' as an interesting class, but pronounces no
+definite judgment upon the system.
+
+52. Political Economy, p. 230 (bk. ii. ch. xiii, section 3).
+
+53. Bain speaks of Thornton as one of the friends who, like
+Sterling, maintained a close intimacy with Mill in spite of
+differences of opinion. These differences certainly did not
+prevent Thornton from speaking and writing of Mill in the tone of
+an ardent and reverential admirer. As little has been told of
+Thornton's private life, I will venture to say that, as a young
+man, I used often to see him, when he visited Fawcett and
+Fawcett's great friend, Mr C.B. Clarke, at Cambridge. Thornton's
+extreme amiability, his placid and candid, if slightly
+long-winded, discussion of his favourite topics, won the
+affection of his young hearers, and has left a charming
+impression upon the survivors.
+
+54. Over Population, p. 268.
+
+55. Ibid. p. 121.
+
+56. Political Economy (bl. ii. ch. xii. section 4).
+
+57. Plea for Peasant Proprietors (1874) p. 261 n.
+
+58. Political Economy, p. 223 (bk. ii. ch. vi. section 6).
+
+59. Political Economy, pp. 168, 171, 182 (bk. ii. ch. vi. section
+67; vii. sections 1, 5).
+
+60. Peasant Proprietors (1874), p. 159, referring to Lavergne's
+Economic Rurale (1860).
+
+61. Political Economy, p. 177 (bk. ii. ch. vii. section 4).
+
+62. Political Economy, p. 182 (bk. ii. ch. vii. section 5).
+
+63. Ibid. p. 460 (bk. iv. ch. vii. section 4).
+
+64. Political Economy, p. 217 (bk. ii. ch. xi. section 6).
+
+65. Ibid. p. 225 (bk. ii. ch. xii. section 4).
+
+66. Ibid. p. 211 (bk. ii. ch. xi. section 3).
+
+67. Ibid. p. 230, etc. (bk. ii. ch. xiii. section 31, 34). Mill,
+in the later editions, observes that he has left this as it was
+written, although the rapid increase of means of communication
+has made the case 'no longer urgent.'
+
+68. Political Economy, p. 221 (bk. ii. ch. xii. section 2).
+
+69. Ibid. p. 230 (bk. ii. ch. xiii. section 3).
+
+70. Ibid. p. 232 (bk. ii. ch. xiii. section 4).
+
+71. Ibid. p. 225 (bk. ii. ch. xiii. section 1).
+
+72. Ibid. p. 213 (bk. ii. ch. xi. section 4).
+
+73. Political Economy, p. 229 (bk. ii. ch. xiii. section 2).
+
+74. Political Economy, p. 213 (bk. ii. ch. xi. section 4).
+
+75. Ibid. pp. 213, 216 (bk. ii. ch. xi. sections 3, 5).
+
+76. Quoted from the report of the Poor-law Commission in 1840. --
+Political Economy (bk. i. ch. vii. section 5).
+
+77. Political Economy, p. 68 (bk. i. ch. vii. section 5).
+
+78. Ibid. p. 460 (bk. iv. ch. vii. section 4), where he speaks of
+the total want of fairness and justice on both sides.
+
+79. Political Economy, p. 252 (bk. ii. ch. xv. section 6).
+
+80. Political Economy, p. 209 (bk. ii. ch. xi. section 2).
+
+81. Ibid. p. 418 (bk. iii. ch. xxvi. section 3).
+
+82. Ibid. p. 253 (bk. ii. ch. xv. section 7).
+
+83. Ibid. bk. i. ch. vii.
+
+84. Ibid. p. 254 (bk. ii. ch. xv. section 7).
+
+85. Ibid. bk. iv. ch. iv. Cf. Unsettled Questions, pp. 105-6. The
+article by Ellis, on the effect of improvements in machinery
+(Westminister Review for January 1826), though rather awkwardly
+stated, with the old capitalist and his quarters of corn
+illustration, puts the point clearly.
+
+86. Political Economy, p. 102 (bk. i. ch. xi. section 2).
+
+87. Ibid. p. 103 (bk. i. ch. xi. section 3).
+
+88. Political Economy, p. 443 (bk. iv. ch. iv. section 4).
+
+89. Ibid. bk. iv. ch. vi.
+
+90. Ibid, p. 453 (bk. iv. ch. vi. section 2).
+
+91. Political Economy (1862), ii. 323. In the later editions this
+passage is replaced by a reference to the civil war, which showed
+that the struggle for wealth is not necessarily fatal to the
+'heroic virtues.'
+
+92. Political Economy, bk. iv. ch. i.
+
+93. Ibid. bk. iv. ch. iii.
+
+94. Ibid. p. 439 (bk. iv. ch. iii. section 5).
+
+95. Political Economy, p. 436 (bk. iv. ch. iii. section 4).
+
+96. Ibid. p. 207 (bk. ii. ch. x. section 1).
+
+97. Thornton's On Labour; its Wrongful Claims and Rightful
+Demands. Another work generally mentioned in regard to this
+controversy is Longe, Refutation of the Wages-Fund Theory (1866).
+
+98. Professor Taussig, Wages and Capital (1896), p. 23. Professor
+Taussig gives a very thorough and candid discussion of the
+question, to which I am glad to refer. To follow the many
+controversies which he notices would take me into technicalities
+beyond the purpose of this book, and, I fear, beyond my
+competence.
+
+99. Cairnes's Leading Principles, etc. p. 214.
+
+100. Wealth of Nations (M'Culloch), p. 38. Ricardo (Works, p. 59)
+and Senior (Political Economy, p. 153) call it the 'fund for the
+maintenance of labour'.
+
+101. Political Economy, p. 39 (bk. i. ch. v. section 1).
+
+102. Wealth of Nations (M'Culloch), p. 31. I do not consider what
+was Adam Smith's general doctrine.
+
+103. This is the gist of Ellis's article (see above, p. 200 n.).
+
+104. Mill scandalised the staunch free-traders by admitting an
+exception to the doctrine in the case of new countries
+'naturalising a foreign industry' by a moderate duty (Political
+Economy, bk. v. ch. x. section 1). Such incidental consequences
+are obviously possible. A prohibition to import a material of
+industry might lead to the discovery of mines at home or to new
+methods of manufacture. But such results seem to lie outside of
+pure political economy.
+
+105. Political Economy, p. 209 (bk. ii. ch. xi. section 2).
+
+106. As quoted by Cairnes's Leading Principles, p. 302.
+
+107. Political Economy, bk. i. ch. v. section 5.
+
+108. Cairnes's Leading Principles, p. 222. explains the
+principle. Taussig (pp. 107 and 274) agrees with Brentano that
+Mill's doctrine is simply a corollary from the theory that wages
+'are paid out of capital.'
+
+109. Political Economy, p. 219 (bk. ii. ch. xii. section 1).
+
+110. Ibid. p. 219 (bk. ii. ch. xii. section 2).
+
+111. Political Economy, p. 578 (bk. v. ch. xi. section 9)
+
+112. Political Economy, p. 563 (bk. v. ch. x. section 5).
+
+113. Ibid. p. 564 (bk. v. ch. x. section 5).
+
+114. Political Economy, p. 56 (bk. i. ch. v. section 10).
+
+115. Dissertations, iv. 47 (reprint of article in Fortnightly
+Review of May 1869).
+
+116. Ibid. iv. 67.
+
+117. Since no edition of the Political Economy appeared between
+this time and Mill's death, he had no opportunity of making
+alterations in his treatise. His review of Thornton, however,
+seems to indicate a failure to appreciate the full bearing of his
+concessions.
+
+118. Dissertations, iv. 46.
+
+119. Dissertations, iv. 43.
+
+120. See Taussig, pp. 211-45 for the vagueness of such writers as
+M'Culloch and Torrens, 'The point', he says, 'was hardly ever
+raised in terms.'
+
+121. Taussig, p. 238.
+
+122. Article in Fortnightly Review for July 1860. See Mill,
+Political Economy, p. 565 (bk. v. ch. x. section 5).
+
+123. See Dictionary of National Biography for a short notice.
+
+124. On Labour, p. 292.
+
+125. Leading Principles, p. 257.
+
+126. Leading Principles, p. 277.
+
+127. 'Historically', says Professor Taussig (p. 242), 'there may
+be ground for that contention,' viz., that the wage-fund never
+meant more than Ricardo's doctrine that profits were the 'leaving
+of wages', and that accumulation depended on profits. This, he
+adds, is held by many writers who reject the 'wage-fund' proper,
+that is, Thornton's 'will-o'-the-wisp.'
+
+128. On Labour, p. 288.
+
+129. On Labour, p. 274.
+
+130. Ibid. pp. 86, 87.
+
+131. Taussig, p. 122.
+
+132. See the posthumous articles in the Fortnightly Review for
+February, March, and April, 1879. They were obviously imperfect,
+and scarcely justified publication.
+
+133. Political Economy, p. 133 (bk. ii. ch. i. section 4).
+
+134. Leading Principles, p. 316.
+
+135. Political Economy, p. 476 (bk. iv. ch. vii. section 7).
+
+136. Political Economy, p. 476 (bk. iv. ch. vii.) Mill refers to
+Babbage's Economy of Machinery and Manufactuers for an incidental
+reference to applications of profit-sharing in Cornish mines, and
+a suggestion that it would be applicable elsewhere. Babbage gives
+little more than a passing suggestion.
+
+137. Leading Principles, pp. 339, 344.
+
+138. Political Economy, p. 566 (bk. v. ch. x. section 5).
+
+139. Political Economy, p. 569 (bk. v. ch. xi. section 2).
+
+140. Ibid. p. 573 (bk. v. ch. xi. section 7).
+
+141. He qualifies this to some extent in the Liberty. The state
+should enforce education and pay for it, but not provide schools.
+The line is hard to draw.
+
+142. See especially Political Economy, p. 585 (bk. v. ch. xi.
+section 14).
+
+143. Political Economy, p. 138 (bk. ii. ch. ii. section 4).
+
+144. Ibid. p. 61 (bk. i. ch. vi. section 3).
+
+145. Political Economy, p. 581 (bk. v. ch. xi. section 12).
+
+146. J.S. Mill's Ansichten uber die Sociale Frage, etc. (1866).
+
+147. Fortnightly Review for February 1879.
+
+148. Political Economy (first edition) i. 252-53.
+
+149. Autobiography, p. 246.
+
+150. Political Economy, p. 123 (bk. ii. ch. i. section 1).
+
+151. Dissertations, iv. 59.
+
+152. Ibid. iv. 240.
+
+153. Leading Principles, p. 333.
+
+154. Dissertations, iv. 263.
+
+155. Ibid. iv. 285.
+
+156. Ibid. iv. 274.
+
+157. Ibid. iv. 269.
+
+158. Ibid. iv. 60. The whole doctrine that the sanctity of
+property depends upon the mode of acquisition by remote
+proprietors seems to be scarcely reconcilable with sound
+Utilitarianism.
+
+159. After giving Adam Smith's famous account of the causes of
+the varying rates of wages, Mill points out 'a class of
+considerations' too much neglected by his predecessors: cases,
+namely, in which unskilled labourers are insufficiently paid; and
+remarks that there is almost a 'hereditary distinction of caste.'
+-- Political Economy, p. 238 (bk. ii. ch. xiv. section 2).
+
+160. Political Economy, p. 456 (bk. iv. ch. vii. section 1).
+
+161. Ibid. p. 129 (bk. ii. ch. i. section 3).
+
+162. 'On the Definition of Political Economy, and on the Method
+of Investigation proper to it.' Reprinted in Unsettled Questions,
+and quoted in the Logic, p. 288 (bk. vi. ch. ix. section 3).
+
+163. Unsettled Questions, p. 143.
+
+164. Autobiography, p. 210.
+
+165. See, e.g., Comte's Philosophie Positive, iv. 266-78. The
+fourth volume of Comte disappointed Mill, as he says; and this
+probably explains one reason.
+
+166. Logic, p. 590 (bk. vi. ch. ix. section 4).
+
+167. Unsettled Questions, p. 148.
+
+168. Ibid. pp. 137-50.
+
+169. Mill makes this remark himself in writing to Comte about
+phrenology.
+
+

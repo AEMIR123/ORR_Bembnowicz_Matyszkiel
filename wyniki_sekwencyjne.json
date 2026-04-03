@@ -1,49 +1,51 @@
 {
     "metoda": "sekwencyjna",
     "katalog": "C:\\Users\\Stanisław Matyszkiel\\PycharmProjects\\ORR_Bembnowicz_Matyszkiel\\data",
-    "calkowita_liczba_slow": 14659731,
-    "liczba_unikalnych_slow": 162237,
+    "calkowita_liczba_slow": 201245097,
+    "liczba_unikalnych_slow": 553817,
     "top_slowa": [
         [
             "the",
-            769558
-        ],
-        [
-            "to",
-            392560
+            12204468
         ],
         [
             "of",
-            356922
+            6518091
         ],
         [
             "and",
-            322222
+            6481929
         ],
         [
-            "in",
-            315963
+            "to",
+            5442612
         ],
         [
             "a",
-            309561
+            4201240
         ],
         [
-            "for",
-            144252
+            "in",
+            3522718
         ],
         [
-            "on",
-            137089
+            "i",
+            2640857
         ],
         [
             "that",
-            126708
+            2533529
         ],
         [
-            "s",
-            117662
+            "he",
+            2370205
+        ],
+        [
+            "was",
+            2140656
         ]
     ],
-    "czas_wykonania_sekundy": 16.04088306427002
+    "czas_io_sekundy": 16.724699603713816,
+    "czas_cpu_sekundy": 181.99230019692914,
+    "czas_wykonania_sekundy": 228.51459980002255
 }

@@ -1,0 +1,4757 @@
+
+
+
+
+
+The Principles of Economics
+
+
+by Alfred Marshall
+
+
+
+
+
+Book III
+
+
+
+On Wants and Their Satisfaction
+
+
+
+
+
+Chapter 1
+
+
+
+Introductory
+
+
+
+    1. The older definitions of economics described it as the
+
+science which is concerned with the production, the distribution,
+
+the exchange, and the consumption of wealth. Later experience has
+
+shown that the problems of distribution and exchange are so
+
+closely connected, that it is doubtful whether anything is to be
+
+gained by the attempt to keep them separate. There is however a
+
+good deal of general reasoning with regard to the relation of
+
+demand and supply which is required as a basis for the practical
+
+problems of value, and which acts as an underlying backbone,
+
+giving unity and consistency to the main body of economic
+
+reasoning. Its very breadth and generality mark it off from the
+
+more concrete problems of distribution and exchange to which it
+
+is subservient; and therefore it is put together in Book V on
+
+"The General Theory of Demand and Supply" which prepares the way
+
+for "Distribution and Exchange, or Value."
+
+    But first comes the present Book III, a study of Wants and
+
+their satisfaction, i.e. of demand and consumption: and then Book
+
+IV, a study of the agents of production, that is, the agents by
+
+whose means wants are satisfied, including man himself, the chief
+
+agent and the sole aim of production. Book IV corresponds in
+
+general character to that discussion of production to which a
+
+large place has been given in nearly all English treatises on
+
+general economics during the last two generations; although its
+
+relation to the problems of demand and supply has not been made
+
+sufficiently clear.
+
+    2. Until recently the subject of demand or consumption has
+
+been somewhat neglected. For important as is the inquiry how to
+
+turn our resources to the best account, it is not one which lends
+
+itself, so far as the expenditure of private individuals is
+
+concerned, to the methods of economics. The common sense of a
+
+person who has had a large experience of life will give him more
+
+guidance in such a matter than he can gain from subtle economic
+
+analyses; and until recently economists said little on the
+
+subject, because they really had not much to say that was not the
+
+common property of all sensible people. But recently several
+
+causes have combined to give the subject a greater prominence in
+
+economic discussions.
+
+    The first of these is the growing belief that harm was done
+
+by Ricardo's habit of laying disproportionate stress on the side
+
+of cost of production, when analysing the causes that determine
+
+exchange value. For although he and his chief followers were
+
+aware that the conditions of demand played as important a part as
+
+those of supply in determining value, yet they did not express
+
+their meaning with sufficient clearness, and they have been
+
+misunderstood by all but the most careful readers.
+
+    Secondly, the growth of exact habits of thought in economics
+
+is making people more careful to state distinctly the premises on
+
+which they reason. This increased care is partly due to the
+
+application by some writers of mathematical language and
+
+mathematical habits of thought. It is indeed doubtful whether
+
+much has been gained by the use of complex mathematical formulae.
+
+But the application of mathematical habits of thought has been of
+
+great service; for it has led people to refuse to consider a
+
+problem until they are quite sure what the problem is; and to
+
+insist on knowing what is, and what is not intended to be assumed
+
+before proceeding further.
+
+    This has in its turn compelled a more careful analysis of all
+
+the leading conceptions of economics, and especially of demand;
+
+for the mere attempt to state clearly how the demand for a thing
+
+is to be measured opens up new aspects of the main problems of
+
+economics. And though the theory of demand is yet in its infancy,
+
+we can already see that it may be possible to collect and arrange
+
+statistics of consumption in such a way as to throw light on
+
+difficult questions of great importance to public wellbeing.
+
+    Lastly, the spirit of the age induces a closer attention to
+
+the question whether our increasing wealth may not be made to go
+
+further than it does in promoting the general wellbeing; and this
+
+again compels us to examine how far the exchange value of any
+
+element of wealth, whether in collective or individual use,
+
+represents accurately the addition which it makes to happiness
+
+and wellbeing.
+
+    We will begin this Book with a short study of the variety of
+
+human wants, considered in their relation to human efforts and
+
+activities. For the progressive nature of man is one whole. It is
+
+only temporarily and provisionally that we can with profit
+
+isolate for study the economic side of his life; and we ought to
+
+be careful to take together in one view the whole of that side.
+
+There is a special need to insist on this just now, because the
+
+reaction against the comparative neglect of the study of wants by
+
+Ricardo and his followers shows signs of being carried to the
+
+opposite extreme. It is important still to assert the great truth
+
+on which they dwelt somewhat too exclusively; viz. that while
+
+wants are the rulers of life among the lower animals, it is to
+
+changes in the forms of efforts and activities that we must turn
+
+when in search for the keynotes of the history of mankind.
+
+
+
+Chapter 2
+
+
+
+Wants in Relation to Activities
+
+
+
+    1. Human wants and desires are countless in number and very
+
+various in kind: but they are generally limited and capable of
+
+being satisfied. The uncivilized man indeed has not many more
+
+than the brute animal; but every step in his progress upwards
+
+increases the variety of his needs together with the variety in
+
+his methods of satisfying them. He desires not merely larger
+
+quantities of the things he has been accustomed to consume, but
+
+better qualities of those things; he desires a greater choice of
+
+things, and things that will satisfy new wants growing up in him.
+
+    Thus though the brute and the savage alike have their
+
+preferences for choice morsels, neither of them cares much for
+
+variety for its own sake. As, however, man rises in civilization,
+
+as his mind becomes developed, and even his animal passions begin
+
+to associate themselves with mental activities, his wants become
+
+rapidly more subtle and more various; and in the minor details of
+
+life he begins to desire change for the sake of change, long
+
+before he has consciously escaped from the yoke of custom. The
+
+first great step in this direction comes with the art of making a
+
+fire: gradually he gets to accustom himself to many different
+
+kinds of food and drink cooked in many different ways; and before
+
+long monotony begins to become irksome to him, and he finds it a
+
+great hardship when accident compels him to live for a long time
+
+exclusively on one or two kinds of food.
+
+    As a man's riches increase, his food and drink become more
+
+various and costly; but his appetite is limited by nature, and
+
+when his expenditure on food is extravagant it is more often to
+
+gratify the desires of hospitality and display than to indulge
+
+his own senses.
+
+    This brings us to remark with Senior that "Strong as is the
+
+desire for variety, it is weak compared with the desire for
+
+distinction: a feeling which if we consider its universality, and
+
+its constancy, that it affects all men and at all times, that it
+
+comes with us from the cradle and never leaves us till we go into
+
+the grave, may be pronounced to be the most powerful of human
+
+passions." This great half-truth is well illustrated by a
+
+comparison of the desire for choice and various food with that
+
+for choice and various dress.
+
+    2. That need for dress which is the result of natural causes
+
+varies with the climate and the season of year, and a little with
+
+the nature of a person's occupations. But in dress conventional
+
+wants overshadow those which are natural. Thus in many of the
+
+earlier stages of civilization the sumptuary mandates of Law and
+
+Custom have rigidly prescribed to the members of each caste or
+
+industrial grade, the style and the standard of expense up to
+
+which their dress must reach and beyond which they may not go;
+
+and part of the substance of these mandates remains now, though
+
+subject to rapid change. In Scotland, for instance, in Adam
+
+Smith's time many persons were allowed by custom to go abroad
+
+without shoes and stockings who may not do so now; and many may
+
+still do it in Scotland who might not in England. Again, in
+
+England now a well-to-do labourer is expected to appear on Sunday
+
+in a black coat and, in some places, in a silk hat; though these
+
+would have subjected him to ridicule but a short time ago. There
+
+is a constant increase both in that variety and expensiveness
+
+which custom requires as a minimum, and in that which it
+
+tolerates as a maximum; and the efforts to obtain distinction by
+
+dress are extending themselves throughout the lower grades of
+
+English society.
+
+    But in the upper grades, though the dress of women is still
+
+various and costly, that of men is simple and inexpensive as
+
+compared with what it was in Europe not long ago, and is to-day
+
+in the East. For those men who are most truly distinguished on
+
+their own account, have a natural dislike to seem to claim
+
+attention by their dress; and they have set the fashion.(1*)
+
+    3. House room satisfies the imperative need for shelter from
+
+the weather: but that need plays very little part in the
+
+effective demand for house room. For though a small but
+
+well-built cabin gives excellent shelter, its stifling
+
+atmosphere, its necessary uncleanliness, and its want of the
+
+decencies and the quiet of life are great evils. It is not so
+
+much that they cause physical discomfort as that they tend to
+
+stunt the faculties, and limit people's higher activities. With
+
+every increase in these activities the demand for larger house
+
+room becomes more urgent.(2*)
+
+    And therefore relatively large and well-appointed house room
+
+is, even in the lowest social ranks, at once a "necessary for
+
+efficiency,"(3*) and the most convenient and obvious way of
+
+advancing a material claim to social distinction. And even in
+
+those grades in which everyone has house room sufficient for the
+
+higher activities of himself and his family, a yet further and
+
+almost unlimited increase is desired as a requisite for the
+
+exercise of many of the higher social activities.
+
+    4. It is, again, the desire for the exercise and development
+
+of activities, spreading through every rank of society, which
+
+leads not only to the pursuit of science, literature and art for
+
+their own sake, but to the rapidly increasing demand for the work
+
+of those who pursue them as professions. Leisure is used less and
+
+less as an opportunity for mere stagnation; and there is a
+
+growing desire for those amusements, such as athletic games and
+
+travelling, which develop activities rather than indulge any
+
+sensuous craving.(4*)
+
+    For indeed the desire for excellence for its own sake, is
+
+almost as wide in its range as the lower desire for distinction.
+
+Just as the desire for distinction graduates down from the
+
+ambition of those who may hope that their names will be in men's
+
+mouths in distant lands and in distant times, to the hope of the
+
+country lass that the new ribbon she puts on for Easter may not
+
+pass unnoticed by her neighbours; so the desire for excellence
+
+for its own sake graduates down from that of a Newton, or a
+
+Stradivarius, to that of the fisherman who, even when no one is
+
+looking and he is not in a hurry, delights in handling his craft
+
+well, and in the fact that she is well built and responds
+
+promptly to his guidance. Desires of this kind exert a great
+
+influence on the supply of the highest faculties and the greatest
+
+inventions; and they are not unimportant on the side of demand.
+
+For a large part of the demand for the most highly skilled
+
+professional services and the best work of the mechanical
+
+artisan, arises from the delight that people have in the training
+
+of their own faculties, and in exercising them by aid of the most
+
+delicately adjusted and responsive implements.
+
+    Speaking broadly therefore, although it is man's wants in the
+
+earliest stages of his development that give rise to his
+
+activities, yet afterwards each new step upwards is to be
+
+regarded as the development of new activities giving rise to new
+
+wants, rather than of new wants giving rise to new activities.
+
+    We see this clearly if we look away from healthy conditions
+
+of life, where new activities are constantly being developed; and
+
+watch the West Indian negro, using his new freedom and wealth not
+
+to get the means of satisfying new wants, but in idle stagnation
+
+that is not rest; or again look at that rapidly lessening part of
+
+the English working classes, who have no ambition and no pride or
+
+delight in the growth of their faculties and activities, and
+
+spend on drink whatever surplus their wages afford over the bare
+
+necessaries of a squalid life.
+
+    It is not true therefore that "the Theory of Consumption is
+
+the scientific basis of economics."(5*) For much that is of chief
+
+interest in the science of wants, is borrowed from the science of
+
+efforts and activities. These two supplement one another; either
+
+is incomplete without the other. But if either, more than the
+
+other, may claim to be the interpreter of the history of man,
+
+whether on the economic side or any other, it is the science of
+
+activities and not that of wants; and McCulloch indicated their
+
+true relations when, discussing "the progressive nature of
+
+man"(6*) he said: - "The gratification of a want or a desire is
+
+merely a step to some new pursuit. In every stage of his progress
+
+he is destined to contrive and invent, to engage in new
+
+undertakings; and when these are accomplished to enter with fresh
+
+energy upon others."
+
+    From this it follows that such a discussion of demand as is
+
+possible at this stage of our work, must be confined to an
+
+elementary analysis of an almost purely formal kind. The higher
+
+study of consumption must come after, and not before, the main
+
+body of economic analysis; and, though it may have its beginning
+
+within the proper domain of economics, it cannot find its
+
+conclusion there, but must extend far beyond.(7*)
+
+
+
+NOTES:
+
+
+
+1. A woman may display wealth, but she may not display only her
+
+wealth, by her dress; or else she defeats her ends. She must also
+
+suggest some distinction of character as well as of wealth; for
+
+though her dress may owe more to her dressmaker than to herself,
+
+yet there is a traditional assumption that, being less busy than
+
+man with external affairs, she can give more time to taking
+
+thought as to her dress. Even under the sway of modern fashions,
+
+to be "well dressed" - not "expensively dressed" is a reasonable
+
+minor aim for those who desire to be distinguished for their
+
+faculties and abilities; and this will be still more the case if
+
+the evil dominion of the wanton vagaries of fashion should pass
+
+away. For to arrange costumes beautiful in themselves, various
+
+and well-adapted to their purposes, is an object worthy of high
+
+endeavour; it belongs to the same class, though not to the same
+
+rank in that class, as the painting of a good picture.
+
+
+
+2. It is true that many active-minded working men prefer cramped
+
+lodgings in a town to a roomy cottage in the country; but that is
+
+because they have a strong taste for those activities for which a
+
+country life offers little scope.
+
+
+
+3. See Book II, ch. III, sec. 3.
+
+
+
+4. As a minor point it may be noticed that those drinks which
+
+stimulate the mental activities are largely displacing those
+
+which merely gratify the senses. The consumption of tea is
+
+increasing very fast, while that of alcohol is stationary; and
+
+there is in all ranks of society a diminishing demand for the
+
+grosser and more immediately stupefying forms of alcohol.
+
+
+
+5. This doctrine is laid down by Banfield, and adopted by Jevons
+
+as the key of his position. It is unfortunate that here as
+
+elsewhere Jevons' delight in stating his case strongly has led
+
+him to a conclusion, which not only is inaccurate, but does
+
+mischief by implying that the older economists were more at fault
+
+than they really were. Banfield says "the first proposition of
+
+the theory of consumption is that the satisfaction of every lower
+
+want in the scale creates a desire of a higher character." And if
+
+this were true, the above doctrine, which he bases on it, would
+
+be true also. But, as Jevons points out (Theory, 2nd Ed. p. 59),
+
+it is not true: and he substitutes for it the statement that the
+
+satisfaction of a lower want permits a higher want to manifest
+
+itself. That is a true and indeed an identical proposition: but
+
+it affords no support to the claims of the Theory of Consumption
+
+to supremacy.
+
+
+
+6. Political Economy, ch. II.
+
+
+
+7. The formal classification of Wants is a task not without
+
+interest; but it is not needed for our purposes. The basis of
+
+most modern work in this direction is to be found in Hermann's
+
+Staatswirtschaftliche Untersuchungen, Ch. II, where wants are
+
+classified as "absolute and relative, higher and lower, urgent
+
+and capable of postponement, positive and negative, direct and
+
+indirect, general and particular, constant and interrupted,
+
+permanent and temporary, ordinary and extraordinary, present and
+
+future, individual and collective, private and public." Some
+
+analysis of wants and desires is to be found in the great
+
+majority of French and other Continental treatises on economics
+
+even of the last generation; but the rigid boundary which English
+
+writers have ascribed to their science has excluded such
+
+discussions. And it is a characteristic fact that there is no
+
+allusion to them in Bentham's Manual of Political Economy,
+
+although his profound analysis of them in the Principles of
+
+Morals and legislation and in the Table of the Springs of Human
+
+Action has exercised a wide-spread influence. Hermann had studied
+
+Bentham; and on the other hand Banfield, whose lectures were
+
+perhaps the first ever given in an English University that owed
+
+much directly to German economic thought, acknowledges special
+
+obligations to Hermann. In England the way was prepared for
+
+Jevons' excellent work on the theory of wants, by Bentham
+
+himself; by Senior, whose short remarks on the subject are
+
+pregnant with far-reaching hints; by Banfield, and by the
+
+Australian Hearn. Hearn's Plutology or Theory of the Efforts to
+
+satisfy Human Wants is at once simple and profound: it affords an
+
+admirable example of the way in which detailed analysis may be
+
+applied to afford a training of a very high order for the young,
+
+and to give them an intelligent acquaintance with the economic
+
+conditions of life, without forcing upon them any particular
+
+solution of those more difficult problems on which they are not
+
+yet able to form an independent judgment. At about the same time
+
+as Jevons' Theory appeared, Carl Menger gave a great impetus to
+
+the subtle and interesting studies of wants and utilities by the
+
+Austrian school of economists: they had already been initiated by
+
+von Thunen, as is indicated in the Preface to this Volume.
+
+
+
+Chapter 3
+
+
+
+Gradations of Consumers' Demand
+
+
+
+    1. When a trader or a manufacturer buys anything to be used
+
+in production, or be sold again, his demand is based on his
+
+anticipations of the profits which he can derive from it. These
+
+profits depend at any time on speculative risks and on other
+
+causes, which will need to be considered later on. But in the
+
+long run the price which a trader or manufacturer can afford to
+
+pay for a thing depends on the prices which consumers will pay
+
+for it, or for the things made by aid of it. The ultimate
+
+regulator of all demands is therefore consumers' demand. And it
+
+is with that almost exclusively that we shall be concerned in the
+
+present Book.
+
+    Utility is taken to be correlative to Desire or Want. It has
+
+been already argued that desires cannot be measured directly, but
+
+only indirectly by the outward phenomena to which they give rise:
+
+and that in those cases with which economics is chiefly concerned
+
+the measure is found in the price which a person is willing to
+
+pay for the fulfilment or satisfaction of his desire. He may have
+
+desires and aspirations which are not consciously set for any
+
+satisfaction: but for the present we are concerned chiefly with
+
+those which do so aim; and we assume that the resulting
+
+satisfaction corresponds in general fairly well to that which was
+
+anticipated when the purchase was made.(1*)
+
+    There is an endless variety of wants, but there is a limit to
+
+each separate want. This familiar and fundamental tendency of
+
+human nature may be stated in the law of satiable wants or of
+
+diminishing utility thus:-The total utility of a thing to anyone
+
+(that is, the total pleasure or other benefit it yields him)
+
+increases with every increase in his stock of it, but not as fast
+
+as his stock increases. If his stock of it increases at a uniform
+
+rate the benefit derived from it increases at a diminishing rate.
+
+In other words, the additional benefit which a person derives
+
+from a given increase of his stock of a thing, diminishes with
+
+every increase in the stock that he already has.
+
+    That part of the thing which he is only just induced to
+
+purchase may be called his marginal purchase, because he is on
+
+the margin of doubt whether it is worth his while to incur the
+
+outlay required to obtain it. And the utility of his marginal
+
+purchase may be called the marginal utility of the thing to him.
+
+Or, if instead of buying it, he makes the thing himself, then its
+
+marginal utility is the utility of that part which he thinks it
+
+only just worth his while to make. And thus the law just given
+
+may be worded:-
+
+    The marginal utility of a thing to anyone diminishes with
+
+every increase in the amount of it he already has.(2*)
+
+    There is however an implicit condition in this law which
+
+should be made clear. It is that we do not suppose time to be
+
+allowed for any alteration in the character or tastes of the man
+
+himself. It is therefore no exception to the law that the more
+
+good music a man hears, the stronger is his taste for it likely
+
+to become; that avarice and ambition are often insatiable; or
+
+that the virtue of cleanliness and the vice of drunkenness alike
+
+grow on what they feed upon. For in such cases our observations
+
+range over some period of time; and the man is not the same at
+
+the beginning as at the end of it. If we take a man as he is,
+
+without allowing time for any change in his character, the
+
+marginal utility of a thing to him diminishes steadily with every
+
+increase in his supply of it.(3*)
+
+    2. Now let us translate this law of diminishing utility into
+
+terms of price. Let us take an illustration from the case of a
+
+commodity such as tea, which is in constant demand and which can
+
+be purchased in small quantities. Suppose, for instance, that tea
+
+of a certain quality is to be had at 2s. per lb. A person might
+
+be willing to give 10s. for a single pound once a year rather
+
+than go without it altogether; while if he could have any amount
+
+of it for nothing he would perhaps not care to use more than 30
+
+lbs. in the year. But as it is, he buys perhaps 10 lbs. in the
+
+year; that is to say, the difference between the satisfaction
+
+which he gets from buying 9 lbs. and I 0 lbs. is enough for him
+
+to be willing to pay 2s. for it: while the fact that he does not
+
+buy an eleventh pound, shows that he does not think that it would
+
+be worth an extra 2s. to him. That is, 2s. a pound measures the
+
+utility to him of the tea which lies at the margin or terminus or
+
+end of his purchases; it measures the marginal utility to him. If
+
+the price which he is just willing to pay for any pound be called
+
+his demand price, then 2s. is his marginal demand price. And our
+
+law may be worded:-
+
+    The larger the amount of a thing that a person has the less,
+
+other things being equal (i.e. the purchasing power of money, and
+
+the amount of money at his command being equal), will be the
+
+price which he will pay for a little more of it: or in other
+
+words his marginal demand price for it diminishes.
+
+    His demand becomes efficient, only when the price which he is
+
+willing to offer reaches that at which others are willing to
+
+sell.
+
+    This last sentence reminds us that we have as yet taken no
+
+account of changes in the marginal utility of money, or general
+
+purchasing power. At one and the same time, a person's material
+
+resources being unchanged, the marginal utility of money to him
+
+is a fixed quantity, so that the prices he is just willing to pay
+
+for two commodities are to one another in the same ratio as the
+
+utility of those two commodities.
+
+    3. A greater utility will be required to induce him to buy a
+
+thing if he is poor than if he is rich. We have seen how the
+
+clerk with ?00 a year will walk to business in a heavier rain
+
+than the clerk with ?00 a year.(4*) But although the utility, or
+
+the benefit, that is measured in the poorer man's mind by
+
+twopence is greater than that measured by it in the richer man's
+
+mind; yet if the richer man rides a hundred times in the year and
+
+the poorer man twenty times, then the utility of the hundredth
+
+ride which the richer man is only just induced to take is
+
+measured to him by twopence; and the utility of the twentieth
+
+ride which the poorer man is only just induced to take is
+
+measured to him by twopence. For each of them the marginal
+
+utility is measured by twopence; but this marginal utility is
+
+greater in the case of the poorer man than in that of the richer.
+
+    In other words, the richer a man becomes the less is the
+
+marginal utility of money to him; every increase in his resources
+
+increases the price which he is willing to pay for any given
+
+benefit. And in the same way every diminution of his resources
+
+increases the marginal utility of money to him, and diminishes
+
+the price that he is willing to pay for any benefit.(5*)
+
+    4. To obtain complete knowledge of demand for anything, we
+
+should have to ascertain how much of it he would be willing to
+
+purchase at each of the prices at which it is likely to be
+
+offered; and the circumstance of his demand for, say, tea can be
+
+best expressed by a list of the prices which he is willing to
+
+pay; that is, by his several demand prices for different amounts
+
+of it. (This list may be called his demand schedule.)
+
+    Thus for instance we may find that he would buy
+
+
+
+ 6 lbs. at 50d. per lb.         10 lbs. at 24d. per lb.
+
+ 7 "       40 "                 11 "       21 "
+
+ 8 "       33 "                 12 "       19 "
+
+ 9 "       28 "                 13 "       17 "
+
+
+
+    If corresponding prices were filled in for all intermediate
+
+amounts we should have an exact statement of his demand.(6*) We
+
+cannot express a person's demand for a thing by the "amount he is
+
+willing to buy" or by the "intensity of his eagerness to buy a
+
+certain amount," without reference to the prices at which he
+
+would buy that amount and other amounts. We can represent it
+
+exactly only by lists of the prices at which he is willing to buy
+
+different amounts.(7*)
+
+    When we say that a person's demand for anything increases, we
+
+mean that he will buy more of it than he would before at the same
+
+price, and that he will buy as much of it as before at a higher
+
+price. A general increase in his demand is an increase throughout
+
+the whole list of prices at which he is willing to purchase
+
+different amounts of it, and not merely that he is willing to buy
+
+more of it at the current prices.(8*)
+
+    5. So far we have looked at the demand of a single
+
+individual. And in the particular case of such a thing as tea,
+
+the demand of a single person is fairly representative of the
+
+general demand of a whole market: for the demand for tea is a
+
+constant one; and, since it can be purchased in small quantities,
+
+every variation in its price is likely to affect the amount which
+
+he will buy. But even among those things which are in constant
+
+use, there are many for which the demand on the part of any
+
+single individual cannot vary continuously with every small
+
+change in price, but can move only by great leaps. For instance,
+
+a small fall in the price of hats or watches will not affect the
+
+action of every one; but it will induce a few persons, who were
+
+in doubt whether or not to get a new hat or a new watch, to
+
+decide in favour of doing so.
+
+    There are many classes of things the need for which on the
+
+part of any individual is inconstant, fitful, and irregular.
+
+There can be no list of individual demand prices for
+
+wedding-cakes, or the services of an expert surgeon. But the
+
+economist has little concern with particular incidents in the
+
+lives of individuals. He studies rather "the course of action
+
+that may be expected under certain conditions from the members of
+
+an industrial group," in so far as the motives of that action are
+
+measurable by a money price; and in these broad results the
+
+variety and the fickleness of individual action are merged in the
+
+comparatively regular aggregate of the action of many.
+
+    In large markets, then-where rich and poor, old and young,
+
+men and women, persons of all varieties of tastes, temperaments
+
+and occupations are mingled together,-the peculiarities in the
+
+wants of individuals will compensate one another in a
+
+comparatively regular gradation of total demand. Every fall,
+
+however slight in the price of a commodity in general use, will,
+
+other things being equal, increase the total sales of it; just as
+
+an unhealthy autumn increases the mortality of a large town,
+
+though many persons are uninjured by it. And therefore if we had
+
+the requisite knowledge, we could make a list of prices at which
+
+each amount of it could find purchasers in a given place during,
+
+say, a year.
+
+    The total demand in the place for, say, tea, is the sum of
+
+the demands of all the individuals there. Some will be richer and
+
+some poorer than the individual consumer whose demand we have
+
+just written down; some will have a greater and others a smaller
+
+liking for tea than he has. Let us suppose that there are in the
+
+place a million purchasers of tea, and that their average
+
+consumption is equal to his at each several price. Then the
+
+demand of that place is represented by the same list of prices as
+
+before, if we write a million pounds of tea instead of one
+
+pound.(9*)
+
+    There is then one general law of demand: -The greater the
+
+amount to be sold, the smaller must be the price at which it is
+
+offered in order that it may find purchasers; or, in other words,
+
+the amount demanded increases with a fall in price, and
+
+diminishes with a rise in price. There will not be any uniform
+
+relation between the fall in price and the increase of demand. A
+
+fall of one-tenth in the price may increase the sales by a
+
+twentieth or by a quarter, or it may double them. But as the
+
+numbers in the left-hand column of the demand schedule increase,
+
+those in the right-hand column will always diminish.(10*)
+
+    The price will measure the marginal utility of the commodity
+
+to each purchaser individually: we cannot speak of price as
+
+measuring marginal utility in general, because the wants and
+
+circumstances of different people are different.
+
+    6. The demand prices in our list are those at which various
+
+quantities of a thing can be sold in a market during a given time
+
+and under given conditions. If the conditions vary in any respect
+
+the prices will probably require to be changed; and this has
+
+constantly to be done when the desire for anything is materially
+
+altered by a variation of custom, or by a cheapening of the
+
+supply of a rival commodity, or by the invention of a new one.
+
+For instance, the list of demand prices for tea is drawn out on
+
+the assumption that the price of coffee is known; but a failure
+
+of the coffee harvest would raise the prices for tea. The demand
+
+for gas is liable to be reduced by an improvement in electric
+
+lighting; and in the same way a fall in the price of a particular
+
+kind of tea may cause it to be substituted for an inferior but
+
+cheaper variety.(11*)
+
+    Our next step will be to consider the general character of
+
+demand in the cases of some important commodities ready for
+
+immediate consumption. We shall thus be continuing the inquiry
+
+made in the preceding chapter as to the variety and satiability
+
+of wants; but we shall be treating it from a rather different
+
+point of view, viz. that of price statistics.(12*)
+
+
+
+NOTES:
+
+
+
+1. It cannot be too much insisted that to measure directly, or
+
+per se, either desires or the satisfaction which results from
+
+their fulfilment is impossible, if not inconceivable. If we
+
+could, we should have two accounts to make up, one of desires,
+
+and the other of realized satisfactions. And the two might differ
+
+considerably. For, to say nothing of higher aspirations, some of
+
+those desires with which economics is chiefly concerned, and
+
+especially those connected with emulation, are impulsive; many
+
+result from the force of habit; some are morbid and lead only to
+
+hurt; and many are based on expectations that are never
+
+fulfilled. (See above I, II, sections 3, 4) Of course many
+
+satisfactions are not common pleasures, but belong to the
+
+development of man's higher nature, or to use a good old word, to
+
+his beatification; and some may even partly result from self
+
+abnegation. (See I, II, sec. 1) The two direct measurements then
+
+might differ. But as neither of them is possible, we fall back on
+
+the measurement which economics supplies, of the motive or moving
+
+force to action: and we make it serve, with all its faults, both
+
+for the desires which prompt activities and for the satisfactions
+
+that result from them. (Compare "Some remarks on Utility" by
+
+Prof. Pigou in the Economic Journal for March, 1903.)
+
+
+
+2. See Note I in the Mathematical Appendix at the end of the
+
+Volume. This law holds a priority of position to the law of
+
+diminishing return from land; which however has the priority in
+
+time; since it was the first to be subjected to a rigid analysis
+
+of a semi-mathematical character. And if by anticipation we
+
+borrow some of its terms, we may say that the return of pleasure
+
+which a person gets from each additional dose of a commodity
+
+diminishes till at last a margin is reached at which it is no
+
+longer worth his while to acquire any more of it.
+
+    The term marginal utility (Grenz-nutz) was first used in this
+
+connection by the Austrian Wieser. It has been adopted by Prof.
+
+Wicksteed. It corresponds to the term Final used by Jevons, to
+
+whom Wieser makes his acknowledgments in the Preface (p. xxiii of
+
+the English edition). His list of anticipators of his doctrine is
+
+headed by Gossen, 1854.
+
+
+
+3. It may be noticed here, though the fact is of but little
+
+practical importance, that a small quantity of a commodity may be
+
+insufficient to meet a certain special want; and then there will
+
+be a more than proportionate increase of pleasure when the
+
+consumer gets enough of it to enable him to attain the desired
+
+end. Thus, for instance, anyone would derive less pleasure in
+
+proportion from ten pieces of wall paper than from twelve, if the
+
+latter would, and the former would not, cover the whole of the
+
+walls of his room. Or again a very short concert or a holiday may
+
+fail of its purpose of soothing and recreating: and one of double
+
+length might be of more than double total utility. This case
+
+corresponds to the fact, which we shall have to study in
+
+connection with the tendency to diminishing return, that the
+
+capital and labour already applied to any piece of land may be so
+
+inadequate for the development of its full powers, that some
+
+further expenditure on it even with the existing arts of
+
+agriculture would give a more than proportionate return; and in
+
+the fact that an improvement in the arts of agriculture may
+
+resist that tendency, we shall find an analogy to the condition
+
+just mentioned in the text as implied in the law of diminishing
+
+utility.
+
+
+
+4. See I, II, sec. 2.
+
+
+
+5. See Note II in the Mathematical Appendix.
+
+
+
+6. Such a demand schedule may be translated, on a plan now coming
+
+into familiar use, into a curve that may be called his demand
+
+curve. Let Ox and Oy be drawn the one horizontally, the other
+
+vertically. Let an inch measured along Ox represent 1o lbs. of
+
+tea, and an inch measured along Oy represent 40d.
+
+
+
+        tenths of       fortieths of
+
+        an inch.        an inch.
+
+
+
+ take   Om1 = 6, and draw m1p1 = 50
+
+        Om2 = 7   "    "  m2p2 = 40
+
+        Om3 = 8   "    "  m3p3 = 33
+
+        Om4 = 9   "    "  m4p4 = 28
+
+        Om5 = 10  "    "  m5p5 = 24
+
+        Om6 = 11  "    "  m6p6 = 21
+
+        Om7 = 12  "    "  m7p7 = 19
+
+        Om8 = 13  "    "  m8p8 = 17
+
+
+
+
+
+m1 being on Ox and m1p1 being drawn vertically from m1; and so
+
+for the others. Then p1 p2... p8 are points on his demand curve
+
+for tea; or as we may say demand points. If we could find demand
+
+points in the same manner for every possible quantity of tea, we
+
+should get the whole continuous curve DD' as shown in the figure.
+
+This account of the demand schedule and curve is provisional;
+
+several difficulties connected with it are deferred to chapter v.
+
+
+
+7. Thus Mill says that we must " mean by the word demand, the
+
+quantity demanded, and remember that this is not a fixed
+
+quantity, but in general varies according to the value."
+
+(Principles, III, II, sec. 4) This account is scientific in
+
+substance; but it is not clearly expressed and it has been much
+
+misunderstood. Cairnes prefers to represent "demand as the desire
+
+for commodities and services, seeking its end by an offer of
+
+general purchasing power, and supply as the desire for general
+
+purchasing power, seeking its end by an offer of specific
+
+commodities or services." He does this in order that he may be
+
+able to speak of a ratio, or equality, of demand and supply. But
+
+the quantities of two desires on the part of two different
+
+persons cannot be compared directly; their measures may be
+
+compared, but not they themselves. And in fact Cairnes is himself
+
+driven to speak of supply as "limited by the quantity of specific
+
+commodities offered for sale, and demand by the quantity of
+
+purchasing power offered for their purchase." But sellers have
+
+not a fixed quantity of commodities which they offer for sale
+
+unconditionally at whatever price they can get: buyers have not a
+
+fixed quantity of purchasing power which they are ready to spend
+
+on the specific commodities, however much they pay for them.
+
+Account must then be taken in either case of the relation between
+
+quantity and price, in order to complete Cairnes' account, and
+
+when this is done it is brought back to the lines followed by
+
+Mill. He says, indeed, that "Demand, as defined by Mill, is to be
+
+understood as measured, not, as my definition would require, by
+
+the quantity of purchasing power offered in support of the desire
+
+for commodities, but by the quantity of commodities for which
+
+such purchasing power is offered." It is true that there is a
+
+great difference between the statements, "I will buy twelve
+
+eggs," and "I will buy a shilling's Worth of eggs." But there is
+
+no substantive difference between the statement, "I will buy
+
+twelve eggs at a penny each, but only six at three halfpence
+
+each," and the statement, "I will spend a shilling on eggs at a
+
+penny each, but if they cost three halfpence each I will spend
+
+ninepence on them." But while Cairnes' account when completed
+
+becomes substantially the same as Mill's, its present form is
+
+even more misleading. (See an article by the present writer on
+
+Mill's Theory of Value in the Fortnightly Review for April, 1876)
+
+
+
+8. We may sometimes find it convenient to speak of this as a
+
+raising of his demand schedule. Geometrically it is represented
+
+by raising his demand curve, or, what comes to the same thing,
+
+moving it to the right, with perhaps some modification of its
+
+shape.
+
+
+
+9. The demand is represented by the same curve as before, only an
+
+inch measured along Ox now represents ten million pounds instead
+
+of ten pounds. And a formal definition of the demand curve for a
+
+market may be given thus:-The demand curve for any commodity in a
+
+market during any given unit of time is the locus of demand
+
+points for it. That is to say, it is a curve such that if from
+
+any point P on it, a straight line PM be drawn perpendicular to
+
+Ox, PM represents the price at which purchasers will be
+
+forthcoming for an amount of the commodity represented by OM.
+
+
+
+10. That is, if a point moves along the curve away from Oy it
+
+will constantly approach Ox. Therefore if a straight line PT be
+
+drawn touching the curve at P and meeting Ox in T, the angle PTx
+
+is an obtuse angle. It will be found convenient to have a short
+
+way of expressing this fact; which may be done by saying that PT
+
+is inclined negatively. Thus the one universal rule to which the
+
+demand curve conforms is that it is inclined negatively
+
+throughout the whole of its length.
+
+    It will of course be understood that "the law of demand" does
+
+not apply to the demand in a campaign between groups of
+
+speculators. A group, which desires to unload a great quantity of
+
+a thing on to the market, often begins by buying some of it
+
+openly. When it has thus raised the price of the thing, it
+
+arranges to sell a great deal quietly, and through unaccustomed
+
+channels. See an article by Professor Taussig in the Quarterly
+
+Journal of Economics (May, 1921, p. 402).
+
+
+
+11. It is even conceivable, though not probable, that a
+
+simultaneous and proportionate fall in the price of all teas may
+
+diminish the demand for some particular kind of it; if it happens
+
+that those whom the increased cheapness of tea leads to
+
+substitute a superior kind for it are more numerous than those
+
+who are led to take it in the place of an inferior kind. The
+
+question where the lines of division between different
+
+commodities should be drawn must be settled by convenience of the
+
+particular discussion. For some purposes it may be best to regard
+
+Chinese and Indian teas, or even Souchong and Pekoe teas, as
+
+different commodities; and to have a separate demand schedule for
+
+each of them. While for other purposes it may be best to group
+
+together commodities as distinct as beef and mutton, or even as
+
+tea and coffee, and to have a single list to represent the demand
+
+for the two combined; but in such a case of course some
+
+convention must be made as to the number of ounces of tea which
+
+are taken as equivalent to a pound of coffee.
+
+    Again, a commodity may be simultaneously demanded for several
+
+uses (for instance there may be a "composite demand" for leather
+
+for making shoes and portmanteaus); the demand for a thing may be
+
+conditional on there being a supply of some other thing without
+
+which it would not be of much service (thus there may be a "joint
+
+demand" for raw cotton and cotton-spinners' labour). Again, the
+
+demand for a commodity on the part of dealers who buy it only
+
+with the purpose of selling it again, though governed by the
+
+demand of the ultimate consumers in the background, has some
+
+peculiarities of its own. But all such points may best be
+
+discussed at a later stage.
+
+
+
+12. A great change in the manner of economic thought has been
+
+brought about during the present generation by the general
+
+adoption of semi-mathematical language for expressing the
+
+relation between small increments of a commodity on the one hand,
+
+and on the other hand small increments in the aggregate price
+
+that will be paid for it: and by formally describing these small
+
+increments of price as measuring corresponding small increments
+
+of pleasure. The former, and by far the more important, step was
+
+taken by Cournot (Recherches sur les Principes Mathematiques de
+
+la Theorie des Richesses, 1838); the latter by Dupuit (De la
+
+Mesure d'utiiite des travaux publics in the Annales des Ponts et
+
+Chaussees, 1844), and by Gossen (Entwickelung der Gesetze des
+
+menschlichen Verkehrs, 1854). But their work was forgotten; part
+
+of it was done over again, developed and published almost
+
+simultaneously by Jevons and by Carl Menger in 1871, and by
+
+Walras a little later. Jevons almost at once arrested public
+
+attention by his brilliant lucidity and interesting style. He
+
+applied the new name final utility so ingeniously as to enable
+
+people who knew nothing of mathematical science to get clear
+
+ideas of the general relations between the small increments of
+
+two things that are gradually changing in causal connection with
+
+one another. His success was aided even by his faults. For under
+
+the honest belief that Ricardo and his followers had rendered
+
+their account of the causes that determine value hopelessly wrong
+
+by omitting to lay stress on the law of satiable wants, he led
+
+many to think he was correcting great errors; whereas he was
+
+really only adding very important explanations. He did excellent
+
+work in insisting on a fact which is none the less important,
+
+because his predecessors, and even Cournot, thought it too
+
+obvious to be explicitly mentioned, viz. that the diminution in
+
+the amount of a thing demanded in a market indicates a diminution
+
+in the intensity of the desire for it on the part of individual
+
+consumers, whose wants are becoming satiated. But he has led many
+
+of his readers into a confusion between the provinces of Hedonics
+
+and Economics, by exaggerating the applications of his favourite
+
+phrases, and speaking (Theory, 2nd Edn, p. 105) without
+
+qualification of the price of a thing as measuring its final
+
+utility not only to an individual, which it can do, but also to
+
+"a trading body," which it cannot do. These points are developed
+
+later on in Appendix I on Ricardo's Theory of value. It should be
+
+added that Prof. Seligman has shown (Economic Journal, 1903, pp.
+
+356-63) that a long-forgotten Lecture, delivered by Prof. W.F.
+
+Lloyd at Oxford in 1833, anticipated many of the central ideas of
+
+the present doctrine of utility.
+
+    An excellent bibliography of Mathematical Economics is given
+
+by Prof. Fisher as an appendix to Bacon's translation of
+
+Cournot's Researches, to which the reader may be referred for a
+
+more detailed account of the earlier mathematical writings on
+
+economics, as well as of those by Edgeworth, Pareto, Wicksteed,
+
+Auspitz, Lieben and others. Pantaleoni's Pure Economics, amid
+
+much excellent matter, makes generally accessible for the first
+
+time the profoundly original and vigorous, if somewhat abstract,
+
+reasonings of Gossen.
+
+
+
+Chapter 4
+
+
+
+The Elasticity of Wants
+
+
+
+    1. We have seen that the only universal law as to a person's
+
+desire for a commodity is that it diminishes, other things being
+
+equal, with every increase in his supply of that commodity. But
+
+this diminution may be slow or rapid. If it is slow the price
+
+that he will give for the commodity will not fall much in
+
+consequence of a considerable increase in his supply of it; and a
+
+small fall in price will cause a comparatively large increase in
+
+his purchases. But if it is rapid, a small fall in price will
+
+cause only a very small increase in his purchases. In the former
+
+case his willingness to purchase the thing stretches itself out a
+
+great deal under the action of a small inducement: the elasticity
+
+of his wants, we may say, is great. In the latter case the extra
+
+inducement given by the fall in price causes hardly any extension
+
+of his desire to purchase: the elasticity of his demand is small.
+
+If a fall in price from say 16d. to 15d. per lb. of tea would
+
+much increase his purchases, then a rise in price from 15 d. to
+
+16d. would much diminish them. That is, when the demand is
+
+elastic for a fall in price, it is elastic also for a rise.
+
+    And as with the demand of one person so with that of a whole
+
+market. And we may say generally: - The elasticity (or
+
+responsiveness) of demand in a market is great or small according
+
+as the amount demanded increases much or little for a given fall
+
+in price, and diminishes much or little for a given rise in
+
+price.(1*)
+
+    2. The price which is so high relatively to the poor man as
+
+to be almost prohibitive, may be scarcely felt by the rich; the
+
+poor man, for instance, never tastes wine, but the very rich man
+
+may drink as much of it as he has a fancy for, without giving
+
+himself a thought of its cost. We shall therefore get the
+
+clearest notion of the law of the elasticity of demand by
+
+considering one class of society at a time. Of course there are
+
+many degrees of richness among the rich, and of poverty among the
+
+poor; but for the present we may neglect these minor
+
+subdivisions.
+
+    When the price of a thing is very high relatively to any
+
+class, they will buy but little of it; and in some cases custom
+
+and habit may prevent them from using it freely even after its
+
+price has fallen a good deal. It may still remain set apart for a
+
+limited number of special occasions, or for use in extreme
+
+illness, etc. But such cases, though not infrequent, do not form
+
+the general rule; and anyhow as soon as it has been taken into
+
+common use, any considerable fall in its price causes a great
+
+increase in the demand for it. The elasticity of demand is great
+
+for high prices, and great, or at least considerable, for medium
+
+prices; but it declines as the price falls; and gradually fades
+
+away if the fall goes so far that satiety level is reached.
+
+    This rule appears to hold with regard to nearly all
+
+commodities and with regard to the demand of every class; save
+
+only that the level at which high prices end and low prices
+
+begin, is different for different classes; and so again is the
+
+level at which low prices end and very low prices begin. There
+
+are however many varieties in detail; arising chiefly from the
+
+fact that there are some commodities with which people are easily
+
+satiated, and others-chiefly things used for display-for which
+
+their desire is almost unlimited. For the latter the elasticity
+
+of demand remains considerable, however low the price may fall,
+
+while for the former the demand loses nearly all its elasticity
+
+as soon as a low price has once been reached.(2*)
+
+    3. There are some things the current prices of which in this
+
+country are very low relatively even to the poorer classes; such
+
+are for instance salt, and many kinds of savours and flavours,
+
+and also cheap medicines. It is doubtful whether any fall in
+
+price would induce a considerable increase in the consumption of
+
+these.
+
+    The current prices of meat, milk and butter, wool, tobacco,
+
+imported fruits, and of ordinary medical attendance, are such
+
+that every variation in price makes a great change in the
+
+consumption of them by the working classes, and the lower half of
+
+the middle classes; but the rich would not much increase their
+
+own personal consumption of them however cheaply they were to be
+
+had. In other words, the direct demand for these commodities is
+
+very elastic on the part of the working and lower middle classes,
+
+though not on the part of the rich. But the working class is so
+
+numerous that their consumption of such things as are well within
+
+their reach is much greater than that of the rich; and therefore
+
+the aggregate demand for all things of the kind is very elastic.
+
+A little while ago sugar belonged to this group of commodities:
+
+but its price in England has now fallen so far as to be low
+
+relatively even to the working classes, and the demand for it is
+
+therefore not elastic.(3*)
+
+    The current prices of wall-fruit, of the better kinds of
+
+fish, and other moderately expensive luxuries are such as to make
+
+the consumption of them by the middle class increase much with
+
+every fall in price; in other words, the middle class demand for
+
+them is very elastic: while the demand on the part of the rich
+
+and on the part of the working class is much less elastic, the
+
+former because it is already nearly satiated, the latter because
+
+the price is still too high.
+
+    The current prices of such things as rare wines, fruit out of
+
+season, highly skilled medical and legal assistance, are so high
+
+that there is but little demand for them except from the rich:
+
+but what demand there is, often has considerable elasticity. Part
+
+of the demand for the more expensive kinds of food is really a
+
+demand for the means of obtaining social distinction, and is
+
+almost insatiable.(4*)
+
+    4. The case of necessaries is exceptional. When the price of
+
+wheat is very high, and again when it is very low, the demand has
+
+very little elasticity: at all events if we assume that wheat,
+
+even when scarce, is the cheapest food for man; and that, even
+
+when most plentiful, it is not consumed in any other way. We know
+
+that a fall in the price of the quartern loaf from 6d. to 4d. has
+
+scarcely any effect in increasing the consumption of bread. With
+
+regard to the other end of the scale it is more difficult to
+
+speak with certainty, because there has been no approach to a
+
+scarcity in England since the repeal of the corn laws. But,
+
+availing ourselves of the experience of a less happy time, we may
+
+suppose that deficits in the supply of 1, 2, 3, 4, or 5 tenths
+
+would cause a rise in price of 3, 8, 16, 28, or 45 tenths
+
+respectively.(5*) Much greater variations in prices indeed than
+
+this have not been uncommon. Thus wheat sold in London for ten
+
+shillings a bushel in 1335, but in the following year it sold for
+
+ten pence.(6*)
+
+    There may be even more violent changes than this in the price
+
+of a thing which is not necessary, if it is perishable and the
+
+demand for it is inelastic: thus fish may be very dear one day,
+
+and sold for manure two or three days later.
+
+    Water is one of the few things the consumption of which we
+
+are able to observe at all prices, from the very highest down to
+
+nothing at all. At moderate prices the demand for it is very
+
+elastic. But the uses to which it can be put are capable of being
+
+completely filled: and as its price sinks towards zero the demand
+
+for it loses its elasticity. Nearly the same may be said of salt.
+
+Its price in England is so low that the demand for it as an
+
+article of food is very inelastic: but in India the price is
+
+comparatively high and the demand is comparatively elastic.
+
+    The price of house-room, on the other hand, has never fallen
+
+very low except when a locality is being deserted by its
+
+inhabitants. Where the condition of society is healthy, and there
+
+is no check to general prosperity, there seems always to be an
+
+elastic demand for house-room, on account both of the real
+
+conveniences and the social distinction which it affords. The
+
+desire for those kinds of clothing which are not used for the
+
+purpose of display, is satiable: when their price is low the
+
+demand for them has scarcely any elasticity.
+
+    The demand for things of a higher quality depends much on
+
+sensibility. some people care little for a refined flavour in
+
+their wine provided they can get plenty of it: others crave a
+
+high quality, but are easily satiated. In the ordinary working
+
+class districts the inferior and the better joints are sold at
+
+nearly the same price: but some well-paid artisans in the north
+
+of England have developed a liking for the best meat, and will
+
+pay for it nearly as high a price as can be got in the west end
+
+of London, where the price is kept artificially high by the
+
+necessity of sending the inferior joints away for sale elsewhere.
+
+U se also gives rise to acquired distastes as well as to acquired
+
+tastes. Illustrations which make a book attractive to many
+
+readers, will repel those whose familiarity with better work has
+
+rendered them fastidious. A person of high musical sensibility in
+
+a large town will avoid bad concerts: though he might go to. them
+
+gladly if he lived in a small town, where no good concerts are to
+
+be heard, because there are not enough persons willing to pay the
+
+high price required to cover their expenses. The effective demand
+
+for first-rate music is elastic only in large towns; for
+
+second-rate music it is elastic both in large and small towns.
+
+    Generally speaking those things have the most elastic demand,
+
+which are capable of being applied to many different uses. Water
+
+for instance is needed first as food, then for cooking, then for
+
+washing of various kinds and so on. When there is no special
+
+drought, but water is sold by the pailful, the price may be low
+
+enough to enable even the poorer classes to drink as much of it
+
+as they are inclined, while for cooking they sometimes use the
+
+same water twice over, and they apply it very scantily in
+
+washing. The middle classes will perhaps not use any of it twice
+
+for cooking; but they will make a pail of water go a good deal
+
+further for washing purposes than if they had an unlimited supply
+
+at command. When water is supplied by pipes, and charged at a
+
+very low rate by meter, many people use as much of it even for
+
+washing as they feel at all inclined to do; and when the water is
+
+supplied not by meter but at a fixed annual charge, and is laid
+
+on in every place where it is wanted, the use of it for every
+
+purpose is carried to the full satiety limit.(7*)
+
+    On the other hand, demand is, generally speaking, very
+
+inelastic, firstly, for absolute necessaries (as distinguished
+
+from conventional necessaries and necessaries for efficiency);
+
+and secondly, for some of those luxuries of the rich which do not
+
+absorb much of their income.
+
+    5. So far we have taken no account of the difficulties of
+
+getting exact lists of demand prices, and interpreting them
+
+correctly. The first which we have to consider arises from the
+
+element of time, the source of many of the greatest difficulties
+
+in economics.
+
+    Thus while a list of demand prices represents the changes in
+
+the price at which a commodity can be sold consequent on changes
+
+in the amount offered for sale, other things being, yet other
+
+things seldom are equal in fact over equal; periods of time
+
+sufficiently long for the collection of full and trustworthy
+
+statistics. There are always occurring disturbing causes whose
+
+effects are commingled with, and cannot easily be separated from,
+
+the effects of that particular cause which we desire to isolate.
+
+This difficulty is aggravated by the fact that in economics the
+
+full effects of a cause seldom come at once, but often spread
+
+themselves out after it has ceased to exist.
+
+    To begin with, the purchasing power of money is continually
+
+changing, and rendering necessary a correction of the results
+
+obtained on our assumption that money retains a uniform value.
+
+This difficulty can however be overcome fairly well, since we can
+
+ascertain with tolerable accuracy the broader changes in the
+
+purchasing power of money.
+
+    Next come the changes in the general prosperity and in the
+
+total purchasing power at the disposal of the community at large.
+
+The influence of these changes is important, but perhaps less so
+
+than is generally supposed. For when the wave of prosperity is
+
+descending, prices fall, and this increases the resources of
+
+those with fixed incomes at the expense of those whose incomes
+
+depend on the profits of business. The downward fluctuation of
+
+prosperity is popularly measured almost entirely by the
+
+conspicuous losses of this last class; but the statistics of the
+
+total consumption of such commodities as tea, sugar, butter,
+
+wool, etc. prove that the total purchasing power of the people
+
+does not meanwhile fall very fast. Still there is a fall, and the
+
+allowance to be made for it must be ascertained by comparing the
+
+prices and the consumption of as many things as possible.
+
+    Next come the changes due to the gradual growth of population
+
+and wealth. For these an easy numerical correction can be made
+
+when the facts are known.(8*)
+
+    6. Next, allowance must be made for changes in fashion, and
+
+taste and habit,(9*) for the opening out of new uses of a
+
+commodity, for the discovery or improvement or cheapening of
+
+other things that can be applied to the same uses with it. In all
+
+these cases there is great difficulty in allowing for the time
+
+that elapses between the economic cause and its effect. For time
+
+is required to enable a rise in the price of a commodity to exert
+
+its full influence on consumption. Time is required for consumers
+
+to become familiar with substitutes that can be used instead of
+
+it, and perhaps for producers to get into the habit of producing
+
+them in sufficient quantities. Time may be also wanted for the
+
+growth of habits of familiarity with the new commodities and the
+
+discovery of methods of economizing them.
+
+    For instance when wood and charcoal became dear in England,
+
+familiarity with coal as a fuel grew slowly, fireplaces were but
+
+slowly adapted to its use, and an organized traffic in it did not
+
+spring up quickly even to places to which it could be easily
+
+carried by water.. the invention of processes by which it could
+
+be used as a substitute for charcoal in manufacture went even
+
+more slowly, and is indeed hardly yet complete. Again, when in
+
+recent years the price of coal became very high, a great stimulus
+
+was given to the invention of economies in its use, especially in
+
+the production of iron and steam; but few of these inventions
+
+bore much practical fruit till after the high price had passed
+
+away. Again, when a new tramway or suburban railway is opened,
+
+even those who live near the line do not get into the habit of
+
+making the most of its assistance at once; and a good deal more
+
+time elapses before many of those whose places of business are
+
+near one end of the line change their homes so as to live near
+
+the other end. Again, when petroleum first became plentiful few
+
+people were ready to use it freely; gradually petroleum and
+
+petroleum lamps have become familiar to all classes of society:
+
+too much influence would therefore be attributed to the fall in
+
+price which has occurred since then, if it were credited with all
+
+the increase of consumption.
+
+    Another difficulty of the same kind arises from the fact that
+
+there are many purchases which can easily be put off for a short
+
+time, but not for a long time. This is often the case with regard
+
+to clothes and other things which are worn out gradually, and
+
+which can be made to serve a little longer than usual under the
+
+pressure of high prices. For instance, at the beginning of the
+
+cotton famine the recorded consumption of cotton in England was
+
+very small. This was partly because retail dealers reduced their
+
+stock, but chiefly because people generally made shift to do as
+
+long as they could without buying new cotton goods. In 1864
+
+however many found themselves unable to wait longer; and a good
+
+deal more cotton was entered for home consumption in that year,
+
+though the price was then much higher, than in either of the
+
+preceding years. For commodities of this kind then a sudden
+
+scarcity does not immediately raise the price fully up to the
+
+level, which properly corresponds to the reduced supply.
+
+Similarly after the great commercial depression in the United
+
+States in 1873 it was noticed that the boot trade revived before
+
+the general clothing trade; because there is a great deal of
+
+reserve wear in the coats and hats that are thrown aside in
+
+prosperous times as worn out, but not so much in the boots.
+
+    7. The above difficulties are fundamental: but there are
+
+others which do not lie deeper than the more or less inevitable
+
+faults of our statistical returns.
+
+    We desire to obtain, if possible, a series of prices at which
+
+different amounts of a commodity can find purchasers during a
+
+given time in a market. A perfect market is a district, small or
+
+large, in which there are many buyers and many sellers all so
+
+keenly on the alert and so well acquainted with one another's
+
+affairs that the price of a commodity is always practically the
+
+same for the whole of the district. But independently of the fact
+
+that those who buy for their own consumption, and not for the
+
+purposes of trade, are not always on the look out for every
+
+change in the market, there is no means of ascertaining exactly
+
+what prices are paid in many transactions. Again, the
+
+geographical limits of a market are seldom clearly drawn, except
+
+when they are marked out by the sea or by custom-house barriers;
+
+and no country has accurate statistics of commodities produced in
+
+it for home consumption.
+
+    Again, there is generally some ambiguity even in such
+
+statistics as are to be had. They commonly show goods as entered
+
+for consumption as soon as they pass into the hands of dealers;
+
+and consequently an increase of dealers' stocks cannot easily be
+
+distinguished from an increase of consumption. But the two are
+
+governed by different causes. A rise of prices tends to check
+
+consumption; but if the rise is expected to continue, it will
+
+probably, as has already been noticed, lead dealers to increase
+
+their stocks.(10*)
+
+    Next it is difficult to insure that the commodities referred
+
+to are always of the same quality. After a dry summer what wheat
+
+there is, is exceptionally good; and the prices for the next
+
+harvest year appear to be higher than they really are. It is
+
+possible to make allowance for this, particularly now that dry
+
+Californian wheat affords a standard. But it is almost impossible
+
+to allow properly for the changes in quality of many kinds of
+
+manufactured goods. This difficulty occurs even in the case of
+
+such a thing as tea: the substitution in recent years of the
+
+stronger Indian tea for the weaker Chinese tea has made the real
+
+increase of consumption greater than that which is shown by the
+
+statistics.
+
+
+
+NOTE ON STATISTICS OF CONSUMPTION
+
+
+
+    8. General Statistics of consumption are published by many
+
+Governments with regard to certain classes of commodities. But
+
+partly for the reasons just indicated they are of very little
+
+service in helping us to trace either a causal connection between
+
+variations in prices and variations in the amounts which people
+
+will buy, or in the distribution of different kinds of
+
+consumption among the different classes of the community.
+
+    As regards the first of these objects, viz. the discovery of
+
+the laws connecting variations in consumption consequent on
+
+variations in price, there seems much to be gained by working out
+
+a hint given by Jevons (Theory, pp. 11, 12) with regard to
+
+shopkeepers' books. A shopkeeper, or the manager of a
+
+co-operative store, in the working man's quarter of a
+
+manufacturing town has often the means of ascertaining with
+
+tolerable accuracy the financial position of the great body of
+
+his customers. He can find out how many factories are at work,
+
+and for how many hours in the week, and he can hear about all the
+
+important changes in the rate of wages: in fact he makes it his
+
+business to do so. And as a rule his customers are quick in
+
+finding out changes in the price of things which they commonly
+
+use. He will therefore often find cases in which an increased
+
+consumption of a commodity is brought about by a fall in its
+
+price, the cause acting quickly, and acting alone without any
+
+admixture of disturbing causes. Even where disturbing causes are
+
+present, he will often be able to allow for their influence. For
+
+instance, he will know that as the winter comes on, the prices of
+
+butter and vegetables rise; but the cold weather makes people
+
+desire butter more and vegetables less than before: and therefore
+
+when the prices of both vegetables and butter rise towards the
+
+winter, he will expect a greater falling off of consumption in
+
+the case of vegetables than should properly be attributed to the
+
+rise in price taken alone, but a less falling off in the case of
+
+butter. If however in two neighbouring winters his customers have
+
+been about equally numerous, and in receipt of about the same
+
+rate of wages; and if in the one the price of butter was a good
+
+deal higher than in the other, then a comparison of his books for
+
+the two winters will afford a very accurate indication of the
+
+influence of changes in price on consumption. Shopkeepers who
+
+supply other classes of society must occasionally be in a
+
+position to furnish similar facts relating to the consumption of
+
+their customers.
+
+    If a sufficient number of tables of demand by different
+
+sections of society could be obtained, they would afford the
+
+means of estimating indirectly the variations in total demand
+
+that would result from extreme variations in price, and thus
+
+attaining an end which is inaccessible by any other route. For,
+
+as a general rule, the price of a commodity fluctuates within but
+
+narrow limits; and therefore statistics afford us no direct means
+
+of guessing what the consumption of it would be, if its price
+
+were either fivefold or a fifth part of what it actually is. But
+
+we know that its consumption would be confined almost entirely to
+
+the rich if its price were very high; and that, if its price were
+
+very low, the great body of its consumption would in most cases
+
+be among the working classes. If then the present price is very
+
+high relatively to the middle or to the working classes, we may
+
+be able to infer from the laws of their demand at the present
+
+prices what would be the demand of the rich if the price were so
+
+raised so as to be very high relatively even to their means. On
+
+the other hand, if the present price is moderate relatively to
+
+the means of the rich, we may be able to infer from their demand
+
+what would be the demand of the working classes if the price were
+
+to fall to a level which is moderate relatively to their means.
+
+It is only by thus piecing together fragmentary laws of demand
+
+that we can hope to get any approach to an accurate law relating
+
+to widely different prices. (That is to say, the general demand
+
+curve for a commodity cannot be drawn with confidence except in
+
+the immediate neighbourhood of the current price, until we are
+
+able to piece it together out of the fragmentary demand curves of
+
+different classes of society. Compare the second section of this
+
+Chapter.
+
+     When some progress has been made in reducing to definite law
+
+the demand for commodities that are destined for immediate
+
+consumption, then, but not till then, will there be use in
+
+attempting a similar task with regard to those secondary demands
+
+which are dependent on these -the demands namely for the labour
+
+of artisans and others who take part in the production of things
+
+for sale; and again the demand for machines, factories, railway
+
+material and other instruments of production. The demand for the
+
+work of medical men, of domestic servants and of all those whose
+
+services are rendered direct to the consumer is similar in
+
+character to the demand for commodities for immediate
+
+consumption, and its laws may be investigated in the same manner.
+
+    It is a very important, but also difficult task to ascertain
+
+the proportions in which the different classes of society
+
+distribute their expenditure between necessaries, comforts and
+
+luxuries; between things that provide only present pleasure, and
+
+those that build up stores of physical and moral strength; and
+
+lastly between those which gratify the lower wants and those
+
+which stimulate and educate the higher wants. Several endeavours
+
+have been made in this direction on the Continent during the last
+
+fifty years; and latterly the subject has been investigated with
+
+increasing vigour not only there but also in America and in
+
+England.(11*)
+
+
+
+NOTES:
+
+
+
+1. We may say that the elasticity of demand is one, if a small
+
+fall in price will cause an equal proportionate increase in the
+
+amount demanded: or as we may say roughly, if a fall of one per
+
+cent. in price will increase the sales by one per cent; that it
+
+is two or a hal, if a fall of one per cent in price makes an
+
+increase of two or one half per cent respectively in the amount
+
+demanded; and so on. (This statement is rough; because 98 does
+
+not bear exactly the same proportion to 100 that 100 does to
+
+102.) The elasticity of demand can be best traced in the demand
+
+curve with the aid of the following rule. Let a straight line
+
+touching the curve at any point P meet Ox in T and Oy in t, then
+
+the measure of the elasticity at the point P is the ratio of PT
+
+to Pt.
+
+     If PT were twice Pt, a fall of 1 per cent in price would
+
+cause an increase of 2 per cent, in the amount demanded; the
+
+elasticity of demand would be two. If PT were one-third of Pt, a
+
+fall of 1 per cent in price would cause an increase of 1/3 per
+
+cent. in the amount demanded; the elasticity of demand would be
+
+one-third; and so on. Another way of looking at the same result
+
+is this: the elasticity at the point P is measured by the ratio
+
+of PT to Pt, that is of MT to MO (PM being drawn perpendicular to
+
+Om); and therefore the elasticity is equal to one when the angle
+
+TPM is equal to the angle OPM; and it always increases when the
+
+angle TPM increases relatively to the angle OPM, and vice versa.
+
+See Note III in the Mathematical Appendix.
+
+
+
+2. Let us illustrate by the case of the demand for, say, green
+
+peas in a town in which all vegetables are bought and sold in one
+
+market. Early in the season perhaps 100 lb. a day will be brought
+
+to market and sold at 1s. per lb., later on 500 lb. will be
+
+brought and sold at 6d., later on 1,000 lb. at 4d., later still
+
+5,000 at 2d., and later still 10,000 at 1 1/2d. Thus demand is
+
+represented in fig. (4), an inch along Ox representing 5,000 lb.
+
+and an inch along Oy representing 10d. Then a curve through p1,
+
+p2,..., p5, found as shown above, will be the total demand curve.
+
+But this total demand will be made up of the demands of the rich,
+
+the middle class and the poor. The amounts that they will
+
+severally demand may perhaps be represented by the following
+
+schedules: --
+
+
+
+At price in         Number of lbs. bought by
+
+ pence per lb.  rich    middle class   poor      Total
+
+
+
+ 12             100         0           0            100
+
+  6             300       200           0            500
+
+  4             500       400         100          1,000
+
+  2             800     2,500       1,700          5,000
+
+  1 1/2       1,000     4,000       5,000         10,000
+
+
+
+These schedules are translated into curves figs. (5), (6), (7),
+
+showing the demands of the rich, the middle class and the poor
+
+represented on the same scale as fig. (4). Thus for instance AH,
+
+BK and CL each represents a price of 2d. and is.2 inches in
+
+length;  OH =.16 in. representing 800 lb., OK =.5 in.
+
+representing 2,500 lb. and OL =.34 in. representing 1,700 lb.,
+
+while OH + OK + OL = 1 inch, i.e. = Om4 in fig. (4) as they
+
+should do. This may serve as an example of the way in which
+
+several partial demand curves, drawn to the same scale, can be
+
+superimposed horizontally on one another to make the total demand
+
+curve representing the aggregate of the partial demands.
+
+
+
+3. We must however remember that the character of the demand
+
+schedule for any commodity depends in a great measure on whether
+
+the prices of its rivals are taken to be fixed or to alter with
+
+it. If we separated the demand for beef from that for mutton, and
+
+supposed the price of mutton to be held fixed while that for beef
+
+was raised, then the demand for beef would become extremely
+
+elastic. For any slight fall in the price of beef would cause it
+
+to be used largely in the place of mutton and thus lead to a very
+
+great increase of its consumption: while on the other hand even a
+
+small rise in price would cause many people to eat mutton to the
+
+almost entire exclusion of beef. But the demand schedule for all
+
+kinds of fresh meat taken together, their prices being supposed
+
+to retain always about the same relation to one another, and to
+
+be not very different from those now prevail ing in England,
+
+shows only a moderate elasticity. And similar remarks apply to
+
+beet-root and cane-sugar. Compare the note on p. 100.
+
+
+
+4. See above ch. II, sec. 1. In April 1894, for instance, six
+
+plovers' eggs, the first of the season, were sold in London at
+
+10s. 6d each. The following day there were more, and the price
+
+fell to 5s.; the next day to 3s. each; and a week later to 4d.
+
+
+
+5. This estimate is commonly attributed to Gregory King. Its
+
+bearing on the law of demand is admirably discussed by Lord
+
+Lauderdale (Inquiry, pp. 51-3). It is represented in fig. (8) by
+
+the curve DD', the point A corresponding to the ordinary price.
+
+If we take account of the fact that where the price of wheat is
+
+very low, it may be used, as it was for instance in 1834, for
+
+feeding cattle and sheep and pigs and for brewing and distilling,
+
+the lower part of the curve would take a shape somewhat like that
+
+of the dotted line in the figure. And if we assume that when the
+
+price is very high, cheaper substitutes can be got for it, the
+
+upper part of the curve would take a shape similar to that of the
+
+upper dotted line.
+
+
+
+6. Chronicon Preciosum (A.D. 1745) says that the price of wheat
+
+in London was as low as 2s. a quarter in 1336: and that at
+
+Leicester it sold at 40s. on a Saturday, and at 14s. on the
+
+following Friday.
+
+
+
+7. Thus the general demand of any one person for such a thing as
+
+water is the aggregate (or compound, see V, VI, 3) of his demand
+
+for it for each use; in the same way as the demand of a group of
+
+people of different orders of wealth for a commodity, which is
+
+serviceable in only one use, is the aggregate of the demands of
+
+each member of the group. Again, just as the demand of the rich
+
+for peas is considerable even at a very high price, but loses all
+
+elasticity at a price that is still high relatively to the
+
+consumption of the poor; so the demand of the individual for
+
+water to drink is considerable even at a very high price, but
+
+loses all elasticity at a price that is still high relatively to
+
+his demand for it for the purpose of cleaning up the house. And
+
+as the aggregate of a number of demands on the part of different
+
+classes of people for peas retains elasticity over a larger range
+
+of price than will that of any one individual, so the demand of
+
+an individual for water for many uses retains elasticity over a
+
+larger range of prices than his demand for it for any one use.
+
+Compare an article by J.B. Clark on A Universal Law of Economic
+
+Variation in the Harvard Journal of Economics, Vol. VIII.
+
+
+
+8. When a statistical table shows the gradual growth of the
+
+consumption of a commodity over a long series of years, we may
+
+want to compare the percentage by which it increases in different
+
+years. This can be done pretty easily with a little practice. But
+
+when the figures are expressed in the form of a statistical
+
+diagram, it cannot easily be done, without translating the
+
+diagram back into figures; and this is a cause of the disfavour
+
+in which many statisticians hold the graphic method. But by the
+
+knowledge of one simple rule the balance can be turned, so far as
+
+this point goes, in favour of the graphic method. The rule is as
+
+follows: - Let the quantity of a commodity consumed (or of trade
+
+carried, or of tax levied etc.) be measured by horizontal lines
+
+parallel to Ox, fig. (9), while the corresponding years are in
+
+the usual manner ticked off in descending order at equal
+
+distances along Oy. To measure the rate of growth at any point P,
+
+put a ruler to touch the curve at P. Let it meet Oy in t, and let
+
+N be the point on Oy at the same vertical height as P: then the
+
+number of years marked off along Oy by the distance Nt is the
+
+inverse of the fraction by which the amount is increasing
+
+annually. That is, if Nt is 20 years, the amount is increasing at
+
+the rate of 1/20, i.e. of 5 per cent, annually. if Nt is 25
+
+years, the increase is 1/25 or 4 per cent annually; and so on.
+
+See a paper by the present writer in the Jubilee number of the
+
+Journal of the London Statistical Society, June 1885; also Note
+
+IV in the Mathematical Appendix.
+
+
+
+9. For illustrations of the influence of fashion see articles by
+
+Miss Foley in the Economic Journal, Vol. III, and Miss Heather
+
+Bigg in the Nineteenth Century, Vol. XXIII.
+
+
+
+10. In examining the effects of taxation, it is customary to
+
+compare the amounts entered for consumption just before and just
+
+after the imposition of the tax. But this is untrustworthy. For
+
+dealers anticipating the tax lay in large stocks just before it
+
+is imposed, and need to buy very little for some time afterwards.
+
+And vice versa when a tax is lowered. Again, high taxes lead to
+
+false returns. For instance, the nominal importation of molasses
+
+into Boston increased fifty-fold in consequence of the tax being
+
+lowered by the Rockingham Ministry in 1766, from 6d. to 1d. per
+
+gallon. But this was chiefly due to the fact that with the tax at
+
+1d., it was cheaper to pay the duty than to smuggle.
+
+
+
+11. A single table made out by the great statistician Engel for
+
+the consumption of the lower, middle and working classes in
+
+Saxony in 1857, may be quoted here; because it has acted as a
+
+guide and a standard of comparison to later inquiries. It is as
+
+follows:
+
+
+
+Proportions of the Expenditure of the Family of:
+
+
+
+Items of Expenditure    I.          II          III
+
+1. Food only          62.0%       25.0%        50.0%
+
+2. Clothing           16.0        18.0         18.0
+
+3. Lodging            12.0        12.0         12.0
+
+4. Light and Fuel      5.0         5.0          5.0
+
+5. Education           2.0         3.8          5.5
+
+6. Legal Protection    1.0         2.0          3.0
+
+7. Care of Health      1.0         2.0          3.0
+
+8. Comfort and
+
+    recreation         1.0         2.5          3.5
+
+TOTALS               100.0       100.0        100.0
+
+
+
+I. Workmen with an income of 45 l. to 60 l. a Year.
+
+II. Workmen with an income of 90 l. to 120 l. a Year.
+
+III. Workmen with an income of 150 l. to 200 l. a Year.
+
+
+
+    Working men's budgets have often been collected and compared.
+
+But like all other figures of the kind they suffer from the facts
+
+that those who will take the trouble to make such returns
+
+voluntarily are not average men, that those who keep careful
+
+accounts are not average men; and that when accounts have to be
+
+supplemented by the memory, the memory is apt to be biassed by
+
+notions as to how the money ought to have been spent, especially
+
+when the accounts are put together specially for another's eye.
+
+This border-ground between the provinces of domestic and public
+
+economy is one in which excellent work may be done by many who
+
+are disinclined for more general and abstract speculations.
+
+    Information bearing on the subject was collected long ago by
+
+Harrison, Petty, Cantillon (whose lost Supplement seems to have
+
+contained some workmen's budgets), Arthur Young, Malthus and
+
+others. Working-men's budgets were collected by Eden at the end
+
+of the last century; and there is much miscellaneous information
+
+on the expenditure of the working classes in subsequent Reports
+
+of Commissions on Poor-relief, Factories, etc. Indeed almost
+
+every year sees some important addition from public or private
+
+sources to our information on these subjects.
+
+    It may be noted that the method of le Play's monumental Les
+
+Ouvriers Europeens is the intensive study of all the details of
+
+the domestic life of a few carefully chosen families. To work it
+
+well requires a rare combination of judgment in selecting cases,
+
+and of insight and sympathy in interpreting them. At its best, it
+
+is the best of all: but in ordinary hands it is likely to suggest
+
+more untrustworthy general conclusions, than those obtained by
+
+the extensive method of collecting more rapidly very numerous
+
+observations, reducing them as far as possible to statistical
+
+form, and obtaining broad averages in which inaccuracies and
+
+idiosyncrasies may be trusted to counteract one another to some
+
+extent.
+
+
+
+
+
+Chapter 5
+
+
+
+Choice between Different Uses of the Same Thing. Immediate and
+
+Deferred Uses.
+
+
+
+    1. The primitive housewife finding that she has a limited
+
+number of hanks of yarn from the year's shearing, considers all
+
+the domestic wants for clothing and tries to distribute the yarn
+
+between them in such a way as to contribute as much as possible
+
+to the family wellbeing. She will think she has failed if, when
+
+it is done, she has reason to regret that she did not apply more
+
+to making, say, socks, and less to vests. That would mean that
+
+she had miscalculated the points at which to suspend the making
+
+of socks and vests respectively; that she had gone too far in the
+
+case of vests, and not far enough in that of socks; and that
+
+therefore at the points at which she actually did stop, the
+
+utility of yarn turned into socks was greater than that of yarn
+
+turned into vests. But if, on the other hand, she hit on the
+
+right points to stop at, then she made just so many socks and
+
+vests that she got an equal amount of good out of the last bundle
+
+of yarn that she applied to socks, and the last she applied to
+
+vests. This illustrates a general principle, which may be
+
+expressed thus: --
+
+    If a person has a thing which he can put to several uses, he
+
+will distribute it among these uses in such a way that it has the
+
+same marginal utility in all. For if it had a greater marginal
+
+utility in one use than another, he would gain by taking away
+
+some of it from the second use and applying it to the first.(1*)
+
+    One great disadvantage of a primitive economy, in which there
+
+is but little free exchange, is that a person may easily have so
+
+much of one thing, say wool, that when he has applied it to every
+
+possible use, its marginal utility in each use is low: and at the
+
+same time he may have so little of some other thing, say wood,
+
+that its marginal utility for him is very high. Meanwhile some of
+
+his neighbours may be in great need of wool, and have more wood
+
+than they can turn to good account. If each gives up that which
+
+has for him the lower utility and receives that which has the
+
+higher, each will gain by the exchange. But to make such an
+
+adjustment by barter, would be tedious and difficult.
+
+    The difficulty of barter is indeed not so very great where
+
+there are but a few simple commodities each capable of being
+
+adapted by domestic work to several uses; the weaving wife and
+
+the spinster daughters adjusting rightly the marginal utilities
+
+of the different uses of the wool, while the husband and the sons
+
+do the same for the wood.
+
+    2. But when commodities have become very numerous and highly
+
+specialized, there is an urgent need for the free use of money,
+
+or general purchasing power; for that alone can be applied easily
+
+in an unlimited variety of purchases. And in a money-economy,
+
+good management is shown by so adjusting the margins of suspense
+
+on each line of expenditure that the marginal utility of a
+
+shilling's worth of goods on each line shall be the same. And
+
+this result each one will attain by constantly watching to see
+
+whether there is anything on which he is spending so much that he
+
+would gain by taking a little away from that line of expenditure
+
+and putting it on some other line.
+
+    Thus, for instance, the clerk who is in doubt whether to ride
+
+to town, or to walk and have some little extra indulgence at his
+
+lunch, is weighing against one another the (marginal) utilities
+
+of two different modes of spending his money. And when an
+
+experienced housekeeper urges on a young couple the importance of
+
+keeping accounts carefully., a chief motive of the advice is that
+
+they may avoid spending impulsively a great deal of money on
+
+furniture and other things; for, though some quantity of these is
+
+really needful, yet when bought lavishly they do not give high
+
+(marginal) utilities in proportion to their cost. And when the
+
+young pair look over their year's budget at the end of the year,
+
+and find perhaps that it is necessary to curtail their
+
+expenditure somewhere, they compare the (marginal) utilities of
+
+different items, weighing the loss of utility that would result
+
+from taking away a pound's expenditure here, with that which they
+
+would lose by taking it away there: they strive to adjust their
+
+parings down so that the aggregate loss of utility may be a
+
+minimum, and the aggregate of utility that remains to them may be
+
+a maximum.(2*)
+
+    3. The different uses between which a commodity is
+
+distributed need not all be present uses; some may be present and
+
+some future. A prudent person will endeavour to distribute his
+
+means between all their several uses, present and future, in such
+
+a way that they will have in each the same marginal utility. But
+
+in estimating the present marginal utility of a distant source of
+
+pleasure a twofold allowance must be made; firstly, for its
+
+uncertainty (this is an objective property which all
+
+well-informed persons would estimate in the same way); and
+
+secondly, for the difference in the value to them of a distant as
+
+compared with a present pleasure (this is a subjective property
+
+which different people would estimate in different ways according
+
+to their individual characters, and their circumstances at the
+
+time).
+
+    If people regarded future benefits as equally desirable with
+
+similar benefits at the present time, they would probably
+
+endeavour to distribute their pleasures and other satisfactions
+
+evenly throughout their lives. They would therefore generally be
+
+willing to give up a present pleasure for the sake of an equal
+
+pleasure in the future, provided they could be certain of having
+
+it. But in fact human nature is so constituted that in estimating
+
+the "present value" of a future benefit most people generally
+
+make a second deduction from its future value, in the form of
+
+what we may call a "discount," that increases with the period for
+
+which the benefit is deferred. One will reckon a distant benefit
+
+at nearly the same value which it would have for him if it were
+
+present; while another who has less power of realizing the
+
+future, less patience and self-control, will care comparatively
+
+little for any benefit that is not near at hand. And the same
+
+person will vary in his mood, being at one time impatient, and
+
+greedy for present enjoyment; while at another his mind dwells on
+
+the future, and he is willing to postpone all enjoyments that can
+
+conveniently be made to wait. Sometimes he is in a mood to care
+
+little for anything else: sometimes he is like the children who
+
+pick the plums out of their pudding to eat them at once,
+
+sometimes like those who put them aside to be eaten last. And, in
+
+any case, when calculating the rate at which a future benefit is
+
+discounted, we must be careful to make allowance for the
+
+pleasures of expectation.
+
+    The rates at which different people discount the future
+
+affect not only their tendency to save, as the term is ordinarily
+
+understood, but also their tendency to buy things which will be a
+
+lasting source of pleasure rather than those which give a
+
+stronger but more transient enjoyment; to buy a new coat rather
+
+than to indulge in a drinking bout, or to choose simple furniture
+
+that will wear well, rather than showy furniture that will soon
+
+fall to pieces.
+
+    It is in regard to these things especially that the pleasure
+
+of possession makes itself felt. Many people derive from the mere
+
+feeling of ownership a stronger satisfaction than they derive
+
+from ordinary pleasures in the narrower sense of the term: for
+
+example, the delight in the possession of land will often induce
+
+people to pay for it so high a price that it yields them but a
+
+very poor return on their investment. There is a delight in
+
+ownership for its own sake; and there is a delight in ownership
+
+on account of the distinction it yields. Sometimes the latter is
+
+stronger than the former, sometimes weaker; and perhaps no one
+
+knows himself or other people well enough to be able to draw the
+
+line quite certainly between the two.
+
+    4. As has already been urged, we cannot compare the
+
+quantities of two benefits, which are enjoyed at different times
+
+even by the same person. When a person postpones a
+
+pleasure-giving event he does not postpone the pleasure; but he
+
+gives up a present pleasure and takes in its place another, or an
+
+expectation of getting another at a future date: and we cannot
+
+tell whether he expects the future pleasure to be greater than
+
+the one which he is giving up, unless we know all the
+
+circumstances of the case. And therefore, even though we know the
+
+rate at which he discounts future pleasurable events, such as
+
+spending ? on immediate gratifications, we yet do not know the
+
+rate at which he discounts future pleasures.(3*)
+
+    We can however get an artificial measure of the rate at which
+
+he discounts future benefits by making two assumptions. These
+
+are, firstly, that he expects to be about as rich at the future
+
+date as he is now; and secondly, that his capacity for deriving
+
+benefit from the things which money will buy will on the whole
+
+remain unchanged, though it may have increased in some directions
+
+and diminished in others. On these assumptions, if he is willing,
+
+but only just willing, to spare a pound from his expenditure now
+
+with the certainty of having (for the disposal of himself or his
+
+heirs) a guinea one year hence, we may fairly say that he
+
+discounts future benefits that are perfectly secure (subject only
+
+to the conditions of human mortality) at the rate of five per
+
+cent per annum. And on these assumptions the rate at which he
+
+discounts future (certain) benefits, will be the rate at which he
+
+can discount money in the money market.(4*)
+
+    So far we have considered each pleasure singly; but a great
+
+many of the things which people buy are durable, i.e. are not
+
+consumed in a single use; a durable good, such as a piano, is the
+
+probable source of many pleasures, more or less remote; and its
+
+value to a purchaser is the aggregate of the usance, or worth to
+
+him of all these pleasures, allowance being made for their
+
+uncertainty and for their distance.(5*)
+
+
+
+NOTES:
+
+
+
+1. Our illustration belongs indeed properly to domestic
+
+production rather than to domestic consumption. But that was
+
+almost inevitable; for there are very few things ready for
+
+immediate consumption which are available for many different
+
+uses. And the doctrine of the distribution of means between
+
+different uses has less important and less interesting
+
+applications in the science of demand than in that of supply. See
+
+e.g. V, III, sec. 3.
+
+
+
+2. The working-class budgets which were mentioned in Ch. IV, sec.
+
+8 may render most important services in helping people to
+
+distribute their resources wisely between different uses, so that
+
+the marginal utility for each purpose shall be the same. But the
+
+vital problems of domestic economy relate as much to wise action
+
+as to wise spending. The English and the American housewife make
+
+limited means go a less way towards satisfying wants than the
+
+French housewife does, not because they do not know how to buy,
+
+but because they cannot produce as good finished commodities out
+
+of the raw material of inexpensive joints, vegetables etc., as
+
+she can. Domestic economy is often spoken of as belonging to the
+
+science of consumption: but that is only half true. The greatest
+
+faults in domestic economy, among the sober portion of the
+
+Anglo-Saxon working classes at all events, are faults of
+
+production rather than of consumption.
+
+
+
+3. In classifying some pleasures as more urgent than others, it
+
+is often forgotten that the postponement of a pleasurable event
+
+may alter the circumstances under which it occurs, and therefore
+
+alter the character of the pleasure itself. For instance it may
+
+be said that a young man discounts at a very high rate the
+
+pleasure of the Alpine tours which he hopes to be able to afford
+
+himself when he has made his fortune. He would much rather have
+
+them now, partly because they would give him much greater
+
+pleasure now.
+
+    Again, it may happen that the postponement of a pleasurable
+
+event involves an unequal distribution in Time of a certain good,
+
+and that the Law of Diminution of Marginal Utility acts strongly
+
+in the case of this particular good. For instance, it is
+
+sometimes said that the pleasures of eating are specially urgent;
+
+and it is undoubtedly true that if a man goes dinnerless for six
+
+days in the week and eats seven dinners on the seventh, he loses
+
+very much; because when postponing six dinners, he does not
+
+postpone the pleasures of eating six separate dinners, but
+
+substitutes for them the pleasure of one day's excessive eating.
+
+Again, when a person puts away eggs for the winter he does not
+
+expect that they will be better flavoured then than now; he
+
+expects that they will be scarce, and that therefore their
+
+utility will be higher than now. This shows the importance of
+
+drawing a clear distinction between discounting a future
+
+pleasure, and discounting the pleasure derived from the future
+
+enjoyment of a certain amount of a commodity. For in the latter
+
+case we must make separate allowance for differences between the
+
+marginal utilities of the commodity at the two times: but in the
+
+former this has been allowed for once in estimating the amount of
+
+the pleasure; and it must not be allowed for again.
+
+
+
+4. It is important to remember that, except on these assumptions
+
+there is no direct connection between the rate of discount on the
+
+loan of money, and the rate at which future pleasures are
+
+discounted. A man may be so impatient of delay that a certain
+
+promise of a pleasure ten years hence will not induce him to give
+
+up one close at hand which he regards as a quarter as great. And
+
+yet if he should fear that ten years hence money may be so scarce
+
+with him (and its marginal utility therefore so high) that
+
+half-a-crown then may give him more pleasure or save him more
+
+pain than a pound now, he will save something for the future even
+
+though he have to hoard it, on the same principle that he might
+
+store eggs for the winter. But we are here straying into
+
+questions that are more closely connected with Supply than with
+
+Demand. We shall have to consider them again from different
+
+points of view in connection with the Accumulation of Wealth, and
+
+later again in connection with the causes that determine the Rate
+
+of Interest.
+
+    We may however consider here how to measure numerically the
+
+present value of a future pleasure, on the supposition that we
+
+know, (i) its amount, (ii) the date at which it will come, if it
+
+comes at all, (iii) the chance that it will come, and (iv) the
+
+rate at which the person in question discounts future pleasures.
+
+    If the probability that a pleasure will be enjoyed is three
+
+to one, so that three chances out of four are in its favour, the
+
+value of its expectation is three-fourths of what it would be if
+
+it were certain: if the probability that it will be enjoyed were
+
+only seven to five, so that only seven chances out of twelve are
+
+in its favour, the value of its expectation is only seven
+
+twelfths of what it would be if the event were certain, and so
+
+on. [This is its actuarial value: but further allowance may have
+
+to be made for the fact that the true value to anyone of an
+
+uncertain gain is generally less than its actuarial value (see
+
+the note on p. 135).] If the anticipated pleasure is both
+
+uncertain and distant, we have a twofold deduction to make from
+
+its full value. We will suppose, for instance, that a person
+
+would give 10s. for a gratification if it were present and
+
+certain, but that it is due a year hence, and the probability of
+
+its happening then is three to one. Suppose also that he
+
+discounts the future at the rate of twenty per cent per annum.
+
+Then the value to him of the anticipation of it is 3/4 x 80/100 x
+
+10s. i.e. 6s. Compare the Introductory chapter of Jevons, Theory
+
+of Practical Economy.
+
+
+
+5. Of course this estimate is formed by a rough instinct; and in
+
+any attempt to reduce it to numerical accuracy (see Note V in the
+
+Mathematical Appendix), we must recollect what has been said, in
+
+this and the preceding Section, as to the impossibility of
+
+comparing accurately pleasures or other satisfactions that do not
+
+occur at the same time; and also as to the assumption of
+
+uniformity involved in supposing the discount of future pleasures
+
+to obey the exponential law.
+
+
+
+Chapter 6
+
+
+
+Value and Utility
+
+
+
+    1. We may now turn to consider how far the price which is
+
+actually paid for a thing represents the benefit that arises from
+
+its possession. This is a wide subject on which economic science
+
+has very little to say, but that little is of some importance.
+
+    We have already seen that the price which a person pays for a
+
+thing can never exceed, and seldom comes up to that which he
+
+would be willing to pay rather than go without it: so that the
+
+satisfaction which he gets from its purchase generally exceeds
+
+that which he gives up in paying away its price; and he thus
+
+derives from the purchase a surplus of satisfaction. The excess
+
+of the price which he would be willing to pay rather than go
+
+without the thing, over that which he actually does pay, is the
+
+economic measure of this surplus satisfaction. It may be called
+
+consumer's surplus.
+
+    It is obvious that the consumer's surpluses derived from some
+
+commodities are much greater than from others. There are many
+
+comforts and luxuries of which the prices are very much below
+
+those which many people would pay rather than go entirely without
+
+them; and which therefore afford a very great consumer's surplus.
+
+Good instances are matches, salt, a penny newspaper, or a
+
+postage-stamp.
+
+    This benefit, which he gets from purchasing at a low price
+
+things for which he would rather pay a high price than go without
+
+them, may be called the benefit which he derives from his
+
+opportunities, or from his environment. or, to recur to a word
+
+that was in common use a few generations ago, from his
+
+conjuncture. Our aim in the present chapter is to apply the
+
+notion of consumer's surplus as an aid in estimating roughly some
+
+of the benefits which a person derives from his environment or
+
+his conjuncture.(1*)
+
+    2. In order to give definiteness to our notions, let us
+
+consider the case of tea purchased for domestic consumption. Let
+
+us take the case of a man, who, if the price of tea were 20s. a
+
+pound, would just be induced to buy one pound annually; who would
+
+just be induced to buy two pounds if the price were 14s., three
+
+pounds if the price were 10s., four pounds if the price were 6s.,
+
+five pounds if the price were 4s., six pounds if the price were
+
+3s., and who, the price being actually 2s., does purchase seven
+
+pounds. We have to investigate the consumer's surplus which he
+
+derives from his power of purchasing tea at 2s. a pound.
+
+    The fact that he would just be induced to purchase one pound
+
+if the price were 20s., proves that the total enjoyment or
+
+satisfaction which he derives from that pound is as great as that
+
+which he could obtain by spending 20s. on other things. When the
+
+price falls to 14s., he could, if he chose, continue to buy only
+
+one pound. He would then get for 14s. what was worth to him at
+
+least 20s.; and he will obtain a surplus satisfaction worth to
+
+him at least 6s., or in other words a consumer' s surplus of at
+
+least 6s. But in fact he buys a second pound of his own free
+
+choice, thus showing that he regards it as worth to him at least
+
+14s., and that this represents the additional utility of the
+
+second pound to him. He obtains for 28s. what is worth to him at
+
+least 20s. + 14s.; i.e. 34s. His surplus satisfaction is at all
+
+events not diminished by buying it, but remains worth at least
+
+6s. to him. The total utility of the two pounds is worth at least
+
+34s., his consumer's surplus is at least 6s.(2*) The fact that
+
+each additional purchase reacts upon the utility of the purchases
+
+which he had previously decided to make has already been allowed
+
+for in making out the schedule and must not be counted a second
+
+time.
+
+    When the price falls to 10s., he might, if he chose, continue
+
+to buy only two pounds; and obtain for 20s. what was worth to him
+
+at least 34s., and derive a surplus satisfaction worth at least
+
+14s. But in fact he prefers to buy a third pound: and as he does
+
+this freely, we know that he does not diminish his surplus
+
+satisfaction by doing it. He now gets for 30s. three pounds; of
+
+which the first is worth to him at least 20s., the second at
+
+least 14s., and the third at least 10s. The total utility of the
+
+three is worth at least 44s., his consumer's surplus is at least
+
+14s., and so on.
+
+    When at last the price has fallen to 2s. he buys seven
+
+pounds, which are severally worth to him not less than 20, 14,
+
+10, 6, 4, 3, and 2s. or 59s. in all. This sum measures their
+
+total utility to him, and his consumer's surplus is (at least)
+
+the excess of this sum over the 14s. he actually does pay for
+
+them, i.e. 45s. This is the excess value of the satisfaction he
+
+gets from buying the tea over that which he could have got by
+
+spending the 14s. in extending a little his purchase of other
+
+commodities, of which he had just not thought it worth while to
+
+buy more at their current prices; and any further purchases of
+
+which at those prices would not yield him any consumer's surplus.
+
+In other words, he derives this 45s. worth of surplus enjoyment
+
+from his conjuncture, from the adaptation of the environment to
+
+his wants in the particular matter of tea. If that adaptation
+
+ceased, and tea could not be had at any price, he would have
+
+incurred a loss of satisfaction at least equal to that which he
+
+could have got by spending 45s. more on extra supplies of things
+
+that were worth to him only just what he paid for them.(3*)
+
+    3. In the same way if we were to neglect for the moment the
+
+fact that the same sum of money represents different amounts of
+
+pleasure to different people, we might measure the surplus
+
+satisfaction which the sale of tea affords, say, in the London
+
+market, by the aggregate of the sums by which the prices shown in
+
+a complete list of demand prices for tea exceeds its selling
+
+price.(4*)
+
+    This analysis, with its new names and elaborate machinery,
+
+appears at first sight laboured and unreal. On closer study it
+
+will be found to introduce no new difficulties and to make no new
+
+assumptions; but only to bring to light difficulties and
+
+assumptions that are latent in the common language of the
+
+market-place. For in this, as in other cases, the apparent
+
+simplicity of popular phrases veils a real complexity, and it is
+
+the duty of science to bring out that latent complexity; to face
+
+it; and to reduce it as far as possible: so that in later stages
+
+we may handle firmly difficulties that could not be grasped with
+
+a good grip by the vague thought and language of ordinary life.
+
+    It is a common saying in ordinary life that the real worth of
+
+things to a man is not gauged by the price he pays for them:
+
+that, though he spends for instance much more on tea than on
+
+salt, yet salt is of greater real worth to him; and that this
+
+would be clearly seen if he were entirely deprived of it. This
+
+line of argument is but thrown into precise technical form when
+
+it is said that we cannot trust the marginal utility of a
+
+commodity to indicate its total utility. If some shipwrecked men,
+
+expecting to wait a year before they were rescued, had a few
+
+pounds of tea and the same number of pounds of salt to divide
+
+between them, the salt would be the more highly prized; because
+
+the marginal utility of an ounce of salt, when a person expects
+
+to get only a few of them in the year is greater than that of tea
+
+under like circumstances. But, under ordinary circumstances, the
+
+price of salt being low, every one buys so much of it that an
+
+additional pound would bring him little additional satisfaction:
+
+the total utility of salt to him is very great indeed, and yet
+
+its marginal utility is low. On the other hand, since tea is
+
+costly, most people use less of it and let the water stay on it
+
+rather longer than they would, if it could be got at nearly as
+
+low a price as salt can. Their desire for it is far from being
+
+satiated: its marginal utility remains high, and they may be
+
+willing to pay as much for an additional ounce of it as they
+
+would for an additional pound of salt. The common saying of
+
+ordinary life with which we began suggests all this: but not in
+
+an exact and definite form, such as is needed for a statement
+
+which will often be applied in later work. The use of technical
+
+terms at starting adds nothing to knowledge: but it puts familiar
+
+knowledge in a firm compact shape, ready to serve as the basis
+
+for further study.(5*)
+
+    Or the real worth of a thing might be discussed with:
+
+reference not to a single person but to people in general; and
+
+thus it would naturally be assumed that a shilling's worth of
+
+gratification to one Englishman might be taken as equivalent with
+
+a shilling's worth to another, " to start with," and " until
+
+cause to the contrary were shown." But everyone would know that
+
+this was a reasonable course only on the supposition that the
+
+consumers of tea and those of salt belonged to the same classes
+
+of people; and included people of every variety of
+
+temperament.(6*)
+
+    This involves the consideration that a pound's worth of
+
+satisfaction to an ordinary poor man is a much greater thing than
+
+a pound's worth of satisfaction to an ordinary rich man: and if
+
+instead of comparing tea and salt, which are both used largely by
+
+all classes, we compared either of them with champagne or
+
+pineapples, the correction to be made on this account would be
+
+more than important: it would change the whole character of the
+
+estimate. In earlier generations many statesmen, and even some
+
+economists, neglected to make adequate allowance for
+
+considerations of this class, especially when constructing
+
+schemes of taxation; and their words or deeds seemed to imply a
+
+want of sympathy with the sufferings of the poor; though more
+
+often they were due simply to want of thought.
+
+    On the whole however it happens that by far the greater
+
+number of the events with which economics deals, affect in about
+
+equal proportions all the different classes of society; so that
+
+if the money measures of the happiness caused by two events are
+
+equal, there is not in general any very great difference between
+
+the amounts of the happiness in the two cases. And it is on
+
+account of this fact that the exact measurement of the consumers'
+
+surplus in a market has already much theoretical interest, and
+
+may become of high practical importance.
+
+    It will be noted however that the demand prices of each
+
+commodity, on which our estimates of its total utility and
+
+consumers, surplus are based, assume that other things remain
+
+equal, while its price rises to scarcity value: and when the
+
+total utilities of two commodities which contribute to the same
+
+purpose are calculated on this plan, we cannot say that the total
+
+utility of the two together is equal to the sum of the total
+
+utilities of each separately.(7*)
+
+    4. The substance of our argument would not be affected if we
+
+took account of the fact that, the more a person spends on
+
+anything the less power he retains of purchasing more of it or of
+
+other things, and the greater is the value of money to him (in
+
+the technical language every fresh expenditure increases the
+
+marginal value of money to him). But though its substance would
+
+not be altered, its form would be made more intricate without any
+
+corresponding gain; for there are very few practical problems, in
+
+which the corrections to be made under this head would be of any
+
+importance.(8*)
+
+    There are however some exceptions. For instance, as Sir R.
+
+Giffen has pointed out, a rise in the price of bread makes so
+
+large a drain on the resources of the poorer labouring families
+
+and raises so much the marginal utility of money to them, that
+
+they are forced to curtail their consumption of meat and the more
+
+expensive farinaceous foods: and, bread being still the cheapest
+
+food which they can get and will take, they consume more, and not
+
+less of it. But such cases are rare; when they are met with, each
+
+must be treated on its own merits.
+
+    It has already been remarked that we cannot guess at all
+
+accurately how much of anything people would buy at prices very
+
+different from those which they are accustomed to pay for it: or
+
+in other words, what the demand prices for it would be for
+
+amounts very different from those which are commonly sold. Our
+
+list of demand prices is therefore highly conjectural except in
+
+the neighbourhood of the customary price; and the best estimates
+
+we can form of the whole amount of the utility of anything are
+
+liable to large error. But this difficulty is not important
+
+practically. For the chief applications of the doctrine of
+
+consumers' surplus are concerned with such changes in it as would
+
+accompany changes in the price of the commodity in question in
+
+the neighbourhood of the customary price: that is, they require
+
+us to use only that information with which we are fairly well
+
+supplied. These remarks apply with special force to
+
+necessaries.(9*)
+
+    5. There remains another class of considerations which are
+
+apt to be overlooked in estimating the dependence of wellbeing
+
+upon material wealth. Not only does a person's happiness often
+
+depend more on his own physical, mental and moral health than on
+
+his external conditions: but even among these conditions many
+
+that are of chief importance for his real happiness are apt to be
+
+omitted from an inventory of his wealth. Some are free gifts of
+
+nature; and these might indeed be neglected without great harm if
+
+they were always the same for everybody; but in fact they vary
+
+much from place to place. More of them however are elements of
+
+collective wealth which are often omitted from the reckoning of
+
+individual wealth; but which become important when we compare
+
+different parts of the modern civilized world, and even more
+
+important when we compare our own age with earlier times.
+
+    Collective action for the purposes of securing common
+
+wellbeing, as for instance in lighting and watering the streets,
+
+will occupy us much towards the end of our inquiries.
+
+Co-operative associations for the purchase of things for personal
+
+consumption have made more progress in England than elsewhere:
+
+but those for purchasing the things wanted for trade purposes by
+
+farmers and others, have until lately been backward in England.
+
+Both kinds are sometimes described as Consumers' associations;
+
+but they are really associations for economizing effort in
+
+certain branches of business, and belong to the subject of
+
+Production rather than Consumption.
+
+    6. When we speak of the dependence of wellbeing on material
+
+wealth, we refer to the flow or stream of wellbeing as measured
+
+by the flow or stream of incoming wealth an d the consequent
+
+power of using and consuming it. A person's stock of wealth
+
+yields by its usance and in other ways an income of happiness,
+
+among which of course are to be counted the pleasures of
+
+possession: but there is little direct connection between the
+
+aggregate amount of that stock and his aggregate happiness. And
+
+it is for that reason that we have throughout this and preceding
+
+chapters spoken of the rich, the middle classes and the poor as
+
+having respectively large, medium and small incomes - not
+
+possessions.(10*)
+
+    In accordance with a suggestion made by Daniel Bernoulli, we
+
+may regard the satisfaction which a person derives from his
+
+income as commencing when he has enough to support life, and
+
+afterwards as increasing by equal amounts with every equal
+
+successive percentage that is added to his income; and vice versa
+
+for loss of income.(11*)
+
+    But after a time new riches often lose a great part of their
+
+charms. Partly this is the result of familiarity; which makes
+
+people cease to derive much pleasure from accustomed comforts and
+
+luxuries, though they suffer greater pain from their loss. Partly
+
+it is due to the fact that with increased riches there often
+
+comes either the weariness of age, or at least an increase of
+
+nervous strain; and perhaps even habits of living that lower
+
+physical vitality, and diminish the capacity for pleasure.
+
+    In every civilized country there have been some followers of
+
+the Buddhist doctrine that a placid serenity is the highest ideal
+
+of life; that it is the part of the wise man to root out of his
+
+nature as many wants and desires as he can; that real riches
+
+consist not in the abundance of goods but in the paucity of
+
+wants. At the other extreme are those who maintain that the
+
+growth of new wants and desires is always beneficial because it
+
+stimulates people to increased exertions. They seem to have made
+
+the mistake, as Herbert Spencer says, of supposing that life is
+
+for working, instead of working for life.(12*)
+
+    The truth seems to be that as human nature is constituted,
+
+man rapidly degenerates unless he has some hard work to do, some
+
+difficulties to overcome; and that some strenuous exertion is
+
+necessary for physical and moral health. The fulness of life lies
+
+in the development and activity of as many and as high faculties
+
+as possible. There is intense pleasure in the ardent pursuit of
+
+any aim, whether it be success in business, the advancement of
+
+art and science, or the improvement of the condition of one's
+
+fellow-beings. The highest constructive work of all kinds must
+
+often alternate between periods of over-strain and periods of
+
+lassitude and stagnation; but for ordinary people, for those who
+
+have no strong ambitions, whether of a lower or a higher kind, a
+
+moderate income earned by moderate and fairly steady work offers
+
+the best opportunity for the growth of those habits of body,
+
+mind, and spirit in which alone there is true happiness.
+
+    There is some misuse of wealth in all ranks of society. And
+
+though, speaking generally, we may say that every increase in the
+
+wealth of the working classes adds to the fulness and nobility of
+
+human life because it is used chiefly in the satisfaction of real
+
+wants; yet even among the artisans in England, and perhaps still
+
+more in new countries, there are signs of the growth of that
+
+unwholesome desire for wealth as a means of display which has
+
+been the chief bane of the well-to-do classes in every civilized
+
+country. Laws against luxury have been futile; but it would be a
+
+gain if the moral sentiment of the community could induce people
+
+to avoid all sorts of display of individual wealth. There are
+
+indeed true and worthy pleasures to be got from wisely ordered
+
+magnificence: but they are at their best when free from any taint
+
+of personal vanity on the one side and envy on the other; as they
+
+are when they centre round public buildings, public parks, public
+
+collections of the fine arts, and public games and amusements. So
+
+long as wealth is applied to provide for every family the
+
+necessaries of life and culture, and an abundance of the higher
+
+forms of enjoyment for collective use, so long the pursuit of
+
+wealth is a noble aim; and the pleasures which it brings are
+
+likely to increase with the growth of those higher activities
+
+which it is used to promote.
+
+    When the necessaries of life are once provided, everyone
+
+should seek to increase the beauty of things in his possession
+
+rather than their number or their magnificence. An improvement in
+
+the artistic character of furniture and clothing trains the
+
+higher faculties of those who make them, and is a source of
+
+growing happiness to those who use them. But if instead of
+
+seeking for a higher standard of beauty, we spend our growing
+
+resources on increasing the complexity and intricacy of our
+
+domestic goods, we gain thereby no true benefit, no lasting
+
+happiness. The world would go much better if everyone would buy
+
+fewer and simpler things, and would take trouble in selecting
+
+them for their real beauty; being careful of course to get good
+
+value in return for his outlay, but preferring to buy a few
+
+things made well by highly paid labour rather than many made
+
+badly by low paid labour.
+
+    But we are exceeding the proper scope of the present Book;
+
+the discussion of the influence on general wellbeing which is
+
+exerted by the mode in which each individual spends his income is
+
+one of the more important of those applications of economic
+
+science to the art of living.
+
+
+
+NOTES:
+
+
+
+1. This term is a familiar one in German economics, and meets a
+
+need which is much felt in English economics. For "opportunity"
+
+and "environment," the only available substitutes for it, are
+
+sometimes rather misleading. By Konjunktur, says Wagner
+
+(Grundlegung, Ed. III, p. 387), "we understand the sum total of
+
+the technical, economic, social and legal conditions; which, in a
+
+mode of national life (Volkswirtschaft) resting upon division of
+
+labour and private property,especially private property in land
+
+and other material means of production determine the demand for
+
+and supply of goods, and therefore their exchange value: this
+
+determination being as a rule, or at least in the main,
+
+independent of the will of the owner, of his activity and his
+
+remissness."
+
+
+
+2. Some further explanations may be given of this statement;
+
+though in fact they do little more than repeat in other words
+
+what has already been said. The significance of the condition in
+
+the text that he buys the second pound of his own free choice is
+
+shown by the consideration that if the price of 14s. had been
+
+offered to him on the condition that he took two pounds, he would
+
+then have to elect between taking one pound for 20s. or two
+
+pounds for 28s. : and then his taking two pounds would not have
+
+proved that he thought the second pound worth more than 8s. to
+
+him. But as it is, he takes a second pound paying 14s.
+
+unconditionally for it; and that proves that it is worth at least
+
+14s. to him. (If he can get buns at a penny each, but seven for
+
+sixpence; and he elects to buy seven, we know that he is willing
+
+to give up his sixth penny for the sake of the sixth and the
+
+seventh buns: but we cannot tell how much he would pay rather
+
+than go without the seventh bun only.) It is sometimes objected
+
+that as he increases his purchases, the urgency of his need for
+
+his earlier purchases is diminished, and their utility falls;
+
+therefore we ought to continually redraw the earlier parts of our
+
+list of demand prices at a lower level, as we pass along it
+
+towards lower prices (i.e. to redraw at a lower level our demand
+
+curve as we pass along it to the right). But this misconceives
+
+the plan on which the list of prices is made out. The objection
+
+would have been valid, if the demand price set against each
+
+number of pounds of tea represented the average utility of that
+
+number. For it is true that, if he would pay just 20s. for one
+
+pound, and just 14s. for a second, then he would pay just 34s.
+
+for the two; i.e. 17s. each on the average. And if our list had
+
+had reference to the average prices he would pay, and had set
+
+17s. against the second pound; then no doubt we should have had
+
+to redraw the list as we passed on. For when he has bought a
+
+third pound the average utility to him of each of the three will
+
+be less than that of 17s.; being in fact 14s. 8d. if, as we go on
+
+to assume, he would pay just 10s. for a third pound. But this
+
+difficulty is entirely avoided on the plan of making out demand
+
+prices which is here adopted; according to which his second pound
+
+is credited, not with the 17s. which represents the average value
+
+per pound of the two pounds; but with the 14s., which represents
+
+the additional utility which a second pound has for him. For that
+
+remains unchanged when he has bought a third pound, of which the
+
+additional utility is measured by 10s.
+
+    The first pound was probably worth to him more than 20s. All
+
+that we know is that it was not worth less to him. He probably
+
+got some small surplus even on that. Again, the second pound was
+
+probably worth more than 14s. to him. All that we know is that it
+
+was worth at least 14s. and not worth 20s. to him. He would get
+
+therefore at this stage a surplus satisfaction of at least 6s.,
+
+probably a little more. A ragged edge of this kind, as
+
+mathematicians are aware, always exists when we watch the effects
+
+of considerable changes, as that from 20s. to 14s. a pound. If we
+
+had begun with a very high price, had descended by practically
+
+infinitesimal changes of a farthing per pound, and watched
+
+infinitesimal variations in his consumption of a small fraction
+
+of a pound at a time, this ragged edge would have disappeared.
+
+
+
+3. Prof. Nicholson (Principles of Political Economy, Vol. I and
+
+Economic Journal, Vol. IV) has raised objections to the notion of
+
+consumers' surplus, which have been answered by Prof. Edgeworth
+
+in the same Journal. Prof. Nicholson says: - "Of what avail is it
+
+to say that the utility of an income of (say) ?00 a year is
+
+worth (say) ?000 a year?" There would be no avail in saying
+
+that. But there might be use, when comparing life in Central
+
+Africa with life in England, in saying that, though the things
+
+which money will buy in Central Africa may on the average be as
+
+cheap there as here, yet there are so many things which cannot be
+
+bought there at all, that a person with a thousand a year there
+
+is not so well off as a person with three or four hundred a year
+
+here. If a man pays 1d. toll on a bridge, which saves him an
+
+additional drive that would cost a shilling, we do not say that
+
+the penny is worth a shilling, but that the penny together with
+
+the advantage offered him by the bridge (the part it plays in his
+
+conjuncture) is worth a shilling for that day. Were the bridge
+
+swept away on a day on which he needed it, he would be in at
+
+least as bad a position as if he had been deprived of eleven
+
+pence.
+
+
+
+4. Let us then consider the demand curve DD' for tea in any large
+
+market. Let OH be the amount which is sold there at the price HA
+
+annually, a year being taken as our unit of time. Taking any
+
+point M in OH let us draw MP vertically upwards to meet the curve
+
+in P and cut a horizontal line through A in R. We will suppose
+
+the several lb. numbered in the order of the eagerness of the
+
+several purchasers : the eagerness of the purchaser of any lb.
+
+being measured by the price he is just willing to pay for that
+
+lb. The figure informs us that OM can be sold at the price PM;
+
+but that at any higher price not quite so many lbs. can be sold.
+
+There must be then some individual who will buy more at the price
+
+PM, than he will at any higher price; and we are to regard the
+
+OMth lb. as sold to this individual. Suppose for instance that PM
+
+represents 4s., and that OM represents a million lbs. The
+
+purchaser described in the text is just willing to buy his fifth
+
+lb. of tea at the price 4s., and the OMth or millionth lb. may be
+
+said to be sold to him. If AH and therefore RM represent 2s., the
+
+consumers' surplus derived from the OMth lb. is the excess of PM
+
+or 4s. which the purchaser of that lb. would have been willing to
+
+pay for it over RM the 2s. which he actually does pay for it. Let
+
+us suppose that a very thin vertical parallelogram is drawn of
+
+which the height is PM and of which the base is the distance
+
+along Ox that measures the single unit or lb. of tea. It will be
+
+convenient henceforward to regard price as measured not by a
+
+mathematical straight line without thickness, as PM; but by a
+
+very thin parallelogram, or as it may be called a thick straight
+
+line, of which the breadth is in every case equal to the distance
+
+along Ox which measures a unit or lb. of tea. Thus we should say
+
+that the total satisfaction derived from the OMth lb. of tea is
+
+represented (or, on the assumption made in the last paragraph of
+
+the text is measured) by the thick straight line MP; that the
+
+price paid for this lb. is represented by the thick straight line
+
+MR and the consumers' surplus derived from this lb. by the thick
+
+straight line RP. Now let us suppose that such thin
+
+parallelograms, or thick straight lines, are drawn from all
+
+positions of M between O and H, one for each lb. of tea. The
+
+thick straight lines thus drawn, as MP is, from Ox up to the
+
+demand curve will each represent the aggregate of the
+
+satisfaction derived from a lb. of tea; and taken together thus
+
+occupy and exactly fill up the whole area DOHA. Therefore we may
+
+say that the area DOHA represents the aggregate of the
+
+satisfaction derived from the consumption of tea. Again, each of
+
+the straight lines drawn, as MR is, from Ox upwards as far as AC
+
+represents the price that actually is paid for a lb. of tea.
+
+These straight lines together make up the area COHA; and
+
+therefore this area represents the total price paid for tea.
+
+Finally each of the straight lines drawn as RP is from AC upwards
+
+as far as the demand curve, represents the consumers' surplus
+
+derived from the corresponding lb. of tea. These straight lines
+
+together make up the area DCA; and therefore this area represents
+
+the total consumers' surplus that is derived from tea when the
+
+price is AH. But it must be repeated that this geometrical
+
+measurement is only an aggregate of the measures of benefits
+
+which are not all measured on the same scale except on the
+
+assumption just made in the text. Unless that assumption is made
+
+the area only represents an aggregate of satisfactions, the
+
+several amounts of which are not exactly measured. On that
+
+assumption only, its area measures the volume of the total net
+
+satisfaction derived from the tea by its various purchasers.
+
+
+
+5. Harris On Coins 1757, says "Things in general are valued, not
+
+according to their real uses in supplying the necessities of men;
+
+but rather in proportion to the land, labour and skill that are
+
+requisite to produce them. It is according to this proportion
+
+nearly, that things or commodities are exchanged one for another;
+
+and it is by the said scale, that the intrinsic values of most
+
+things are chiefly estimated. Water is of great use, and yet
+
+ordinarily of little or no value; because in most places, water
+
+flows spontaneously in such great plenty, as not to be withheld
+
+within the limits of private property; but all may have enough,
+
+without other expense than that of bringing or conducting it,
+
+when the case so requires. On the other hand, diamonds being very
+
+scarce, have upon that account a great value, though they are but
+
+little use."
+
+
+
+6. There might conceivably be persons of high sensibility who
+
+would suffer specially from the want of either salt or tea: or
+
+who were generally sensitive, and would suffer more from the loss
+
+of a certain part of their income than others in the same station
+
+of life. But it would be assumed that such differences between
+
+individuals might be neglected, since we were considering in
+
+either case the average of large numbers of people; though of
+
+course it might be necessary to consider whether there were some
+
+special reason for believing, say, that those who laid most store
+
+by tea were a specially sensitive class of people. If it could,
+
+then a separaTe allowance for this would have to be made before
+
+applying the results of economic analysis to practical problems
+
+of ethics or politics.
+
+
+
+7. Some ambiguous phrases in earlier editions appear to have
+
+suggested to some readers the opposite opinion. But the task of
+
+adding together the total utilities of all commodities, so as to
+
+obtain the aggregate of the total utility of all wealth, is
+
+beyond the range of any but the most elaborate mathematical
+
+formulae. An attempt to treat it by them some years ago convinced
+
+the present writer that even if the task be theoretically
+
+feasible, the result would be encumbered by so many hypotheses as
+
+to be practically useless.
+
+    Attention has already (pp. 100, 105) been called to the fact
+
+that for some purposes such things as tea and coffee must be
+
+grouped together as one commodity: and it is obvious that, if tea
+
+were inaccessible, people would increase their consumption of
+
+coffee, and vice versa. The loss that people would suffer from
+
+being deprived both of tea and coffee would be greater than the
+
+sum of their losses from being deprived of either alone: and
+
+therefore the total utility of tea and coffee is greater than The
+
+sum of the total utility of tea calculated on the supposition
+
+that people can have recourse to coffee, and that of coffee
+
+calculated on a like supposition as to tea. This difficulty can
+
+be theoretically evaded by grouping the two "rival" commodities
+
+together under a common demand schedule. On the other hand, if we
+
+have calculated the total utility of fuel with reference to the
+
+fact that without it we could not obtain hot water to obtain the
+
+beverage tea from tea leaves, we should count something twice
+
+over if we added to that utility the total utility of tea leaves,
+
+reckoned on a similar plan. Again the total utility of
+
+agricultural produce includes that of ploughs; and the two may
+
+not be added together; though the total utility of ploughs may be
+
+discussed in connection with one problem, and that of wheat in
+
+connection with another. Other aspects of these two difficulties
+
+are examined in V, VI.
+
+    Prof. Patten has insisted on the latter of them in some able
+
+and suggestive writings. But his attempt to express the aggregate
+
+utility of all forms of wealth seems to overlook many
+
+difficulties.
+
+
+
+8. In mathematical language the neglected elements would
+
+generally belong to the second order of small quantities; and the
+
+legitimacy of the familiar scientific method by which they are
+
+neglected would have seemed beyond question, had not Prof.
+
+Nicholson challenged it. A short reply to him has been given by
+
+Prof. Edgeworth in the Economic Journal for March 1894; and a
+
+fuller reply by Prof. Barone in the Giornale degli Economisti for
+
+Sept. 1894; of which some account is given by Mr Sanger in the
+
+Economic Journal for March 1995.
+
+    As is indicated in Note VI in the Mathematical Appendix,
+
+formal account could be taken of changes in the marginal utility
+
+of money, if it were desired to do so. If we attempted to add
+
+together the total utilities of all commodities, we should be
+
+bound to do so: that task is however impracticable.
+
+
+
+9. The notion of consumers' surplus may help us a little now;
+
+and, when our statistical knowledge is further advanced, it may
+
+help us a great deal to decide how much injury would be done to
+
+the public by an additional tax of 6d. a pound on tea, or by an
+
+addition of ten per cent. to the freight charges of a railway:
+
+and the value of the notion is but little diminished by the fact
+
+that it would not help us much to estimate the loss that would be
+
+caused by a tax of 30s. a pound on tea, or a tenfold rise in
+
+freight charges.
+
+    Reverting to our last diagram, we may express this by saying
+
+that, if A is the point on the curve corresponding to the amount
+
+that is wont to be sold in the market, data can be obtained
+
+sufficient for drawing the curve with tolerable correctness for
+
+some distance on either side of A; though the curve can seldom be
+
+drawn with any approach to accuracy right up to D. But this is
+
+practically unimportant, because in the chief practical
+
+applications of the theory of value we should seldom make any use
+
+of a knowledge of the whole shape of the demand curve if we had
+
+it. We need just what we can get, that is, a fairly correct
+
+knowledge of its shape in the neighbourhood of A. We seldom
+
+require to ascertain the total area DCA; it is sufficient for
+
+most of our purposes to know the changes in this area that would
+
+be occasioned by moving A through small distances along the curve
+
+in either direction. Nevertheless it will save trouble to assume
+
+provisionally, as in pure theory we are at liberty to do, that
+
+the curve is completely drawn.
+
+    There is however a special difficulty in estimating the whole
+
+of the utility of commodities some supply of which is necessary
+
+for life. If any attempt is made to do it, the best plan is
+
+perhaps to take that necessary supply for granted, and estimate
+
+the total utility only of that part of the commodity which is in
+
+excess of this amount. But we must recollect that the desire for
+
+anything is much dependent on the difficulty of getting
+
+substitutes for it. (See Note VI in the Mathematical Appendix.)
+
+
+
+10. See Note VII in the Mathematical Appendix.
+
+
+
+11. That is to say, if ?0 represent necessaries, a person's
+
+satisfaction from his income will begin at that point; and when
+
+it has reached ?0, an additional ? will add a tenth to the ?0
+
+which represents its happiness-yielding power. But if his income
+
+were ?00, that is ?0 above the level of necessaries, an
+
+additional ? would be required to add as much to his happiness
+
+as ? if his income were ?0: while if his income were ?0,000,
+
+an additional ?000 would be needed to produce an equal effect
+
+(compare Note VIII in the Mathematical Appendix). Of course such
+
+estimates are very much at random, and unable to adapt themselves
+
+to the varying circumstances of individual life. As we shall see
+
+later, the systems of taxation which are now most widely
+
+prevalent follow generally on the lines of Bernoulli's
+
+suggestion. Earlier systems took from the poor very much more
+
+than would be in accordance with that plan; while the systems of
+
+graduated taxation, which are being foreshadowed in several
+
+countries, are in some measure based on the assumption that the
+
+addition of one per cent to a very large income adds less to the
+
+wellbeing of its owner than an addition of one per cent to
+
+smaller incomes would, even after Bernoulli's correction for
+
+necessaries has been made.
+
+    It may be mentioned in passing that from the general law that
+
+the utility to anyone of an additional ? diminishes with the
+
+number of pounds he already has, there follow two important
+
+practical principles. The first is that gambling involves an
+
+economic loss, even when conducted on perfectly fair and even
+
+terms. For instance, a man who having ?00 makes a fair even bet
+
+of ?00, has now an expectation of happiness equal to half that
+
+derived from ?00, and half that derived from ?00; and this is
+
+less than the certain expectation of the happiness derived from
+
+?00, because by hypothesis the difference between the happiness
+
+got from ?00 and ?00 is greater than the difference between the
+
+happiness got from ?00 and ?00. (Compare Note IX in the
+
+Mathematical Appendix and Jevons, l.c. Ch. IV) The second
+
+principle, the direct converse of the first, is that a
+
+theoretically fair insurance against risks is always an economic
+
+gain. But of course insurance office, after calculating what is a
+
+theoretically fair premium, every has to share in addition to it
+
+enough to pay profits on its own capital, and to cover its own
+
+expenses of working, among which are often to be reckoned very
+
+heavy items for advertising and for losses by fraud. The question
+
+whether it is advisable to pay the premium which insurance
+
+offices practically do charge, is one that must be decided for
+
+each case on its own merits.
+
+
+
+12. See his lecture on The Gospel of Relaxation.
+
+

@@ -1,0 +1,251 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+ 
+                                Karl Marx 
+ 
+                             INTRODUCTION TO  
+             A CONTRIBUTION TO A CRITIQUE OF POLITICAL ECONOMY 
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+ 
+          Written between end of August and middle September 1857. 
+ 
+          Marx intended this to be the Introduction to his  
+          _Contribution to a Critique of Political Economy_ (1859), 
+          but, as his Preface to that work notes, he decided to  
+          omit it. 
+ 
+          The unfinished rough draft, which was found among Marx's 
+          papers after his death.  First published 1903, in _Die  
+          Neue Zeit_.  Would become the first manuscript in the 
+          _Grundrisse_.  
+ 
+ 
+    I. PRODUCTION, CONSUMPTION, DISTRIBUTION, EXCHANGE (CIRCULATION) 
+ 
+ 
+                              1. Production 
+ 
+(a) To begin with, the question under discussion is _material 
+production_.   
+ 
+Individuals producing in a society, and hence the socially determined 
+production of individuals, is of course the point of departure.  The 
+solitary and isolated hunter or fisherman, who serves Adam Smith and 
+Ricardo as a starting point, is one of the unimaginative fantasies of 
+18th century romances a la Robinson Crusoe; and despite the assertions 
+of social historians, these by no means signify simply a reaction 
+against over-refinement and reversion to a misconceived natural life.  
+No more is Rousseau's _contrat social_, which by means of a contract 
+establishes a relationship and connection between subjects that are by 
+nature independent, at all based on this kind of naturalism.  This is an 
+illusion and nothing but the aesthetic illusion of the small and big 
+Robinsonades.  It is, on the contrary, the anticipation of "bourgeois 
+society", which began to evolve in the 16th century and in the 18th 
+century made giant strides towards maturity.  The individual in this 
+society of free competition seems to be rid of the natural ties etc.  
+which made him an appurtenance of a particular, limited aggregation of 
+human beings in previous historical epochs.  The prophets of the 18th 
+century, on whose shoulders Adam Smith and Ricardo were still wholly 
+standing, envisaged this individual -- a product of the dissolution of 
+feudal society on the one hand and the productive forces evolved since 
+the 16th century on the other -- as an ideal whose existence belongs to 
+the past.  They saw this individual not as a historical result, but as 
+the starting-point of history; not as something evolving in the course 
+of history, but posited by nature, because for them this individual was 
+in conformity with nature, in keeping with their idea of human nature.  
+This delusion has been characteristic of every new epoch hitherto.  
+Steuart, who in some respects was in opposition to the 18th century, 
+and, as an aristocrat, tended rather to regard things from a historical 
+standpoint, avoided this naive view.  
+ 
+The further back we trace the course of history, the more does the 
+individual, and accordingly also the producing individual, appear to be 
+dependent and to belong to a larger whole.  At first, the individual in 
+a still quite natural manner is part of the family and of the tribe 
+which evolves from the family; later, he is part of a community, of one 
+of the different forms of community which arise from the conflict and 
+the merging of tribes.  It is not until the 18th century that, in the 
+bourgeois society, the various forms of the social texture confront the 
+individual as merely means toward his private ends, as external 
+necessity.  But the epoch which produces this standpoint, namely that of 
+the isolated individual, is precisely the epoch of the (as yet) most 
+highly-developed social (according to this standpoint, general) 
+relations.  Man is a "zoon politikon" [social animal] in the most 
+literal sense: he is not only a social animal, but an animal that can 
+individualize himself only within society.  Production by an isolated 
+individual outside society -- a rare event, which might occur when a 
+civilized person who has already absorbed the dynamic social forces is 
+accidentally cast into the wilderness -- is just as preposterous as the 
+development of speech without individuals who live _together_ and talk 
+to one another.  It is unnecessary to dwell upon this point further.  It 
+need not have been mentioned at all, if this inanity, which had rhyme 
+and reason in the works of 18th century writers, were not expressly 
+introduced once more into modern political economy by Bastiat, Carey, 
+Proudhon, etc.  It is of course very pleasant for Proudhon, for 
+instance, to be able to explain the origin of an economic relationship 
+-- whose historical evolution he does not know -- in an 
+historico-philosophical manner by means of mythology; alleging that Adam 
+or Prometheus hit upon the ready-made idea, which was then put into 
+practice, etc.  Nothing is more tedious and dull than the commonplace 
+phantasies of _locus communis_.  
+ 
+Thus, when we speak of production, we always have in mind production at 
+a definite stage of social development -- of production by individuals 
+in a society.  It might therefore seems that, in order to speak of 
+production at all, we must either trace the various phases in the 
+historical process of development, or else declare from the very 
+beginning that we are examining _one_ particular historical period, as 
+for instance modern bourgeois production, which is, indeed, our real 
+subject matter.  All periods of production, however, have certain 
+features in common; they have certain common categories.  _Production in 
+general_ is an abstraction, but a sensible abstraction in so far as it 
+actually emphasizes and defines the common aspects and thus avoids 
+repetition.  Yet this _general_ concept, or the common aspect which has 
+been brought to light by comparison, is itself a multifarious compound 
+comprising divergent categories.  Some elements are found in all epochs, 
+others are common to a few epochs.  The most modern period and the most 
+ancient period will have [certain] categories in common.  Production 
+without them is inconceivable.  But, although the most highly-developed 
+languages have laws and categories in common with the most primitive 
+languages, it is precisely their divergence from these general and 
+common features which constitutes their development.  It is necessary to 
+distinguish these definitions which apply to production in general, in 
+order not to overlook the essential differences existing despite the 
+unity that follows from the very fact that the subject (mankind) and 
+object (nature) are the same.  For instance, on failure to perceive this 
+fact depends the entire wisdom of modern economists who prove the 
+eternity and harmony of existing social relations.  For example, no 
+production is possible without an instrument of production, even if this 
+instrument is simply the hand.  It is not possible without past, 
+accumulated labor, even if this labor is only the skill acquired by 
+repeated practice and concentrated in the hand of a savage.  Capital is, 
+among other things, also an instrument of instrument of production, and 
+also past, materialized labor.  Consequently, capital is a universal and 
+eternal relation given by nature -- that is, provided one omits 
+precisely those specific factors which turn the "instrument of 
+production" or "accumulated labor" into capital.  The whole history of 
+the relations of production thus appears, for instance in Carey's 
+writings, as a falsification malevolently brought about by government.  
+ 
+Just as there is no production in general, so there is also no general 
+production.  Production is always a particular branch of production -- 
+e.g.  agriculture, cattle-breeding, manufacture -- or it is the 
+_totality_ of production.  Political economy, however, is not 
+technology.  The relations of the general categories of production at a 
+given social stage to the particular forms of production is to be set 
+forth elsewhere (later).  
+ 
+Finally, not only is production _particular_ production, but it is 
+invariably only a definite social corpus, a social subject, that is 
+engaged in a wider or narrower totality of production spheres.  The 
+relation of academic presentation to the actual process does not belong 
+here either.  Production in general Particular branches of production.  
+Totality of production.  
+ 
+It is fashionable to preface economic works with a general part -- and 
+it is just this which appears under the heading "Production", see for 
+instance John Stuart Mill -- which deals with the general conditions of 
+all production.  This general part comprises or purports to comprise: 
+ 
+  1.  The conditions without which production cannot be carried on.  
+      This means, in fact, only that the essential factors required for 
+      any kind of production are indicated.  But this amounts actually, 
+      as we shall see, to a few very simple definitions, which become 
+      reduced to trivial tautologies.  
+ 
+  2.  The conditions which promote production to a larger or smaller 
+      degree, as in the case of Adam Smith's progressive and stagnant 
+      state of society.  
+ 
+      To give this, which in Smith's work has its value as an _apercu_, 
+      to give it scientific significance, research into the _degree of 
+      productivity_ at various periods in the development of individual 
+      nations would have to be conducted; strictly speaking, such an 
+      investigation lies outside the framework of the subject.  Those 
+      aspects which are however relevant to it ought to be mentioned in 
+      connection with the development of competition, accumulation, etc.  
+ 
+      The answer in its general form amounts to the general statement 
+      that an industrial nation achieves its highest productivity which 
+      it is altogether at the height of its historical development.  (In 
+      fact, a nation is at the height of its historical development so 
+      long as, not the gain, but gaining remains its principal aim.  In 
+      this respect, the Yankees are superior to the English.) Or else 
+      that, for example, certain races, formations, climates, natural 
+      circumstances, such as maritime position, fertility of the soil, 
+      etc., are more conducive to production that others.  This, again, 
+      amounts to the tautological statement that the production of 
+      wealth grows easier in the measure that its subjective and 
+      objective elements becomes available.  
+ 
+But all this is not really what the economists are concerned about in 
+the general part.  It is rather -- see for example Mill -- that 
+production, as distinct from distribution etc., is to be presented as 
+governed by eternal natural laws which are independent of history, and 
+at the same time _bourgeois_ relations are clandestinely passed off as 
+irrefutable natural laws of society _in abstracto_.  This is the more or 
+less conscious purpose of the whole procedure.  As regards distribution, 
+however, it is said that men have indeed indulged in a certain amount of 
+free choice.  Quite apart from the crude separation of production and 
+distribution and their real interconnection, it should be obvious from 
+the outset that, however dissimilar the mode of distribution at the 
+various stages of society may be, it must be possible, just as in the 
+case of production, to emphasize the common aspects, and it must be 
+likewise possible to confuse and efface all historical differences in 
+laws that are _common to all mankind_.  For example, the slave, the 
+serf, the wage-worker, they all receive an amount of food enabling them 
+to exist as a slave, serf or wage-worker.  The conqueror who lives on 
+tribute, or the official who lives on taxes, or the landowner who lives 
+on rent, or the monk who lives on alms, or the clergyman who lives on 
+tithes, all receive a portion of the social product which is determined 
+by different laws from the portion of the slave, and so on.  The two 
+principal factors, which all economists include in this section, are: 
+ 
+     (1) property, and 
+ 
+     (2) its protection by the judiciary, police, etc. 
+ 
+Only a very brief reply is needed: 
+ 
+Regarding (1): production is always appropriation of nature by an 
+individual within, and with the help of a definite social organization.  
+In this context, it is tautological to say that property (appropriation) 
+is a condition of production.  But it is quite ridiculous to make a leap 
+from this to a distinct form of property -- e.g., private property (this 
+is, moreover, an antithetical form, which similarly presupposed 
+_non-property_ as a condition).  History has shown, on the contrary, 
+that common property (e.g., among the Indians, Slavs, ancient Celts, 
+etc.) is the original form, and in the shape of communal property it 
+plays a significant role for a long time.  The question of whether 
+wealth develops faster under this or under that form of property is not 
+yet under discussion at this point.  It is tautological, however, to 
+state that where no form of property exists, there can be no production 
+and hence no society either.  Appropriation which appropriates nothing 
+is a contradiction in terms.  
+ 
+Regarding (2): Safeguarding of what has been acquired, etc.  If these 
+trivialities are reduced to their real content, they say more than their 
+authors realize -- namely that each mode of production produces its 
+specific legal relations, political forms, etc.  It is a sign of crudity 
+and lack of comprehension that organically coherent factors are brought 
+into haphazard relation with one another -- i.e., into a simple reflex 
+connection.  The bourgeois economists have merely the view that 
+production proceeds more smoothly with modern police than (for example) 
+under club-law.  They forget, however, that club-law too is law, and 
+that the law of the stronger, only in a different form, still survives 
+even in their "constitutional State".  
+ 
+While the social conditions appropriate to a particular stage of 
+production are either still in the course of evolution, or already in a 
+state of dissolution, disturbances naturally occur in the process of 
+production, although these may be of varying degree and extent.  
+ 
+To recapitulate: there are categories which are common to all stage of 
+production and are established by reasoning as general categories; the 
+so-called _general conditions_ of all and any production, however, are 
+nothing but abstract aspects which do not define any of the actual 
+historical stages of production.  
+ 
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+                                            

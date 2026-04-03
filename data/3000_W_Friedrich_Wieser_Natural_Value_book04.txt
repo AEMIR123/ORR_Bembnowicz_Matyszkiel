@@ -1,0 +1,1240 @@
+
+
+
+
+Natural Value
+
+	by Friedrich Wieser
+
+
+
+Book 4: The Natural Value of Land, Capital, and Labour
+
+Chapter 1
+
+Introduction
+
+    We have now to retrace our steps. Having made clear the
+principles according to which the return, jointly obtained, may
+be imputed to the separate productive factors, we have now to
+return to the question as to the value of these factors. The
+general law we are already acquainted with: the value of the
+product determines the value of the production good. The point
+which we must now take up is the application of this proposition
+to the special circumstances of land, capital, and labour.
+    In this by far the greatest difficulties meet us in the case
+of capital. It seems as if our explanation of its value came into
+direct collision with the facts of experience. Assume that a
+capital, employed for one year and thereby completely used up,
+yields, at the end of the year, a return of the value of 105;
+experience tells us that the value of the capital will not be
+estimated at 105, but at a somewhat less amount according to the
+current rate of interest. At a 5% rate, e.g., the capital will be
+estimated at 100. The remainder of the return will be regarded as
+net return of interest. How does this go with our explanation? On
+what ground is this deduction made? Ought not rather the full
+value of the gross return to go into the capital value without
+any deduction whatever? But if that were so, how should we
+explain the contradiction of experience which interest presents?
+How is the interest to be explained? Or does natural valuation
+exclude interest? Is it, perhaps, merely a phenomenon of
+present-day exchange and price, which would not re-emerge in the
+communistic state?
+    One of the most conclusive and brilliant among Bohm-Bawerk's
+critical examinations is that directed towards the attempts to
+deduce interest from the productivity of capital. Bohm-Bawerk
+himself in fact arrives at the conclusion that the attempt is
+hopeless. To quote his own words: "It was not simply an
+unfortunate chance that no one found the Open Sesame which had
+the power to discover the mysterious origination of interest in
+the productivity of capital. It was rather that on the road to
+the truth a wrong turning had been taken. From the first it was a
+hopeless endeavour to explain interest wholly and entirely from a
+productive power of capital. It would be different if there were
+a power that could make value grow directly as wheat grows from
+the field. But there is no such power. What the productive power
+can do is only to create a quantity of products, and perhaps at
+the same time to create a quantity of value, but never to create
+surplus value. Interest is a surplus, a remainder left when
+product of capital is the minuend and value of consumed capital
+is the subtrahend. The productive power of capital may find its
+result in increasing the minuend. But so far as that goes it
+cannot increase the minuend without at the same tine increasing
+the subtrahend in the same proportion. For the productive power
+is undeniably the ground and measure of the value of the capital
+in which it resides. If with a particular form of capital one can
+produce nothing, that form of capital is worth nothing. If one
+can produce little with it, it is worth little; if one can
+produce much with it, it is worth much, and so on; -- always
+increasing in value as the value that can be produced by its help
+increases, i.e. as the value of its product increases. And so,
+however great the productive power of capital may be, and however
+greatly it may increase the minuend, yet so far as it does so,
+the subtrahend is increased in the same proportion, and there is
+no remainder, no surplus of value" (Capital and Interest,
+translated by William Smart, page 179).
+    When we turn to land we find also a striking contrast between
+the apparent demands of our theory and experience. Land yields
+returns that stretch away into the farthest future. The value of
+land, then, should surely be not merely twenty or thirty times
+the annual rent, as experience tells us it is, but rather an
+indefinite and incalculable number of times the annual rent;
+perhaps it should be estimated as an infinite amount (see also on
+this point Capital and Interest, page 67). But the same line of
+argument may be applied to capital. Capital also, when well
+employed, promises to yield its net return on into the indefinite
+future, so perhaps its value also ought to be estimated as an
+infinite amount.
+    It will be seen that the difficulties which meet us are not
+trifling. If, nevertheless, I believe that they can be overcome,
+it is because I trust to the support given by the results of our
+investigation into the imputation of return. None of the writers
+who tried to derive interest from the productivity of capital had
+this support, and even in Bohm-Bawerk's critique it is not
+foreseen. Have we not in fact found a productive power, which,
+although not capable, as Bohm-Bawerk claims, of creating "more
+value," can and does create what amounts to the same thing, "more
+return"; in other words, a surplus?
+    We shall begin with the most difficult, the theory of the
+value of capital. After what has been said it is clear that it
+cannot be taken up without taking up the theory of interest.
+    Almost everything in this book will find its complement in
+the discussion upon costs which is to follow.
+
+Chapter 2
+
+The Value of Capital and the Interest on Capital. I --
+Discounting
+
+    Capital receives its value from its fruits. If, then, we are
+calculating the final return of any production, and, for that
+purpose, deduct from the value of these fruits the capital
+consumed, with its value, the result will be zero, inasmuch as,
+sooner or later, all capital is consumed in production. The
+deduction made must always amount to the value of the fruits,  -- 
+indeed, that value measures the deduction  --  and consequently
+the value calculation leaves no net return whatever. Not only is
+interest not explained; it is absolutely excluded. And, if we
+consider that means of production renew themselves again and
+again indefinitely, and yield results indefinitely, we come
+across another contradiction of experience, for experience shows
+that the value of capital is not infinite but always finite and
+limited.
+    These are the problems which lie before us for solution when
+we now go on to examine the value of capital and the interest on
+capital.
+    For their solution we may avail ourselves of the results of
+our analysis of the physical productivity of capital. All capital
+transforms itself in the last resort into gross return. In this
+gross return the capital reproduces itself with a physical
+surplus, the net return. These two facts, which we have already
+established, will suffice us to deduce the value-productivity of
+capital, and to solve all the contradictions with experience.
+    First: all capital transforms itself in the last resort into
+gross return; it follows from this that the value of the capital
+can never exceed the value of the gross return. The value of
+capital is thus a limited finite amount, although the working of
+the ever-renewed production extends away into an illimitable
+future. The materials and apparatus out of which, and with whose
+help, bread is produced, cannot possibly be worth more than the
+bread itself. And those things from which the materials and
+apparatus themselves are produced, and which, consequently, are
+the producers of bread one stage removed, have, in the
+prospective gross return -- the perishable bread -- a maximum
+limit of value. So with all capitals, however far their primary
+products may be removed from direct employment in the
+satisfaction of want. To put it into figures,  -- if a capital
+transforms itself sooner or later into a gross return of the
+value of 105, its own value cannot be put at anything above 105.
+    Second: in the gross return capital reproduces itself with a
+physical surplus, the net return. It follows that the capital
+value cannot be credited with the whole value of the gross
+return. In the reproduction capital represents only a portion of
+its own gross return, and can therefore absorb only a portion of
+the value of that gross return. If, from the value of 105, 5 are
+set aside as fruits which may be consumed without preventing the
+full replacement of the capital, only the remainder of 100 can be
+reckoned as capital value. The prospect of having this residual
+value of 100 transformed once more, at the close of the next
+period of production, into the gross return of 105  --  by again
+employing it productively cannot make any change on this
+valuation; since the expected return of 105 is always divided in
+the same way, assuming the same conditions; viz. 100 goes to
+capital and 5 to the increment on capital.
+    Gross return and net return are thus the two given amounts
+from which capital gets its value. The whole difficulty of the
+problem lies essentially in the recognition of the fact that
+those two amounts are given. For proof of this we refer to our
+former disquisition upon imputation in general, and the
+imputation in the case of capital in particular. If physical
+productivity of capital involves, as we have maintained, the
+imputation of gross return and the imputation of net return, we
+have at once a clear and simple principle for the valuation of
+capital.
+    There is in common use a definite name for the method of
+calculating value required by this principle. To fix the present
+value of a money claim, carrying no interest, which falls due at
+a future date, we make use, as every one knows, of the method
+known as "discounting." That is, we deduct the usual interest
+from the future sum. Now every capital value,  -- not alone the
+value of a sum of money but of every perishable productive
+instrument  -- is calculated by discounting; that is to say, from
+the value of the future expected sum of products into which the
+capital will be transformed, the corresponding net return is
+deducted. Only that, practically, in discounting money claims, a
+fixed rate of interest -- i.e. a definite relation between
+capital value and net return -- is always assumed, and always
+emerges, while we are explaining the formation of this relation
+by first discovering the principle for estimating capital value.
+    Bohm-Bawerk, arguing against Thunen's explanation of interest
+-- which has much in common with that just given -- asks with
+what right it can be assumed that the value of the gross return
+never raises the value of capital to its level, or, inversely,
+that capital value never depresses that of the gross return to
+its level? If a return of 105 can be obtained with an outlay of
+100, will there not be competition in production, or levelling of
+the valuations, until either the outlay come to be valued at 105
+or the return at 100, or both settle at some figure half-way
+between the two? Bohm-Bawerk is right in raising the question,
+seeing that he does not start, as we do, with a physical net
+return to capital. But assuming this physical net return the
+question is at once answered and settled. So long as the gross
+return remains large enough to replace the capital and yield a
+net return, the value of gross return and the value of capital
+can never be assimilated: there will always be a difference --
+viz. the value of the net return. This difference could only
+disappear with the disappearance of physical productivity. So
+long as it exists, so long does physical-productivity guarantee
+value-productivity to capital, and so long does capital also
+create more in value than itself;  -- to apply again the words of
+Bohm-Bawerk, it creates "more value." And if, in order to
+calculate the amount of capital consumed, the capital value be
+deducted from the gross return, it is not the whole amount of
+gross return that is deducted; the subtrahend is somewhat less
+than the minuend, and the required residue of interest must be
+the result.
+    If this be so, then, in the communistic state also, capital
+value must be estimated in such wise that it absorbs only a
+portion of the gross return to capital; so long at least as
+capital retains the same efficiency, as an auxiliary of
+production, which general experience from time immemorial has
+shown it to do. And for so long, consequently, must it, even in
+the communistic state, bear interest. Calculation of the net
+return to capital, and deduction or discount of the same from the
+gross return, in order to find the value of capital; -- these are
+natural economic calculations, indispensable in every economy so
+long as the fundamental conditions of production known to general
+experience remain in force.
+    A capital which, in twelve months from the date of
+possession. yields the same gross return (say 105) and the same
+net return (say 5), is valued at the date of possession at the
+same amount (say 100). It is, nevertheless, not a matter of
+indifference whether the capital comes into our possession now or
+only at the end of the twelve months, inasmuch as possession now
+guarantees a return of interest besides. It would, therefore, be
+incorrect if we were to take the equivalence of valuation put
+upon capitals in the present and in the future, and argue from
+that to the full economic equivalence of the present and the
+future possession. A present sum is always worth more than the
+same sum at a future date, or, as we may say, the future sum is
+always worth less, and that in proportion to the futurity of the
+time when it will come into our possession. If in the course of a
+year I can make 105 out of 100, the sum of 100 which I shall
+obtain only at the end of a year, is, to-day, worth only about
+95. To reduce future capital values to present value, they must
+be discounted, just as the values of future gross returns are.
+    The reader will remember that, in chapter vi of Book I, we
+defended the proposition that present and future wants, coming
+into competition with each other, are, as a rule, to be regarded
+as equal; that is to say, the difference in time does not
+necessitate any difference in valuation. To this proposition we
+have now to add a second: -- that, within the sphere of
+production, the difference in time does necessitate a difference
+in valuation of the goods employed in production. The two
+propositions are in perfect accord, and mutually supplement one
+another. If wants are continuously to find the same satisfaction,
+equal amounts of return must continuously be produced. And if
+equal amounts of return are continuously produced, capital must
+remain continuously the same in substance. But if capital is
+actually to remain the same in substance, and so is able to yield
+continuously the same returns, this must find expression in a
+valuation which ascribes to capital a higher value, the earlier
+the point of time it comes into our possession. For the earlier
+the point of time, the earlier, and consequently the greater, the
+return that may be expected.
+    The business man who takes note of his own calculations, who
+tests his recollections and impressions, and asks himself why he
+calculates interest, and on what principle he graduates the value
+of his capital, will arrive substantially at the same conclusions
+as those to which we have just come. The value of goods is
+derived from their utility; the value of capital goods from their
+useful returns; interest represents a net increment to or fruit
+of capital: -- these are the axioms of practical life so much
+contradicted, even libelled, by theorists. They are axioms which
+every layman recognises, in his own way, as the motives by which
+he believes himself guided in his economic operations. A theory
+which should succeed in vindicating these axioms of ripened
+experience, which should give a distinct form to the vague
+impression, and a good and necessary content to opinions not
+quite conscious of their own raison d'etre, could have no better
+testimony to its correctness.
+
+NOTES:
+
+1. Compare Menger, p. 135.
+
+Chapter 3
+
+The Value of Capital and the Interest on Capital (continued). II
+-- The Rate of Interest
+
+    Interest is the return to capital when that return, with its
+value, is considered in relation to capital value. The relation
+existing between capital value and interest, when considered in
+the individual case, may be described as the percentage of
+increment; it becomes the "rate of interest" only when it obtains
+in a large number of connected cases. The rate of interest is the
+general percentage of increment to all the capital in the market.
+    The fact that, in one and the same sphere of production,
+there emerges a general percentage of increment, or at least a
+constant tendency toward it, arises from the many-sided
+connections between various kinds of production. In consequence
+of the comparatively great freedom of choice in the destination
+of most capital, land, and labour, it is almost always possible
+to extend any single production at the cost of some other, or to
+limit it in favour of some other. Of this possibility people will
+avail themselves whenever, and according as, any one production
+shows a particularly favourable or particularly unfavourable
+percentage of increment. In seeking for the most favourable
+percentage of increment, and in striving towards the equalising
+of all differences, a general percentage of increment will be
+created, or at all events will be aimed at, so far as there is
+competition between the various productions.
+    The organisations which at present contribute most to the
+equalisation of the interest rate are the money markets, where
+the principal amounts of capital in the shape of money are lent.
+In the money markets it is, of course, in the first instance only
+interest on loans that is determined, but the state of the loan
+market in the last instance affects also the return to
+production, inasmuch as it influences the extending of industries
+carried on with borrowed capital. Not only loan capital, however,
+but also that capital which is the personal property of
+undertakers, moves perpetually in the direction of the highest
+percentage of increment. Under a communistic regime all capital
+would belong to the one single undertaker, the state; capital
+would no longer be lent for production; and the interest on loans
+would cease to influence the percentage of increment in
+production. But this would simply leave capital still more free
+to shift from one production to another; it would no longer be
+hindered by those barriers which the circumstances of private
+ownership at present oppose.
+    Every one knows that the rate of interest, in spite of the
+tendencies to equalise it, is never really the same all over.
+This is chiefly caused by the fact that the unity or organisation
+of production is by no means perfect. There is no such thing as a
+united money market, and much less is there any thing like a
+united way of conducting productive business. The individualism
+of the present economic order distributes production among
+individual undertakings. These, of course, under the influence of
+competition and the desire for gain, are built into one coherent
+structure, which to some extent realises the economic order that
+an ideal plan of production would present. Yet at how many points
+do we find great gaps; how many dislocations through excessive
+accumulation of means of production at the wrong places; how
+often things go too quickly, how often not fast enough! And
+mistakes like these are all the greater the more distant the
+groups compared are from one another. The separate branches of
+agricultural production may be, relatively speaking, more in
+harmony with each other, than, for example, agriculture as a
+whole with manufacture as a whole. The transferences from
+agriculture to manufacturing, and vice versa, take place too
+seldom to allow of the proper balance between them being
+maintained.
+    This results, as we have said, in differences of percentage
+of increment among the individual productive groups. It is
+scarcely necessary to emphasise the fact that every difference in
+rate of interest, arising from this cause, is a misfortune. Every
+such difference implies a violation of the very first principle
+of employing goods; that they shall first be used in the most
+favourable employments, and that the less favourable shall be
+allowed only in so far as there is not enough of the more
+favourable. In one group people are content with a less
+percentage of increment, while in others they may be obtaining
+higher percentages. The hurtful consequences of this are by no
+means confined to the use of capital; they go further, and
+misdirect the production of capital. Capitals which yield a
+trifling interest are produced far more largely, and capitals
+which might yield a high interest, to a much less extent than
+they ought to be.
+    On the other hand, uniformity in the percentages of
+increment, and a uniform rate of interest, are, where they exist,
+proofs, economically speaking, of a well-balanced distribution
+and disposal of capital. They are proofs that the economically
+indicated limits of the employment of capital are everywhere
+equally respected; that nowhere is there any falling short, and
+nowhere any overstepping of them. In the principle which demands
+that the employment of capital shall be guided by the rate of
+interest, and that all employments which fail to return the
+customary interest be left alone, we find the marginal law
+brought into one common expression as regards all the different
+forms of capital. The net return is a definite quota of the gross
+return, and where the quota of net return is controlled, the
+direction of capital generally is controlled.
+    In the communistic state, when production is directed from
+one point and to one end, the differences in percentage of
+increment, so far as these are occasioned by the inorganic nature
+of our system of production, would disappear. Of course, even
+there, certain differences would still remain; all those, namely,
+which could not be further equalised by transferences from one
+production to another. In the nature of things, by reason of the
+variety in the properties of things, no production can be
+increased at the cost of others beyond a certain point, and, on
+similar grounds, no production can be limited in favour of others
+below a certain point. Agricultural capital could never be
+completely transferred to trade, nor trade capital all
+transferred to agriculture. But what does observation here show?
+It shows that those very differences, which it seems quite
+impossible to remove, are always removed, and that through an
+instrumentality which is permissible even where transferences of
+capital are not permissible; by means, that is to say, of
+calculation.
+    How this happens and what it means, we shall now try to show.
+
+Chapter 4
+
+The Value of Capital and the Interest on Capital (continued). III
+-- The Law of the Uniform Calculation of the Interest Rate
+
+    A capital which, in a one year's production period,
+transforms itself into a gross return of ?05, will be valued at
+?00 if the general rate of interest be 5%: the residue ? is net
+return. If the gross return should rise suddenly and greatly,
+say, e.g., to ?26, -- the general rate of interest remaining
+unaltered -- it appears at first sight that the rise must affect
+the net return, and cause it to be calculated at ?6 instead of
+at ? as formerly. But, as a matter of fact, is the return so
+calculated? It is in one particular case; that, namely, where the
+rise is regarded as a solitary instance. But if it is regarded as
+permanent the calculation will be different. The owner certainly
+reckons the entire increase of ?6 as gain, but he distributes it
+by putting ?0 to capital and ? to net return. From this time
+onward he will reckon his capital, and consequently his
+consumption of capital, at ?20, and his net return at ?; so
+that he does not assume an increment of 26%, but only of 5%,
+corresponding to the general rate of interest.(1*) In the same
+way, should the gross return of a capital sink permanently, while
+the rate of interest remains unaltered, a portion of the loss
+will be written off the capital value, in such a manner that the
+relation between capital value and net return shall again
+correspond to the general rate of interest.
+    In this way it comes about that, where transferences from
+production to production are no longer permissible, the
+individual percentages of increment on individual capitals are,
+by calculation, regulated according to the general rate of
+interest.
+    The rate of interest which obtains in the particular
+productive group, or in the particular market to which the
+capital in question belongs, is the rate that decides.
+    The meaning of this act of calculation is easy to understand.
+A capital yielding 26% interest and one yielding 5%, are not
+equivalent to one another, although both may be expressed in the
+same figures. Only equal capitals bearing equal interest are
+equivalent. Capitals, then, can be calculated off-hand -- i.e.
+without consideration to the interest they bear -- only where the
+rate of interest is the same. That is the reason why, when the
+rate of interest cannot be made equal, it is at least calculated
+as such, by means of shifting the differences to the capital
+value, and giving them expression there.
+    A 3% capital and a 6% capital of ?00 are not equivalent to
+one another; they are put into terms fit for comparison by
+calculating the 3% capital at 6%, and so reducing the capital to
+?0, or by calculating the 6% capital at 3% and raising capital
+value to ?00.
+    As a means of simplifying calculation, it might be
+exceedingly desirable that the rate of interest should be the
+same in all markets, and in all productive groups. The rate,
+however, is not the same, and the fact must be reckoned with. If
+the rate of interest on bonds amount to 4% and the bank rate to
+3%, it is a consequence of the fact that the two loan markets are
+separated from one another, and that demand and supply in the one
+do not approximate to demand and supply in the other, or, at all
+events, approximate only in trifling degree. This want of touch,
+however, which renders impossible the equalisation of rates of
+interest, also renders it less necessary; it is only when capital
+is transferred from one market to the other that the difference
+in rates of interest has any practical importance for the
+valuation of capital. It is different where one and the same
+market is concerned. Here capitals are continually valued against
+each other, and here, therefore, differences in percentage of
+increment could not be put up with. They are overcome either by
+regulation of production, or, where that is not practicable, by
+calculation. In the communistic state, where all capitals would
+be under a uniform administration, it would be an obvious
+expedient of calculation to regulate all individual percentages
+of increment according to the prevailing rate of interest.
+    We now proceed to further applications of the fundamental
+proposition that the rate of interest, when possible, should be
+uniformly calculated.
+
+NOTES:
+
+1. In the above example I assume (1) circulating capital, and (2)
+circulating capital whose value is not depressed to a lower level
+by cheaper costs of production; -- say, a scarce raw material.
+Suppose there is an increased demand for articles made from
+amber, while amber cannot be obtained in greater quantities; it
+will rise in value. Those undertakings which work with amber
+certainly obtain thereby a rise in their gross returns; but there
+is, on the other hand, a similar rise in the amount deducted for
+consumption of capital, and this must be taken into consideration
+in their estimate of gain. In the long run there remains a higher
+net return, but it is only relatively to the increased outlay of
+capital.
+    A much more complicate calculation has to be made as regards
+fixed capital, as also as regards capital whose value is
+influenced by the costs of production. I must leave the reader to
+think out for himself -- in the light of the principles now to be
+discussed -- the corresponding modifications in the valuation of
+fixed capital and in the influence of costs.
+
+Chapter 5
+
+The Value of Capital and the Interest on Capital (continued). IV
+-- Change in the Rate of Interest
+
+    It has just been shown that, when the value of the service of
+any individual form of capital -- e.g. a raw material, or a
+machine -- rises or falls, the fact expresses itself in a
+corresponding elevation or depreciation in its capital value. The
+net return imputed is, of course, altered at the same time, but
+only in so far as will bring it again into that relation with the
+capital value which corresponds with the ordinary rate of
+interest.
+    In order that the general percentage of increment -- the rate
+of interest -- may fall or rise, there must be changes of an
+extensive kind in the return to the great mass of capitals --
+brought about through changes in supply, in demand, in technique,
+in a word, in any of the factors of imputation. A general rise in
+the gross return to capital, brought about by a great and
+universally effective invention, would cause a general rise in
+the net return to capital, and its relation to capital value, --
+that is to say, in the rate of interest. The capital value might
+in this instance remain entirely unaltered. Only those capitals
+which had no part in the effects of the invention, and were in
+this respect individually separated from the general mass of
+capital, must necessity be affected. Where the amount of their
+services had remained unaltered in the midst of the general
+increase, in estimating the value of those capitals a greater
+discount from that amount would require to be made, corresponding
+to the increased rate of interest. Suppose the rate of interest
+to rise suddenly from 3% to 6%, the value of all capital whose
+interest remains unaltered at 3% must be appraised at a
+correspondingly lower rate.
+    We have discussed the effect which the individual factors of
+imputation produce upon the contributions of capital, in
+sufficient detail to make the derivation of the rules which
+govern the change in the rate of interest a matter of no
+difficulty.
+    One single remark may be added. It is quite a hackneyed
+proposition that the increase of capital causes a decline in the
+rate of interest. This proposition is true only with a certain
+limitation; it holds only when, by increase of capital, is
+understood increase in amount, without a simultaneous increase in
+the variety of the forms of capital. Increased variety in capital
+is synonymous with an advance in technique; it is one of those
+facts of economic history to which special attention must be
+drawn, when it is desired to show clearly the difference between
+primitive and developed production. Thus to it is due what we
+know to be the effect of every technical advance; namely, a rise
+in the value of the services of capital, as regards individual
+businesses, and, when comprehensive enough, a rise in the rate of
+interest. Not until the qualitative advance has been
+quantitatively used up, and the stocks of the new varieties of
+capital been multiplied, without other new varieties coming to
+the front -- that is, not until production expands and fills out
+the newly-set limits, -- can the increase of wealth have power,
+first, to depress the value of the services of capital
+individually, and, in the long run, should its compass be
+sufficiently extensive, -- to cause a fall in the rate of
+interest.
+    If we look back over the changes in the rate of interest on
+production over the whole course of economic history, we shall
+notice an unceasing upward and downward movement, according as
+advances in production are made, or as the marginal values of the
+newly-acquired wealth are again depressed by the increment of
+capital which follows. But through these unceasing fluctuations
+run great fundamental tendencies, which are, of course, subject
+to disturbance from opposing tendencies of the rate of interest
+on consumption loans. Economic history begins at a period when
+there is almost no capital, -- the zero of property in capital as
+well as the zero of return from capital. From that time onwards
+property and return, measured absolutely, go on growing so long
+as the economic world thrives, and has not yet reached the down
+grade of the movement of value. And the relation between these
+two -- i.e. the rate of interest -- rises similarly from the
+beginning, and only begins to fall when the down grade in the
+movement of value begins to come in sight.
+
+Chapter 6
+
+The Value of Capital and the Interest on Capital (continued). V
+-- The Valuation of Fixed Capital
+
+    Up to this point we have disregarded the circumstance that
+many capitals -- all those called "fixed capitals" -- do not
+exhaust themselves in yielding one single return, but co-operate
+in several processes of production, and yield several returns
+before they are finally used up. We were justified in hitherto
+neglecting this circumstance, as it is of no importance to the
+principle of the valuation of capital which we had first to
+establish. Now, however, that the principle has been established,
+we must go on to this next question. We shall find that the
+circumstance alluded to does not essentially alter matters,
+although it certainly renders them much more complicated.
+    In the case of fixed capital, instead of one single future
+return there are several returns, and the present value of these
+several returns must be determined by discounting. If a machine
+remains capable of work over ten years, the services of all the
+ten years which are to be imputed to it must be discounted and
+added up, at their present value, in order to obtain the capital
+value of the machine. It need scarcely be said that every later
+service must be estimated at so much less in present value, as
+the discount must be relative to the terminal point. Further
+complications are caused by the fact that repairs, and
+reconstructions, and extensive replacements, frequently take
+place in fixed capital during the period in which it is wearing
+out. The outlay which this occasions must be discounted -- taking
+into account of course the period of time at which this outlay
+may be anticipated. Still further complications, finally, arise
+from the uncertainty -- which increases as the period of wear and
+tear lengthens -- whether the returns expected will actually be
+received at all. And this also necessitates peculiar deductions,
+which will be most simply made where people can insure against
+the danger.
+    In the case of such fixed capitals as are consumed
+exceedingly slowly, and, consequently, yield exceptionally many
+returns, the process of capitalisation frequently takes the place
+of discounting. Before speaking of this, however, it will be
+necessary to touch at least upon another somewhat difficult
+question.
+    This is the method of calculating the individual percentages
+of gross return assignable respectively to interest and to wear
+and tear. If a machine remains serviceable for five years, and
+yields every year ?000, this yearly income must be divided out
+between interest and wear and tear (Amortisation) in accordance
+with a certain law. In order to find this law, it is best to
+represent the individual rates of return as annuities. The first
+instalment must yield interest for the first year upon the total
+capital value, all return beyond that is repayment of capital;
+the second instalment has to yield interest on the capital value
+remaining after deduction of this repayment, and the residue,
+which must now be a larger one, serves toward further repayment;
+and so on, until finally the entire capital is replaced, and
+interest obtained upon all the portions of capital according to
+the period of their employment. The reason for this kind of
+calculation lies, in the last resort, in the law of the uniform
+calculation of the interest rate.(1*)
+
+NOTES:
+
+1. Calculated on the figures give above, and assuming a 5% rate
+of interest, the value of the machine, on putting into present
+value the five expected annual returns of 1000, with interest and
+compound interest, may be reckoned at 4329.48. The first return
+of 1000 pays 216.47, as 5% interest on the capital, while the
+residue of 783.53 goes to repayment of capital, thus leaving a
+remaining capital sum of 3545.95. From the second return 117.30
+falls to interest, and 822.70 to the sinking fund; from the
+third, in the same manner, to interest 136.16, and, to
+replacement, 863.84; from the fourth, 92.97 to interest, 907.03
+to capital; and finally, from the fifth, 47.62 to interest, and
+952.38 to repayment, whereby the entire capital is replaced.
+
+Chapter 7
+
+The Value of Capital and the Interest on Capital (continued). VI
+-- Capitalization
+
+    Interest is always an aliquot part of capital value, and
+capital value is always a multiple of interest. Where interest is
+5%, for example, the interest is 1/20 of the capital value, and
+the capital value is equal to 20 times the interest. It is this
+fact which renders it possible to determine the value of capital,
+not by deducting interest from gross return, but by another
+method which leads to precisely the same result -- namely, by
+means of a corresponding multiplication of interest, or, to use
+the ordinary term, by capitalisation. Whether discounting or
+capitalisation is preferred will depend upon circumstances. With
+circulating capital discounting is the usual method, as the gross
+return in this case forms the nearest and clearest basis. With
+fixed capital, if the wearing out is comparatively rapid, and the
+gross returns are few in number, discounting will be the
+preferable method in this case also; but if a long series of
+gross returns is to be taken into account, capitalisation will be
+preferred.
+    Capitalisation is easiest where the gross return contains no
+quota for wear and tear, and is therefore entirely net return.
+This would be the case with a capital which never wore out, which
+promised rent to all eternity, and a rent, moreover, absolutely
+secure. To carry through the process of discounting here would be
+laborious in the highest degree; the rent of each separate year
+would have to be separately calculated, until that rent was
+reached whose present value was zero; and not till then could the
+calculation be finished. How much simpler in such a case to
+multiply the year's rent in accordance with the rate of interest!
+The result obtained in this fashion agrees with that given by the
+former and more laborious method, not merely approximately, but
+with mathematical exactitude, as any text-book of mathematics
+will confirm. The mathematical formula for the discounting of an
+eternal rent is simply the formula of capitalisation.
+    The calculation is a little more complicated when the gross
+returns contain quotas for wear and tear, and when repairs and
+the like must be covered and insurance premiums or premiums
+against risk retained out of these gross returns. In such cases
+all necessary deductions must first be made from the gross return
+before we get the net return which is to be capitalised, and this
+is very often exceedingly difficult in the individual case. The
+premiums just mentioned are frequently not deducted, but the
+amount of risk finds instead its expression simply in the rate of
+interest. The return, for example, of a business regarded as of
+doubtful solidity will be capitalised at a higher rate of
+interest, i.e. as a smaller multiple.(1*)
+
+NOTES:
+
+1. All the separate principles here deduced for the calculating
+of capital value and interest are followed in practical life and
+are practically familiar to us. The theory of them, too, is often
+given. But they are always followed and taught under the
+assumption that the fact of interest and a fixed ratio of
+interest are given. Nothing is simpler, under such an assumption,
+than to capitalise a rent, or to show the method of
+capitalisation. But the duty of the theorist is to discover these
+laws, and, at the same time, to explain why such assumptions may
+be made. Whence comes interest? whence the rate of interest?
+These are our fundamental questions. All the single laws which we
+have laid down are confirmed theoretically only if we have
+succeeded in explaining also the assumption on which they are
+based, i.e. the existence of interest and the rate of interest.
+    The analysis of the value of land which follows will once
+more give the reader occasion to notice how difficult it is with
+the matter in hand to escape arguing in a circle, and to prevent
+the entrance of any assumption which is itself in need of
+explanation.
+
+Chapter 8
+
+Interest on the Consumption Loan. House Rent
+
+    The natural principles hitherto laid down for estimating
+capital value and interest refer only to production. It must now
+be asked whether there is also a natural interest which
+corresponds to the interest given on a loan for consumption
+purposes, or interest derived from letting of dwelling-houses and
+the like.(1*)
+    The motives of a debtor who borrows with the view of spending
+the loan on himself are different from those of an undertaker who
+borrows to increase his business capital. The undertaker hopes to
+obtain both repayment of capital and interest out of the return
+on the borrowed sum. The mere debtor cannot hope for this, but
+must trust that it will be possible for him to repay his debt of
+capital and interest out of some other income. He borrows because
+he needs goods now, and has not got them, while he expects in the
+future to have them and not to need them to the same degree -- at
+least he deludes himself with some such hope. Thus in a certain
+sense interest on production and interest on consumption have a
+common source. Both of them relate to a difference in the
+valuation of present and of future goods, only that the causes
+which produce this difference are distinct. In the case of the
+productive outlay of capital it is the productivity of capital
+which causes the difference between present and future; in the
+case of the consumption loan, it is accidental and personal
+circumstances, -- accidental accumulation of present wants and
+expenditure, accidental disturbance of income, and so forth. One
+who finds himself in a situation of urgent necessity is acting
+quite rationally when he promises -- at some future time when he
+hopes to be more favourably situated -- to pay to the person who
+assists him by an advance of money out of his present difficulty,
+not only the amount advanced, but an extra, an interest. A sum of
+£l05 at the end of a year may be worth less to him than ?00 is
+at the present moment; he might even promise ?50, ?00, or more,
+and yet not be acting irrationally. But if he is to find a person
+willing to lend him the money, it is essential that every one
+should not be in the same circumstances of present need and
+future affluence as himself. It is essential that there should be
+people who, at the moment, have means which they can do without.
+And thus it follows that, in an entirely organic economy, such as
+would exist in the communistic state, the necessary conditions
+for consumption interest are wanting, inasmuch as all the
+citizens together would form only one economic subject, and would
+participate continually, either in the same condition of want, or
+in the same improved condition of economic well-being.
+    The interest obtained from the letting of dwelling-houses,
+and such like objects of consumption wealth, amounts, on an
+average, to a sum which allows the owner to enjoy -- during the
+period for which the building lasts -- interest upon the capital
+expended in building, and, besides, to provide what the Germans
+conveniently call "amortisation" of the same; so that, when the
+dwelling is worn out, he is in a position to replace it. In
+short, there is assured him, on the average, a permanent net
+return corresponding in amount to the general rate of interest
+upon property of this kind. During all the long period of time
+when contract interest on Loans was forbidden by law, and
+violently combated by all theorists, no one thought of objecting
+to the interest on consumption-wealth. This was always held
+equitable; and an owner who made over his property to another in
+perpetuity was regarded as having a right to claim in return a
+permanent remuneration. If, however, we look carefully, it will
+be seen that the theoretical arguments employed against interest
+on loans apply equally to interest on house property, in so far
+as it brings in more than enough to repay the costs of building.
+If money be "unfruitful," so are buildings; and to this extent it
+is impossible to see why they should bring to their owners a net
+income lasting beyond the physical duration of the house. Were
+the owner to retain the house for his own use he would, by the
+time it tumbled to ruins, possess nothing more of it than,
+possibly, the value of the materials; -- is it not rather a hard
+condition that the person who hires the house must rebuild it for
+him?
+    To justify the usual amount of rent on house property, we
+must go somewhat further back, viz. to the fact that the objects
+of use which are let must be produced. But if they are to be
+produced, there must be the prospect that their value will
+include the full and permanent maintenance of the undertaker's
+capital, along with the customary return to capital, whether this
+value be realised through selling or through letting the
+property. No houses would be built for letting if the prospects
+of this kind of undertaking were poorer than those of any other;
+the interest of hire or let must, therefore, stand at the usual
+amount of interest on capital. It is an application of the law of
+costs (see below, Book V), according to which the customary
+interest on capital is reckoned among costs. As in all cases, so
+in this, does the calculation of costs assure the fullest
+economic distribution of the employments of goods. The more
+exactly the net income received from the letting of
+dwelling-houses corresponds with the rate of interest general
+over the country, the more exactly will the building of houses,
+and the satisfaction of the need which this meets, correspond
+with the general condition of production and of the satisfaction
+of wants. If people were to be contented, e.g., with an
+exceptionally low return from houses, it would imply a
+disproportionately ample satisfaction of the want for dwellings.
+This would stand out from the general economic plane; and would
+necessarily be balanced and compensated by limitations in some
+other direction.
+    Even in an entirely organic economy, in which the opposition
+between owner and tenant was abolished, it would be as needful as
+it now is to take care that building of houses corresponded with
+the general position of production and of satisfaction. And to
+this extent we might draw analogies between the interest of house
+rent and a calculation, in terms of value, of the satisfaction
+given by houses, which would result in a control of expenditure
+quite as complete as that given by house rent.(2*)
+
+NOTES:
+
+1. A further form of interest will be discussed in Book V. chap.
+ii.
+
+2. That is to say: -- In the present state the due provision of
+houses for the people is guaranteed by the consideration that
+capitalists, investing their money in house property, will get
+the ordinary return of interest on capital generally. Rent must
+cover replacement as well as interest. In a communistic state,
+where the government provided everything, the building of houses
+would be controlled by considerations of wants and satisfactions
+which placed the demand for houses very much in the same relative
+position to other satisfactions as now. No socialist state, for
+instance, could provide houses in such quantities that their
+value was reduced to the mere expenses of building, without
+disturbing the marginal plane, and diminishing the total sum of
+satisfaction obtainable by the employment of the national
+capital. -- W.S.
+
+Chapter 9
+
+The Value of Land
+
+    The value of land is calculated -- according to the same
+principles as the value of a permanent rent -- by capitalising
+the rent of land. This is a proposition which is held nowadays as
+self-evident. It was not always so, however, and, indeed could
+not always be so. In order to capitalise, a given rate of
+interest is necessary; and that an interest rate may be given, we
+need capital. To capitalise rent means to multiply it according
+to principles which are derived, as the name itself shows, from
+the valuation of capital.
+    Imagine an ideal condition of agriculture where no capital
+whatever is employed. The land yields produce of all kinds and in
+great quantity. In these circumstances the value of each product
+can be estimated exactly; the value of each harvest can be
+estimated exactly; rent can be fixed exactly; -- but there is no
+means by which to determine with certainty how many rents would
+be required to give the value of the land.
+    Why is there no such means in the case of land as there is in
+the case of capital? The answer is simple. Capital reproduces
+itself in the gross return as a part of that gross return. Thus
+there is a fixed relation between the two "known" quantities,
+gross return and net return, and the "unknown" quantity, capital
+value; and this relation gives the measure for capitalisation.
+Land has not the same double position as productive factor and as
+product. It produces without being reproduced; and thus, to
+determine the value of land, it becomes necessary to bring to our
+aid the standard for capitalisation which we find in capital.
+    From this consideration it follows that, so long as capital
+was scarce, it was impossible to obtain a fixed valuation of
+land. Every owner of land might estimate its value differently,
+inasmuch as he might take, as basis of calculation either a
+greater or smaller number of yearly rentals, according to varying
+external circumstances, and according as his judgment was
+influenced by recklessness or by forethought. An egoist pure and
+simple, who calculated only with regard to his own lifetime, and
+to whom his land was of importance only because it secured him a
+rent for life, would estimate its value according to the probable
+duration of his life, and would thereby obtain a kind of fixed
+valuation; at all events, his land would represent to him a
+finite sum of value and not an infinite one. But one who thought
+of his children, and of succeeding generations, and took their
+interests into consideration in estimating the value of his land
+would of necessity regard it as an infinite amount. As
+inconsiderate egoism may be counted exceptional, the value of
+land must, as a rule, have been estimated as infinite, or, at all
+events, as an amount incapable of being measured.
+    As a matter of fact, this probably was the case with
+primitive economy. In the beginning, where land had any value at
+all ascribed to it -- as, e.g., the pasture lands of nomadic
+tribes when there was no superfluous amount of such lands, the
+opinion must have arisen that here man had to do with an
+indispensable condition of existence; a condition which required
+to be kept up permanently; and a condition whose importance could
+not in any way be compared with that of rapidly changing, coming
+and going, movable goods. The possession of pasture land was a
+matter of life and death, and the tribe, recognising that its
+continued existence depended upon the possession, would risk its
+uttermost to retain it. Even in present times a similar mode of
+thought may be met with in distant mountainous regions, where the
+peasant farms his solitary patch of land. His croft is
+inalienable from him, and its value indeterminable as against
+other goods. What should the peasant do if he ceased to be a
+peasant? No sum of money that a buyer might offer could be any
+temptation to him, unless just then an occasion presented itself
+to exchange it for another and better piece of land -- an
+unlikely possibility in the circumstances. The peasant's croft is
+and remains for him a good by itself, the value of it impossible
+of expression in goods of any other kind, -- in fact,
+indeterminable.
+    This conception alters only when capital has become more
+plentiful, and when the landowner has become more familiar with
+its use and its value. There are two circumstances which bring
+this about. The one is that land and capital begin to be
+exchanged for each other, according to the amount of the rents
+they yield, and thus people use the value of capital to express
+the value of land. The other, and more important, is that the
+land becomes more intensively cultivated, and itself employs,
+much capital. Consequently, in every act of cultivation, the
+question has to be considered, how land and capital should be
+employed relatively to each other, so as to give the best returns
+of rent. The same return in crops may be produced by taking more
+or less land into cultivation, or by employing more or fewer
+doses of capital, and agriculturists have to decide on these
+points. Thus land and capital become commensurable in their
+products; and, when ever civilisation has got this length, it is
+impossible longer to avoid valuing land according to the
+fundamental laws of valuing capital. To do otherwise would be to
+renounce the only possible measure for calculation and economic
+decisions. Just as capitals can be rightly compared with each
+other only when calculated at the same rate of interest, so can
+land and capital be rightly compared only when the valuation of
+land assumes the rate of interest on capital.
+    In the communistic state, it is true, the connection between
+land and capital, brought about by exchange of the one for the
+other, disappears, but the connection arising from their common
+co-operation in production remains. The capitalising of land
+value, accordingly, would remain as now.
+
+Chapter 10
+
+The Value of Labour
+
+    To his master the slave is a capital, and his value, like
+that of an animal, a machine, or any piece of fixed capital, is
+determined by summing up and discounting all the services which
+may be expected from him, or, as we may say, by capitalising his
+net return.
+    The capital value of free labour, the value of the free
+labourer, is no object for valuation, any more than his person is
+an object of economical disposal, or a "good." On the other hand,
+the individual acts of labour are always objects of economical
+disposal, and so objects of value, even in the freest community,
+-- even in a community where the labourer himself governs and
+makes, the laws. No economy could be conducted without men
+recognising not only which labour, in general, is the best and
+which the worst, but which, in the circumstances, is the more and
+which the less important, which must be used sparingly and which
+may be used with most freedom.
+    The method by which labour is valued is exceedingly simple.
+The ordinary principles of imputation decide what share of the
+return may be ascribed to each individual service, and the value
+of this share obtains directly as the value of the service which
+produces it. Thus every kind and quality of labour shows a
+different result according to the available supply, the demand,
+the support revived from complementary goods, and the technical
+possibilities. At the top of the tree stand the "monopoly"
+services, when the general economic conditions of the time aid
+them with technical support and general demand at the bottom
+stand the over-congested branches of labour, particularly
+unskilled manual labour. Wherever labour power is available in
+great quantity it is valued as a "cost-good," and suffers from
+all the disadvantages of this valuation. The marginal employment
+is always the decisive one, -- that employment of the labour in
+question which brings the smallest result economically
+permissible.
+    The socialists would have us believe that the value of every
+kind of labour should be estimated simply according to time; that
+is to say, the duration of the service should alone decide its
+value relative to other labour, -- which assumes, of course, that
+slovenly labour is reduced to earnest labour, unskilled to
+skilled labour. This is the extent to which the quality of the
+labour would be taken into consideration, but no further. Those
+differences of quality which reside in the task set before the
+labourer are left quite out of consideration. Common manual
+labour, higher artisan labour, superior mental labour, are all to
+be regarded as equal. Does it require any special proof that this
+is contrary to the natural laws of valuation, and that no economy
+could last which treated its division of labour in this way?
+    The socialists continually overlook the fact -- although,
+indeed, they only follow in the footsteps of most of the
+economists -- that value, in our present condition of society,
+has two services to perform. The one is to act as title to
+personal income. In the great round game of income-winning, every
+one is to receive in the end as much as the value of his stake
+amounts to; and in the game the stakes may be wealth as well as
+personal labour. The man who has much wealth to stake receives,
+as a rule, much income, even without personal labour, and the man
+who has little wealth to stake, as a rule receives little, even
+with the most strenuous expenditure of labour.
+    The other service of value, -- and one usually quite
+overlooked, -- concerns the economical balancing or weighing of
+goods against goods, and of employment of goods against
+employment, without regard to distribution among persons, and
+simply with a view to reach the greatest possible economic
+results. To this service of value belong e.g, those principles
+which are absolutely indispensable to any economy; -- that every
+production should be directed so as to obtain the greatest
+possible return, that no more be spent upon any product than can
+be made good by its value, that in consumption the good suited to
+satisfy urgent wants, and therefore the more valuable, should not
+be spent on a trifling satisfaction, that, generally speaking,
+the limits of supply and demand, as given in marginal value,
+should be observed, and so on.
+    What would the socialists have? They wish a related economy,
+in no way worse, and possibly better regulated than that of
+to-day; but with this peculiarity that labour shall be the only
+source of personal income. The value of land and capital -- or
+the value of the rents of land and capital -- shall no longer be
+imputed to any individual as his outlay or stake; shall no longer
+serve any one individual as a title to personal income. Is there
+in this claim -- the justice of which we shall not here discuss
+-- any force which can abrogate the economical service of value
+as well as the personal service? Because land and capital are no
+longer to belong to individuals but to the state, must they
+therefore be regarded by the state as valueless, and be employed
+in production without regard to the principles of value? Because
+labour is to be the only basis of personal income -- measured
+possibly by the length of time which each man has worked -- is
+labour alone to be considered in production, and is the only
+measure of its value to be its duration? Because there is to be a
+new order in the distribution of goods among persons, must there
+be a complete disorganisation in the whole industrial conduct of
+goods?
+    Of course socialists are very far from desiring such a
+result. They wish to have a related economy, but they expect at
+the same time to secure that goods are used and employed
+according to their usefulness. Does this mean that the usefulness
+of goods is really the only thing to be considered -- not
+quantity and its changes, not demand with its rise and fall, not
+the mutual connection of means of production, with all the
+vicissitudes of favourable and unfavourable coincidence? But if
+usefulness, supply, demand, complementarity are combined, what is
+this but to value goods according to the utility imputable to
+them in the given case, instead of according to their general
+usefulness -- in other words, to estimate them according to their
+value?
+    The natural principles of valuation are indispensable,
+because they serve indispensable economic purposes. Consequently
+where these principles are observed, they serve these purposes,
+and are, in so far, good. In so far as exchange value corresponds
+with natural value, it is right that it should regulate the
+economic conduct and disposal of goods, and that in every
+department, whether as regards land, capital, or even labour. And
+although the labourer may suffer severely under this law of
+value, although society generally may suffer with him, although
+the recompense of the labourer may require to be adjusted, in his
+own interest and that of society, by a different law; -- still
+labour cannot be valued according to any other law where its
+employment is concerned. When it comes to employ labour, the
+communistic state must retain the same law in force, or its
+economy will become chaos.
+    Not only the question of payment, but, beyond that, the
+question of labour in the future, must be kept distinct from its
+employment. Wherever common labour power is disproportionally
+abundant, it can, and must, be employed only in producing returns
+of very trifling value. None the less will it be regarded as an
+evil that there should be available labour power of such trifling
+productive capacity, and all efforts towards increasing the
+services of labour and thus securing it a higher value, are
+worthy of praise; all the more so if the small capacity brings a
+small payment, and thus results, over wide circles of workers, in
+insufficient satisfactions of wants and wretched conditions.
+
+Chapter 11
+
+The Value of Production Goods, With Reference to the Competition
+Between Present and Future Interests
+
+    To distribute a supply of means of subsistence, or other
+consumption goods, over a considerable period of time, and to
+value it with regard to the competition between present and
+future wants, is, at bottom, a very simple task. One would select
+the highest satisfactions which can be reached on the whole, and
+these would form the basis for the valuation of the goods, the
+marginal satisfaction deciding the value of the unit. At what
+point of time the marginal satisfaction will occur cannot be
+stated generally. It may be at the beginning that the highest
+satisfactions are possible, as in the case of stocks which are
+large and liable to spoil, and cannot well be preserved for any
+length of time. It may be that the greatest amount of
+satisfaction can be attained only at the end of the period; as
+when forethought demands that a certain restraint be observed at
+the earlier dates in case of possible accidents.
+    Not infrequently this task is complicated by the fact that
+there is a question between the productive employment of goods,
+and their direct employment in the satisfaction of wants. Coal,
+for instance, exerts its power of heating equally well in the
+dwelling and in the factory, and so with many other material
+goods which may be employed either for consumption or as capital.
+The same will be observed in the case of land; a field may either
+be employed in producing a return, or be laid out as a park. And,
+finally, it is the same with labour. It may either be employed as
+personal service -- domestic service in a house for instance --
+or used for productive ends. As all production provides for
+consumption sooner or later, the choice between immediate
+consumption and productive employment is always a choice between
+present or proximate consumption and future or more distant
+consumption. The principle which governs this choice is the one
+just given; that employment which, in a consideration of the
+whole ground, is found to be the marginal one, decides the value.
+And here again it is impossible to state generally at what point
+of time the marginal employment will occur. It may occur in the
+present, the period of immediate consumption; it may occur in the
+future, the period of productive employment. The marginal value
+of coal might be decided equally well, either by its service in
+heating the dwelling or by its service in the factory.
+    This consideration may be carried further within the sphere
+of production. Production may be made to yield its fruits to
+consumption sooner or later, according to the manner in which it
+is directed. It is possible either to limit production
+principally to objects of direct consumption, -- by which means
+the end that is nearest in point of desire is more speedily
+reached, -- or to direct it on and on, devoting it to the making
+of production goods themselves, and to ensuring the conditions of
+great and lasting "rentability" -- by which present enjoyment is
+postponed for the sake of a greater degree of enjoyment in the
+future. Not only does the choice of objects of production come
+into consideration, but many other circumstances also. Almost
+every kind of production -- with the exception possibly of those
+strictly dependent upon seasons of the year -- permits of a
+shorter or longer process; almost every production -- with still
+more trifling exceptions -- may be carried out "extensively" or
+"intensively," with slighter means and more temporary results, or
+with stronger means and more durable results. In all such cases
+it has to be decided whether the present, the nearer enjoyment,
+or the future, the more distant, be preferable. And finally there
+is still another peculiar circumstance, which contributes to the
+competition between present and future interests. The
+accomplishment of almost every undertaking demands personal
+exertion; it thus demands the overcoming of the resistance
+offered by the natural desire for rest and comfort. In this
+connection also the considerations of present and future welfare
+come into collision.
+    The principle which must guide one's choice in this respect
+is in all cases the same, although the difficulty of applying it
+increases with the complication of the case. That scheme for the
+employment of goods which promises the greatest advance on the
+whole, must be the one chosen, and valuation -- so far as is
+practicable, marginal valuation -- must be adapted to this
+scheme.
+    In general, indeed, labour and capital are more concerned in
+what has just been said than is land. The motives which make for
+labour always, or almost always, encounter in the pleasure of the
+moment a certain resistance which must be overcome. And capital,
+as it must continually be reproduced, continually raises the
+question whether the means necessary for its re-creation could
+not be employed elsewhere to more advantage. In this have
+originated two celebrated theories, intimately related to one
+another, although they have emerged separately: the one relating
+to the value of labour, the other to the value of capital. The
+former derives the value of labour from the "sacrifices" of
+labour; this theory we shall discuss later. The other derives the
+value of capital, or, rather, interest, from the "sacrifice"
+which, as it asserts, is made by the capitalist in devoting his
+capital to production instead of directly consuming it. This is
+the well-known Abstinence Theory, which regards interest as a
+wage for the abstinence of the capitalist. A few words upon this
+theory may not be out of place here. After what has just been
+said there should be no difficulty in forming an opinion upon it.
+    It is true that, in all cases of the formation of capital,
+capital might have had another destination than the one actually
+chosen, -- for production is a very Proteus in its capability of
+taking various shapes; but it is not true -- as will now be
+generally acknowledged -- that every capital permits also of
+being immediately consumed. Since Lassalle's criticism it is
+unnecessary to waste another word on this point. But even
+supposing it were true, supposing that every concrete form of
+capital might be immediately consumed, the abstinence theory
+would none the less be false. In no way is it possible that a
+consumption, from which it is economical to refrain, can serve as
+a measure of value. What kind of sense would there be in this?
+Goods are of value to us because of what we can obtain from them,
+and those destinations of goods which are chosen as the
+economically permissible ones, furnish the basis of value. The
+consumable nature of capital goods can influence their value only
+in so far as capital goods are actually devoted to consumption;
+if capital be consumed the productive stock will be diminished;
+if much capital be consumed it will be sensibly diminished, and
+productive value will rise. But even this effect must not be
+regarded as a one-sided one. The productive employment of capital
+and the personal consumption of it mutually determine one
+another. Moreover they determine one another only in
+consideration of the amount of value employed at the time. On the
+other hand, neither of them can be basis for the other. The
+circumstance that capital is consumable can no more give value to
+a foolish employment of it in production, than the circumstance
+that capital is capable of productive employment can make it
+consumable, if it be not so in its own nature. The value of an
+employment must be founded on itself: productive value can be
+derived only from production, and consumption value only from
+consumption. The amounts of value gained in the various
+employments of capital are, of course, compared with each other,
+so far as is practicable, in the effort to attain to the greatest
+possible result on the whole: and, moreover, even where they are
+not compared, they are still put at an equal value with one
+another in virtue of the particular form of valuation which the
+marginal law bring with it. As a matter of fact abstinence from
+consumption is nothing more than a symptom of productive value,
+-- occasionally of so much productive value that the sacrifice of
+abstinence is at least counterbalanced.
+    The abstinence theory in its essence bears a striking
+resemblance to that theory which derives the value of products
+from their costs. As we shall see immediately, the law of costs
+does indeed exist as a very good working law of valuation. But
+costs do not form the foundation of value; they only equalise it:
+and, moreover, the circumstance that costs are expended makes us
+conclude for the existence of value. The cost theory, like the
+abstinence theory -- except that it is confined to a narrower
+sphere -- confuses a law of the more or less of value, or more
+exactly, a law of the equalisation of values, with the
+fundamental law of valuation. In the one theory as in the other,
+a symptom, which allows us to conclude for the existence of
+value, is taken to be its cause and explanation.
+

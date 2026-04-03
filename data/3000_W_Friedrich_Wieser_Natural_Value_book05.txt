@@ -1,0 +1,1727 @@
+
+
+
+
+Natural Value
+
+	by Friedrich Wieser
+
+
+
+Book 5
+
+The Natural Cost Value of Products
+
+Chapter 1
+
+The Law of Costs
+
+    Production goods which are capable of being employed in
+several ways receive their value, as we are aware, from the value
+of the least of their products, the production of which is
+economically permissible; that is, from the marginal product or
+from their contribution to the product. This value attaches
+equally to all similar articles or similar items of a productive
+stock, even to those which are actually employed in more
+remunerative ways. In a stock of iron each part has an equal
+value with every similar part in the stock, based on the marginal
+contribution. It is the same with a stock of coal; the same with
+any available supply of labour of equal quality; the same with
+any other production good. Assume that, in a productive stock of
+the class a, the item put to the most insignificant use gives a
+product of 1, every item in the stock will have the value of 1;
+every item of the class b has the value of 2, if the marginal
+productive contribution of the class be 2, and every item of the
+class c has the value of 3, if the marginal productive
+contribution amounts to 3. 
+    Now, as a rule (the exceptions will be discussed later on)
+production goods retain that value which is ascribed to them
+before the beginning of the production -- in anticipation of the
+best possible result, -- after the completion of the process of
+production; that is to say, they retain it still in the products
+which they have been transformed into. To take the former
+figures, the product of the elements 10a + 10b + 10c, will, as a
+rule have the value 10 + 20 + 30 + 60, and the product of the
+elements 10a + 20b + 10c, will have the value 10 + 40 + 30 = 80. 
+    This law may be expressed differently according as we state
+it from the side of production goods or from that of products. 
+    In the former case it runs thus: -- similar production goods
+maintain, as a rule, in every product, first, a similar value,
+and second, that value as it attaches to them through their
+marginal productive contribution. This is the correct formula. As
+the law of costs is usually understood, however, the second
+clause would be left out; thus giving a formula for relative
+values, but not for absolute amounts of value. 
+    In the latter case the law runs thus: -- the value of a
+product is, as a rule, a complex obtained by multiplying the
+quantity of production goods employed by the value of the
+productive unit, or -- taking into consideration the fact that
+every product is always produced from several productive factors
+-- it is a sum of such complexes (10a + 10b + 10c, or 10a + 20b +
+10c, and so on). From this formula, which indicates the absolute
+amounts of value, there follows another for the relations of
+value. It is that the values of products which have one
+productive factor in common are, to each other, in respect of
+this common factor, as the quantities of it requisite for their
+production. This is the correct formula. As usually understood
+the law runs more briefly thus; -- the values of products are to
+each other as the costs requisite for their production. This,
+again, is merely a relative, not an absolute expression. Closer
+consideration shows that it is not possible to apply this
+relative formula so long as it stands alone. The amount 10a + 20b
++ 10c is not twice as great as the amount 10a + 10b + 10c, but
+twice as great only as regards the factor b; the general relation
+can only be established when the absolute values of a, b, and c,
+are known. If a = 10, b = 20, and c = 30, the ratio is as 80 to
+60; if b = 100, it is as 240 to 140. 
+    In the Ursprung des Werthes I called products which have one
+productive factor in common Productionsverwandt, which may be
+rendered in English as "cognate." They represent, as it were, the
+descending line of this factor, and stand to one another in
+collateral relationship. All products made from the same quality
+of iron are cognate. Many products are cognate to each other in
+more than one respect, e.g. products of iron in the making of
+which have been expended similar kinds of labour or similar fuel.
+Understood in this sense, it is always cognate products to which
+the law just stated refers. 
+    This is the well-known law of costs. The task now lies before
+us to explain and prove it.(1*)
+
+NOTES:
+
+1. I have formulated the law of costs only with relation to the
+so-called costs of production. Besides this we speak sometimes of
+costs, when we refer to expenses of purchase. By this is meant
+the sums of money a buyer has to expend to obtain possession of
+goods. An exactly analogous law obtains as regards these costs.
+All sums of money of equal amount destined for the purchase of
+goods ave equal value to the one owner, and all goods purchased
+for money -- under certain assumptions entirely analogous to
+those conditions which hold as regards the law of costs in
+production -- have to the one owner a value in proportion to
+their costs of purchase (see Book II, chap. ii). The law of costs
+of production has, however, a more far-reaching importance than
+the law of costs of purchase, inasmuch as it is not, like the
+latter, limited subjectively, but also holds as regards objective
+exchange value. In consideration of these more far-reaching
+effects it is entitled to a special statement. 
+    Sax has stated the conception of costs still more
+comprehensively (see chap. 56 in his Grundlegung der
+Staatswirthschaft). Nevertheless, important though the results
+thus obtained may be, it appears to me that, for the reason just
+stated, it is right to hold by the narrower conception of the
+costs of production, as against this wider one. 
+    In connection with the present book, see Ursprung des
+Werthes, pp. 97, 103, and 146; further, in Böhm-Bawerk's Werth,
+pp. 61 and 534; as also Sax, p. 327; and, finally, the parts
+referring to this subject in Jevons and Walras. Menger does not
+treat of costs. 
+
+Chapter 2
+
+The Conception of Costs
+
+    Whatever economic production goods a man has within his
+disposal, whether lands, capital, or labour power, he counts part
+of his wealth -- although they do not directly increase his
+satisfactions; and he does so with just as much right as he
+counts those consumption goods wealth which permit of direct
+enjoyment. The possession of production goods gives the promise
+of acquiring consumption goods later. Production, therefore, not
+only creates value, it also destroys value. Only so long as one
+is taken by surprise at the emergence of productive value, in
+that it is unexpected, is it reckoned as pure gain. When the
+Phoenicians -- as the fable goes -- accidentally came upon glass
+among the ashes, only the gain of production would be present to
+their minds; but whoever, thereafter, began to produce glass, and
+in doing so was obliged to pay attention to the materials of its
+production, would learn perforce the destructive part of
+production. If production, on the one side, brings forth
+products, it limits, on the other, the producing powers. On this
+account it is every one's duty to see that his production is
+always directed towards the greatest possible result, in case he
+should consume more value than he will eventually gain. 
+    This circumstance receives more distinct form and emphasis in
+the case of production goods capable of many and various
+employments. Here care must be taken to choose those employments
+which will prove the most economically efficient, both as regards
+kind and amount. Circulating capital or labour power devoted to
+any one production, is thereby absolutely withdrawn from all
+others; the same is true of fixed capital, and even of
+unconsumable land, during the period of the production to which
+they are devoted. In consideration of this fact the devotion of
+means of production to individual undertaking must always be well
+considered. It is necessary, for this end, that the man who
+resolves on the making of one special product, should form an
+exact idea of the value of all the other products whose
+manufacture is thereby rendered impossible. But how can this be
+done? It is done by taking account of the value of their common
+economic factors of production. In these factors the value of all
+"cognate" products, without exception, is incorporated.
+Productive value, consequently, occupies a position of mention
+among the whole circle of cognate products. Whenever the value of
+any class of products falls or rises, and thereby either the
+extension or the limitation of other branches of production is
+demanded,(1*) the effect is first communicated to productive
+value, and is then passed on from productive value. The products
+and the value of the products adjust themselves, in each
+individual case, to the productive value, and the productive
+value indicates the limit of production common to all. 
+    In this way we reach the point of view from which production
+goods are conceived of as costs. The first element in it is that
+the productive employment figures as outlay, as sacrifice, as
+loss; the second is that, in virtue of this, attention is called
+to the equalisation of several connected productions. To say that
+any kind of production involves cost, simply implies that the
+economic means of production, which could doubtless have been
+usefully employed in other directions, are either used up in it,
+or are suspended during it. Costs are production goods when these
+are devoted to one individual employment, and, on account of
+their capacity of being otherwise employed, take the shape of
+outlay, expenditure.(2*) The measure for estimating costs is
+always the productive marginal utility, as it is found on
+consideration of all the employments economically permissible. 
+    Thus only those production goods which we have already (in
+Book III. chap. xii) called "cost goods," as opposed to "monopoly
+goods," can be regarded as costs. Productive elements which admit
+of only one kind of employment, do not share the multiplicity of
+conditions necessary for the emergence of what we recognise as
+costs. A mineral spring, which can be used only by drawing off
+its contents and putting them into bottles, must, obviously,
+stand in a quite different relation to the value of the product
+from the unskilled labour which fills the bottles, but is capable
+of a hundred other uses besides. "Monopoly goods" simply take to
+themselves the value of the products imputed to them, and do not
+conduct it back again to these products, as do "cost goods," --
+while cost goods are the parent goods of the great productive
+relationships, within which they act as combining forces and
+equalisers of value. The more various the employments of any
+productive element are, and the shorter the processes are, -- as
+this continually necessitates new deliberations as to how the
+goods are to be employed next -- the more does their employment
+in production obtain the character of a sacrifice whose amount
+must be well weighed if the proper balance of production is to be
+maintained. Unskilled labour and the commonest kinds of floating
+capital, are, consequently, the goods to which the conception of
+costs most frequently applies. 
+
+NOTES:
+
+1. If, for instance, the price of cotton thread is reduced,
+thread manufacturers will not pay the former price for cotton
+yarns. But if cotton spinners are compelled to quote a lower
+price to thread manufacturers they cannot ask a higher price from
+cloth weavers. Thus the weavers get their raw material cheaper
+because of the fall in the price of the cognate product, thread,
+and this tends to an extension of the cloth manufacture. -- W.S. 
+
+2. This definition requires a slight readjustment only in so far
+as interest and land rent (see below, Book V. chaps. xi and xii)
+are reckoned among costs. Interest and rent -- or the goods which
+constitute them -- are not production goods; they are simply
+elements of the production calculus as production goods are. 
+
+Chapter 3
+
+Foundation of the Law of Costs
+
+    The value of costs determines the value of products in two
+ways. In general it determines it indirectly, by regulating the
+supply produced; but, in individual cases, it determines it
+directly by communicating the amount of its own value without any
+intermediary. 
+    First: as regards the indirect action of costs. In the value
+of the costs is expressed the expectation of the greatest
+possible return from production. In order to fulfil this
+expectation, the relation between the amounts of all cognate
+products turned out must be well weighed and proportioned. If too
+much be produced in any one direction a loss will have to be
+borne elsewhere, which will be more sensible than the gain
+resulting from the over-production. If too little be produced in
+any one direction a similar loss will be felt, which it will be
+impossible to make good by over-production elsewhere. 
+    Whether too much or too little has been produced is seen
+exactly in the value. If the value of products -- as it results
+from the equation between supply and demand -- is less than that
+of the costs, too much has been produced; the costs which should
+have brought forth products having higher value have brought
+forth only goods having less value. Where the value of the
+product exceeds that of the costs, too little has been produced
+-- with one exception which will be mentioned shortly; -- the
+costs have not been employed entirely in bringing forth products
+of the highest value the very anticipation of which gave the
+costs their value. If products, then, are to be produced neither
+over nor under cost they must be produced exactly at cost value,
+if they are to find the most economically advantageous
+distribution of production.
+    If we ask why products thus produced -- neither under nor
+over costs -- have value, and why they have definite amounts of
+value, we shall doubtless find that they have themselves alone to
+thank for it. They create it out of their utility, taking into
+consideration the amounts produced. The circumstance that costs
+of a certain value have been expended in making them, is of no
+consequence as regards their value. The cost value does not
+determine the use value; the use value exists of itself, and
+sanctions the cost value. 
+    Second: as regards the direct action of costs. Under certain
+circumstances it is economically permissible to produce things
+whose use value exceeds their cost value, while they must, none
+the less, be estimated at their cost value. This direct action is
+the most striking of the two. Assume that the amount of costs
+necessary for an article has the value of 6, and that the first
+article produced has a use value of 10, while the use value of a
+second article would amount to only 1 (compare Book I. chap. iv
+and Book III. chap. viii): the production must be confined to one
+article. How is it to be valued? This will depend upon
+circumstances. In a moment of extreme danger a weapon will be
+estimated according to its use value. But suppose a man to be
+leisurely preparing and equipping himself for an adventuresome
+journey, he will not think of valuing the best of weapons more
+highly than the materials and labour available for the purpose of
+producing and reproducing them. The loss of the weapon can always
+be made good -- supposing one has the necessary leisure and means
+for its reproduction -- by a sacrifice in costs, the amount of
+which is certainly less than the importance possessed by the
+weapon itself in a moment of urgent need. A good having a use
+value equal to 10, and a cost value equal to 6, must be estimated
+at 6, so long as its reproduction is possible and the
+satisfaction of want is not prejudiced by the delay. 
+    The same argument as leads to our valuing at marginal utility
+any single item of a stock which happens to be actually devoted
+to satisfying a want of higher grade, leads to our valuing at
+cost value and no more, a product whose specific use value
+exceeds its cost value, supposing we have also in our possession
+the means of producing and reproducing it at the proper moment.
+For, as, in the one case, the marginal use is really the only use
+threatened, so, in the other, the cost value is the only value
+threatened. Here is a new application of the marginal law. 
+    Cases of the kind just described attract particular notice on
+account of the fact that the influence of costs upon the value of
+products is independent of amounts produced. If the cost value,
+in the example just given, rise from 6 to 9, or fall to 2, one
+product only will be produced, and its value likewise will follow
+the changes of the cost value, and rise to 9 or fall to 2,
+without the amounts produced being changed. Ricardo, with the
+keenness of observation peculiar to him, pointed to the
+consideration of those instances, in which the value of the
+product adjusts itself to the cost value without any change of
+amounts, as a very important one from the point of theory. As a
+matter of fact it is so, although Ricardo was wrong in the place
+he gave it. He wished to prove from it that costs are
+fundamentally an independent source of value, whereas, as a
+matter of fact, it proves simply that costs may, in certain
+isolated cases, directly determine the amount of the value of
+products. It is, however, chiefly decisive in that it gives us an
+insight into the connections of the process of valuation such as
+could scarcely be obtained otherwise. It gives us, indeed, the
+most unequivocal and umdeniable application of the marginal law
+that it is possible to find anywhere. 
+    Moreover, even in this case, the fact that costs have been
+expended is of no importance as regards the value of products.
+The decisive circumstance is, that costs could again be expended,
+and secure a higher utility at a less sacrifice of utility.(1*)
+
+NOTES:
+
+1. The foundation of the law of costs given in the text appears
+to be applicable only to natural value, and not to exchange value
+or price. But it is also applicable to them. The proximate
+explanation of the validity of the law of costs, in the case of
+price, is that producers are not willing to sell under cost, and
+-- where there is free competition -- are not able to sell over
+cost. But why is it that they will not sell in the former case,
+and why does competition make it impossible to sell in the
+latter? In the last resort it is because every one applies for
+himself, as well as he is able, the natural laws of valuation,
+and those laws bring him to that amount of product, or that
+valuation of what is produced, from which the law of costs
+results. Competition -- i.e. the efforts of others who apply the
+same natural laws -- then forces him to give expression, in the
+price which he asks from the consumers, to the valuation which he
+has made for himself. The actual position of price depends,
+therefore, essentially upon the actual position of competition,
+particularly on how far the efforts of competition are limited by
+the "hindrances to equalisation." These "hindrances" are
+peculiarly strong in international trade, in which, accordingly,
+the law of costs holds only very slightly. 
+
+Chapter 4
+
+Conditions Under Which the Law of Cost Obtains
+
+    It is unnecessary to say that products only come under the
+law of costs. The products which principally come under this law
+are those which are produced frequently, regularly, and in large
+amounts, and, in particular, those in the production of which
+cost-goods are exclusively employed. Products whose manufacture
+is strictly and narrowly limited by confessedly monopoly goods do
+not experience the influence of costs at all. All alterations in
+costs in such cases go, not to products, but to the monopoly
+factors of production; every dilution of costs raises, and every
+increase lowers, the value of these factors.(1*)
+    Such products too as are to be re-employed in production --
+i.e. all produced concrete forms of capital, or "capital goods,"
+as we may call them for convenience sake -- come under the law of
+costs. Thus the valuation of capital becomes an exceedingly
+complicated matter. One has always to combine two things; -- the
+return to the capital and its costs. Both amounts stand in mutual
+relation, and tend, so far as possible, towards equality. The
+greater the value of the return, the greater the costs that may
+be expended in producing it; and the greater will be the
+expenditure of costs, so far as is practicable and necessary: the
+smaller the requisite expenditure of costs, the smaller will
+finally be the value of the return, whether this result from the
+fact that production finally is correspondingly extended, or from
+the fact that the valuation of the utility is directly pressed
+down to the level of the costs. If a machine does very good work,
+that is a cause for valuing it highly; but if it can be cheaply
+produced, the machine itself, and, finally, its products also,
+will find a low value. The costs of producing capital transmit
+their effects right down to the fruits of the capital, however
+remote these may be, so long as they fall within the producer's
+field of vision, and can be taken into consideration in the
+estimates of value. 
+    Products which come under the law of costs do not, however,
+come under it in all circumstances. To do so they must come under
+consideration as products, i.e. as dependent upon the elements
+from which they are formed. If they are estimated independently,
+if they are valued in isolation and for themselves, their own
+utility alone -- or their marginal utility -- will determine
+their value, without their productive marginal utility being
+taken into consideration at all. 
+    This is most clearly seen in the case of the immediate
+determination of value by costs. Why in this case is the
+valuation made according to costs? Because the products can
+always be obtained again at the sacrifice of the costs, and, just
+on that account, only when they can be obtained at this
+sacrifice. If the possibility of their reproduction be excluded
+through any circumstance whatever -- say e.g. that the import of
+some article is stopped by a blockade, or that demand has
+increased so rapidly that production cannot keep pace with it, --
+the value will be estimated at the full amount of the utility (or
+marginal utility) which the products are expected to give. As a
+rule, there are such abundant supplies of all products -- partly
+in the possession of private householders, partly in the larger
+stores of producers and merchants  -- that people are provided
+against the smaller increases in demand. Valuation by costs is
+suspended only in the case of large and permanent disturbance of
+production. If reproduction remains possible, although at a
+higher outlay than before, -- not, however, coming up to the
+height of utility, -- the law of costs will still obtain, only
+that the determining amount of costs will have risen. If demand
+decrease, or unforeseen supplies increase the stock, to such an
+extent that the marginal utility falls below the amount of costs,
+the law of costs will be suspended until marginal utility shall
+have so far risen as to render production again practicable. 
+    The same applies where costs do not directly determine value,
+but determine, in the first instance, only the extent of
+production. The influence of costs ceases so soon as, and so far
+as, the possibility of production ceases. Here again may be
+observed the same influence of accumulated stocks -- that,
+through the medium of them, all smaller disturbances in the
+provision for want are equalised.(2*)
+    When the disturbances which caused the suspension or
+imitation of the law of costs are over, it again becomes active.
+So far as is at all possible, men try to conduct production
+according to a universal plan which embraces all the productions
+"cognate" at the time. Isolated production prevents complete
+utilisation of the means of production; it limits provisions for
+human want too greatly at certain points, while going too far in
+other directions, or, what is still worse, leaving production at
+certain points entirely alone. On this account there is always a
+tendency to return to the most comprehensive conditions of
+production, and thus, so far as is possible, to the valuation
+according to costs. 
+    If society were ever to arrive, in its economic life, at such
+perfection and control that no plan of production ever
+miscarried, that there was no interruption in exchange, that no
+unforeseen loss of goods happened, that all acquisitions of goods
+could be anticipated to the fullest extent and in the most exact
+degree, that, finally, the demands should never vary or, at
+least, that the variations should always be adequately
+anticipated: -- in such circumstances the law of costs would be
+the only form in which the general law of value would appear as
+regards those goods in respect to which it holds. It is not to be
+expected that any disposition of affairs could bring social
+economy to such perfection. Even in the most perfect condition of
+society there will be changes, such as must for the moment limit
+or extend the sphere over which the law of costs holds sway. 
+    If the socialists expect that, in their future state,
+valuation by costs will be all-sufficient, they are in error,
+unless man is able to exert such mastery over the natural
+conditions of the life of goods, that no harvest shall ever fail,
+or, indeed, be overabundant; and, moreover, unless the national
+life can be assured of a perfectly peaceful course, such as can
+be conceived of only when war has ceased, when invention is no
+more, and when no new need ever emerges. 
+
+NOTES:
+
+1. Thus in the cotton thread trade neither changes in wages nor
+in the price of raw material seem to affect prices; they only
+increase or decrease profits. -- W.S.
+
+2. Up to a certain point costs do -- even in such cases as these
+-- directly determine value. All goods that can be supplemented
+from stocks in warehouses and the like, which stocks again can be
+renewed through production, thereby appear to us directly as mere
+combinations of their productive elements. And to this extent it
+may be said that, on the whole, the cases where costs directly
+determine value predominate. 
+
+Chapter 5
+
+The Determining Amount of Costs
+
+    The circumstance, as such, that a good has involved costs,
+and that it has involved a certain amount of costs, does not
+determine its value. Not only must the conditions under which the
+law of costs obtains be fulfilled, but the justifiable amount of
+costs must be observed. 
+    It is only the "socially necessary" costs, the smallest
+amount of costs required, that determines value, whether the
+determination is "indirect" or "direct." In cases of "indirect"
+determination, cost value requires the sanction of use value.
+Whatever is expended uselessly receives no value, and whatever is
+superfluously expended, -- expended in excess of what is
+necessary to obtain the utility -- receives no value. In cases of
+"direct" determination of value, the important thing from the
+first is the outlay requisite for reproduction. 
+    The value of products which are economically produced with
+the smallest cost, must consequently alter should there be, later
+on, any change in the determining amount of costs. And, in
+particular, if the amount of costs should become less, the value
+of commodities produced at the old dearer rate must fall, from
+the moment when the new and cheap goods are capable of meeting
+the demand, or even sooner than this, so far as the old stocks
+are large and dare not be held back in view of the increasing
+production. 
+    It may be that all the products in demand cannot be produced
+at the one cheapest rate of cost. Then, of necessity, the amount
+of costs must rise. The value of goods produced at different
+costs is determined throughout by the highest cost necessary; the
+portion which has been produced at the greatest expense must be
+valued correspondingly high, if it is permissible to produce it
+at all at so great an expense; and the other portion, which has
+been produced more cheaply, must be valued equally high, because
+all products of equal quality must have equal value. 
+    All these propositions are well known both theoretically and
+practically, so far as regards exchange value. It is of interest
+for us to know that they also obtain as regards natural value. 
+
+Chapter 6
+
+The Law of Costs and the General Law of Value
+
+    If the statement of the law of costs just laid down be
+correct, there can be no doubt regarding its relation to the
+general law of value. 
+    Between costs and utility there is no fundamental opposition.
+Costs are goods valued, in the individual case, according to
+their general utility. The opposition between costs and utility
+is only that between the utility of the individual case, and
+utility on the whole. Whoever thinks of "utility" without
+thinking of "costs," simply neglects, in the utility of one
+production, the utility of the others. And whoever produces, in
+the individual case, at the least cost, produces, on the whole,
+with the highest utility, inasmuch as he thus saves all the
+opportunities of utility possible, and consequently in the long
+run utilises all these opportunities to the utmost extent. 
+    Thus where the law of costs obtains, utility remains the
+source of value. More than this, marginal utility remains the
+measure of value. The only thing is that utility and marginal
+utility are no longer determined in a one-sided way within the
+limits of each particular group of products, but over the entire
+field of cognate production. Over this field it is always the
+common productive marginal utility that decides. The result of
+the productive combination 10a + 10b + 10c possesses the common
+marginal utility of all productive goods of the class A ten
+times, and so with the classes B and C. It consequently stands in
+a definite ratio of value to the product resulting from 10a + 20b
++ 10c, and this ratio corresponds to the general law of value,
+according to which separate parts of a stock are to be valued by
+multiplying the number of items by the marginal utility. Even
+products which, in outward appearance and destination, are
+entirely different from one another, if traced back to the
+productive elements of their manufacture come ultimately into the
+same value relations as do the separate parts of a stock. A
+cupboard and a table are in themselves different goods; reduced
+to their productive factors they are of the same nature, belong
+to the same class of supply, and receive a corresponding
+expression of value. The law of costs is a peculiar and
+complicated conception of the general law of value, used in a
+peculiar and complicated case, vis. where the connection of goods
+with one and the same stock is not apparent from their outward
+appearance, but can only be recognised after reduction to the
+productive elements of their manufacture.
+     This statement would be imperfect if we did not add that the
+law of costs as regards products is by far the most usual form
+assumed by the general law of value. Products of almost every
+kind are continually being reproduced, and consequently their
+value must continually be decided by comparing the amount of the
+productive supplies with the amount of the productive demand. The
+vast majority of changes in value are occasioned by the changes
+which occur in the coming forward of production goods (or in
+their production, where they are themselves objects of
+production), as also by technical changes, or changes in the
+conditions of production which make the quantity of costs
+necessary to produce the goods greater or less. Thus it happens
+that variations in the value of products are traceable, in the
+majority of cases, to some cause which is to be found in
+production goods. Even in cases where the change of value first
+arises in the demand and in the products, the effect of this
+circumstance communicates itself, through the medium of the cost
+goods, to the cognate products, and causes their value to rise or
+fall. A product which is "cognate" with a hundred others, will,
+in all probability, be affected a hundred times by changes in
+their supply and demand relations, for once that it is affected
+by a change in its own relations; and all these influences are
+communicated to it from outside through the cost value. And thus
+it is that changes in any single supply and demand must pass
+without leaving any trace, unless they chance to be exceedingly
+comprehensive, and are, therefore, capable, as against the supply
+and demand over the whole circle of cognate production, of
+disturbing the determining marginal utility. 
+    The phenomena of costs are, therefore, a new proof of how
+greatly the objective conditions of the existence of goods
+influence the value of goods. How far the value of goods, in its
+final form of "cost value," is from being the mirror of that
+subjective fact from which it is derived -- the value of wants!
+The circumstance that cognate products are produced by different
+quantities of the same productive elements, brings their
+subjective valuations into a ratio, the terms of which are
+derived entirely from the objective conditions of production;
+while the impulses which call for their emergence, as well as the
+absolute value amounts of the elements whose multiples enter into
+the ratio, remain subjective, and thus prove the subjectivity of
+the source and nature of value.
+    It was impossible that the influence of costs upon the value
+of products could escape the observation of economists. None the
+less has recognition by economic theory of the law of costs
+remained for long very imperfect. It was conceived of only as a
+relative law -- that the value of products was as the quantity of
+costs; but as to what was the nature of costs, whence they
+themselves receive their measure, what absolute amounts might
+accrue to the value of products, -- on these points economists
+were no more capable of saying anything than they were capable of
+explaining the numerous contradictions which were inevitable so
+long as costs were conceived as the final cause of the value of
+products. Possibly it is the greatest triumph of the theory of
+marginal utility that it fully explains the obscure conception of
+costs, with which every other theory had to reckon, and with
+which no theory could come to any reckoning. The labour theory
+alone has attempted it, but it has thereby -- as we shall go on
+to show -- introduced into theoretic political economy the
+greatest errors that have ever been perpetrated within its
+sphere. 
+
+Chapter 7
+
+The So-Called Costs of Production of Labour
+
+    Through a very strange error in judgment the classical school
+of political economy has put forward the proposition that the
+exchange value of human labour also is determined by costs of
+production. 
+    The costs of production of human labour -- if we substitute
+the prosaic personal meaning of this expression for the
+impersonal and figurative one would be the costs of producing the
+labourer. What a monstrous idea! Can it be that there is a
+"production" of labourers in the same sense as there is a
+production of material things? Has such a thing ever been said
+even in the darkest ages of barbarism? Surely another name at
+least might have been chosen. But leaving the name, let us get to
+the substance. 
+    The substance is, that, by the cost of production of labour
+is meant the necessary cost of maintaining the labourer and his
+family; the means of subsistence which the labourers themselves
+regard as the minimum necessary to keep themselves in life, in
+strength, and in ability to work, to bring children into the
+world, and to bring them up to labour. And as the price of goods
+can never stand permanently either above or below the costs of
+production, so it is asserted that the wages of labour can never
+stand permanently either above or below the existence-minimum. Of
+course, this proposition can never be understood to apply to any
+but the commonest and worst paid form of labour, seeing that the
+better paid labour does raise itself above the lowest wage level
+that can be considered permissible. 
+    On the one side, so far as regards the impossibility of
+sinking below the minimum, there is, as a fact, a close, indeed a
+frightful analogy between the law of wage and the law of costs.
+Where the labourer has no other income to spend than his wage,
+wages cannot indeed fall permanently below the amount marked by
+the prices of the necessary means of subsistence. If the means of
+subsistence are scarce and dear, a higher wage must ultimately be
+conceded. Misery and death are the imperious forces which bring
+about this result, inasmuch as they reduce the number of
+labourers until the reduced supply has raised wages sufficiently
+to cover the necessaries of life. 
+    But how is it as regards the other side? Is it true that
+wages can never rise permanently above the costs of subsistence?
+Is there the smallest analogy, or even an apparent analogy,
+between the pressure exercised by the cognisance of cheaper
+conditions of production upon the valuation of products, and the
+pressure which might be exercised upon the valuation of labour by
+cognisance of cheaper conditions of life? Economists of the
+classical school assert that there is, and thereby they bring
+again into the question motives which have as little in common
+with the considerations that govern the production of goods, as
+the law of nature, which says that he who can find no means of
+sustenance must die, has with the considerations that govern the
+manufacturer who discontinues a business when it fails to return
+him its costs. The motive which is called upon to prove that wage
+cannot maintain itself above the minimum of subsistence is the
+power of the sexual instinct. If means of subsistence become
+cheaper and more abundant, there is the more room for increase of
+population, for marrying, producing children, and supporting
+them. The supply of labourers can go on increasing, and wages go
+on diminishing, until the maximum of population possible to
+maintain, and the existence minimum of wage, are again reached.
+This result is possible. But must it ever happen? Does it always
+happen? What has experience to say? It speaks plainly enough --
+so plainly that even those who assert that the law of costs
+obtains for labour find themselves forced to add to that law
+certain clauses which amount to nullifying it. Thus a clause is
+added which says that what determines wage is that amount of
+subsistence which the labourers themselves regard as the
+permissible minimum, since experience shows that the minimum wage
+differs from time to time, from place to place, and from nation
+to nation. But this clause cancels the law. If the opinion of the
+labourer is to be decisive, there can be no more talk of a
+compulsory, objective, fixed standard of wage. In yet another
+direction experience speaks still more conclusively. We notice
+everywhere that the wage for different kinds of labour is of
+varying amount. Only some of the labourers, and that not by any
+means the majority, are always held down to the lowest possible
+wage. But how could this be the case if the whole position of
+labour were entirely governed by the power of sexual impulse as
+is asserted? Would not the supply of labour under such a
+supposition be overwhelmingly large, -- as a rule, and in the
+long run at all events, -- and wages be reduced to the minimum in
+all branches of production? Would not all wages be equally low?
+The fact that higher wages are continuously maintained in the
+higher branches of labour, is a clear proof that the height of
+wage continues to be determined by considerations which are too
+powerful to admit of their favourable results being suspended by
+the sexual instinct; or -- what amounts to the same thing -- that
+the sexual impulse does not possess that destructive power which
+is ascribed to it. And if it does not possess this as regards one
+class of labour, it is impossible to see why it should be held
+necessary as regards the other class. 
+    If the law of costs were true as regards wages of labour, it
+would also be true as regards the natural value of labour. The
+forces which are relied on to prove the law of costs in regard to
+labour, would, of necessity -- if they do act as is asserted of
+them -- have an equal effect under any social organisation. If
+the sexual impulse were possessed of such surpassing strength, it
+would, even in a communistic state, increase the number of
+labourers to the highest point which could be maintained at the
+existence minimum; only that here, where the labouring class
+would include the whole nation, the consequences would be so much
+the more comprehensive and destructive. To-day's "iron law of
+wage" would be extended in the future to an iron law of universal
+misery. 
+    Modern economists are almost unanimous in repudiating the
+application of the law of costs to labour in its older and cruder
+form, but, on the other hand, they concede to the consideration
+of the costs of maintaining the labourer another effect. It is
+the effort of every class of labourers, they say, to retain the
+level of life to which they have once attained, making their
+claim of wages in correspondence therewith and striving to
+realise their claim, besides regulating their marriages and the
+size of their families in conformity. The wage, once become
+customary, is said to have a tendency to maintain itself as a
+permanency, and to resist the tendencies which would press it
+down. This law also, if it were a true law of wage, would have to
+be recognised as a natural economic law, as it also is founded
+upon a universal force. Experience, however, does not seem to
+justify it. Do not wages continually rise and fall? It is to be
+feared that the quite intelligible wish of the worker to retain a
+standard of income once reached has not the efficacy ascribed to
+it, of resisting the chances of an unfavourable issue to labour.
+If the return to labour falls, the natural value of labour falls,
+without being in the least prevented by the previous customary
+level of comfort, and it is in the highest degree likely that its
+exchange value will fall along with it. For although these do not
+by any means invariably coincide, -- do we not often see wages
+falling short of natural value? -- as things are, it may be
+considered an exceedingly rare occurrence that wages are in
+excess of natural value. The result which might be expected from
+the postponing of marriage and production of children would, in
+any case, come much too late; it could only be felt after years,
+in a succeeding generation, when circumstances would probably
+have been long before completely changed. Of course, the desire
+to obtain the highest possible income is a motive which cannot be
+considered as quite insignificant among the many motives
+determining the return from production. It is as fraught with
+consequences as are intelligence, skill, favourable natural
+circumstances. But why should this motive be brought prominently
+forward only as regards the return to labour? Is it not equally
+powerful as regards the products obtained from land and capital?
+And why should its influence be limited to the amount of income
+once obtained? Does it not go beyond this to the procuring of
+fresh income? The truth is that men endeavour to make all
+productive returns as large as ever their personal capacities
+will allow, and that the returns so obtained determine the value
+of the productive factors, -- of labour, as of all the others. It
+is impossible to consider it even plausible, that a cause shall
+be effective as regards labour alone, by which the level of wage
+once reached obtains a peculiar power to maintain itself
+permanently unimpaired.
+    Here too the modern economists, who advance such theories,
+probably do so merely in order to bring the law of wage into
+correspondence with the general law of the price of commodities.
+In one as in the other, they start with the false assumption of a
+fundamental opposition between costs and utility, and wish to
+find value between the "upper margin of utility" and the "under
+margin of costs." But even supposing such an opposition did
+exist, it would not at all events be in the least applicable to
+labour. It is not possible to force labour into all the economic
+categories in which material goods by their nature are placed. A
+producible article is a good, that is, a useful thing -- in two
+respects; firstly, in virtue of its effects -- the effects in
+which it is "of use"; and, secondly, in virtue of its origin and
+upkeep, in which respects it is materially a matter of property.
+Labour can only be regarded as a thing in the former respect: in
+respect of its useful effects the economic use of labour may and
+ought to be considered. In the latter respect, labour is an
+affair of persons, and its origin and upkeep cannot be decided by
+purely economic considerations. It is overstepping the
+permissible sphere of economic control when the attempt is made
+to interfere with the personality of the labourer without regard
+to other considerations; and economic theory goes beyond its
+sphere when it claims to explain the facts of personal life
+exclusively by economic considerations.(1*)
+
+NOTES:
+
+1. As labour is not the product of the labourer's means of
+subsistence, so, conversely, the means of subsistence cannot be
+regarded as the productive factors of labour. In other words, the
+labourer's means of subsistence are not capital. If labour be a
+good of the second rank, producing any kind of good of the first
+rank -- a consumption good -- the labourer's fund of subsistence
+is in no way a good of the third rank, producing the labourer; it
+is again merely a good of the first rank, a consumption good for
+the labourer. This has a result of great importance as regards
+value. Value is communicated, as we have seen, first from the
+want for goods of the first rank, and then from these to the
+goods of second rank, and so on through all the ranks. If means
+of subsistence were capital, they would receive their value from
+the value of the service rendered by the labourer. But as they
+are simply means of subsistence, they receive their value from
+the wants which they provide for. 
+
+Chapter 8
+
+The Cost Theories
+
+    I have hitherto almost entirely refrained from criticising
+outside theories of value. Up to this point, the subject of
+costs, none of these contains any foreign element whatever. What
+renders them inadequate is chiefly their inadequate explanation
+of the true elements of value. Should I have succeeded -- as I
+scarcely dare hope -- in proving beyond dispute the theory to
+which I have given my adhesion, all other theories in themselves
+are thereby confuted inasmuch as it completes what they began.
+Where they have said only half, the whole has been said; where
+they have only approximated to truth, the truth itself has been
+found. But it is otherwise -- though of course only in the case
+of some of them, -- with those theories which derive the value of
+goods from costs. They appeal to a foreign element which does not
+lie in the path I have chosen to follow, and must therefore be
+dealt with, as it were, on a bye-path of criticism. At the same
+time, it must be said that this foreign element contains so much
+that is plausible, that there would be a presumption against any
+one who passed it by without remark, and a suspicion that his
+statement did not embrace the entire truth.
+    As I said, it is only some of the theories of costs with
+which we are here concerned. 
+    All such theories have this one point in common, that they
+place costs and utility in opposition to each other, and explain
+them as dissimilar principles of value. They differ, however, in
+their manner of treating the principle of costs. Some limit
+themselves to collating the individual elements of costs, and
+showing their influence upon value, without answering, or even
+bringing up, the essential and fundamental question as to what
+costs really are, and whence they obtain their influence and
+economic importance. Criticism of these theories is superfluous.
+They contain no error to criticise. Their fault lies in their
+silence; in their stopping short at the very heart of the
+subject. 
+    The rest of the cost theories must be judged differently.
+They give to the idea of costs an entirely distinct meaning; a
+meaning which is certainly -- taking it all in all -- incorrect;
+but one which, in view of the largeness of its theoretic
+intention, may be pardoned, and even regarded with some
+recognition and respect. This division of the cost theories may
+be marked by the title of Labour Theories, as the element of
+labour forms their theoretic starting-point. Ricardo's system
+indicates the high-water mark of the labour theory; the socialist
+system is its final consequence. Many writers who reject both of
+these systems, nevertheless take the fundamental motive of the
+labour theory into their own systems. In fact, there are very few
+writers who have kept entirely free from it. The critic has
+consequently a large task before him. I make no secret of it that
+to do battle with those views, as developed by economic writers,
+seems to me a matter of considerably more importance that they
+arise, in the last instance, from popular opinions widely held.
+The fundamental idea of the labour theory is foreign to no one;
+everybody has frequently enough had practical occasion to apply
+it. But for this, Ricardo's system would never have obtained its
+great hold, and this circumstance may prepare us to expect in the
+future ever new formulations of the labour theory, should it not
+be possible meantime to purify theoretically the popular view,
+and lead it back from its exaggerations, which are easily
+traceable to the imperfection of popular reasoning, into its true
+and incontestable form.(1*) 
+
+NOTES:
+
+1. In his Werththeorien und Werthgesetz, in Conrad's Jahrbucher
+for 1888, W. Scharling, one of the latest writers upon the theory
+of value, has again traced it to the fundamental motive of the
+labour theory, although with considerable amplification and
+modification. He derives value from the difficulty of attainment,
+or, more exactly, from the amount of effort which he who wishes
+to acquire an object is spared by attaining his end through
+exchange. I shall not at this point dwell on Scharling's positive
+work, but rather refer the reader, in regard to his fundamental
+motif, to the succeeding chapter. Only, in passing, I may note
+that, among the efforts which are to give the standard to price,
+Scharling includes that (p. 558) "which it costs (at an auction)
+to distance other bidders," or what it costs "to overcome an
+owner's disinclination to part from his goods." Both of these
+efforts have their origin in nothing else than the payment of
+that very price whose standard they are supposed to explain. In
+this sense there might be included among the difficulties of
+attainment the fact that thing must be paid for with money, while
+people are bound to be economical with money. His views on the
+theory of marginal utility are given, in an illustration cited by
+Böhm-Bawerk, of a boy to whom "the pleasure of eating an apple is
+more than seven times but less than eight times that of eating a
+plum." "Let us Suppose" continues Scharling "that the father
+comes and says to his boy: 'Our neighbour has given you
+permission to pull as many apples from his garden as you wish';
+the boy will at once alter his opinion as to the relation between
+apples and plums, although his taste for and his enjoyment in
+consuming the fruit remains unchanged. But the effort which the
+possession of one apple saves him from putting forth, is no
+longer the same." To my mind this illustration, which Scharling
+advances in opposition to the theory of marginal utility, is
+really a proof of that theory. In what way has the situation
+changed after the father's speech? Clearly that the boy may now
+have as many apples as he will, while formerly he had only one,
+i.e. the available supply has been increased to superfluity. And
+thus the result is attained which the theory of marginal utility
+demands; the valuation of the apples is entirely altered.
+Scharling's opposition would be justified if it were directed
+against a theory which made value depend simply upon utility and
+not on marginal utility. In our theory, along with utility, all
+the influences are weighed which determine the degree of
+utilisation, and of estimation of utility, by the supply; indeed,
+even those influences which determine the amount of supply by the
+conditions of production. 
+
+Chapter 9
+
+The Cost Theories (continued). Labour as an Element in Cost
+
+    It cannot well be questioned that, among the costs of any
+product, the labour necessary for its making comes first. Every
+product withdraws the labour-power that is devoted to it from
+other products to which it might have been devoted. There would
+be nothing further to say on the subject, were it not that labour
+calls for economic deliberation as to its employment on a second
+ground besides that of its utility. Labour carried too far
+becomes a burden, and brings a succession of serious personal
+evils in its train. Where labour brings pain, strain, or danger,
+there is good reason to think seriously over these consequences;
+and, on their account alone, to regard every act of labour as a
+sacrifice which should be made only if it is certain to be
+adequately recompensed by its result. It is in this sense that it
+is commonly said that production "costs" labour, and it is in
+this sense that most economists conceive of labour as a cost
+good. Not the utility but the personal sacrifice of the labourer
+is to determine the economic valuation of labour, and its
+influence upon the value of commodities. 
+    To decide how much is right in this conception is one of the
+most difficult tasks of political economy, and, as the theory has
+developed, one of the most important. Beginning with the idea
+that labour is valued according to the personal sacrifice it
+involves, and going on to the wider idea that labour is the only
+production good, that all products are directly products of
+labour, and that all costs are labour costs, the conclusion has
+been reached that the sacrifice of labour necessary for the
+production of a good is the exclusive source of its cost value,
+indeed, of its value pure and simple. From its relation to the
+labour sacrifice the conception of value receives its content,
+the amount of value its standard. In Adam Smith we find, as was
+said in the preface, this "philosophical" conception of value
+coming into collision with a second "empirical" conception.
+Ricardo's system aims at proving that this "philosophical"
+conception is almost realised in the empirical formation of
+value. Finally the socialists roundly demand its complete
+realisation, and condemn the empirical deviations as
+disturbances. In connection with this conception of value, a
+second conclusion, which relates to the origin and aim of human
+economy, is drawn from the same premises. Human economy derives
+its origin, in the last resort, from the fact that goods must be
+obtained at the price of the sacrifice of labour, and the aim of
+all economy is ultimately to make the sacrifice of labour
+necessary for the production of goods as small as possible. And
+thus, when we endeavour to examine the position of labour as a
+cost good, we find ourselves plunged into the quarrel of theory
+as to the fundamental questions of political economy. 
+    The opponents of the Labour Theory do not in my opinion give
+it full justice. They try to overturn it completely, whereas it
+is by no means entirely false. It is conceivable, only it does
+not fit in with facts; it is, if the expression may be allowed,
+philosophically right, but it is not empirically realised.
+    It is possible to conceive of a condition of economic life
+under which the single consideration of the sacrifice involved in
+labour would determine the value, both of labour itself and of
+all products. The widespread recognition which Ricardo's theory
+has obtained can only be explained by the fact that it is founded
+upon a conceivable and attractive fundamental idea. Men learned
+the meaning of "value" as a whole -- not as a philosophical
+conception, but as applied to the circumstances of everyday life
+-- for the first time, and then overlooked the fact that the
+"value" of actual life was not completely explained. I shall
+endeavour to formulate with all possible distinctness those
+conditions under which the labour theory would apply. This is the
+best means of enabling us to recognise how far these fall short
+of realisation in existing economic circumstances. 
+    Suppose that a community -- already abundantly provided with
+all the material auxiliaries for labour -- had at their disposal
+so great a supply of labour power, and so few wants, that they
+were able to satisfy completely and without delay any desire that
+they might happen to feel, simply by putting forth the exertion
+necessary to produce the means of satisfaction. In this case the
+means of satisfaction so produced would have no value from the
+consideration of their utility, because as assumed -- they were
+to be had immediately at all times and in superfluity. On the
+other hand, the consideration of the exertion of labour required
+to produce them must give them value. Every product made and
+possessed would save an effort; the effort, namely, involved in
+its reproduction. And, so far, one would have a lively interest
+in holding on to any possession once obtained. The amount of this
+interest would depend upon the exertion saved by the possession.
+A product with a utility expressed by the intensity of 100, and
+necessitating labour equal to 10, would have a value of 10, and
+would have no value at all if its reproduction cost no effort. 
+    The conceptions of value and wealth evolved from the assumed
+circumstances would, formally considered, be such as should arise
+if value and wealth were derived from consideration of the
+utility which the goods assure, while, all the time, materially,
+they would be completely different. Value would be the importance
+which goods would then have in virtue of the interest every one
+would feel in securing exemption from the undesirable pain of
+labour. Wealth would be equivalent to great possessions of goods
+securing immunity from the pain of labour. The advantage of
+wealth would be rest. Poverty would not mean want, but only
+unrest, pain. By a little increase of exertion any advantage of
+prior possession could soon be overtaken. 
+    That this is not the poverty which the poor man knows: that
+this is not wealth as men really estimate it: that this is not
+the value or the economy of which we have any experience: --
+requires no proving. If merely by pain men could be rich, the
+very people who are to-day the poorest would long ere this have
+become the richest. Nothing in reality is as assumed by the
+labour theory. Our desires are too great, the material resources
+at our disposal too limited: our labour power too small. No
+economical possession can be lost without some enjoyment being
+lost. The idea of utility cannot possibly be separated from the
+purposes of economy and the conception of value. 
+    There is only one question that may still be asked. It is
+whether consideration of the sacrifice of labour does not always
+enter into the valuation of labour as a cost-good, and thus into
+the Cost value of all products, alongside of and bound up with
+the consideration of the utility of labour. But neither is this
+the case. It could not be so. Such a possibility is excluded, not
+empirically but logically. Productive labour can never have value
+on account of the utility which is dependent upon its success or
+non-success, and also on account of the personal effort which it
+involves. In what circumstances does an act of labour have use
+value? When, in event of its failure, the utility has to be given
+up, because the labour cannot be put forth a second time; or
+when, in the same case, the repetition of the service demands
+that another use of the labour be abandoned, and its expected
+utility with it; in other words, when there is not sufficient
+labour available to meet the demand, when labour power is not
+available in superfluity. And in what circumstances would a
+service be estimated according to the sacrifice involved? When,
+in event of failure, one would not need to give up the utility,
+because it could always be obtained again at no greater expense
+than the repeated effort; in other words, when all the available
+labour power had not a predetermined and distinct destination,
+but when there was always free labour power available in
+superfluity. Labour could only be estimated at once by its
+utility and by personal effort, if it were at once capable and
+incapable of repetition; if there were at once a deficiency and
+superfluity of labour powers. Where the available labour power is
+less than the demand, labour value will be estimated exclusively
+according to utility. Where the available labour power is in
+excess of the demand, it will be valued exclusively with
+reference to the labour sacrifice.(1*)
+    Even where labour value is estimated by utility, naturally
+one does not cease to consider the toils and dangers of labour.
+And although the consideration of these does not directly enter
+into the value of labour, it will continue to be a consideration
+so long as toil is felt to be toil, and danger danger. It may
+even obtain an indirect influence upon valuation, as it must
+continue to receive economic consideration in several
+connections. 
+    These connections may be exactly enumerated.
+    First, before undertaking any labour a man has to consider
+whether the utility outweighs the effort. Only those acts of
+labour whose result outweighs the hardship entailed can be
+reasonably performed. Herein, moreover, is contained the reason
+why labour, estimated by amount of hardship alone, is less highly
+valued than when it receives its value from its return. This also
+gives rise to another important issue. The circumstance that
+expenditure of labour is felt to be a burden, must somewhat
+affect the selection of employments to which it is devoted. It
+may occur, as Sax (see note) has forcibly shown, that a less
+useful employment of labour is chosen before a more useful one,
+because the latter requires comparatively a greater amount of
+exertion. 
+    Second, when labour is once decided on its performance must
+always be ordered in such a way that the toil and danger are made
+as light as possible. 
+    Third, the fact that labour is felt to be a burden has the
+effect of curtailing somewhat the supply of labour as a whole. If
+labour were not burdensome and exhausting; more labour would be
+expended than is. And thus the use value of labour is, as we have
+already suggested, indirectly affected, by being placed at a
+slightly higher level on account of the diminished supply.
+Services of equal utility, but of different degrees of hardship,
+are so regulated in regard to value that the more troublesome
+labour is more highly appraised. But this result can only ensue
+when the supply is really diminished. Wherever the fear of toil
+and danger does not have an actively deterrent effect, or where
+it is overcome by the presence of other motives to such an extent
+that the supply remains undiminished, the value of labour does
+not increase. Experience shows that the most wearisome, wearing,
+and least healthy of employments are valued least highly, because
+they are the most easily accessible to the great majority, and
+are consequently the most amply supplied. In the communistic
+state it would not, in all probability, be in any wise different.
+The great majority of the citizens will always be suited for the
+coarsest kind of work only, and those kinds of work are at once
+the most burdensome and the simplest. And while the communistic
+state would be plentifully supplied with this sort of labour, so
+that it could be employed down to the smallest possible return in
+utility, the better labour powers, in virtue of their more
+limited number, would require to be economised and have careful
+consideration given to their employment, just as happens to-day.
+Utility and not toil would, in general, afford the standard for
+the valuation of personal services. 
+    But we are not finished with our consideration of the labour
+theory. Its greatest errors relate to the valuation which it
+gives to capital as an element in cost.(2*)
+
+NOTES:
+
+1. It is not at all impossible that, at one and the same place,
+there may be a lack of labour in certain departments -- e.g.
+skilled labour -- while there is superfluity in the available
+supply in others -- e.g. common hand labour. In such a case the
+services of the former are estimated by utility, and the latter
+by amount of hardship. Under primitive economic conditions the
+"supply of labour power" is frequency too large; not until there
+has been a considerable advance in civilisation does it become
+the rule that labour is insufficient. Further, even the labour
+power of one and the same individual may be too small as regards
+certain requirements of labour, and at the same time too great as
+regards others. It happens almost invariably that labourers whose
+capacity for performing some particular form of service is not
+sufficient to meet the economic demand for such services, have
+always sufficient capacity remaining to meet the trifling
+necessity for labour in their own private lives. With this is
+connected the fact that labour power is never entirely worn out;
+after performing the labour of his particular vocation, man
+refreshes and restores his energy best by light and distracting
+employments. Even in a country where the economic demand for
+labour is entirely insufficient, there are not lacking occasions
+in which labour may be estimated according to the amount of
+hardship involved. Every individual is continually finding such
+occasions; and every one thus learns from his own experience the
+fundamental motif of the labour theory. 
+
+2. See Ursprung des Werthes, p. 103, and also Böhm-Bawerk's
+Werth, p. 42, and, on the opposite side, Sax, chapter 45. Sax,
+starting from the correct proposition that only those goods
+should be produced whose utility outweighs the burden of labour
+they involve, appears to me to go rather far in the conclusions
+he draws, when he says: "If the Unlust connected with the want in
+question (i.e. the Unlust which originates from the want not
+being satisfied) is less than that of the burden of labour, then
+the desire for the good will be a passive one. The want itself
+ceases to be felt." Only in so far as the desire is "active" does
+the expected product receive a value in thought. That, as I have
+said, seems to me to go too far. In considering whether a thing
+should be made or not, the value, as derived from the expected
+utility, will be estimated undiminished; and, at the same time,
+the expected toil will be weighed as a thing by itself. If I
+hunger but am too lazy to work, I still continue to feel the
+hunger, and thus estimate the value of food according to the
+measure of my hunger; only it may happen that the presentation of
+this value is not sufficient to overcome my laziness. 
+
+Chapter 10
+
+The Cost Theories (continued). Capital as an Element in Cost
+
+    In any compete estimate of costs there can be no doubt that
+the figures representing the necessary consumption of capital
+must be added to the costs of labour. Of two products costing
+equal amounts of labour, that one must be dearer for which the
+greater consumption of capital is required. Thus it has been
+calculated ever since capital was possessed by man, and thus it
+will continue to be calculated, even in the communistic state.
+The necessity for it is so obvious that even the adherents of the
+labour theory bow before it. Even they admit that the costs of
+capital co-operate in determining the value of products. There is
+nothing for it but to try and reconcile their theory with this
+incontestable fact. To do this there is only one resource, but
+one so singular that only a kind of theoretical infatuation could
+avail itself of it. If all costs go back in the last resort to
+labour, and if the existence of capital-costs cannot be denied,
+capital-costs must ultimately go back to labour-costs -- capital
+must be labour. 
+    The attempt to reduce capital to labour has been made in two
+ways, both of them following out the same fundamental idea.
+Labour must be shown to be the primary economic element, and
+capital represented as a secondary or derivative form of it.
+Labour value appears as the primitive economic value from which
+capital value is derived. 
+    The first of the two efforts made to prove this proposition
+is deduced from the manner in which capital works. The effect of
+all capital is either to save labour or to increase the result of
+labour. Does not a machine save human labour? Does it not bring
+it to greater productiveness? As a matter of fact, there are
+forms of capital which are able to render services as human
+labour renders them, and which can, to that extent, be
+substituted for labour. But can this be maintained of all
+capital? What labour power, for example, does a raw material
+replace? And, on the other hand, it may undoubtedly be said of
+many kinds of labour, with equal right, that their effects are
+either to save capital or to increase capital. Capital frequently
+supplants labour, but frequently also labour supplants capital.
+Where wages are low every undertaker will save his capital and
+employ more labourers. 
+    The second attempt is much more important. It points to the
+origin of capital. Here we go back to the first beginnings of the
+acquisition of capital. All capital has, in the last resort --
+says this theory -- been obtained by labour, and on this ground
+all capital ultimately represents labour. In the most varied
+forms, and illustrated by a perfect wealth of examples, this
+thought finds itself in many writers. It is found in Adam Smith
+and Ricardo, and it is triumphantly adopted by the socialists in
+order to make good their contention that all costs are
+labour-costs, and that capital is simply "materialised labour."
+    It is not easy to imagine greater contradictions than the
+labour theory presents when it takes up this line -- more
+particularly in the extreme socialistic conception of it. Let the
+reader judge! First, the economic valuation of labour is
+explained by the peculiar nature of labour -- that its employment
+necessitates personal sacrifice. Then capital, after being
+recognised as materialised labour, and so labour that has become
+impersonal, is subjected to the same valuation; -- a proceeding
+for which there is no possible justification. First, it is
+asserted that labour is the only productive power; that it alone
+produces, creates goods, creates value; that capital is merely
+its dead instrument: and then capital emerges from its shell and
+becomes labour, which contributes its part in determining the
+cost value of goods. At first it is asserted that capital and
+labour stand in the strongest opposition to one another, and then
+every distinction disappears save the one, that capital, like
+labour, may indeed give value, but may not, like it, receive
+value. Materialised labour is labour, but no share in the return
+shall be imputed to it. 
+    It would not be right to entirely reject a theory on account
+of its contradictions. There might be a kernel of truth in it,
+and that kernel might be rejected along with the rest. We shall,
+therefore, submit the contention we are discussing to a further
+test, though, truth to tell, it will only be to find that seldom,
+if ever, has so small a truth been clothed in so much error. 
+    As we have seen, products are valued by their costs only when
+they can be reproduced for the amount of the same. Capital, as a
+rule, consists of products, and this proposition applies to
+capital as to other products. Capital may be valued according to
+its costs in so far as it can be reproduced for the amount of the
+costs. The costs actually expended since the beginning of history
+in gradually forming our present capital -- and it may be noted
+in passing that no one knows the amount of these costs, and that
+there has never been offered a less accurate standard for any
+measurement whatever -- are taken as little into consideration as
+any costs which, though actually expended, would never again be
+so expended. If all that was wanted economically to replace the
+capital consumed was to regain it by labour, then capital might
+be economically measured by labour alone, and would represent
+economically nothing but labour. If, for instance, coal consumed
+could be replaced simply by the labourers bringing new coal to
+the surface, without any assistance whatever beyond the labour of
+their hands, the coal would be worth just so much labour as was
+needed to bring it to the surface. If a machine could be made by
+labourers, without any other assistance than that afforded by
+other labourers collecting for them valueless materials, and
+simply using their bodily strength to shape and combine them, the
+value of this machine would be measured by the quantity of labour
+that had been expended upon it. So long, however, as capital is
+consumed in order to produce capital, the factor of capital
+cannot be dismissed from among the costs of capital, and,
+therefore, from the costs of all the products of capital; and, so
+long as it is credited with the use value which experience
+assures us may be received from it, this factor will continue to
+be counted alongside of labour in the estimates of costs. 
+    The idea that capital represents labour and nothing more, may
+be held so long as economists draw their examples, as they
+usually do, from the circumstances of a Crusoe or a savage, where
+the chief features are the slaying of wild animals, primitive
+bows and arrows, bark canoes, rude axes, and the like -- where
+capital, so to speak, is always conceived of in a state of
+nature. In face of the complicated economical phenomena of a
+wealthy and developed society the idea loses all weight. The
+labour theory, with its assumptions which take no count of
+historical development, was well enough in a science belonging to
+the time when men spoke of Natural Rights and the Philosophy of
+Nature. At that period of history this theory was worth being
+taken up by any gifted genius who could make it throw a first ray
+of light into the dark mass of economic phenomena. Even at a
+later period it might have tempted some thoughtful mind to give a
+thorough systematic examination to its illusive ideas. But for
+men who have gone through the school of the founders of our
+science, and have had the benefit of all the experience and
+elaboration of these founders, and of their successors, it is
+only worthy of a schoolboy to hold for ever by the opinions of
+the first teachers. A great thought may in the long run turn into
+a childish error. 
+    To the manufacturer who owns it, as to the labourers whom it
+aids, and as indeed to every one, a machine is an instrument,
+capable of certain useful work, whose production necessitates a
+certain consumption of labour, of other machines, of tools, and
+so forth. What must people think of a science which casts aside
+this simple definition, and informs the manufacturer that, in his
+machine, he possesses merely the "materialised" labour, the
+"previous" labour, of all those who have ever contributed
+anything towards the complete machine since the making of the
+first rough tool onward? It is an ingenious way of looking at
+things, no doubt, but one that lends extraordinary little aid
+towards advancing the practical purposes of economic life. What
+buyer has ever paid a price, or seller demanded one, what
+producer ever expended costs, or what chancellor ever laid a tax
+upon value, based upon such a consideration as this? Is it
+conceivable that any one will ever allow his economic conclusions
+to be guided by such a consideration? After all, in economic
+theory we must make up our minds whether we intend to explain
+economic life, or to pursue after useless and fanciful ideas. 
+
+Chapter 11
+
+The Cost Theories (continued). Interest as an Element of Cost
+
+    In calculating the cost value of his products every
+undertaker, in addition to the value of the capital consumed,
+includes interest upon the whole capital sunk and bound up in the
+production, even on that which remains unconsumed, for the period
+during which the capital must remain sunk. It is a matter of
+familiar observation that the exchange value of products, in so
+far as it is influenced by costs, expresses also the interest
+thus calculated. If the production of one article costs merely
+labour and circulating capital, while that of another requires,
+in addition to the same expenditure of labour and circulating
+capital, a large outlay of fixed capital, the second product
+(neglecting, of course, the quota for amortisation) will be
+considered the more valuable by the interest on the whole fixed
+capital. The question now arises whether we have, in this
+circumstance also, a phenomenon of natural value; whether it is
+in the interest of society generally, or merely in that of the
+individual undertaker, that interest should be calculated among
+costs, and whether this principle would require to be observed in
+the communistic state also. 
+    There is something that strikes one as peculiar in the idea
+of including interest among costs. Torrens' objection is well
+known. Interest, he says, is profit, and must first be earned
+through production as the surplus of return over costs. Thus it
+is impossible to reckon it among costs. 
+    From the point of terminology Torrens' objection is certainly
+justified. If we wish, on the one hand, to fix the net return, we
+shall not impute interest to costs, but if, on the other hand, we
+are seeking for the cost value of products, interest must be
+included. In these two cases the term "costs" is used in an
+entirely different sense. And this is an error in so far as the
+double meaning remains unnoticed, and is, in any case, a
+misfortune, whether noticed or not. It would be better to have a
+second name for the second use of the term. 
+    When we put the name on one side, and examine the actual
+matter of Torrens' objection, we come to a different conclusion.
+Here the objection entirely breaks down. It proves too much. It
+is not only interest that is derived from the return and its
+value, but the value of capital itself. Torrens' argument
+expanded runs thus: -- the value of products is first; interest,
+capital value, the value of production goods generally, second.
+Right enough up to this point we have come to the same
+conclusion, and argued from it that production goods have, as
+against products, no independent power to create value. On the
+other hand, we have acknowledged that they do possess the power
+to equalise the value of products. In virtue of this power, and
+of no higher one, do they influence cost value generally, and
+this power cannot be denied to interest, on account of its origin
+in the return, so far, that is to say, as the conditions in this
+case are similar to those which hold as regards the elements of
+costs hitherto considered. 
+    This, as a matter of fact, is the case. As we know, there is
+a constant tendency towards a uniform rate of increment for all
+capital in one and the same market, and, on the whole, the rate
+is realised. From this it follows, on the one hand, that nothing
+can be produced whose use value does not at least yield the
+universal increment on capital -- which is an indirect
+determination of the value of products by interest, in the way of
+determining the amounts produced. And it follows, on the other
+hand, that every product whose use value, regarded by itself,
+might yield a somewhat higher increment, can be valued only
+according to the universal rate of interest, to the extent that
+it can be reproduced at the price of the same which is a direct
+determination of value. If things may not be produced under the
+general rate of interest, and if they cannot be valued above the
+general rate of interest, their final value must, along with the
+other elements of costs, include the interest according to the
+amount and duration of the capital employed. 
+    The principle of including interest among costs follows from
+a plan of production which aims at obtaining the highest rate of
+increment from every employment of capital. And as it results
+from this, so again has it a reflex influence in controlling the
+plan and giving it definite limits. If interest were not
+estimated among costs, or were not estimated on the whole amount
+of capital expended, or for the entire length of time during
+which the capital remains employed, the distribution of capital
+goods among the individual branches of production could not be so
+related as to attain the highest possible rate of increment. It
+would then be permissible to employ capital where it only covered
+its consumption, but brought no increment, or where it did not
+obtain the highest increment, or the increment on the whole
+amount of capital sunk, or the increment over the whole period of
+time when it was sunk in the productive process. 
+    Under certain circumstances it is necessary to include even
+compound interest among costs; that is to say, when the period of
+time during which the capital is sunk exceeds the period at the
+end of which interest would usually be expected. Products are
+themselves re-employed as interest bearing capital, and it is
+therefore so far profitable to find productions which have a
+shorter process. The products of longer processes of production
+must receive an equivalent against this advantage of having
+interest on interest at an earlier date, and they obtain it by a
+corresponding increase in their use value. Only in this way is
+the highest degree of utilisation in production as regards time
+obtained and regulated.
+    Connected with this is an exceedingly curious conclusion.
+    In the cost value of products, undertakers include the
+interest due to that portion of their money capital which they
+must hold, for paying the wages of their labourers, until the
+sale of the products takes place. In the communistic state this
+money capital would not be required. It would, therefore, appear
+that, in the communistic state, the interest expenditure in
+production would be correspondingly lower, and that the present
+manner of doing is so far opposed to the natural laws of
+valuation. As a matter of fact this is not the case; in this
+point also the interest of the undertaker is identical with that
+of the community at large, and leads to the economic valuation of
+goods. The undertaker, in including the interest on his wage
+fund, simply estimates and expresses -- with reference to human
+labour -- the differences in time of employment. It is not the
+same thing to employ ten labourers during one year or to employ
+one labourer during ten years, any more than it is the same thing
+to employ a capital of ?00 for one year or a capital of ?0 for
+ten years. In the former case as in the latter, the principles of
+economic action require that, besides ordinary interest, compound
+interest also be reckoned to the value of the product, if a
+proper distribution of production is to be attained. 
+    It needs no explanation that, in virtue of this, production
+is the more limited the longer the period of the process, for the
+reason that a corresponding increase in the value of the product
+is required to make the longer process appear sufficiently
+profitable. Productions of very long duration must yield a very
+rich return if they are to bear the burden of the interest which
+accumulates up till the time when they yield their first return. 
+
+Chapter 12
+
+The Cost Theories (continued). Land Rent as an Element in Cost
+
+    Land -- understanding the word in that familiar theoretical
+sense which refers to the indestructible part of land -- suffers
+no loss of substance in production. Among the costs of
+agricultural products, consequently, there is nothing to be
+calculated for what we may call the "substance-value" of land.
+Ricardo goes farther than this, and affirms that the rent of
+land, like the value of land, cannot enter into costs. This
+contention is entirely in harmony with his theory that rent is a
+net differential rent, only ascribable to the better classes of
+land employed, while the poorest classes, those which are
+available in superfluity, yield no rent. If the classes of land
+which are last employed are free and bear no rent, the
+determining costs will, as a matter of fact, be made up without
+consideration of rent, simply by the sum of costs in capital and
+labour which are applied to the poorest classes of land. The rent
+yielded by the better qualities of land originates, as we know,
+from the surplus return of products which they assure to equal
+costs of capital and labour and equal value of products. Rent is,
+therefore, derived from the return, without finding expression in
+the value of the products. 
+    It is otherwise if rent is not merely a differential but a
+general one. A general rent must enter into costs just as
+interest does. It must be included in the calculation if the
+determining amount of costs is to be obtained. Where all
+qualities of lands and all powers of the land, even those of the
+lowest class, are required to meet the demand, and all bear rent,
+the circumstance that classes of land of the poorest quality are
+devoted to a definite production, and so "tied up" throughout the
+duration of that production, is not a matter of economic
+indifference. For, so long as they remain tied up, their services
+are withheld from other productions to which they might have been
+devoted. In case of failure, their rent, which would otherwise
+have been obtained, is lost. Their rent consequently belongs to
+and must be included in the cost of the products. 
+    For Ricardo it is of primary importance to persist in
+maintaining the foregoing contention, that land rent is always
+differential. His economic system cannot dispense with the
+proposition depending upon it, that rent does not enter into the
+value of products. He imagines it possible to bring the value of
+products under a general law, and consider them simply as
+multiples of units of capital and units of labour. The
+intervention of interest already forms a disturbing element in
+his law, but he believes himself able to prove that the
+disturbing element thus introduced is of no great importance. But
+if, besides, the element of rent plays a part in the value, the
+whole laborious structure of his theory falls to the ground, and
+his attempt to derive the value of products from labour, and to
+unite empirical amounts of value with amounts philosophically
+demanded, is completely overturned. 
+    For the theory of value which we represent, on the other
+hand, it is a matter of entire indifference whether the
+circumstances are such that rent remains purely differential, and
+thus does not enter into the value of products, or are such as
+cause rent to become general, and thus to enter of necessity into
+the value of products. The one case fits into our system as well
+as the other. 
+    Further, there are certain exceptions to the proposition that
+a differential rent cannot enter into the value of products.
+Alongside of those employments of land which may be regarded as
+the principal ones, and of those forms of rent which might be
+called the original ones, there exist others which are secondary
+and derivative. The principal employment of fertile land is in
+agriculture, but the building of a factory upon land suitable for
+cultivation is an example of a secondary employment, -- of an
+employment, to express it otherwise, for which land in general
+will be less required, and which in itself would never exhaust
+the available supply of lands, as the agricultural demand might
+easily do. If a fertile field is employed as site for a factory
+the agricultural rent which, in other circumstances, might be
+expected from it, will have to be surrendered. The sacrifice of
+this rent means an outlay of costs which cannot be neglected in
+calculating the costs of the factory's products. Whatever the
+amount of the rent, it must be deducted from the value of the
+products made on that building ground, and it is not till the
+remainder covers the costs of capital and labour that the
+calculation is complete. 
+    The case is similar with the ground-rents of dwelling-houses.
+Ground-rent in a large town is never a simple differential rent.
+At the periphery of the town, house-rent finds its measure in
+agricultural rent, and rises towards the business centre,
+according to desirability of situation. The more valuable for
+cultivation the land round about the town is, the dearer will be
+the houses in that town. To this extent agricultural rent acts as
+a universal element of costs in the calculation of house-rents.
+The differential rents received from favoured sites do not make
+houses dearer, but are rather a result of the high valuation
+placed upon houses in a favourable situation. And in so far as
+the need for dwelling-houses and the need for business premises
+compete with each other, does the one employment of land act upon
+the other as an element of costs. 
+    In following out this line of thought we see that Ricardo's
+proposition gradually loses its applicability almost entirely, as
+the cultivation of land becomes very artificial, and the uses of
+land multiply. The various employments begin to compete with each
+other, and one has always to make choice among several; thus the
+differential rents which are surrendered take effect as costs.
+Ricardo's proposition that the rent of land does not enter into
+costs, can be legitimately applied only to land devoted of
+necessity to one distinct use, such as mines, vineyards, and the
+like. 
+
+Chapter 13
+
+The Service of Individual Economic Value in National Economy (1*)
+
+    The supreme principle of economic action being utility, value
+presents a means by which to grasp the utility of goods in a
+simplified and comprehensive manner, and so to control the
+employment of goods. Thus we have described the service of value
+in economy generally, in doing which we have assumed that value
+is estimated according to natural laws, and that we are concerned
+with the valuation of goods in stocks, or marginal valuation.
+    The return value of production goods and the cost value of
+products are likewise phenomena of natural marginal value. They
+afford us a simplified and widely comprehensive estimate of
+utility in the most complicated circumstances of production. The
+most heterogeneous kinds of production goods obtain a common
+measure of valuation through their common products: their return
+values are multiples of the value of the common marginal
+products. The most heterogeneous products receive a common
+measure of valuation through their common elements of cost; their
+cost values are multiples of the value of the common cost goods.
+Different return values, or different cost values, bear the same
+relation to one another as amounts of goods which are multiples
+of the same unit. In this way it becomes possible to estimate
+these value relations in figures, although the value and the
+amounts of value have their origin in the incalculable
+intensities of want. 
+    And yet, it is not this consideration that attracts our
+attention at this point. Now when we have pursued the main
+threads of the much-tangled web of productive combinations, first
+from the return up to the co-operating production goods, and then
+back again from the cost goods to the products, another
+consideration forces itself to the front: namely, that in any
+larger economy whatever, particularly in such a one as has the
+compass of a national economy, and is based upon a complicated
+system of production, it is quite impossible to dispense with
+value if we wish to have any clear notion of the utility of
+goods. A Robinson Crusoe does not require the aid of value; he
+can arrive at a right decision in every instance by simply
+testing what manner of treatment is likely to secure him the
+greatest amount of utility on the whole. In a national economy,
+on the other hand, with a complicated system of production, it is
+impossible in any way to make the necessary economic decisions by
+testing the utility of goods on the whole. No one can take in the
+total result of a community's production at a glance. There are
+too many goods, and too many possible employments of goods, to
+permit of making one survey of the whole, and one comparison on
+the whole. Things must be gone into individually; utility must be
+divided up, and every good have measured out to it its share in
+the total result; then only is it possible to recognise
+individually which are the poorer, which the more profitable, and
+which the best. But how otherwise is utility to be measured out
+to individual goods than by applying to them the methods of
+marginal valuation, the principle of which is, to give them that
+utility which is dependent on the smallest quantity of goods that
+is yet practically taken into consideration? 
+    And, further, the economical employments of goods result from
+the relations of supply and demand. It appears then that it would
+be impossible to discover these economical employments if the
+amounts of supply and demand were not known numerically. But who
+knows the amounts of supply and demand in the widely-extended
+economy of a nation, or, indeed, in the world economy, the
+relations of which make themselves felt everywhere? Wholesale
+merchants of course try to make themselves acquainted with them,
+and do as a fact succeed in obtaining certain figures
+representing what comes from production, which are tolerably
+exact, especially as regards large production. But, on the other
+hand, it is almost impossible for them to obtain, with any
+measure of exactitude, the equally important figures of demand.
+If, in spite of this, it can be maintained that economy on the
+whole is capable of adjusting itself to the variations in supply
+and demand, this is due solely to the aid afforded by marginal
+valuation. Value, as marginal value, gives expression in the
+marginal calculation to the effect produced by the existing
+amounts of supply and demand, even if these amounts have not
+hitherto been measured. No owner can attempt to get rid of a
+good, no buyer can be eager to get one, without this circumstance
+having an effect on the market, and influencing the sensitive
+medium of value. Although no one is able, and even though no one
+should attempt, to figure out the amounts of supply and demand,
+value shows, with numerical exactitude and down to the finest
+gradations that people usually make in practical life, the
+relation between supply and demand in so far as these tend to
+make themselves felt in exchange. Value shows the effect of
+causes which in themselves are hidden. And through the fact that
+we adapt ourselves to this effect, this value, it finally becomes
+possible to adapt ourselves to the causes, the amounts of supply
+and demand, and thus to regulate an economy with due regard to
+economic laws. If at any given point of time the value of all
+goods remains as it has hitherto been, we may be pretty sure of
+acting economically and according to the standard of economical
+insight already obtained, if we retain the disposition of all
+goods in production and consumption unaltered. If value has
+altered at any point, it is an indication that the present
+disposition of goods must be changed, and changed in direct
+accordance with the change of value. Where value has risen there
+must new goods be directed, be it for production or for
+consumption: where it has fallen these goods must be withdrawn.
+and this transferring of goods from one point to another must be
+continued until all values are brought once more into
+equilibrium, and for every stock of goods the law of equal
+valuation of all its units is re-established. 
+    A knowledge of the values of goods, such as has existed in
+every economy up till now, is consequently, in itself, one of the
+most valuable of possessions. It is almost as valuable as the
+possession of the goods themselves, inasmuch as it is the key to
+their use. The sum of thousands of years of experience concerning
+the sources of supply of goods, and the suitability or otherwise
+of the conditions of their production, as well as concerning the
+amount of demand for them, is represented in the figures of value
+handed down to us. Were a nation to lose all remembrance of
+these, it would be an enormous economic misfortune. An almost
+incalculable period of time, an almost incalculable amount of
+error and loss, would have to be gone through, before the nation
+could again obtain mastery over the relations of goods formerly
+expressed, with numerical clearness, for each individual good by
+means of value. 
+    By the socialist programme it is proposed to manage the
+counting of stocks and calculation of demand, in the state of the
+future, by means of government statistics. Could this plan be
+sufficiently carried out it would be so far possible to dispense
+with marginal value. On the other hand, it can never be dispensed
+with where the finding of an expression for the utility in the
+individual good is concerned. To dispense with it would be
+equivalent to giving up the attempt to determine utility in the
+individual case, and being content with making a general
+determination as to the direction of production and consumption,
+leaving out consideration of the quantities which it is desirable
+to gain or consume. 
+    Here I leave the sphere of conditions of value in private
+economies. Clearly as I realise the imperfection of what I have
+tried to do, I yet trust that the reader will have been convinced
+that exchange value, as expressed in price, is not only governed
+by price competition, but contains a deeper economic content;
+that exchange value, although mixed with foreign elements, unites
+in itself all the essential elements of the natural valuation of
+goods, the valuation which is indispensable to economic action.
+If the prices for all similar goods in one and the same market
+are equal in amount, it is because, in the last resort, the
+valuations of all similar goods in one and the same economy are
+equal. If the prices for all goods in one stock are fixed at the
+marginal point, it is because, in the last resort, the valuations
+are so fixed. In so far as prices represent natural value, an
+enormous and arduous mental labour of calculating the exchange
+value of things is saved. By thousandfold weighing and
+consideration of the productive and other economical relations,
+each individual good gets measured out to it that amount of the
+total return which must be directly imputed to it out of the
+total amount of the total production, if the goods are to be
+profitably dealt with. I have chosen the word "Imputation" after
+much deliberation. It is not only to production goods that return
+is imputed and distributed; all goods get imputed and distributed
+out to them the utility which they give only when co-operating
+with one another. There is no satisfaction that is not prepared
+for and followed by others; all our satisfactions stand in mutual
+action and reaction with each other. Every man's means are thus
+linked together. Individual economic valuation succeeds,
+nevertheless, in distributing this whole, and imputing to each
+separate portion of wealth its share of return, in such a way
+that, as a rule, every one is well advised who, within the sphere
+of his own individual economy, takes the amount of value thus
+ascertained as measure for his economic action. 
+    Where exchange value diverges from natural value, something
+else must of course obtain, but it is beyond our special task to
+enter on this consideration. 
+    It still remains to show how far natural laws require that
+individual economic valuation be complemented by the economical
+considerations of a community, or, more particularly, of a state.
+
+
+NOTES:
+
+1. See Ursprung des Werthes, p. 165.
+

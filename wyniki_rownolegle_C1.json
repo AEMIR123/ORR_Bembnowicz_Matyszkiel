@@ -1,0 +1,52 @@
+{
+    "metoda": "rownolegla",
+    "liczba_workerow": "2",
+    "katalog": "C:\\Users\\Stanisław Matyszkiel\\PycharmProjects\\ORR_Bembnowicz_Matyszkiel\\data",
+    "calkowita_liczba_slow": 201245097,
+    "liczba_unikalnych_slow": 553817,
+    "top_slowa": [
+        [
+            "the",
+            12204468
+        ],
+        [
+            "of",
+            6518091
+        ],
+        [
+            "and",
+            6481929
+        ],
+        [
+            "to",
+            5442612
+        ],
+        [
+            "a",
+            4201240
+        ],
+        [
+            "in",
+            3522718
+        ],
+        [
+            "i",
+            2640857
+        ],
+        [
+            "that",
+            2533529
+        ],
+        [
+            "he",
+            2370205
+        ],
+        [
+            "was",
+            2140656
+        ]
+    ],
+    "czas_io_sekundy_zsumowany": 23.70677344390424,
+    "czas_cpu_sekundy_zsumowany": 247.80696833404363,
+    "czas_wykonania_sekundy": 164.38771489998908
+}

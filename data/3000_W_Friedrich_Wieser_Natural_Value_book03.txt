@@ -1,0 +1,2626 @@
+
+
+
+
+Natural Value
+
+	by Friedrich Wieser
+
+
+
+Book III: The Natural Imputation of the Return from Production
+
+PART I: The General Principles of Imputation
+
+Chapter 1
+
+Return Value
+
+    Production goods, as well as consumption goods, afford
+utility. Land, capital, and labour afford utility inasmuch as
+they produce useful objects of consumption. As the latter serve
+directly, so do the former indirectly, toward the satisfaction of
+wants. The seed, the tree, the soil, the yarn, the coal, the
+machine: -- these are not indeed ripe or finished goods, like the
+fruit and the garment, but they are just as really goods. They
+contain prospective or potential utility.
+    And the production goods, land, labour, and capital, must
+receive value on account of their utility, so far as they are not
+available in superfluity. The atom of air, which floats above the
+field in company with the countless others that throng space, is
+useful but valueless, because its place is at any time taken and
+fined by another. On the other hand, in the judgment of economic
+men, all those elements of production must receive value on
+account of their useful effect, which, however numerous they be,
+are yet not numerous enough to prevent even a small loss in them
+being perceptible and bringing harm in its train. Production does
+not despise free goods; it does not disdain the fruitful land
+although it should stretch away in excess of all requirements, or
+the wood in the primeval forest, or free water power: on the
+contrary, it seeks them out and prefers to use them wherever it
+can, because their services are the most perfect possible, and
+present no break in the rendering. None the less it must be said
+that production pays little attention to free goods, -- indeed
+less than little. It does not consider them at all. It merely
+uses them; it ascribes to them no value. It does not even reckon
+to them the services they render. Utility alone gives no value;
+there must be limitation of supply as well, before value emerges
+from utility. Utility is and remains the source of value, but in
+order to set the source flowing there must be a peculiar motive
+power, which will direct the attention of man to the necessity of
+watching and attending to it. 
+    It is, however, not usual to follow the value of production
+goods to its source in utility. To estimate the value of a field
+I do not consider what satisfactions of want can be had from its
+crop. I content myself with calculating what and how much crop it
+will probably yield; this crop then I estimate according to the
+value which attaches to it in virtue of its utility; and this
+value is to me the basis from which I ascertain the value of the
+field. The act of valuation of production goods, which ought to
+reach right back to wants, is, therefore, usually carried only to
+that point at which the relation of these goods to the value of
+their products is clearly established, for in the value of
+products the calculation of the wants is already represented. To
+this extent it is possible to say that the value of production
+goods is determined by the value of their products or by the
+value of the return. Productive value is return-value. The
+consideration that, from production goods, one can obtain a
+return in goods which possess not only utility but value, gives
+production goods their value. 
+    According to the manner in which production is planned and
+carried out, it is possible to obtain from the same goods widely
+diverse kinds and amounts of return. Economic principles demand
+the obtaining of the greatest possible return; that is, the
+return possessing the greatest value which it is possible to
+obtain under the circumstances. It is this "greatest possible
+return" whose value should serve as basis for the valuation of
+production goods.(1*) Probably it never is possible to decide
+this beforehand with absolute accuracy, but some anticipatory
+estimate there must be. It is not therefore actually the value of
+the return which forms the ground of production value, -- but the
+expectation which is formed of it. It is the anticipated value of
+the anticipated return.
+    The greater the return reckoned on, the greater will be the
+productive value. The greater the dividend expected from a stock,
+the higher will be the value put upon the stock. This frustration
+of stocks and dividends is, on the whole, the best that could be
+given to explain productive value. Every means of production,
+every tool, every piece of land or raw material, every service of
+labour, represents, if one may say so, a share in an undertaking.
+This share contributes to the result of the undertaking, and
+consequently gets ascribed to it a quota of the result, and upon
+the amount of this result its value must depend.(2*) 
+
+NOTES:
+
+1. The value of the productive unit again is decided according to
+the marginal law -- i.e. by the least among these returns. See
+below, Book III. chap. viii. 
+
+2. The classical political economy really examines only the value
+of products, or, more exactly, of produced consumption goods. So
+far as the factors of production are concerned, it looks upon
+them, on the one side, as sources of income (rent, interest,
+wage, and, perhaps, also undertaker's income); on the other side,
+as the elements which go to form the costs of production, and are
+considered to decide, principally, the value of the products. 
+    But when one compares with this the endeavours which,
+explicitly or implicitly, guide the new writers on the theory of
+value, we find the circle of the phenomena to which the idea of
+value is applied extraordinarily widened. Factors of production
+-- better expressed by the later writers as "production goods" --
+are conceived of all through as objects of value; costs are
+directly phenomena of value; and even income must be so
+conceived. Further than this, the relations between the value of
+utilities and the value of production goods is turned just the
+other way about -- the former being considered as determining,
+the latter as determined. On the present occasion we have first
+to do with the proposition which may serve as starting-point for
+the whole theory, -- that production goods receive their value
+from the value of the products which they serve to create.
+Gossen, Jevons, Menger, and Walras are all agreed on this point
+In my opinion it is again Menger who gives the most clear and
+comprehensive statement of the matter. He divides (as does also
+Gossen, though much less perfectly) the entire goods which stand
+in the productive nexus into Ranks, and value is conducted from
+rank to rank. The first and lowest rank is formed by those
+utilities which receive their value direct from wants. The value
+thus received passes over first to goods of the second rank,
+those, namely, which serve directly towards the producing of
+goods of the first rank; as e.g. the meal and the labour of the
+baker in the preparation of bread. From these value passes on to
+goods of the third rank (e.g. wheat and the labour of the
+miller); and so on, step by step, till it reaches the highest,
+or, as Bohm-Bawerk calls them, the most remote ranks. 
+
+Chapter 2
+
+The Problem of Imputation
+
+    No productive instrument, be it ever so efficient, yields a
+return by its unaided agency; it always requires the assistance
+of others. And the more the art of production is developed, the
+more numerous will be the productive instruments which
+co-operate. The very simplest products often require the most
+complicated methods of production, because they, more than any
+others, allow of the application of machinery and, therefore, of
+power in the mass. The proposition that production goods obtain
+their value from the value of their returns, suffices only for
+the valuation of the co-operating productive factors as a whole;
+not for their valuation individually. To obtain this also, we
+need a rule which will make it possible to divide up the whole
+return into single parts. 
+    When land, capital, and labour work together, we must be able
+to separate out the quota of land, the quota of capital, and the
+quota of labour from the joint product. More than that, we must
+be able to measure the services of each separate piece of land,
+of each separate quantity of capital, and of each separate
+labourer. Of what use is it to know the return which falls to
+machinery, coal, and raw material together? It is necessary to
+distinguish what each has contributed to the total result, just
+as the contribution of the stone-cutter who hews the block must
+be distinguished from that of the artist who chisels it into the
+statue. 
+    If we may form a judgment from economic practice, we should
+say there is such a rule of division. No one, practically, is
+limited to saying that return is due to all the producing factors
+together; every one understands and practises, more or less
+perfectly, the art of division of return. A good business man
+must know, and does know, what a day labourer and what a skilled
+worker would yield him; what profit a machine will bring in; how
+much has to be ascribed to the raw material; what return this and
+what return that piece of land will produce. If he did not know
+this; if he could only compare his outlay and his results as a
+whole and in the lump, he would not know what to do in case the
+return proved less than the outlay. Must he give up the
+production altogether? Must he alter the management? Must he be
+more saving with labour or capital, with machinery or raw
+material; or, on the contrary, must he employ more of these? Only
+if there is some adequate means of following out individually the
+working of each productive element, can he judge clearly upon
+these points That there is such a means is testified by the fact
+that economic decisions of the nature we have just mentioned are
+made, and made with as much confidence and as favourable results
+as are any other decisions in matters of value generally. The
+existence of this means of calculation is still more certainly
+proved by the fact that decisions of this nature are so often
+made in the same way by many people, -- in fact, by all persons
+who find themselves in the same circumstances. Why at a certain
+point of time does the entire body of undertakers, in some
+particular branch of manufacture, suddenly replace hand labour by
+machinery, when previously they had not found machinery
+profitable? Why is agriculture in one country so much more
+"intensive" than in another? Chance and caprice are here out of
+the question. It is calculations of production that effect these
+alterations. They give arithmetical proof that it is advantageous
+to eliminate the one element of production, with its accompanying
+share in the return, and substitute for it the other. The more
+perfect the production, the more exact will be its calculations,
+and the more highly will the art of distributing the return be
+developed. A "model economy" calculates everything. But the
+rudest peasant, and the wildest savage, make calculations,
+inexact and hasty though they be. They, too, make use of their
+experience, though very imperfectly of course, in regard to
+matters where the impulse and the confidence are given by nature.
+The peasant, dwelling in some cleft of the mountain, says to
+himself that this field is more valuable than that; and this he
+could not do unless he understood the art of separating the
+return of the field from the return of the co-operating
+labourers, tools, and materials. These are rules which arise
+naturally, from the very nature of man, when he finds himself
+confronted with the problems of economic life. In applying them,
+the attempt would undoubtedly be made even by a communistic
+state, to calculate the result of each individual productive
+element. And in a highly cultivated state these calculations
+would be made with great exactitude, in order to lay down that
+plan of production which, for the time being, was most effective.
+
+    It is singular how few of those writers who have attempted to
+grasp economic procedures into the unity of theory have tried to
+discover this rule, -- which is certainly one of the most
+important followed in practical economic dealings. Of the many
+difficulties which have to be overcome if we are to get, apart
+from actual transactions, a purely theoretical and scientific
+account of what people actually do when impelled by
+circumstances, probably the first and most difficult of all is to
+put before ourselves what are the problems really put in business
+transactions. Every theory begins with the least important of the
+things it has to do, and only in the end arrives at its true
+vocation. 
+    The second difficulty is to state the problem correctly. The
+few writers who have managed to get over the first obstacle
+mentioned have almost all come to grief at the second. For the
+most part they pitch the question too high, and thus change, what
+to the simple man is a simple and natural thing, into a subtle
+and sophistical riddle, of which they then say, rightly enough,
+that no solution is possible. They try. to discover which portion
+of the joint product, physically considered, each factor has
+produced, or of which part of the result each factor is the
+physical cause. This, however, is not to be discovered. At the
+most it could be possible only in cases where the product is a
+complex of materials externally bound together; and even that
+only so far as regards the materials, and not as regards the
+power which makes them a complex -- a power whose effects inhere
+in all the constituent parts of the mass, without being
+incorporated in any one of them. Looked at in this way, we cannot
+get beyond the proposition that the result is the joint product
+of all its factors and causes; that those factors must work in
+combination or they cannot work at all, -- like the four brothers
+in the tale who saved the princess only by their united
+endeavours. If we wish to find the principle for division of
+return which is applied in practical life, the question must be
+put quite differently; it must be put as practical life puts it,
+and it must be put simply. 
+    The causes of any phenomenon, whatever it may be, can be
+interpreted in very various ways. The philosopher looks at them
+in one light, the peasant in quite another; and yet both may
+judge rightly, and, so far as their judgment is correct, may
+apply rightly their conception. The difference in their opinions
+rests on the fact that they judge from different points of view.
+The former searches after the final causes that may be grasped by
+human reason; the latter limits his attention to the proximate
+and immediate causes, taking for granted the agency of all those
+which are further removed. Each would fail were he to make use of
+the other's knowledge; the peasant's maxim does not answer the
+purpose of philosophy, and the philosophic conception has no
+place in the economy of the peasant; yet each is serviceable
+enough in its own place. In whatever industrial situation men
+come to a judgment as to the causes of the phenomena which they
+encounter, the horizon of the judgment is always strictly limited
+by the point of view they take. Whatever lies beyond that cannot
+properly be taken into consideration, or the judgment would never
+come to anything. It would only end in needless critical
+reflection, which would be of no help as regards the objects
+aimed at. If we wish to obtain a practical judgment the object
+must be kept in view, and the matter looked at from the point of
+view of those concerned. A theory which proposes to explain the
+idea in business life, must, of all things, not be above its
+business; it must limit itself, so as not to give too deep a
+meaning to, and thereby really distort, the limited subject.
+    A science nearly related to our own as regards its subject,
+that of jurisprudence, may give us admirable instruction on this
+point. For an act of murder there must necessarily be a
+perpetrator, a victim, an instrument, and an opportunity. Besides
+these, the act is influenced by innumerable circumstances, which
+can often be shown to reach back to a far distant past in the
+previous history of the murderer, and even in the history of the
+community among which he came into existence and grew into
+manhood. The sociologist, the historian, the philanthropist, and
+the lawgiver will have much to consider that has but an indirect
+connection with the committing of the murder. But, however far
+back they may carry their consideration, some idle brain can
+always go still further, and follow ad infinitum the series of
+causes which led to the deed, -- as, for instance, the history of
+the tool with which it was done, as well as the history of the
+doer. The judge, on the other hand, who, in his narrowly-defined
+task, is only concerned about the legal imputation, confines
+himself to the discovery of the legally responsible factor, --
+that person, in fact, who is threatened with the legal
+punishment. On him will rightly be laid the whole burden of the
+consequences, although he could never by himself alone -- without
+instruments and all the other conditions -- have committed the
+crime. The imputation takes for granted physical causality. It
+cannot fall upon any one who stands outside the series of causes
+which led to the result, and any proof that the accused does
+stand outside exempts him from condemnation. But if the causal
+nexus is once established, far more is laid to the account of the
+doer than was or could be physically done by him. Only a foolish
+interpretation of the judgment could take exception to this. The
+expression "this man has done it" does not mean "this man alone
+has done it," but "this man alone, among all the active causes
+and factors, is legally responsible for the deed."
+    In the division of the return from production, we have to
+deal similarly not with a complete causal explanation, but with
+an adequately limiting imputation, -- save that it is from the
+economic, not the judicial point of view. Observation of the
+fruits of the earth suggests to a religious mind the Creator of
+all things. A scientific investigator is directed by the same
+observation towards the pursuit of the cognisable causes of their
+creation. A Faust pines after knowledge regarding the hidden
+forces of their life. The farmer, as farmer, thinks differently
+from all of these. He ascribes his crops, soberly and
+unsentimentally, to a very limited and small circle of all the
+causes which have actually produced them. He asks -- "Towards
+what things must I direct my economic attention in order to
+receive this return?" -- and reckons the result accordingly. He
+therefore sets apart from the total active causes all those which
+lie behind in the past. From the present causes he then sets
+apart all those which can be of no use, or are not recognised as
+having any use. From the recognised and useful, again, he divides
+off all those which are not under economic command. From these
+last he, finally, separates out all those causes which need not
+be cared for, because they are present in superfluity. As we can
+readily understand, he does not in the least believe that the
+remainder is the sole originating cause of his return. At the
+same time he rightly attributes or imputes the return to it
+alone, taking the working of all the other elements as assured.
+His judgment, though limited, is neither false nor even inexact.
+It embraces all the causes which have to be considered by him if
+his labour is to be attended by good results. 
+    If, in the economic working out, parts of the total result
+should be traced back to individual instruments of production, it
+is that we continue the reasoning with which we started: we trace
+back the total result not to its numerous wider causes, but
+simply to the economic instruments of its production. In regard
+to the part we limit ourselves still more than we did in regard
+to the whole; we seek out that one among the economic elements to
+which the part is practically to be imputed, although, certainly,
+it could have produced it only in combination with the other
+elements. Here, again, there is neither fallacy, nor even
+inaccuracy. On the contrary, so far as this method succeeds in
+founding, upon the imputation of the return, a valuation of goods
+and a plan of production which insures the most successful
+employment of each single element, it is the height of practical
+wisdom. 
+    To show that imputation in this sense is both allowable and
+practicable take one single case. Suppose that two fields, the
+one fertile, the other poor, but both worked with similar amounts
+of capital and labour, give different returns. To which account
+is the surplus return of the better field to be attributed -- to
+that of the seed, or the manure, or the plough, or the labour?
+But these were the same in both fields. Is it not rather to be
+attributed to the land itself and its greater fertility? No one
+can be in doubt as to that, nor can one raise the objection that,
+without seed, manure, plough, and labour, there could have been
+no surplus return. Taking things as they are, more depends upon
+the possession of the better soil -- just as much more, in fact,
+as the surplus return amounts to. 
+    It is of great importance that we should try to formulate
+theoretically the rules for the imputation of productive return,
+not only as regards land but as regards all productive
+instruments. If we do not succeed in doing so, the valuation of
+production goods will remain an enigma; and the existing order of
+things, under which the actual imputation of returns forms the
+basis for the distribution of national income among the citizens,
+will lie under the accusation of arbitrariness, if not the worse
+accusation of force and injustice. It would not even be possible
+to justify the difference in wages paid to some labourers as
+compared with others. If there is no rule by which to adjust the
+quarrel between owners and workers, neither is there any by which
+to measure the rank of the inventor against that of the
+day-labourer who carries out the invention. It would be purely
+arbitrary if one tried, even approximately and by way of
+valuation, to show respect to genius, devotion, art, power, skill
+-- in short all the virtues and excellences which, from time
+immemorial, have been held in respect in economic matters as well
+as in others, and which society has to thank for the most
+beneficent and useful services of its members. 
+
+Chapter 3
+
+The Socialist Reading of the Problem. The Claim of the Labourer
+to the Entire Return
+
+
+    The socialist theory so greatly limits the circle of those
+things which may be counted as means of production that the
+problem of imputation is also sensibly narrowed. 
+    Socialists do not recognise three productive factors, land,
+capital, and labour: they acknowledge only a single productive
+power, Labour. Only human labour, they say, is creative; it alone
+can really produce. Of course, to be effective, it requires land
+and capital, but these hold a subordinate position to labour, and
+act merely as auxiliary means of production. But in the existing
+order of things, landowners and capitalists -- as having
+exclusive possession of the material auxiliary means of
+production -- are placed in a position to force the labourer to
+give up to them a great part of the product of labour, as it is
+only on this condition that they will lend their property and
+allow labour to use it. By reason of this, land and capital have
+become sources of personal income for the idle classes, but
+unjustly so; and it would be a great error to infer the fact of
+productive power from that of income. When the owners refuse to
+grant to labour the use of these auxiliaries, they place
+obstacles in the way of labour, as Rodbertus says; when they do
+grant this use, they do nothing more than merely remove the
+obstruction they have themselves created; they simply withdraw
+their own arbitrary fiat. It is always the labourer who must
+produce. Land and capital are only conditions, not causes of
+production. All return is exclusively labour-return. 
+    As a matter of fact Rodbertus is perfectly right when he says
+that no conclusion can be drawn from personal income to material
+return. The problem of distribution of return must be entirely
+separated from that of distribution of income, if it is to be
+judged of correctly. But if the problem is to be entirely
+separated, it must also be so in its application. Let us then
+leave the personal quarrel entirely out of consideration. Let us
+completely disregard the question as to what persons should have
+the products; and, without regard to consequences, simply apply
+ourselves to find out which factors are to thank for their
+production, and to which factors they should be imputed. Let us
+imagine to ourselves the communistic state as seeking for the
+natural laws of imputation. Here the entire product falls to the
+enjoyment of the labouring commonwealth. The question then is: --
+Does it therefore consider the whole product as a result of its
+labour, or does it also impute the product to its possession of
+land and capital? 
+    Clearly this will depend on the standpoint from which the
+imputation is calculated. If it is the moral imputation that is
+in question, then certainly no one but the labourer could be
+named. Land and capital have no merit that they bring forth
+fruit; they are dead tools in the hand of man; and the man is
+responsible for the use he makes of them. Evidently all those
+who, in any sort of way, have assisted in bringing about the
+result, are counted among the labourers, -- those who direct as
+well as those who carry out. Indeed, there is no possible doubt
+that the greatest thanks are not due to mechanical exertions, if
+we are speaking of imputation in the highest sense of the word.
+Above these must stand the services of those who direct the
+executant labourer; who not only supply him with ideas,
+organisation, and energy, but also procure for him the materials
+for labour, contrive the machinery, and bring together the
+labourers who are to work with him. Compared with potencies such
+as these, the executant labourer himself takes the same position
+as the material means of production do as compared with himself.
+Morally considered, things are auxiliaries to him, but he himself
+is the auxiliary of his leader. 
+    This moral imputation may be important for the personal
+disposition of income; for the material division of return, of
+which alone we are now speaking, it is of no consequence. The
+question here is: On what factors are we practically dependent if
+the return is to be obtained? Every one who knows economic life
+as it is, will answer quite plainly. Upon labour and productive
+wealth. Increase of possession raises the return just as surely
+as does additional industry. No one feels that the return is
+dependent upon those production goods of nature which are as
+abundant as the atom of air floating above the field, or the
+trees in a primeval forest. But every one feels that the return
+is dependent upon all goods which, however abundant they may be,
+are yet scarce; those goods which one economises and tries to
+multiply. Where would not such possessions have value? And if
+they have value why is it, if not on account of the return, and
+according to the amount of the return, which they secure? So long
+as men consider themselves rich in possessing land and capital,
+so long do they prove that they impute to them a portion of the
+fruits which they assist in bringing forth, and so long do they
+attribute to labour only the remainder of the total return. The
+socialist who wishes to see his state as rich in property as
+possible, confutes thereby as completely as possible his own
+theory, that labour alone makes rich.(1*)
+    All means of production in which value is recognised, are
+recognized thereby as practically influential causes of
+production. To these means of production land and capital will
+belong, so long as they are not available in ever-assured
+superfluity. No one can seriously doubt this. The only thing that
+can be doubted is whether it be just and advantageous for society
+to permit the existence of private and individual property in
+land and capital, whereby the return from land and capital is
+transferred exclusively to single individuals. On this question
+it is not so easy to come to a decision, and so far as we have
+gone we have not made any, nor even tried to do so. We have only
+explained the material relation between products and means of
+production, without in any way anticipating the ranking of
+personal claims. 
+
+NOTES:
+
+1. We shall find further on (Book V. chap. x), in the socialist
+theory itself, a much clearer confession that labour is not the
+only factor in the formation of value. See also Book III, chap.
+xvii.
+
+Chapter 4
+
+Previous Attempts at Solution
+
+    The only writer who has made any attempt at an exhaustive
+treatment of the problem now occupying our attention is Menger.
+In this Menger starts from the fundamental idea of his theory of
+value. Supposing that I possess a stock of consumption goods, the
+clearest way of finding the value of one single item of the stock
+is by assuming that I lose it. In this way I find what enjoyment
+depends upon this item -- the marginal enjoyment already
+described, -- and find at once the source and amount of its
+value. This method of determining value Menger now applies to the
+more complicated case in which one has to decide the value of a
+single item, among several co-operating production goods. Here
+also he asks what would be the consequence of losing a single
+item, or a definite portion of any such item, from among the
+entire group of available goods (land, seed, agricultural
+implements, labour, cattle, manure, and so on) -- e.g. a
+cart-horse or quantity of manure. The decrease in the total
+return which would take place, gives him the amount of return
+which the owner feels to be dependent upon the possession of the
+item in question, and gives him at the same time the foundation
+of its value. 
+    In applying this Menger has arrived at some very remarkable
+and important results. No production good can work by itself: to
+accomplish anything every good requires the co-operation of
+others; and, in so far as production goods mutually demand and
+supplement each other, they are, to use Menger's expression,
+"complementary goods." At the same time the combinations which
+they enter into are less strict than might be expected. If a
+single good falls out of a productive group of goods, the
+efficiency of the remaining goods is not, as a rule, completely
+destroyed thereby. It happens frequently that the group may still
+remain a group, and still be effectively employed, although with
+somewhat diminished return, without the lost good being replaced
+at all. Land, e.g., yields some return even without manure, or
+without the whole amount of manure demanded by good farming. Or
+the loss may be made up, if not with quite the same effect, by
+the substitution of a good taken from some other group, in which
+latter group, naturally, the return must equally sink a little.
+Or it may happen that the goods left over become ineffective, or
+too little effective, when grouped as was originally intended,
+but allow of being annexed to other groups, whose return is
+thereby raised, although, perhaps, not by the entire amount of
+what was lost originally. Take, as example, agricultural capital
+and labour, which have lost their original employment through
+laying waste of the ground for which they were intended, and are
+turned to industrial purposes. 
+    It will be seen that the complementary nature of goods does
+not reach so far as at first sight might be supposed. Every
+single good requires the co-operation of others in order to be
+really of use, but the connection of the goods is not a very
+strict one. Only a portion of the return from the combination
+ever depends upon any one single element of production; never
+(except in a few cases which scarcely require to be considered)
+the entire return. 
+    What Menger has done is distinguished, as well by the logical
+sequence of his argument as by his skill in observation, and the
+lifelike interpretation of that observation. It brings light into
+the darkness of a subject which no other theorist could have
+faced, much less illumined. At the same time even Menger has not
+given the entire solution quite perfectly. An example will make
+this clear.
+    Suppose three productive elements, employed in the most
+rational plan of production possible, promise in combination a
+product whose value amounts to 10 units of value. If the three
+elements were to be employed otherwise, in combination with other
+groups, they would certainly raise the return of these groups,
+but it is against our hypothesis -- which is that of the most
+rational plan of production, -- that the return can be raised by
+10 units; otherwise the first combination chosen would not after
+all have been the best. There is always an infinite number of
+ways in which the elements in question can be grouped, but there
+is always one plan, and that the best, which should be carried
+out: if this be given up in favour of another, the result must be
+smaller, even if only to a trifling extent. 
+    Suppose, again, that the three elements are employed in some
+plan other than the best -- which, be it remembered, demanded
+their being combined with one another in a distinct group. Say
+that, by being each separately employed in some other group, the
+return of each of these three groups is raised by 3 units, and
+the three elements accordingly now produce a return amounting to
+9 units of value. 
+    How in this case will the value of each single item be
+reckoned according to Menger's principle? By the decrease in
+return which ensues in the case of loss. In this case the
+decrease amounts to 10 units -- the full return of the best
+combination now broken up -- of which, however, 6 can be
+recovered by the new employment of the two remaining elements.
+The loss, therefore, amounts finally to 4, and this is true
+indifferently of any of the three goods. 12, then, is the value
+of the three taken together. But this is impossible, since, when
+most profitably employed, they can give only a return of 10. 
+    This mistake in the result proceeds from a mistake in the
+method. The normal and determining assumption on which one
+calculates the value of a good, is not that of its loss, but that
+of its undisturbed possession, and of the use it gives in
+fulfilling its end. The assumption of loss serves, in certain
+circumstances, to show more clearly the advantage of possession.
+I see more clearly what I have by possessing a thing when I
+imagine what would be the consequence if I ceased to have it. But
+this holds only under certain circumstances, namely, as regards a
+stock of goods of the same kind, where if, in imagination, I take
+away one good from the others, it is this one good alone and
+nothing else that is taken away. It does not hold in the case of
+a stock of heterogeneous and co-operating production goods, where
+if, in imagination, I remove one, I deprive the others also of a
+portion of their effect. 
+    The full effect of all the elements in any productive
+combination can only be realised when these elements remain
+together undisturbed; it is therefore impossible to discover what
+value I receive and enjoy from this undisturbed possession, if I
+begin by assuming the dissolution of the combination, and then
+ask what still remains. The question must be put positively: What
+do I actually obtain from the goods as they stand at my disposal?
+Those productive employments which stand first, -- the
+employments which are most desirable and would be first chosen --
+decide the value; not those which stand second, and would be
+taken up only in the exceptional case of some disturbance of the
+original combination. Two persons who are both in exactly the
+same circumstances, and whose judgment agrees as to the best
+arrangements for production, must obviously ascribe precisely the
+same value to their productive possessions, although one of them
+should have something better to fall back upon in case the first
+plan falls through. According to Menger, however, the values, in
+this latter case, would require to be assessed differently, and
+indeed the higher valuation would be that of the person who had
+the least to fall back upon, because to him it would be much more
+important that the first plan should not fall through. 
+    The assumption of loss is sufficient if what is required is
+the dividing up of the return which the elements of one
+combination guarantee when put into other combinations; but it is
+of no use when what is wanted is to calculate as well the surplus
+by which the first-chosen combination excels all others. This
+surplus is left an undivided remainder of the return, and as
+regards it the problem of imputation is not solved, but comes up
+again for solution.(1*)
+    It needs only a very slight turn to correct the error in
+Menger's theory. Every well-thought-out train of reasoning
+teaches by its very faults, as these faults also possess the
+first requisite of scientific insight, that is, clearness; and
+Menger's theory contains in itself the indication as to how the
+error may be corrected. The deciding element is not that portion
+of the return which is lost through the loss of a good, but that
+which is secured by its possession.(2*) 
+
+NOTES:
+
+1. Menger reckons this undivided residue to each separate factor
+instead of charging it to the entire amount, and thus the value
+comes out too high. In our example the surplus equals 1 (10-9).
+Menger calculates it three times instead of only once; thus
+calculating two units too many, and showing a value of 12 where
+there is only a return of 10. 
+
+2. The other attempts at solution of the problem do not go beyond
+suggestions. In Bohm-Bawerk alone (Werth, p. 56) is there a more
+detailed statement, -- and it professes only to point out the
+direction in which probably the solution of the problem might be
+sought -- "To measure the share which each one of several
+co-operating factors takes in producing the common product."
+Bohm-Bawerk, speaking first of some less important cases of
+"complementariness," establishes firmly the fundamental maxim
+that no element in a group which admits, firstly, of a separate
+employment outside the group, and which, secondly, may be
+replaced at the same time in the group by other goods of the same
+nature -- obtained from some outside source -- can receive a
+value higher than its "substitution value." By substitution value
+he means "that which is derived from the decrease of utility in
+those branches of production from which the substituted goods are
+procured." Of such a nature are, e.g., the bricks destined for
+housebuilding. If some cartloads of these are destroyed, it will
+not hinder the building, as they are simply replaced by others.
+This proposition Bohm-Bawerk applies to the cases of productive
+complementariness, dividing the total amount of complementary
+production goods into two categories. Of these, one -- which
+includes the overwhelming majority -- contains those goods which,
+as marketable wares, are "replaceable at will"; e.g., "the
+services of hired labourers, raw materials, fuel, tools, and so
+on." The other category -- which contains the minority --
+includes those productive elements which "cannot be replaced, or
+are difficult to replace; e.g. the piece of land which the
+peasant cultivates, mines, railway plant, factories, the activity
+of the undertaker himself with his high personal qualities." The
+value of those goods which belong to the first group is decided,
+in every case, through the other employments possible to them; it
+is, so far, fixed. This value is first deducted from the total
+return, and the residue then falls "to the member or members
+which cannot be replaced"; thus the "peasant ascribes it to his
+land, the mine-owner to his mine, the manufacturer to his
+factory, the merchant to his capacity.
+    "Similar ideas may be found more or less clearly stated by
+various writers; in the Ursprung des Werthes I have myself
+pointed to a similar solution. Probably we should not be far
+wrong were we to assume that the reason why so many writers have
+neglected to take up this problem of distribution, is that they
+supposed distribution in this sense to be as easily solved in
+theory as it is in practice. How is it, however, when several
+"unreplaceable" goods come together? Do not the mine and the
+activity of its owner, as employer, go together? And are not many
+-- indeed very many-replaceable goods often combined? The value
+of these, which, practically, can always be ascertained by
+referring to their secondary employment and valuation, must,
+theoretically, be first separated from the combination, as again
+the secondary employment itself always requires combination with
+complementary goods, -- but how can this be done unless the rules
+of distribution are known? 
+    If these observations of Bohm-Bawerk can give no solution of
+the problem of imputation, they none the less contain an
+important and notable contribution towards its theory, for that
+could never be complete without recognising the distinction to
+which he has drawn attention. On this point see, in Book III,
+chap. xii, the examination of "cost goods and monopoly goods." 
+
+Chapter 5
+
+The Principle of Solution. The Productive Contribution
+
+    Suppose that a hunter's life depends on his last cartridge
+killing the tiger about to spring on him. If he misses, all is
+lost. Rifle and cartridge together have here an exact calculable
+value. Taken together, the value equals that of the success of
+the shot, neither more nor less. Taken singly, on the other hand,
+there is no means of calculating the value of each. They are two
+unknown quantities for which there is only one equation. Let us
+call them x and y, and put the successful result at 100; all that
+can be said as to their value lies in the equation x + y = 100. 
+    Again, suppose an artist were to fashion a pewter vessel
+which commanded great admiration on account of its perfect form.
+Suppose, further, that this were the only artist who could do
+really artistic work, and that his was the only artistic work
+known. And suppose that, besides the piece of pewter which he had
+employed, no other material of similar suitability were to be
+had, neither gold, silver, wood, clay, nor even another piece of
+pewter. It would be absolutely impossible to distinguish in the
+value of the vessel between the value of the labour and that of
+the material. The skill of the artist who conceived and executed,
+and the suitability of the material which yielded to his hand and
+retained the form he gave, would be regarded as equally
+irreplaceable conditions of success. If we, under existing
+economic conditions, do understand how to value the artist, and
+how to value the material, we have to thank the circumstance
+which distinguishes every act done under the influence of
+exchange from the adventure of the lonely hunter; -- the
+circumstance, namely, that these acts are not isolated, but take
+place along with many others of the same kind, and can be
+compared with them. This very pewter, out of which the artist
+creates a vessel of great artistic value, serves at the same time
+to furnish articles for ordinary use of very trifling value. We
+conclude from this that the pewter itself can have but a trifling
+value, and that only a small portion of the high value of the
+artistic product falls to it, while by far the greater share must
+be the property of the artist. We should be confirmed in this
+opinion were we to observe that every work of the artist was
+highly valued. But if, at the same time, we observe that he also
+works with such materials as gold and precious stones, and that
+these, on their side, equally lend a high value to all products
+of which they form part, we are forced to the conclusion that, in
+spite of his talent, the greater part of the value of his
+products does not always belong to the artist, and that, when he
+employs these materials, a highly important, if not very much the
+more important, part of the value must be ascribed to them.
+Certainly we can never succeed in considering either the artistic
+power or the material by itself alone, and thus we cannot succeed
+in measuring the effects of which they are independently capable.
+Every productive factor, if it is to be effective, must be
+combined with others and join its action with theirs; but the
+elements that are bound up with it may alter, and this fact makes
+it possible for us to distinguish the specific effect of each
+single element, just as though it alone were active. 
+    It is possible not only to separate these effects
+approximately, but to put them into exact figures, so soon as we
+collect and measure all the important circumstances of the
+matter; such as the amount of the products, their value, and the
+amount of the means of production employed at the time. If we
+take these circumstances accurately into account, we obtain a
+number of equations and we are in a position to make a reliable
+calculation of what each single instrument of production does. To
+put in the shortest typical formula the full range of expressions
+which offer themselves, we have, for instance, instead of the one
+equation x + y = 100, the following: -- 
+
+            x +  y = 100.
+           2x + 3z = 290.
+           4y + 5z = 590.
+
+    Here x= 40, y= 60, and z= 70.
+    According to the number of individual productive combinations
+carried out within the entire field of production, will be the
+individual equations. In these equations the combined factors of
+production on the one side, and the value of the jointly acquired
+(or anticipated) returns on the other, are set against each other
+as equivalent amounts. If we add together all the equations, the
+total amount of productive wealth will stand as equivalent
+against the total value of the return. This sum must be ascribed,
+entirely and without remainder, to the individual productive
+elements, according to the standard of the equation value. To
+every element there thus falls a definite share in the total
+performance, and this share could not be figured out either
+higher or lower, without overthrowing the equivalence between
+productive wealth and return. 
+    It is the share in the return, thus credited to the
+individual productive factor, which is usually called shortly the
+"return" of the factor in question; -- the return of labour,
+return of land, return of capital. I shall describe it as the
+"Productive Contribution" (see Ursprung des Werthes, p. 177), in
+order that it may always be clear whether we are speaking of the
+return as a whole, or of the share of the single factor in the
+return. The productive contribution, then, is that portion of
+return in which is confined the work of the individual productive
+element in the total return of production. The sum of all the
+productive contributions exactly exhausts the value of the total
+return. 
+    It need scarcely be said that, as a matter of fact,
+calculation can rarely be made so exactly, and never so
+comprehensively. The equations indeed are all set down, and in
+every case the productive outlay is estimated according to the
+standard of the greatest attainable return. But the stating of
+the equations is frequently made with only a trifling degree of
+exactitude; and the sum of all the equations is never fully
+taken, and thus cannot be divided out among the individual
+elements. None the less we are constantly trying to ascertain the
+result of the addition and division; only that, instead of
+calculating directly, we try to attain our end, in a somewhat
+circumstantial way, by a method of testing. The values obtained
+in the individual case are applied, so far as they appear
+suitable, to other cases, and corrected, the one by the other,
+till in the end the right division is attained. And this is
+rendered immeasurably easier by the fact that we already possess,
+in the familiar and authenticated productive values, a key to the
+division which only requires to be adapted to the changes which
+emerge from time to time, At no time has the whole mass of
+production goods to be calculated all at once; it is only the
+contributions of individual members among these which require to
+be calculated anew, and even for them a good basis is found in
+the old values. New calculations require to be made only in those
+branches of production where the attainable returns and their
+values either rise or fall. This gives rise to new equations for
+the factors in question, either with more favourable or less
+favourable total values. According as it is one or the other,
+will production be extended or limited, and productive elements
+attracted from other branches of production, or attracted to
+them, until the most favourable plan of production is again
+discovered. The experience obtained while transferring now one,
+now another productive element, and watching the effect of each
+combination upon the value of the return, gives us sufficient
+information as to the amount with which the individual elements
+are bound up in the total return.(1*) 
+
+NOTES:
+
+1. If we are to succeed in our calculation of the productive
+contributions there must be a sufficiently large number of
+equations. There must be at least as many equations as there are
+unknown quantities. Now this condition is certainly fulfilled.
+How many unknown quantities are there? Just as many as there are
+classes of production goods distinguishable in exchange. Without
+doubt these are very numerous. When theorists speak simply of
+land, capital, and labour, they include within each of these
+groups an enormous number of classes of goods which in exchange
+are as far as possible from being homogeneous. The value of
+labour is not to be calculated as one thing; there must be
+separate calculations for every kind and quality of labour
+between which one can distinguish. In calculating the value of
+agricultural land there will be, in one and the same district, as
+many different and distinguishable types of land, as would be
+distinguished in the register of a perfectly exact land tax
+imposed both on the cultivating and propertied agricultural
+classes. As to capital and its incalculable variety of forms we
+need not speak. But however far exchange may be specialised, the
+classes of productive combinations are undoubtedly even more
+numerous than the classes of production goods. The classes of
+combinations into which a good like iron or coal (even of one
+distinct origin or quality) may be introduced, are incalculable,
+and the same may be said of unskilled or day's labour. One and
+the same field is planted in rotation with the most various
+crops. And thus it comes that a mere change in the quantity of
+the same kind of goods in a group is sufficient to produce a new
+equation. Among all the many kinds of goods employed in
+production, it would be difficult to find one which, either as
+regards quantity or kind, would always be combined with others
+according to the same unalterably fixed formula. Different
+degrees of wealth, of knowledge, of skill, of local conditions,
+involve that even those kinds of goods which only admit of one
+single kind of employment, -- that is to say, which are only
+suited to produce one single kind of product -- must, at the same
+time and for the same purpose, go into a manifold variety of
+combinations. If there are exceptions to this rule they are only
+isolated ones. The contribution of such goods can, however, still
+be calculated -- always supposing that there are not two such
+elements in one and the same group. In this case, indeed, the
+principle we have established would not work, because we should
+have two unknown quantities and only one equation. 
+
+Chapter 6
+
+The Principle of Solution (continued). Contribution and
+Co-operation
+
+    The difference between our solution and that of Menger is as
+follows. 
+    Menger assumes an economic course of events different from
+that which actually regulates economic life. To discover what
+return is obtained from the production goods which we possess, he
+tries to show what would happen should we cease to possess them.
+According to Menger, for example, the value to a farmer of a
+cart-horse is calculated by the diminution of return which would
+ensue were the farmer to lose the horse, and be forced to go on
+without it. That portion of return calculated by Menger to the
+single production good we may designate "the share dependent upon
+its co-operation." We, on the other hand, start by assuming an
+economic course of events such as owners of production goods
+would expect. We trace the effects that will ensue if all the
+production goods which we possess are actually employed as we
+wish and plan. In this way we calculate what we have called the
+"productive contribution" of each factor. 
+    The sum of all the "productive contributions" is exactly the
+same as the sum of value of all the products; the sum of all the
+"shares dependent upon co-operation" is, on the other hand, as we
+have already shown, greater. In other words, the "productive
+contribution" is essentially smaller than the "share dependent
+upon co-operation," We reckon for instance the return which the
+cart-horse gives to the farm lower than Menger does, as we only
+estimate it at a portion of the decrease that would ensue were
+the owner obliged to farm without it. According to Menger,
+consequently, the farmer who loses his cart-horse loses only the
+value of the animal, whereas, according to our conception --
+which calculates differently the same numerical loss -- not only
+does he lose the value of the animal, but he suffers, beyond
+this, some disturbance in the value of his remaining productive
+wealth. 
+    Menger's is undoubtedly the simpler and clearer method. The
+distinction which we find it necessary to make between the
+"contribution" and the "co-operation" of a factor, appears
+contradictory and artificial. As a matter of fact, we introduce
+into the question no more difficulties than are actually
+contained in it. "Contribution" and "Co-operation," under
+whatever names they may be known, are everywhere distinguished,
+and must be distinguished, from each other in practical economic
+life. It is a generally-accepted fact that every productive
+factor furnishes the basis, not only for its own value, but also
+for that of all the other factors in the production. If any
+essential element is removed from any undertaking whatever, the
+whole undertaking must sensibly suffer. If there be a scarcity of
+raw material, human labour and machinery will lose some of their
+capacity of service, and vice versa; experience can show
+thousands of such cases. In innumerable ways experience shows
+that means of production mutually demand and mutually hamper each
+other. Increased activity on the part of labour raises the return
+to productive wealth, and extended exploitation of productive
+wealth raises the return to labour. What does this prove but that
+the share of return which furnishes the basis of value for its
+factor -- the "return" imputed to it which we have called its
+"contribution" -- does not exhaust the entire share contributed
+by it to the success of the production? Thus we find that the
+distinctions mentioned really exist, and are not introduced by us
+into economic life for the purpose of aiding our solution; we
+find that, by means of this solution, we explain an otherwise
+inexplicable economic contradiction, and our theory receives
+thereby no small degree of support and credibility. Or does it
+appear no contradiction to say that labour, besides affecting
+"its own" return, makes the "return to capital" rise or fall, or
+that capital, besides "its own," also affects the "return to
+labour"? 
+
+
+Chapter 7
+
+The Principle of Solution (continued), The Economic Service of
+Imputation
+
+    Thanks to the imputation of the "productive contribution,"
+every production good, without exception, has ascribed to it a
+greater effect than it could obtain through its own powers, No
+production good, not even the most powerful of all, labour, could
+by itself produce anything; every such good requires the
+co-operation of others, and is nothing by itself. On the other
+hand, again, every production good without exception, has, thanks
+to this imputation, a lesser effect ascribed to it than might be
+expected from the degree of dependence in which the complementary
+goods stand to it. If we take from a group any element, however
+unimportant, so long as it is a necessary and economic element,
+not only is its own return lost, but the other elements also are
+robbed of a portion of their effect. This holds of labour in its
+relation to capital, as well as of capital in its relation to
+labour. The well-worn argument, then, that without labour nothing
+would bring forth fruit, and that to labour consequently must be
+imputed the entire return, is false. Only those who misunderstand
+the rules of imputation in everyday use, could employ it. Nothing
+is easier than to reduce it to an absurdity by supposing labour
+obliged to work without land or capital. 
+    The imputation of the productive contribution assigns in this
+way to every production good a medium share.(1*) To calculate the
+productive contribution, and therefore also the value, at this
+medium amount, is sound common sense. It is the only practical
+and useful kind of calculation; it justifies its logic by its
+utility, The value of production goods should be the controlling
+power of production. Now it will be so, most perfectly, if it is
+based, according to our standard, on the productive contribution
+of these goods. On the other hand, it will be so only imperfectly
+or not at all, if we depart from the principle. The sum of all
+the contributions is, as we have seen, equal to the value of the
+greatest possible total return, and this return will be actually
+reached if we demand from each factor a service equal to the
+contribution imputed to it. If we do not impute anything to the
+means of production, we deprive ourselves of all possibility of
+controlling their employment by reference to their value. If we
+impute to them either more or less than their actual
+"contribution," our control will be at fault, as it will induce
+us either to a too limited or a too extensive employment. 
+    Perhaps I may be allowed to pursue these ideas still further
+into detail. 
+    If we did not ascribe any share in the return to labour, nor
+yet to land and capital, we should have to use all these without
+being in any way guided by their value. If again the whole return
+were imputed to labour and none of it to the material
+instruments, production would be misled by productive value. Land
+and capital would be declared valueless; there would be no need
+to consider them at all; whereas labour would be overestimated,
+and would, consequently, be far too greatly withheld. The most
+overestimated would be that labour which got the most intensive
+material assistance, and so gave the absolutely largest returns.
+Labour which, in cooperation with a large amount of capital, gave
+a total return of 100, would be estimated more highly than labour
+of equal amount, but different quality, which, with a tenth part
+of the capital, gave a return of 99. Artistic labour, working
+without much outside assistance, would have a low valuation,
+while plentifully assisted labour, even although unskilled and
+mechanical, would have a high valuation. With the former
+extravagance might be allowable, while with the latter we should
+have to economise. The whole sphere of production would be
+dominated at every point by confusion and perversity. 
+    The imputation of return to land, capital, and labour,
+according to the measure of their respective productive
+contributions, is a natural economic dictate; it holds in all
+forms of economic life in the communistic state as well as in the
+present one. It may -- possibly -- be a just demand that the
+whole product be given over to the labourers as personal income;
+but in any case, and even should this come to pass, it is an
+economic demand that the products be credited to the sources of
+the return, according to the contributions which they afford, in
+order that we may have a standard for the further employment of
+the means of production. 
+    It need scarcely be said that there is a limit to the
+application of this law. When too large a number of production
+goods are grouped together as one unit -- as when theorists talk
+of all kinds of labour as "labour," all kinds of capital as
+"capital," and all varieties of ground as "land" -- there is no
+longer the number of equations necessary for any solution. Of
+"land, capital, and labour" there is nothing to be said except
+that, together, they bring forth everything; alone, nothing. In
+practical life, we have often occasion to look at things in this
+wholesale way. But, even if these occasions were more frequent
+than they actually are, the individual imputation would not be
+any the less necessary. Although production is carried on under
+these wholesale modes and conditions required for preparation,
+introduction, and security, still, in the conduct of production
+it necessarily comes, in the long run, to detailed calculation.
+The man who calculates the result most exactly, who measures and
+makes a difference as regards even the smallest amounts, will, so
+far as it depends on the working out, get the largest total
+result; while the poorest will fall to him who estimates things
+only in the gross, and in an outward and superficial way. If it
+be everywhere a sign and a principle of human advance that we
+make more and more minute division and classification of causes,
+it must also be so in the great sphere of economic life. If
+socialism means to do away with the productive imputation, it
+will induce a condition of things worse than that experienced in
+the deepest barbarism. The savage knows what he owes to his net,
+and what to his bow and arrow, and would be badly off if he did
+not know. Happily the same instinct which directs him is
+possessed by all men, and no amount of theories will ever make
+people neglect to measure the effects of the productive powers in
+the way that practical self-interest demands. 
+    On the other hand, again, the individual imputation does not
+do away with the necessity of considering production as a whole.
+The preparation for and introduction of productive labour often
+requires, as has been said, very large and wholesale standards,
+where it is not sufficient merely to reckon up the productive
+contributions. These contributions correspond to the individual
+results which emerge where production succeeds. But how if it
+does not succeed? How if certain goods are wanting, and the want
+retards production, limits it, or even makes it quite impossible?
+Then, indeed, we get results from the single good which go far
+beyond the amount of its contribution. Then it becomes evident
+that the individual good not merely creates "its own return,"
+but, besides this, conditions the returns of other goods. The
+disturbing power of a want or loss of goods -- the difference
+between "contribution" and "co-operation" -- is larger, the
+larger the quantity of goods lost. Where, then, there is any
+danger of a loss, and especially a loss of wide extent,
+individual imputation is not sufficient; it reckons the damage
+too low; its only standards have too small a range. In this case
+it is necessary to be fully informed concerning the whole circle
+of conditions upon which the production depends, and the whole
+importance of the co-operation of all the factors. 
+    Individual imputation and observation of production as a
+whole, although they may lead to different valuations of the same
+goods, do not on that account contradict each other, nor cancel
+each other. Each valuation can be employed only for its own
+purposes. Individual imputation serves, in the carrying out of
+production, to measure the economic employment of each portion of
+a nation's resources; consideration of production as a whole
+serves to guarantee that the production is carried through. The
+labour powers of a nation, for instance, must be individually
+valued and employed according to the exact amount of their
+contributions, while, at the same time, particular care must be
+taken to meet the perils which so often all at once threaten the
+labour power of individual groups, and indeed of great classes.
+Again, the various forms of a nation's capital must be
+individually valued and employed according to the measure of
+their contributions. At the same time care must be taken that
+capital as a whole, and capital in the chief branches of
+production, remains and increases in the face of possible danger
+and attack. The consideration of production as a whole must thus
+aim at securing against all disturbance the essential foundations
+of production, and the harmonious relation of its elements. 
+    In the economic life of to-day individual imputation devolves
+chiefly upon the individual citizen, while consideration of
+production as a whole is mainly undertaken by the government. The
+former belongs peculiarly to the sphere of private economic
+valuation, the latter peculiarly to that of public economic
+valuation. Here we only indicate the distinction, leaving more
+exact consideration to the last book. 
+
+NOTES:
+
+1. Medium, that is, between the greater and the lesser shares
+just mentioned. The share of labour, for instance, is not
+determined by the (socialist) consideration that capital without
+labour is dead, nor by the (opposite) consideration that labour
+without capital is crippled. In becoming organic every element
+gains in importance by becoming arbiter of others, but loses as
+it puts itself into the same position of dependence upon others.
+-- W.S.
+
+
+Chapter 8
+
+The Principle of Solution (continued). Imputation and the
+Marginal Law
+
+    In the case of production goods which are available, not
+individually but in stocks, imputation of the productive
+contribution follows the marginal law. To each single item or
+quantity is imputed the smallest contribution which, under the
+circumstances, can be economically aimed at by the employment of
+this particular item or quantity -- the "Marginal Contribution"
+as I have already called it (Ursprung des Werthes, p. 177), or,
+looking at it from a different point of view, the "Marginal
+Product." Bohm-Bawerk has drawn attention (Werth, p. 502) to the
+fact that this law of exchange value has long been recognised in
+the case of certain production goods: -- "Thunen, and all the
+body of economic doctrine after him, have taught that the rate of
+interest is decided by the productiveness of the last applied
+dose of capital, and the rate of wages by the return of the last
+labourer employed in the undertaking." Now what is here conceded
+to a limited extent holds generally of all production goods, and
+for every form of value, as a law of natural valuation. 
+    It is self-evident that the marginal law which holds as
+regards produced consumption goods, holds also as regards the
+goods which produce them. We know that, in every stock of
+consumption goods, every unit receives its value from the
+marginal utility; thus the value which the products are expected
+to have is already adjusted to the marginal level, and the value
+of the production goods, as derived from this, is consequently
+placed, from the beginning, on the basis of the marginal value.
+if the communistic state wish to produce a million new rifles to
+one pattern, it will, in the calculations previous to production,
+reckon every individual rifle as equal in value; and thus it is,
+from the first, impossible that one quantity of metal destined to
+make these rifles should obtain a value different from any other
+quantity of like amount and quality. If from 1000 productive
+units 10,000 units of product are produced, each with a marginal
+value of 5 (the total value being exposed by the formula 10,000 x
+5 = 50,000), the entire productive stock receives a value of
+50,000, and each individual unit will be valued equally at 50.
+    While this application of the marginal law to production
+goods results indirectly, through the medium of products, we have
+to consider a second and direct application. Production goods
+which are capable of being employed in many different ways, are
+used to create products of various kinds. In each kind, taken by
+itself, the value of the product is adjusted to the level of its
+particular marginal utility, but we need not expect -- and, in
+fact, it would be essentially a mere chance -- that the marginal
+amounts of all the different kinds should, when compared with
+each other, entirely agree. We have already shown (in Book I.
+chap, iv) that only in a limited sense can one speak of a common
+level of household economy; and it is only in the same limited
+sense that we can speak of a common level of production.
+Production stocks must always be employed in such a way as to
+bring forward those products which will secure the greatest
+possible satisfaction of want. In particular, the destination of
+production goods to individual branches of production, -- or,
+what is the same thing, the choice of the kind and amount of
+goods to be produced, and the investment of labour and capital in
+the individual classes and branches of production, -- must always
+be weighed and decided with a view to prodding the greatest
+possible satisfaction of wants. This does not, however, in the
+least imply that products must everywhere have the same marginal
+utility. Many products satisfy wants of trifling extent, where
+the satiation point is reached very speedily: others again
+satisfy wants whose receptive capacity is very great, and where
+the scale of satisfaction shows the finest shades of transition
+from the stronger intensities of desire downwards. To take as
+drastic an example as possible, compare the employment of gold in
+the filling of teeth with its employment for purposes of luxury.
+The two scales of satisfaction do not in the least correspond
+with each other, and it is quite impossible in the two kinds of
+employments to keep always exactly to the same marginal amount.
+All economic demands are fulfilled when care is taken that goods
+of less marginal utility are never produced from production goods
+which, if employed in producing other things, might have brought
+a higher marginal utility. It may, therefore, very well happen,
+and, in the case of all means of production which are capable of
+numerous and varied employments, it will always happen, that the
+marginal amounts in the different classes of production will
+differ from each other. 
+    Suppose, for example, that from one stock of iron are
+produced three kinds of products, which we may designate as A, B,
+and C; that, in kind A, the unit of iron receives a value of 10
+-- corresponding with the economically-attainable marginal
+utility of 10; -- that in kind B the unit receives a value of 9
+-- corresponding with the marginal utility 9; in kind C, a value
+of 8 -- corresponding with the marginal utility 8. Here we have a
+case where utility, at the stage of the products, is not yet
+completely adjusted to the marginal level, and where the
+equalisation must first take place directly and at the stage of
+the production goods. That the equalisation must ultimately take
+place cannot be doubted. It is quite impossible to estimate
+one-third of the iron higher than another third; indeed, assuming
+it to be all of one quality, there would be no possible way of
+deciding which concrete portion of the stock should have the
+preference over the rest. So long as any appreciable quantity of
+the iron is destined to turn out products with a marginal utility
+of 8, no unit of the entire stock can be valued at a higher
+return. To every unit in such a case must be imputed the marginal
+return of 8, and the value of the entire stock is found by
+multiplying the number of units which it contains by the marginal
+value 8.(1*)
+    The fact that the marginal law applies, partly directly
+partly indirectly, to production goods also, first renders it
+possible for value actively to fulfil its peculiar economic
+service, as the form in which we calculate utility and the means
+by which we control it. Compared with stocks of consumption
+goods, stocks of production goods are larger, more concentrated,
+and more homogeneous. In the household of an individual there are
+not many stocks of anything, but the elements which produce
+almost all he possesses are accumulated in stocks -- in the hands
+of producers sometimes in enormous stocks, -- and thus become
+subject to the simplified calculation of value, where the
+economic amount of each stock is expressed by a multiple of its
+amount and marginal value. And thus, through the law of costs
+(see note below), products also are subjected, in great numbers,
+to this simplified form of calculation. 
+    We constantly see producers making calculations as to their
+warehouses, materials, plants, and stocks in this simple way;
+namely, by taking the amount and the price of the unit, and
+putting down as the total value the amount obtained by
+multiplying the one into the other. This observation by itself is
+sufficient proof of the wide extent to which the marginal law
+obtains in the economy of to-day. Not only are prices decided by
+a marginal law, but, by means of prices, the whole sphere of
+production, which makes its calculations throughout in terns of
+price, is based all through on a marginal valuation. Is it not
+worth while to discover what is meant by the application of a
+marginal valuation such as this? And is it not satisfactory to
+know that the naive form of estimating goods, pursued from time
+immemorial in virtue of the original prompting of man's nature,
+is a wonder of simplicity and appropriateness? 
+
+NOTES:
+
+1. This is one of the most pregnant applications of the marginal
+law; we shall return to it again and again later on, particularly
+in the fifth book, where we consider the subject of costs. To
+assist our comprehension of the law of costs, we may here
+anticipate so much as to say, that the productive marginal value
+on its part has a levelling effect upon the value of products. In
+the above example the value of the marginal utilities 10 and 9,
+in kinds A and B respectively, will be alike pressed down to the
+productive marginal amount of 8. 
+
+
+Chapter 9
+
+The Individual Factors of Imputation. I. -- Supply
+
+    Those things which are always adduced as causing the changes
+in the value of production goods, effect this change, in the
+first instance, by altering the amount of contribution imputed to
+the production goods. We shall now discuss these in turn, and
+this may possibly prove the most wearisome part of our task. 
+    In the first place we have to notice the available supply.
+The larger the available supply of any definite kind of
+productive instruments, the less important may and must be the
+goods produced -- always supposing that in other respects no
+disturbing change of circumstance takes place. If more iron be
+raised, iron products of smaller marginal utility may and must be
+made. It is inevitable that this result should be attributed to
+the material, the iron, and expressed in a lower valuation of its
+marginal productive service. It cannot be imputed to any other
+factor, such as the labour that cooperates in the production, as
+no change has taken place in the circumstances of any other
+factor. Of all the equations of return, only those in which iron
+occurs have been reduced, those in which labour occurs, expended
+on other materials, remaining unaltered; consequently the
+calculation is lower for the former, not for the latter. To iron,
+therefore, and not to labour, is imputed a smaller share of the
+return. If one were to calculate everything as before, or were to
+impute to labour the diminished return, the calculation would
+defeat its own purpose; one would be calculating as if everything
+could be spent as before, or as if labour could be employed with
+greater freedom. Neither of these could be allowed. 
+    Of all production goods, the smallest contributions must be
+imputed to those the supplies of which are most abundant in
+comparison with the demand for them. These may be spent most
+freely, down to their most insignificant uses. So far as
+productive exploitation is concerned, it is desirable that those
+goods which are most needed should also be the most abundant, and
+should have the smallest contributions imputed to them.(1*)
+
+NOTES:
+
+1. It may be of use to the English reader to note how our
+representative English economist expresses similar ideas: --
+"Other things being equal, the larger the supply of any agent of
+production, the farther will it have to push its way into uses
+for which it is not specially fitted, and the lower will be the
+demand price with which it will have to be contented in those
+uses in which its employment is on the verge or margin of not
+being found profitable; and, in so far as competition equalises
+the price which it gets in all uses, this price will be its price
+for all uses. The extra production resulting from the increase in
+that agent of production will go to swell the national dividend,
+and other agents of production will benefit thereby; but that
+agent itself will have to submit to a lower rate of pay." --
+Marshall, Principles of Economics, 2nd edit., p. 565. -- W.S.
+
+Chapter 10
+
+The Individual Factors of Imputation (continued). II. -- Demand
+and Complementary Goods
+
+    In the case of goods for immediate consumption, demand and
+want coincide: the amount of agricultural produce required for
+the full satisfaction of personal want forms the demand for
+agricultural produce. It is otherwise with production goods; here
+personal want does not always create a demand. If land, of its
+own accord and without cultivation, were to bring forth fruits in
+superfluity, there would be no demand for agricultural
+implements. And likewise, on the other hand, if land refused to
+make any return, if all land were waste and barren, there would
+be no demand for agricultural implements, there could be no use
+for them. A demand for means of production arises only when, on
+the one hand, we are obliged to employ them or else go without
+what they produce; and when, on the other hand, we can employ
+them, inasmuch as we have at our disposal the necessary
+complementary goods. So long as the complementary goods are
+wanting, we can, at best, speak of a latent demand; the demand is
+effective only when we have also acquired the complementary
+goods.(1*)
+    It follows from this that the effective demand for means of
+production must vary, not only when there is a variation in
+personal want, but also when there is a variation in the quantity
+of complementary goods.(2*) In both directions we must examine
+the effect upon the imputation, and thus, in looking at demand in
+the case of production goods, we have a far more complicated
+causal connection than in the case of consumption goods. We shall
+find, however, that the law remains the same for both. The
+contribution imputable to production goods always varies with the
+demand, just as does the value of consumption goods. If demand
+increases, from whatever cause, so does the contribution, and, as
+demand sinks, the contribution sinks with it. To prove this in
+the shortest manner possible. 
+    First: it may be granted that the effective demand rises when
+the abundance of complementary goods increases, personal want
+remaining the same. Suppose e.g. that the amount of agricultural
+capital and available agricultural labour power increase, and
+that the effective demand for land also increases thereby,
+inasmuch as latent demand becomes active; suppose, that is to
+say, that it is now and henceforth possible, -- so far as depends
+on complementary goods, -- to cultivate more land and more
+completely satisfy want. How will this affect the calculation of
+agricultural return? Evidently there are again several cases
+which must be distinguished from each other. It may be that the
+ground will not permit of any further cultivation, so that, in
+spite of increased facilities in capital and labour, production
+cannot be extended, -- as might readily happen with vine-growing
+land in a specially favourable situation. Or the return may
+increase in perfect proportion with the increase of capital and
+labour, as we may assume to be possible on the slightly
+cultivated land of a new colony. Or, finally -- and this is the
+general rule in old countries -- the return may indeed be
+increased, but not entirely in proportion to the increase of
+complementary goods; here indeed all the new capital and labour
+find employment, but with diminished results. 
+    Different as these cases are, the final result is the same in
+all, although it comes about in a variety of ways. In every case
+a larger share of the return will be imputed to the land. 
+    (a) If production cannot be extended, the value of the
+products remains the same as before, as no reason for change has
+emerged. What does change is the distribution of the imputation.
+The equation on which, in the above example, is to be calculated
+the return of the vine land, of the capital employed upon it, and
+of the labour employed upon it, all taken together, remains as it
+was. But the added capital and labour must now find employment
+elsewhere; must enter into new combinations, either on other
+land, or in some trade or industry where they give a smaller
+return. Their equations are, therefore, on the whole less
+favourable, and the consequence is that the equation, which the
+wine production presents, is now solved in a way less favourable
+for them. Their marginal productive contribution sinks, and, less
+being deducted for capital and labour, the value of the wine
+leaves a greater share to the credit of land. Land obtains a
+greater share, as it were, by absorption of the effects which can
+now no longer be attributed to the complementary goods, inasmuch
+as the marginal law requires that these should everywhere be
+estimated at the same value, and inasmuch as the common margin of
+their possibility of employment has fallen. 
+    (b) Where production admits of being extended indefinitely
+the total value of the products rises (in the "up grade" of the
+movement of value), although the single product may lose in
+value. The equations of return are more favourable equally for
+all factors concerned, and the greater total return gives,
+equally to land, capital and labour, an absolutely greater share.
+
+    (c) Where production can be only partially extended we have a
+combination of both results. The contribution credited to land
+experiences a double augmentation, one due to increased
+utilisation, and the other to the reduced valuation of the
+auxiliary means employed. 
+    Second: the effective demand rises when personal want
+increases, complementary wealth remaining the same. Here the
+matter is very simple. The figures of the ratio which decide the
+distribution of return remain unaltered, but the value of the
+return has risen. The consequence is that the same quota has an
+absolutely greater value. 
+    Every-day experience makes the changes of relation, which we
+have just pointed out between the co-operating factors of
+production, sufficiently familiar to every one who knows about
+exchange value. Every undertaker knows that it is to his
+advantage when the auxiliary means he employs come upon the
+market in larger quantities, whether it be because they are being
+more largely produced, or because there is less use for them in
+other directions. He can now extend his business, or make more
+out of it, by spending less upon the auxiliary means of
+production he requires, while the return remains unaltered. Every
+undertaker, on the other hand, knows that it is to his
+disadvantage when the auxiliary means he employs become scarcer
+in the market, or, what amounts to the same thing, are drawn off
+in larger quantities by other branches of production. In the
+communistic state entirely similar calculations will require to
+be made, in order to estimate correctly the mutual effects of the
+complementary goods on each other. Assuming the circumstances
+just mentioned, a vineyard, even in the communistic state, would
+inevitably be more highly valued wherever the auxiliaries towards
+its cultivation came forward in greater quantity, or were less
+freely employed in other directions: and it would certainly be
+estimated at a lower figure wherever the auxiliaries towards its
+cultivation were more highly valued, either on account of a
+diminished amount of them coming forward, or of their increased
+employment in other directions. Further, its share in the return
+would sink to zero whenever the auxiliary means of its
+cultivation were so highly valued that their contributions
+equalled the whole return of wine; and its cultivation would have
+to be given up entirely whenever it became impossible to meet
+these contributions out of the return of wine. 
+    Should any one factor of production, be it land, capital, or
+labour, come more freely into our disposal, the natural rules of
+imputation require that all the others obtain a higher valuation;
+as they also require that all the factors be more highly valued
+if there should be an all-round increase of personal want. 
+
+NOTES:
+
+1. See on this point Menger, p. 39.
+
+2. Compare with this Marshall's Principles, p. 563: -- "In the
+account given of the demand for the several agents of production,
+it was indicated that the ultimate demand for each depended on
+the co-operation of the others in raising the joint product of
+their labour; or, to state the case even more broadly, that the
+demand for each is in a great measure governed by the supply of
+the others." -- W.S.
+
+
+Chapter 11
+
+The Individual Factors of Imputation (continued). III. --
+Technique
+
+
+    Technique is the art of making the best use of productive
+instruments. Every advance in technique improves either the
+quantity or the quality of products. Even a so-called
+"labour-saving" machine acts in the long run like an intensified
+utilisation. By dispensing with another productive instrument at
+a certain point or for the present, it preserves it for other or
+later employments. 
+    Improvement in the quality of products raises their value.
+Multiplication of their quantity certainly diminishes the value
+of the individual product, but at the same time (in the "up
+grade" of value, which, for the sake of brevity, we shall alone
+consider at present) increases the sum of value of all the
+products taken together. Technical improvements have, therefore,
+this result, that the known quantities, in the equations of
+return by which the contributions of the production goods are to
+be calculated, are put higher, while the unknown quantities
+remain the same. Thus, according to circumstances, the
+contributions of all the factors, or simply of individual factors
+in the production in question, will be raised; it frequently
+happens, however, that the circumstances are such that the
+contributions of certain factors must be calculated at less. 
+    What happens, for example, when some expedient to reduce cost
+is introduced into a kind of production incapable of further
+extension -- say, the production of wine in a limited area
+already cultivated to the utmost extent? The return of wine
+remains the same, and its value remains the same, but to the
+vineyard must be imputed a larger share of the return than
+formerly, because it has to share it with a smaller number of
+productive factors. The elements of production thus saved can and
+will find another employment; they increase the supply available
+for other purposes while the demand for such purposes remains the
+same. The final result is consequently a reduction of their
+productive contribution. The same is true of all means of
+production which have been driven from their former employments
+by reason of technical improvements. The familiar effect of
+labour-saving machinery is that it makes wages fall; and this
+arises from the fact that, in the first instance, it reduces the
+contribution of labour. Even in the communistic state this part
+of the effect would emerge. The more labour could be replaced by
+machinery, the more labour power would there be left to dispose
+of; and the less remunerative the employments to which it would
+be devoted. If formerly it had been a mistake to devote it to
+such employments, it would now be a mistake not to do so. The
+role of labour in production would have altered; it would take
+another position; and other effects would have to be imputed to
+it, if the imputation is to be based on natural principles, --
+that is, principles which promote the most advantageous
+employment possible. 
+    In all cases where production is limited by certain specific
+elements, the chief advantage obtained by improvement of
+technique is ascribed to these elements. Means of production
+which have a more extensive employment are but little affected by
+changes in individual branches of production; only those
+technical improvements which affect all, or a greater part of
+their employments, are of much importance to them, since it is
+only in these cases that the equations of return are noticeably
+altered in their favour. The improvement in means of transport,
+which brought with it the increased utilisation of an enormous
+number of industries, is an example of a comprehensive technical
+improvement which actually had the power to raise the returns of
+almost all means of production. 
+    Every change in technical art naturally calls for a certain
+change in the plan of production, a certain rearrangement in the
+disposal and destination of our productive resources. Other
+results seem now the more attractive; other products are now the
+marginal products. The rapid development of industry in the
+course of the present century has attracted many labourers from
+agricultural to industrial pursuits. This transference, which was
+a very serious matter to the landowners since, among other
+things, it compelled them to pay the labourers they had left at
+the higher rate given by the manufacturers, was entirely
+beneficial for production generally. It removed the labourers
+from occupations which brought them little, but were, however, in
+the absence of anything more remunerative, permissible up till
+that time, into others in which they could assess their powers at
+a higher contribution. If in the communistic state a similar
+phenomenon should ever come in the train of technical
+development, it also would require to be met by a similar
+transference of capital and labour, the measure for which would
+be obtained by observation of the marginal productive
+contributions. 
+
+Chapter 12
+
+The Individual Factors of Imputation (continued). IV. -- The
+Imputation to Cost Goods and to Monopoly Goods
+
+    What has been said as to the influence of supply, of demand,
+and of technique, gives sufficient evidence that, in the
+imputation of return, there is a certain category of production
+goods particularly favoured, and another peculiarly prejudiced.
+The line of division, however, which separates these two
+categories cannot be drawn with any great strictness; the
+transferences from one group to the other are imperceptible; the
+grouping changes with the change of circumstances; and, even
+within the separate groups, there is the same division. Goods
+which are favoured above many others may nevertheless be quite
+the reverse in comparison with just as many more. 
+    The first group is composed of those goods to which attaches
+a natural monopoly (as opposed to a legal monopoly).
+Characteristic of this group is the comparative rarity of such
+goods as compared with the demand for them, or, it may be, the
+comparatively small quantity that can be produced. As examples of
+goods which have pronouncedly the character of monopoly may be
+mentioned the following; -- scarce raw materials, land
+exceptionally situated, the work of one peculiarly gifted, --
+particularly an artist or scientific worker of the highest rank,
+-- a secret and at the same time successful process (or, more
+exactly, the exclusive knowledge of such a process, whereby the
+persons who have it obtain a preference over others), and,
+finally, works of human hands, which, on account of their size,
+or on account of technical difficulties, cannot be repeated. 
+    Goods which belong to the second group may be called "Cost
+Goods," inasmuch as they are the elements in the calculations of
+cost.(1*) They are goods easily accessible and abundant, or goods
+whose production can be indefinitely increased. The following
+goods have markedly this character; -- unskilled labour, coal,
+wood, the common metals, and also land devoted to industrial
+undertakings where there is no question of any particular
+advantage in situation. Things which are to be had in superfluity
+are not counted among cost goods; indeed they are not reckoned
+among economic goods at all. While monopoly goods are specific
+elements of individual industries, cost goods are the common
+cosmopolitan and indispensable powers and materials of
+production. 
+    Articles whose making requires no monopoly goods may be
+produced, comparatively to others, in the largest quantities; on
+the other hand, those will be produced in the smallest quantities
+which demand productive factors of a peculiarly marked monopoly
+character, even although cost goods, subject to very little
+limitation, should be employed along with them. Assuming equal
+wants, then, the value of goods produced under monopoly must, by
+reason of their small available quantity, stand comparatively
+high; and consequently, to monopoly goods, as compared with cost
+goods, must generally be imputed a contribution of higher value.
+This is the first advantage which monopoly goods enjoy. In the
+course of economic development, however, many other advantages
+accrue to them, as the development itself accentuates the gulf
+which naturally exists between them. 
+    In the ordinary course of economic history the available
+supply of many monopoly goods increases but slowly, or not at
+all, -- in many cases, indeed, it becomes smaller; whereas the
+available supply of many cost goods increases rapidly and
+uninterruptedly. We have here two causes which widen the
+difference between the two imputations, inasmuch as the
+contribution imputed varies for every good in inverse ratio to
+the change in its supply, and in direct ratio to the change in
+complementary wealth. Now in the ordinary course of economic
+history, wants are continually increasing, and the numbers of
+those who want are continually increasing, while, at the same
+time, technique is always becoming more perfect. Both of these
+facts create a tendency towards raising the value of production
+goods. This tendency affects monopoly goods unreservedly, but, in
+the case of cost goods, on the other hand, it is frequently
+outweighed, -- either immediately or after a certain lapse of
+time, -- by the opposing tendency which comes from their
+increase. Generally speaking, cost goods gain only by such rises
+in the value of return as are wide-reaching enough to extend
+beyond the sphere of one single industry. Rises in value which
+are confined to individual branches of production are completely
+absorbed, as we have shown (Book III. chapters x, and xi) by the
+specific elements in that branch, by the monopoly goods. And even
+should there be no such elements -- as sometimes happens -- an
+increase of value in one particular industry has comparatively
+little effect upon elements which are simultaneously employed in
+a great many. 
+    Although cost goods are thus prejudiced in the calculation of
+the return, they have nevertheless the strongest influence on the
+result of production and its regulation, and, consequently also,
+on the basis of imputation. They are the goods of universal
+diffusion -- the goods which are to be found in every market;
+they form the majority of goods, and build up generally the body
+economic. Monopoly goods must conform more to circumstances made
+for them; the using of them changes constantly with the change in
+the general economic conditions, for it rises and falls with
+them, just as the level of a stream when it runs below ground
+rises and falls with the level above. Thus, practically, it would
+seem to come to this; that the imputation of the share due to the
+monopoly goods is made only after that due to the cost goods is
+finished. The shares due to cost goods are always first deducted
+from the total return of production, and the residue then falls
+to the monopoly goods. But closer consideration shows the matter
+to be somewhat different. It is only in the individual case that
+such a calculation can be made. In the totality of cases it is
+impossible to overlook the influence of monopoly goods upon the
+ordinary formation and imputation of return. This influence is in
+part an indirect one, inasmuch as great quantities of cost goods
+are employed in monopoly productions, whereby the marginal
+productive return of the monopoly goods must be indirectly
+affected; and it is in part direct, inasmuch as through the
+results of monopoly productions, value equations are furnished,
+which are indispensable to the total valuation. 
+    Monopoly goods have often received a quite peculiar position
+in theory. Ricardo, for example, teaches that they owe their
+value altogether to their scarcity, while all other goods receive
+their value from the labour of producing them. A sufficiently
+wide consideration, however, shows that monopoly goods come
+altogether under the ordinary conditions of valuation, and differ
+from other economic goods only in that they display much more
+strikingly the character common to all.(2*)
+
+NOTES:
+
+1. See below, Book V.
+
+2. In the second note to Book III. chap. iv. reference was made
+to the present chapter, stating that it would there be shown
+that, without taking into account the distinction to which
+Bohm-Bawerk has drawn special attention, and which deals with the
+opposition between monopoly goods and cost goods, the subject
+could not be finally settled. The importance of the distinction
+ought by this time to have become clear. The reader will remember
+that, in distribution as Menger would have it, there is an
+"undivided residue." Now, in every combination, this "undivided
+residue" falls, for the greater part, to that good which
+possesses most strongly the character of a monopoly.
+Consequently, where a pronounced monopoly good is combined with
+pronounced cost goods, the "undivided residue" is imputed to the
+monopoly good; where cost goods alone are combined it is imputed
+to that good which most nearly resembles the monopoly goods; and,
+lastly, where several monopoly goods are combined it is imputed
+to that one which most distinctly bears the monopoly character. 
+    It must be noted, however, that only the greater part, not
+the whole, of the "undivided residue" is to be imputed to the
+good in question. Some part of it -- although often a most
+trifling and indeed practically indistinguishable part -- must
+always be ascribed to the other co-operating goods, as all of
+these experience a certain increased utility from the maintenance
+of the combination, while the dispersing of it would destroy that
+plan of production which is regarded as best. The share to be
+ascribed to the other co-operating goods will be the greater, the
+more the maintenance of the above-mentioned combination is
+dependent upon them -- i.e. the more they themselves possess the
+character of monopoly goods, and the less they possess that of
+cost goods. A scarce good will, as a rule, be more seriously
+affected by a trifling change of productive destination than one
+that is less scarce; as was explained in the text, there must be
+considerable alterations in demand and supply before the value of
+goods which are most distinctively cost goods, shows a
+corresponding change. 
+    The difference, therefore, between "contribution" and
+"co-operation" remains fundamentally clear for all cases,
+although practically it does not come to much, and, so long as
+only units of goods are concerned, need for the most part
+scarcely be taken into account. So much the more important is it
+when we are examining the influence that larger quantities of
+production goods have upon the amount of productive return. 
+    In this sense I had, in the Ursprung des Werthes, although
+only by way of suggestion, already disposed of the problem of
+"complementarity." There I stated that to production goods must
+be imputed their "marginal productive contribution," while, to
+the "specific productive factors belonging to individual
+productions" falls the residue of return, after deducting the
+quotas of all supplementary goods. The only matters omitted were:
+what would happen were several monopoly goods combined together,
+and an exact formulation of the law for calculating the
+contributions. 
+
+
+Chapter 13
+
+The Individual Factors of Imputations (continued). V -- The
+Imputation to Productive Factors of Preferable Quality
+
+    Of two production goods of the same kind, that one possesses
+the better quality which shows the greater "rentability" -- to
+use a clumsy but convenient German expression. In other words, it
+is that good which, when co-operating with the same amount of
+complementary goods, gives a return of higher value; -- whether
+it be that the higher value of the return arises from more being
+produced, or from what is produced being of a better or
+preferable quality. In what follows, for brevity's sake, we shall
+consider only the former case. 
+    If we possessed several production goods which, in this
+specially limited sense, were of different qualities, we should
+undoubtedly, in the production, employ the goods of poorer
+quality only when the supply of better ones was not sufficient
+for the demand; and the share of return which fell to the better
+goods would, of course, be higher than that which fell to the
+poorer ones, by an exactly ascertainable quota. According as the
+better means of production, when working along with an equal
+addition of complementary goods, produce a greater total return,
+the value equation becomes more favourable to them by the whole
+amount of the surplus return. Their productive contribution is
+equal to that of the poorer quality plus this surplus return.
+Should the poorer goods be present in superfluous amount and so
+have no contribution imputed to them, the contribution of the
+better goods alone will be credited with the surplus return.
+Experience confirms these propositions in thousands of ways; they
+answer to the economic observation of everybody. 
+    Some economists who have paid very little attention to the
+laws of complementarity in general, have shown extraordinary
+earnestness in discussing this particular case. Ricardo, in his
+theory of land rent, deals with the advantage obtained from
+greater natural fertility in the case of agricultural lands, or
+the greater productiveness of mines. Then he goes on to the
+advantage, as regards return, which industrial capital first
+expended has, as against the increments of capital which follow.
+His theory of land rent was amplified by pointing out that rent
+of land is influenced also by its situation, i.e. by its distance
+from the market for its product. Finally it has been shown that
+the "rentability" of land in towns, and also that of capital and
+labour, is graduated in the same way as that of agricultural
+land, and that the opportunity of obtaining for the better
+quality a greater rent -- a surplus return and a surplus value --
+occurs as often in the one case as in the other. 
+    These theoretic statements all relate to price, but they hold
+equally as regards the theory of value. The more fertile land,
+the land which lies nearer to the sphere of demand, the more
+skilled labourer, the more capable machine, are not only more
+highly paid, but have imputed to them as well, on account of
+their better quality, a comparatively greater share in the
+return, -- which, indeed, is the cause of their being more highly
+paid. In the communistic state, too, calculation will be made in
+the same way. The more fertile or more conveniently situated land
+will be cultivated before any other land, and, should other and
+poorer land require to be cultivated, the better qualities will
+be more highly valued in exact proportion to their surplus
+return. 
+
+PART II: NATURAL LAND RENT
+
+Chapter 14
+
+Ricardo's Differential Rent: The First Part
+
+    Ricardo, in his famous Principles, takes up what we may call
+Contract rent, the rent which emerges when an owner lets his
+land. It is generally granted that the law of this kind of rent
+is true also, in all essential respects, of that income which the
+owner of the land could obtain without letting it, by selling its
+products. What has been said as to imputation has probably shown
+that the analogy must be carried still further. The personal
+income which land yields is, in the last resort, dependent upon
+the fact that the land in question yields a return such that,
+after the shares of capital and labour are deducted, there
+remains a share which must, on natural laws, be imputed to the
+land. The problem of land rent, conceived of primarily as a
+problem of division of income, in the last resort contains also a
+problem of distribution of return. As a problem of distribution
+of return it will emerge in the communistic state just as it does
+under existing social conditions, and in both cases the solution
+is fundamentally the same. 
+    Ricardo begins his statement with a disquisition upon
+primitive historical conditions. So long as population is thin,
+and it is unnecessary to cultivate even all its rich and fertile
+land in order to provide food, no single piece of land can obtain
+a rent. Who "would pay for the use of land when there was an
+abundant quantity not yet appropriated, and, therefore, at the
+disposal of whosoever might choose to cultivate. it"? Should,
+however, population increase to a degree which necessitates the
+cultivation of land of the second quality, rent immediately
+commences on that of the first quality. Land of the second
+quality would require a greater expenditure of costs, in order to
+produce the same return as that of the first quality; it can
+therefore be cultivated only when the increased demand has raised
+the price of agricultural produce enough to cover the necessary
+costs. But this price leaves a surplus to land of the first
+quality, according to the saving of costs which it allows. If,
+further, land of the third quality requires to be cultivated, a
+rent emerges for that of the second quality, while the rent for
+land of the first quality is increased; and thus every new and
+poorer quality which is pressed into use creates a rent for those
+above it, measured by the difference in quality. 
+    To put it into exact figures. Suppose the value of wheat is
+40s. per quarter, and that, with an expenditure of ?00, the
+cultivation of a piece of land
+
+ of the 1st quality produce a return of 120 qrs with a value of
+?40
+ of the 2nd quality produce a return of 100 qrs with a value of
+?00
+ of the 3rd quality produce a return of  80 qrs with a value of
+?60
+
+a private owner will confine himself to the cultivation of the
+two better classes of land, and will calculate to himself from
+the first class a rent of ?0. 
+    In the communistic state the result will be the same,
+granting the same assumptions. So long as land of the first class
+is to be had in superfluity, or is "free," no share in the return
+which it helps to produce will be imputed to it. And why? Because
+people have still the choice as to which of the many lands of
+equal quality they will cultivate, and because they are dependent
+upon no single one of these. Land of the second quality is
+cultivated only when that of the first is all under cultivation,
+and when, at the same time, the demand for land produce has risen
+sufficiently to meet the increased cost. When, by the higher
+value of the return, however, the increased cost on the second
+class of land has been thus covered, there remains to the first
+class a surplus which must be attributed to the land as rent. The
+land and its better quality are indeed the "cause" of the surplus
+return. It is impossible to derive the surplus from the cost
+goods, seeing that similar amounts and qualities of costs have
+been spent on both classes of land. A very simple negative proof
+will confirm the propriety of this method of imputation. Suppose
+a piece of first-class land be left uncultivated, the surplus
+return will immediately, disappear. the cost goods will be
+incapable of reproducing it elsewhere, because there is no other
+piece of land of the same quality to take its place. There is no
+lack of practical opportunity to establish this conclusion. In
+every question as to the utilising of such lands we have to be
+fully apprised that they guarantee such and such rent if properly
+cultivated, and that this rent will have to be given up if they
+are left entirely uncultivated or used in some other way. If e.g,
+we have to make a road, we shall soon know that it leads through
+lands of the first quality by its costing extra the whole amount
+of the rent. But why multiply examples? If we are to calculate at
+all in production, it must be in this way. Were we to refrain
+from reckoning the differential rent, it would mean that we
+disregarded the circumstance that land, as a matter of fact, is
+of different degrees of fertility; it would mean that we were
+quite indifferent whether we got much return or little.
+    In the inventory of the communistic state the lands of better
+quality will be entered at an amount corresponding to the
+capitalisation of their rents. The agricultural officials will
+require to be made responsible for the return of a rent from
+these better lands corresponding to their quality. In fact, in
+all those connections it will be impossible for the communistic
+state to act differently from any large landowner of the present
+day, who tries to manage his property economically, and to have
+an effectual control over his servants. 
+
+Chapter 15
+
+Ricardo's Differential Rent: The Second Part
+
+
+    There is a second Part to Ricardo's theory which is
+frequently overlooked, although it is really the more important.
+From the very nature of land every piece of it has powers of
+different quality. Just as only the best lands are at first taken
+up, so are only the best powers in each piece of land. Of these
+powers the poorest class -- so long as this class is in excess of
+the demand -- gives no rent, and the better classes give a net
+differential rent. 
+    In this second part of Ricardo's theory also, the natural
+principles of imputation are found to be in perfect agreement
+with the rules he has laid down for the formation of contract
+rent. This may be best shown by an example. Say, as before, that
+the quarter of wheat brings 40s. Then a certain piece of land,
+according as it is cultivated at a greater or smaller outlay in
+capital and labour, will produce the following returns: -- 
+
+ to a first ?00 of expenses the return is 120 qrs. and the value
+?40
+ to a second ?00 of expenses the return is 100 qrs. and the
+value ?00
+therefore to ?00 of expenses the return is 220 qrs. and the
+value ?40
+ to a third ?00 of expenses the return is  80 qrs. and the value
+?60
+therefore to ?00 of expenses the return is 300 qrs. and the
+value ?00
+
+Under these circumstances a private owner will find it
+advantageous to expend only ?00. He gains thereby a return of
+?0; and, instead of sinking the third ?00 in his land and
+gaining a return of only ?60, he will do better to employ it in
+some other direction, where it may give its full possible return
+of ?00. From the ?40 return thus obtained, he reckons ?00 as
+the costs; the remaining ?0 he can claim, and the tenant can
+pay, as rent. Just so must the communistic state make its
+calculations according to these natural principles of valuation.
+There, too, natural principles will demand that only ?00 be sunk
+in the land, and that the surplus of ?0 thus earned be imputed
+to the land as rent.(1*) 
+    The differential rent received from preferable powers of the
+soil may be called the "Intensity Rent," because it emerges and
+rises according as the land is cultivated intensively. This
+"intensity rent," according as Ricardo conceives of it, might
+quite well be a universal rent for all the lands of a country, or
+of the whole world, supposing them to be all cultivated with
+sufficient intensity. Ricardo's differential theory in no way
+requires -- as is often said -- the existence of no rent land. It
+is sufficient if there are no rent powers in the soil. 
+    It need scarcely be said that "intensity rents" must receive
+as exact consideration from the economist as the rent of better
+lands. It is perhaps unnecessary to say anything further on this
+point. 
+
+NOTES:
+
+1. If ?00 were sunk a total of ?00 would indeed be received in
+return, but none the less would there be a loss of ?0 on the
+third two hundred. If only ?00 were sunk, and the surplus of ?0
+were imputed not to the land, but to the capital or to the
+labour, we should make two mistakes, each contradicting the
+other. Firstly, the land, as such, would be declared to yield no
+return. The practical conclusion would be that it ought not to be
+cultivated, and that the capital and labour should be otherwise
+employed, in which case the whole ?0 would be lost. Secondly,
+this application of capital and labour would be shown to be
+peculiarly profitable -- the practical conclusion of which would
+be that it would appear permissible to sink even more capital in
+the land. But this ought not to be done, as ?00 is the highest
+expenditure economically permissable. The land rent of ?0 is,
+therefore, the rational expression of the most advantageous
+disposition of production.
+
+
+Chapter 16
+
+Criticism of Ricardo's Theory
+
+    According to what is certainly the most usual opinion, the
+differential rent of better lands, or of better powers of land,
+is to be explained simply by the fact that there are not
+sufficient of such to meet the demand; that, in fact, as is
+frequently said, they "have a monopoly." But it may easily be
+seen that this is not sufficient for an explanation. We must add
+two other assumptions. 
+    First, the lands or powers of land last taken into
+cultivation must be available in superfluous amount. In order
+e.g, that first quality lands may bear a differential rent, not
+only must these lands be insufficient to meet the demand, but
+there must be besides them "free" lands of the second quality.
+The limitation or "monopoly" of first-class lands is the
+proximate occasion of rent, and rent would emerge in any case,
+even if there should be no other qualities of land. Then the
+interposition of second-class lands, which are more than enough
+to meet the demand, and are consequently rentless, has the effect
+of keeping down the rent of first-class lands -- which night
+otherwise rise indefinitely -- to the amount of difference
+existing between the qualities of the two. If second-class lands
+were not "free," they also would bear rent; and this rent, again,
+could only be kept down to the differential rent through the
+intervention of a third class. In short, if there is to be a net
+differential rent, there must be a last, rentless, and therefore
+"free" category of lands (or powers of land) alongside the better
+and limited ones. There must be both limitation and superfluity
+of land. 
+    Second, there must also be "monopoly" of capital and labour.
+Why does any one prefer the better classes of land? Because on
+them capital and labour prove more productive. But why should it
+be of consequence that capital and labour prove more productive?
+Because, as a general rule, we do not have enough of either. If
+it were quite a matter of indifference what return was obtained
+from definite amounts of capital and labour, because it was
+always possible to make up any deficiency by employing other
+quantities of the same, it would also be a matter of indifference
+from which class of land they got their return -- assuming, of
+course, that there was never any scarcity of at any rate the
+poorest quality of land. And if, in face of such superfluity of
+the poorest class of land, the better and best classes are marked
+out and preferred, it is because man has to economise his labour
+and capital. The differential rent measures exactly the advantage
+which the better and best classes of land secure in the
+accomplishment of that task. 
+    Thus we see that, wherever a net differential rent exists,
+land is partially limited (in the better and best classes),
+partially over-abundant (in the poorer classes), while capital
+and labour are always limited.(1*) To have overlooked this
+circumstance is the first defect in Ricardo's theory. He states
+positively that the amount of labour (and under this he includes
+capital), which may be expended in production can be had, as a
+rule, for the asking -- may be increased at will; while the
+rent-bearing classes of land are to be had only in limited
+amounts. This defect is connected with another and still greater
+one and one that applies not to Ricardo alone; he has no general
+theory of economy, of value, and of imputation. All his ingenuity
+is expended upon details, such, for example, as the explanation
+of land rent, and this in itself shows that these details can
+only have been looked at and conceived of in a one-sided fashion.
+
+    A further defect of the differential theory is that it does
+not suffice for all cases. It sometimes happens that even the
+last cultivated lands, or powers of land, return a rent, and for
+this Ricardo has no explanation, or, to speak more exactly, no
+law. Whenever the demand for land products has increased to such
+an extent that the class of land last taken into cultivation is
+not sufficient to meet it, while, at the same time, the value of
+the land products has not risen sufficiently to permit of a new
+and still lower class being put under the plough, the last
+cultivated land returns a rent, although it becomes differential
+only when the next class of land has actually been put under
+cultivation. And when all the classes of land have been
+exhausted, and cultivation in general cannot be further extended,
+there emerges a universal land rent, -- universal not only for
+all lands (for in this sense the "intensity rent" might be a
+universal one), but even for all powers of land. This case -- of
+the impossibility of extending cultivation -- occurs more
+frequently than one would think. It is not, as would seem at
+first sight, a thing to be expected at the very end of the
+historical development of economic life, when the whole earth is
+over-populated. It belongs rather to the normal phenomena which
+occur in the course of this development. Indeed it is just as
+regards the past that it can be established with perfect
+certainty; while prophecies of what is to come must always be
+uncertain, and can never be made with scientific exactitude. A
+slight consideration will suffice to make this clear. 
+    Land and capital, so far as regards the conditions under
+which they are acquired, appear to stand in complete opposition
+to each other. All capital, with trifling exceptions, has been
+worked for by human hands, and the sum of capital is always
+increasing and is capable of indefinite increase. All land, on
+the other hand (with exceptions which are quite insignificant as
+compared with the whole) has been in existence from the
+beginning, and it is practically impossible for human power to
+extend its compass -- so at least a geographer or physicist would
+have to say. But can we say so economically? Certainly not.
+Economically speaking, man has not from the first had command
+over the whole solid surface of the earth and its treasures.
+Starting with a very insignificant portion of it, the sphere of
+his control has extended at a rate which scarcely comes behind
+the increase of his capital. The limits of his power are not yet
+reached, and he would be a bold man who would say when they must
+be reached, and where their limits lie. Looked at economically,
+there is always available to him only so much superficies and so
+much fruitful soil as he has the means and the knowledge to
+utilise. The development of agricultural skill and technique
+generally, the employment of manures, growth of population,
+emigration, scientific discovery, the spread of commerce, the
+perfecting of the means of transport, increase of wealth in
+capital and labour -- all these have gradually increased landed
+property to an enormous extent. To the hunter belongs only the
+surface of the ground; to the peasant who forces his plough down
+into it belongs also its interior, and the deeper the plough
+goes, so much more of the land comes into the service of man. In
+our own time, indeed, the amount of land in far-away countries
+which is at the disposal of European consumption, has increased
+in a degree that is alarming to European agriculturists. If we
+look back on the past, we might almost believe that it has been
+quite the same with land as with capital; -- that at first the
+provision of it was very scanty, and that later it has gone on
+richly and steadily increasing. Certainly the error which this
+opinion betrays would be no greater than that betrayed by the
+commonly held opinion that land is quite incapable of being
+increased. In any case, there can be no doubt of one thing. It is
+conceivable that a time may arrive when all land available for
+economic purposes has been taken up, and that, notwithstanding,
+at some later period, so much new land, economically speaking,
+may come into the world's possession, that a much greater
+population may be maintained upon it, without even touching the
+limits of subsistence. And has this conceivable case never been
+an actual fact? Have we not accounts, handed down to us from
+primeval times, of overpopulation and emigration caused by urgent
+want? Has not the spectre of hunger haunted every land and every
+people on the face of the earth, and is it not the case that only
+the most highly cultured of nations, at the height of their
+development, have been able to escape from its terror?
+    Still, however that may be, even supposing it has never
+actually happened that the limits of cultivation have been
+reached, -- a theory which cannot bring the case of a "universal"
+land rent under a law remains an inadequate theory. If we have no
+law for the assumed case that all lands and powers of land bear
+rent, we have no law for the undeniable fact that all
+economically employed labour and capital yield a return; we can
+say absolutely nothing more than that the better qualities of
+goods have more imputed to them by the amount of their surplus
+return. We are incapable of learning what shares are to be
+imputed to the common qualities, which constitute the majority of
+production goods. The law of a universal land rent, and the
+universal law of imputation, are identical, and a theory which
+has no formula for the former confesses its utter inability to
+solve the problem of the valuation of production goods
+generally.(2*) 
+
+NOTES:
+
+1. Among the trees of a primeval forest which have, as a rule, no
+value, because they are available in superfluity, there are
+nevertheless some which may receive value; all those, namely,
+which have peculiar advantages as regards felling and carrying to
+market -- say, e.g., that they stand in the near neighbourhood of
+a natural watercourse. Their value is exactly represented by the
+saving in costs -- saving of labour and transit -- which they
+assure as compared with the trees less favourably situated, to
+which no value is attached. Here is a capital which bears a
+perfect analogy to Ricardo's differential rent from lands of
+preferable quality. Even to the pure "intensity" rent there are
+analogies in capital. The sheep on the plains of South America do
+not receive value in their entire useful content -- I mean a
+value corresponding to the entire usefulness of similar sheep in
+Europe, or any other district of great demand -- but only in that
+portion of the same -- say, perhaps, the hides -- which repays
+the costs of transport to the sphere of the greater demand. The
+remaining part is meantime valueless, but may also receive value
+through an increase in demand. It is easy to infer from these
+examples the conditions for a purely differential rent. 
+
+2. A further fundamental defect in Ricardo's theory may be
+pointed out;that he has omitted to notice the reaction of land
+rent upon the return to capital and labour. Rent is certainly
+dependent upon the current valuations of cost, but, on the other
+hand, the valuations of cost are dependent upon rent, if not in
+the same degree. The return reckoned to capital and labour is
+essentially influenced by the amount of capital and labour which
+is required for working the land, and by the returns which they
+yield in so doing. 
+    Finally, Ricardo might also be accused of having overlooked
+the universal importance of the differential valuation (compare
+Book III, chap. xiii). Even purely differential valuations may be
+met with elsewhere than in the case of land, as we saw by the
+examples just given of wood in a primeval forest and of the herds
+of cattle in South America. But of course it is in the case of
+land that we oftenest find the relation which leads to a net
+differential valuation of the preferable qualities: viz.
+quantitative superfluity as a whole beside quantitative
+limitation as regards the best and better qualities. Compare with
+this Menger, p. 143. 
+
+PART III
+
+THE NATURAL RETURN TO CAPITAL
+
+Chapter 17
+
+The Productivity of Capital
+
+    Land being permanent and indestructible, it is not a matter
+of surprise that it should continue yielding, year after year,
+that return which it yields in one year. And if we designate a
+continually-recurring return as "rent," the rent of land requires
+no special explanation. It is much the same with the fact that
+human labour is source of a permanent return. In the case of a
+healthy person, labour power is renewed constantly after pauses
+for rest and refreshment. 
+    On the other hand, it is a matter for wonder to find that the
+perishable powers of the soil, and all the movable means of
+production, raw materials, auxiliary materials, implements,
+tools, machinery, buildings, and other productive apparatus and
+plant, which are consumed, quickly or slowly, in the service of
+production, are sources of permanent returns, -- returns which
+are constantly renewed, although the first factors of their
+production may have been long before used up. This brings us face
+to face with one of the most important and difficult problems of
+economic theory; with the question, namely, how we are to explain
+the fact that capital yields a net return.(1*)
+    All capital yields, proximately and directly, only a gross
+return; that is to say, a return purchased by a diminution of the
+parent capital. The condition under which this gross return may
+be the source of a net return is very easily formulated. In the
+gross return must be found newly produced all the consumed
+capital, and beyond this there must be a certain surplus. This
+surplus will be net return; -- a return which may, permanently
+and without diminution of the parent capital, be obtained and
+consumed. 
+    If now we ask whether this condition is actually fulfilled,
+we find, in the first place, that the nature of capital does
+permit of it. If capital is, on the one side, perishable, on the
+other, it is reproducible. It serves for production and it is
+produced. Is it, however, produced in sufficient quantity, and
+produced from capital itself in sufficient quantity, to fully
+replace what has been consumed, and leave a surplus beyond?
+Before trying to answer this question I should like to make one
+observation of a formal nature. 
+    Capitals which yield gross return may undoubtedly be
+designated "productive goods" on this account alone. They
+certainly produce; they transform themselves from an unfinished
+form of goods to a finished one, or to one that comes nearer a
+finished one. It is, however, preferable to speak of capital as
+productive only when it yields a net return. And in this sense
+exclusively we shall understand the "Productivity of capital."
+    As Bohm-Bawerk has shown, productivity may be either physical
+productivity or value productivity. It is important that this
+distinction should be clearly kept before us. Physical
+productivity exists where the amount of goods which form the
+gross return is greater than the amount of capital goods
+destroyed; and in the foregoing deduction of the conceptions of
+gross and net return we have assumed this physical productivity.
+Value productivity exists where the value of the gross return is
+greater than the value of the capital consumed. The task of our
+theory is, in the last resort, to prove the value productivity of
+capital; but for this purpose it is necessary first to prove the
+fact of physical productivity, as the scaffolding on which the
+other rests. The value productivity already presupposes the
+determination of the value of capital, but the value of capital
+can only be determined when the question of how to impute the
+physical return has been answered, because the value of capital
+rests on the share of return imputed to it. Just as the rent must
+first be ascertained before the value of any land can be
+calculated, and just as, generally speaking, the rules of
+imputation must be recognised before the value of production
+goods can be determined, so must also the imputation of the
+return to capital first be settled before we can take up the
+problem of its value. In pursuance of our division of the
+subject, we have meanwhile only the problem of the physical
+productivity of capital to deal with. 
+    There is no doubt that the total return of all three
+productive factors, land, capital, and labour, taken together, is
+large enough to replace the capital consumed, and give a net
+return. This is a notorious economic fact, and as little in need
+of proof as the fact that there are such things as goods, or such
+a thing as production. Of course, now and then, a productive
+undertaking may be unsuccessful, and fail to cover its outlay;
+indeed many undertakings furnish no usable product whatever. But
+these are exceptions. The rule is that net returns are obtained,
+-- indeed, net returns of such enormous magnitude, that not only
+can the millions of human beings be supported, but capital can go
+on accumulating out of the surpluses. 
+    There remains, therefore, but one thing to ask -- whether a
+share in this undoubted net return can be imputed to the factor
+capital. But the question can not be put seriously. Why to
+capital alone should no such share be imputed? Once understood
+and granted that capital is one of the economic factors of
+production, to which, with the others, the productive return is
+ascribed (Book III. chap. iii), it is also understood and granted
+that to it belongs by right a share in the net return in which
+the productive return first embodies itself. Are we to suppose
+that capital is always in a position to produce only somewhat
+less than replace itself? This would obviously be an arbitrary
+supposition. Are we, then, to suppose it capable only of
+replacing its own loss, however various the success of production
+may be? This supposition would clearly be no less arbitrary.
+Whoever denies net return to capital can only do so by denying it
+any return. 
+    I should fear to repeat myself were I to bring forward any
+formal proof of the fact that capital does have a share in the
+productive net return. I shall content myself with mentioning one
+or two cases which show, in eminently clear fashion, the
+necessity for attributing net return to it.(2*) 
+    Wherever labour is crowded out by capital, as, e.g., where a
+machine takes over the work hitherto accomplished by human labour
+-- a thing which will happen no less frequently in the
+communistic state than it does now, -- the capital, or machine,
+must be credited with at least the same return as that formerly
+imputed to labour. But this was a net return: therefore, the
+capital or machine must also be credited with a net return. Were
+the machine capable of reproducing only its own substance as that
+is worn away in course of use, it would be less effective than
+human labour, and would not have had power to displace it. But
+why should a machine such as this be favoured in the imputation
+more than any other form of capital? What experience would speak
+for this? 
+    In accordance with the universal law of differential
+imputation, every form of concrete capital of better quality has
+a higher return imputed to it than the concrete capital of lower
+quality, and this return is measured by the amount of increase in
+productive results which the employment of the better qualities
+brings. And as, when we look at production and its results as a
+whole, it is only net returns that are taken into consideration,
+it is thereby proved that, in comparing qualities of capital, the
+standard of imputation must be taken from the net return. 
+    Whoever employs his capital according to the measure in which
+he sees it influence the productive net return, employs it well;
+whoever does otherwise, employs it badly. On this point universal
+opinion is united now, as it will be in the communistic state.
+The universal opinion to which we refer is not, however, the
+untrained judgment of the public in matters of theory, but the
+ripe expression of experience.(3*)
+
+NOTES:
+
+1. In what follows I understand by the term capital the
+perishable or (with the extended meaning explained in the text)
+the movable means of production. This conception is adapted to
+the conditions of a communistic state, in which the national
+income is obtained solely through production. To take note of
+those forms of capital which serve in the formation of income
+outside of production, seemed to me out of place, these being too
+closely connected with the specific conditions of the existing
+economic order of things. For the same reason I also refrain from
+taking into consideration those constituent parts of an
+undertaker's capital which do not belong to the technical means
+of production. I have, however, appended, in Book IV. chap. viii,
+a discussion of the interest on consumption loans and house rent,
+and, at the end of Book V. chap. xi, I have looked at the intent
+which comes from the undertaker's wage fund. 
+    To avoid misunderstanding, I wish once more to emphasise the
+fact that, among the technical means of production, I do not
+include the means of subsistence which must be held ready at hand
+for the labourers. These are conditions of production, but not
+its causes. The cause is here the labourer alone. And this is no
+contradiction to our previous statement in Book III. chap. iii.
+The things on which the labourer employs his strength, and the
+things which maintain his strength, stand in totally different
+relations to the productive return. The former have a direct
+influence upon return; the latter influence it only through the
+medium of the labour power into which they must first transform
+themselves. If we wish to make the latter factors of production,
+it can only be done by regarding the labourer as their first
+product (compare Book V. chap. vii, on the "costs of production"
+of labour). So far as regards his conception of the means of
+subsistence for labourers I am thoroughly at one with Sax (in
+particular p. 324), although I explain otherwise the emergence of
+intent from this part of an undertaker's capital. 
+    Immediately before these pages went to press, Menger's
+treatise Zur Theorie des Capitals appeared in Conrad's
+Jahrbucher. In this treatise he defends in animated fashion the
+popular as against the scientific conceptions of capital, and
+interprets the popular conception as embracing all the parent
+wealth of an acquisitive economy existing in or calculated in
+money, without respect to the technical nature of the instruments
+of acquisition. As a matter of fact, the circumstance that
+acquisitive instruments are calculated in money is of decisive
+importance for their valuation. To calculate in money means --
+leaving the form out of consideration -- first, to calculate
+exactly, and second, to calculate with reference to exchange and
+the unit of all exchange goods which it creates. We also look at
+valuation entirely under these two assumptions, although we
+substitute the internal exchange of goods in a state economy for
+the exchange of private individuals. The natural laws we have
+deduced hold only as regards industries on a large scale and
+under a highly developed economy. 
+
+2. Among such cases I should include also those where the use of
+capital increases the previous productiveness of production. Here
+we see with particular clearness that the additional net return
+must be credited to the capital. It would, however, be an error
+to believe that capital can receive a share of net return only
+when its use has directly increased the previous productiveness
+of production, or that it would be deprived of this share as soon
+as the world became accustomed to the increased effects.
+Experience shows us the productivity of capital even in a
+stationary economy. On this account all theories are inadequate
+which derive the productivity of capital solely from its capacity
+to promote the development of economic life. 
+
+3. The theory of interest, like that of rent, has always been
+discussed very much by itself; discussed, I mean to say, without
+any previous examination of the general laws of imputation. The
+result, however, as regards interest, has been immensely less
+satisfactory than as regards rent. It is easy to understand that
+in the case of interest we have to deal with the essential point
+in the problem of imputation, while in the case of rent we have
+to deal substantially with a detail capable of being conceived by
+itself, -- that, namely, of the differential imputation.
+Bohm-Bawerk's great work Geschichte und Kritik der
+Capitalzinstheorien (Innsbruck, 1884), translated as Capital and
+Interest (Macmillan), has clearly shown to the scientific world
+how unsatisfactory all previous attempts at explanation have
+been. 
+    Ties of family and of friendship bind me too closely to the
+author to allow of any praise of his work from my lips being
+counted of value by outsiders. I therefore confine myself to
+remarking that everything contained in the following pages on the
+subject of the return to capital and the value of capital, was
+written under the influence of his penetrating criticism, and
+that, if there is aught of value to be found in it, it could
+never have originated without that influence. It is not
+inconsistent with this that I should, nevertheless, arrive at
+other conclusions than those towards which Bohm-Bawerk -- so far
+at least as may be recognised from the critical and preparatory
+work already published -- appears to point. 
+    Note. -- Since writing the above, Bohm-Bawerk has published
+the second part of his work, Die Positive Theorie des Capitals
+(Innsbruck, 1888), translated by me as The Positive Theory of
+Capital (Macmillan, 1891). -- W.S. 
+
+
+Chapter 18
+
+The Calculation of Return to Capital in Primitive and in
+Developed Economies
+
+
+    Those writers who maintain the productivity of capital prefer
+to take the most primitive economic circumstances in order to
+make their meaning clear. Thunen, for instance (in his Isolirter
+Staat, 2nd edition, Book II, division I, p. 74) takes his readers
+to a land in which there is no capital to begin with. In its
+tropical climate the inhabitants live, in the most literal sense,
+by the labour of their hands. There a labourer is in a position
+to produce yearly the total amount required to maintain him for a
+year -- we shall put this down at 100 -- and, besides that, 10%
+more, or 110 units in all. At that he can live and also lay past.
+And now some man, supporting himself meantime upon his savings
+from former years, succeeds, after a whole year's labour, in
+producing a bow, arrows, and a net. He is rewarded for this by
+being enabled, with the assistance of the new tools, to obtain
+henceforward a yearly return of 150 units, by means of which he
+finds time to repair the damage suffered by his little capital
+through wear and tear, and to maintain it always in the same
+condition. The total increase to his income per year amounts to
+40 units, and this increase is a permanent one in spite of the
+perishable nature of the capital, because not only is the capital
+perishable, but it can also be, and is continually being,
+reproduced. To what factor is this increase to be imputed?
+Obviously to the capital. To its credit alone can the increase be
+attributed. This will be seen, e.g., in the fact that every other
+labourer will be inclined to hire the capital at a price which is
+based on the calculation and ascription to it of this surplus
+result. 
+    Similar statements are given by other writers. They are,
+indeed, well adapted to clear up our ideas concerning the
+productivity of capital in its most general outlines, and to
+persuade the reader to its acceptance. On the other hand, they
+are misleading almost in every detail as regards our developed
+conditions of production, and, in particular, they give a
+thoroughly false impression as to the measure of productivity. 
+    In such primitive conditions as those pictured by Thunen,
+where capital emerges for the very first time, the return to
+capital is calculated at the entire increase of income, which
+labour assisted by capital obtains as against labour unassisted.
+In other words, the whole "share dependent upon its co-operation"
+(see p. 91) is imputed to capital as its "contribution." And
+rightly so. In these most primitive conditions there is a
+considerable supply of labour power; indeed, as compared with the
+scant occasions for using it, almost too much; on the other hand,
+capital is scarce and greatly in demand. Much labour must be
+expended without aid from capital, and the comparison between
+labour assisted by capital and labour unassisted, forces itself
+naturally upon every one. This is no fact found out by subtle
+economic investigation; it is seen practically in men having
+constantly to choose between the two kinds of labour. 
+    But this is very different from the conditions under which we
+now live. Practically such a choice is never placed before any
+one. It would never occur to any one but a theorising economist,
+to measure the value of capital by estimating what would be the
+amount of loss if capital should not co-operate at all in the
+production, -- any more than it would occur to any one to measure
+the value of labour by estimating the amount of loss that would
+ensue should labour refuse its co-operation. All labour is judged
+on the quite intelligible assumption that it is brought into
+co-operation with capital; all capital under the assumption that
+it is brought into co-operation with labour. Production has
+become ever so much more complicated, and with it the art of
+calculating production. The simple formulae of former times are
+not now adequate, and examples based on them can only be
+misleading. 
+    How, then, are capital and labour under present conditions to
+be distinguished? The answer is not doubtful. According to that
+complicated formula, and according to all those rules which
+obtain, as regards the imputation of return in general.
+    The "contribution" of capital is to-day far from amounting to
+the whole "share dependent upon its co-operation." While that
+share is very much equal to the total return of production, the
+"contribution" is merely one single quota alongside of the quotas
+of land and labour. 
+    Only in one connection has the frustration of Thunen anything
+to teach us about the measure of the return to capital. It proves
+dearly that, in any case, there is a net return to be imputed to
+capital -- in so far as it is properly employed; a return which
+can be permanently obtained in spite of the perishable nature of
+the various items forming the capital, and in spite of their
+continual transformation in consumption and reproduction.
+Capital, rightly employed, does more than simply renew itself; it
+yields beyond this a surplus which must be imputed to it. This
+proposition is proved beyond a doubt, as regards primitive
+economic conditions, by Thunen and others; and in these primitive
+conditions the progress of economy generally is shown through the
+discovery and development of forms of capital. But will any one
+assert that what was the due of primitive capital is not also the
+due of the developed modern capital? 
+
+Chapter 19
+
+The Imputation of Gross Return and of Net Return
+
+    We have said that capital, rightly employed, shows itself
+productive, inasmuch as it reproduces itself with a surplus. This
+proposition, although undoubtedly correct as a conclusion,
+requires one essential modification.     Do the arrows, bows, and
+nets -- the capital of Thunen's illustration -- really reproduce
+themselves in the strictest sense of the term? Certainly not.
+They produce nothing but fish and the spoils of the chase; in
+this they exhaust their direct and proximate activity. They do
+not in the least degree themselves bring forth new arrows, bows,
+and nets, nor do they give direct assistance in doing so. The
+return which, in the first place, falls to be imputed to them is,
+consequently, a gross return in foreign things; things, that is,
+from among which they cannot replace themselves; things with
+which they may possibly be compared in value but not in quantity,
+and by means of which a physical net return cannot therefore be
+represented. But we cannot stop short in our consideration at
+this point: as a matter of fact the indirect efficiency of
+capital goes much further. The bows, arrows, and nets once
+obtained lighten the conditions of their reproduction, if they do
+not actually co-operate in it. They lighten it by means of the
+extraordinary increase in the gross return of fish and game, as
+consequence of which immensely more labour than formerly is free
+to be employed in the creation of capital. Therefore, in the
+total result, a net return does come in the end to be imputed to
+these concrete forms of capital, just as if they did directly
+reproduce themselves with a surplus. 
+    The same argument holds for capital in the developed economy,
+only that here the conditions are much more complicated and the
+process, consequently, more difficult to follow. No capital, even
+in the most highly developed economy, directly reproduces itself;
+each produces first a gross return in foreign things, in which,
+physically, its productivity cannot be seen. The capital of a
+baker produces bread, that of a miller, meal, that of a peasant,
+grain. In order that the baker may replace his capital again, he
+must turn to the miller, and to all the other persons who can
+provide him with the necessary materials and apparatus for his
+production. The gross return of every capital must be exchanged
+against the gross returns of other capitals, -- indeed, against
+those returns which are attributed to land and labour, -- in
+order that the capital may be replied, and the net return become
+physically cognisable. The only imputation that ever takes place
+directly is an imputation of gross return, but from that follows,
+as a final consequence, an imputation of net return, however
+circuitous the route may be, -- so long, I mean, as the
+efficiency of capital is considered undiminished, and so long as
+it is suitably employed. It is just as though every capital did
+directly reproduce itself with a surplus. 
+    In most cases the return to all the capital invested in one
+business or one undertaking is grouped in one estimate. It
+requires no proof, however, that, from the total return, each
+separate bit of capital (assuming suitable employment) will have
+its share. Every bit of capital, rightly employed, produces
+directly a gross return of goods different from itself, and
+finally, after the necessary exchange between similar gross
+returns, reproduces itself and yields a net return. In this sense
+machines, tools, raw materials, auxiliary materials, in short,
+all forms of concrete capital, the smallest and the most
+perishable, even those from which, materially speaking, nothing
+passes over into the product, replace themselves and yield a
+surplus. From this point of view every piece of coal which is
+burned for purposes of production creates, in the last resort,
+another similar piece of coal, and, beyond that, a perishable net
+return. And, inasmuch as the replied portions of capital are
+employed again and yet again, each piece of capital -- the
+smallest and most perishable -- becomes the source of a permanent
+rent.(1*) 
+
+NOTES:
+
+1. In the exchanges necessary to procure the goods which are to
+replace the capital, in lieu of the directly obtained goods which
+form the gross return, goods are, of course, estimated according
+to their value. Capital goods, are, therefore, estimated at their
+capital value. To this extent it appears that the knowledge of
+the value of capital and of the laws which regulate it, must
+precede the imputation of net return. Only in such a simple
+instance as that given by Thunen can an imputation of net return
+be made without a previous knowledge of the value of capital, and
+this destroys our proof that the imputation of net return is
+fundamentally independent of the valuation of capital. It is, of
+course, practically impossible to employ this fundamental
+principle so soon as production becomes complicated. But whenever
+production becomes complicated every new calculation must
+practically be laid on the lines of the old ones; otherwise no
+conclusion could be come to. Every new determination of value
+practically presupposes old ones (compare Book III. chap. v. at
+end). As little, then, as the conclusion can be drain from this,
+that theory requires value in order to explain value, so little
+can it be concluded that, theoretically, the value of capital
+conditions the imputation of net return. 
+
