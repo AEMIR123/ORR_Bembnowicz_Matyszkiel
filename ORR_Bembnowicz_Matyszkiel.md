@@ -144,26 +144,26 @@ Zastosowano moduł `concurrent.futures.ProcessPoolExecutor` powołujący do życ
 
 ### 7.1. Architektura
 
-- coordinator / scheduler: [uzupełnić]
-- worker: [uzupełnić]
-- co jest wysyłane do workera: [dane / parametry / opis zadania]
-- co wraca z workera: [uzupełnić]
+- coordinator / scheduler: Węzeł główny hostujący na wybranym porcie TCP (za pomocą `multiprocessing.managers.BaseManager`) dwie udostępnione w sieci kolejki: `TaskQueue` (zadania) oraz `ResultQueue` (wyniki). Master wczytuje pliki, paczkuje (batchuje) ich zawartość i umieszcza w kolejce, a następnie czeka na wyniki by je zagregować.
+- worker: Moduł (proces) kliencki podłączający się przez sieć po adresie IP do Mastera. Wyciąga paczki tekstowe do przerobienia z TaskQueue, dokonuje dekompozycji CPU i wyrzuca zgromadzony wynik do ResultQueue.
+- co jest wysyłane do workera: Gotowe, surowe bloki tekstu (połączona zawartość pakietu kilkunastu plików, wielki String) - uniezależnia to Workera od montowania sieciowego dysku wspólnego (NFS).
+- co wraca z workera: Zserializowany obiekt `collections.Counter` zawierający wygładzone częstości wyrazów w policzonym bloku, w tym czas CPU workera.
 
 ### 7.2. Dlaczego to jest naprawdę wariant rozproszony lub distributed-like
 
-[opis miejsca występowania jawnej komunikacji, serializacji albo task shipping]
+System wykorzystuje jawną komunikację TCP/IP (przez wbudowany w Pythona Socket na `BaseManager`). Architektura zakłada całkowity brak współdzielenia lokalnej pamięci (Shared Memory RAM) pomiędzy menadżerami, a także brak wymogu istnienia współdzielonego dysku sieciowego z logami, ponieważ to infrastruktura "Master" wstrzykuje sam zaserializowany tekst w treść zadania. Umożliwia to zjawisko Task Shipping - realne odpalenie workera na fizycznie innej maszynie, nawet na innej platformie systemowej.
 
 ### 7.3. Partie pracy
 
-- Jak duże są partie: [uzupełnić]
-- Dlaczego wybrano taki rozmiar: [uzupełnić]
+- Jak duże są partie: Planuje się paczkowanie zawartości odczytanej z kilku mniejszych dokumentów w jednolite bloki tekstu o rozmiarze z rzędu od 1 MB do 5 MB w jedną wiadomość sieciową.
+- Dlaczego wybrano taki rozmiar: Celem jest minimalizacja narzutu na komunikację sieciową (Network Overhead). Zlecanie pracy nad każdym pliczkiem z osobna wielkości 1 KB w sieci lokalnej w 95% zużywałoby czas na nawiązywanie połączenia i hand-shake pakietów TCP. Batche amortyzują powolność sieci wobec pracy narzuconej na procesor.
 
 ### 7.4. Przewidywane koszty
 
-- serializacja: [uzupełnić]
-- komunikacja: [uzupełnić]
-- start workerów: [uzupełnić]
-- scalanie wyników: [uzupełnić]
+- serializacja: **Znaczny ciężar**. Treści przesyłane do kolejki muszą przetrwać marshaling/pickling na sieć. Z powrotem wcale nie lżejsze słowniki Counter podróżują na wyjście tej samej ścieżki i powtórnie angażują demarshalling.
+- komunikacja: **Umiarkowany w porywach do wysoki** (uzależniony od przepustowości pasma lokalnej łączności Wi-Fi/Ethernet).
+- start workerów: **Znikomo obciążające**. Raz zbudowane środowisko pracuje jak nasłuchiwacz, nie jest ciągle zabijane i "wskrzeszane" poza jednorazowym start-upem ręcznym.
+- scalanie wyników: **Bardzo mały/Znikomy** koszt. Słowniki po odebraniu ich z serwera, po prostu wpadają do zbiorczej pętli mastera w obiekcie uaktualnienia `total.update()`.
 
 ## 8. Wersja rozproszona / distributed-like
 
