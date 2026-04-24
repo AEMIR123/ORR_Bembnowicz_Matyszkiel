@@ -1,5 +1,5 @@
 {
-    "metoda": "sekwencyjna",
+    "metoda": "rozproszona",
     "katalog": "C:\\Users\\Stanisław Matyszkiel\\PycharmProjects\\ORR_Bembnowicz_Matyszkiel\\test_data",
     "calkowita_liczba_slow": 10,
     "liczba_unikalnych_slow": 5,
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "czas_io_sekundy": 0.00014409999857889488,
-    "czas_cpu_sekundy": 6.140000186860561e-05,
-    "czas_wykonania_sekundy": 0.0011305000007268973
+    "czas_io_sekundy_zsumowany": 0.0005548000008275267,
+    "czas_cpu_sekundy_zsumowany": 0.0001519999987067422,
+    "czas_wykonania_sekundy": 0.7110687000003963
 }

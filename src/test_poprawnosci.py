@@ -9,6 +9,11 @@ sys.path.append(parent_dir)
 from src.seq_baseline import process_directory as process_directory_seq
 from src.parallel_mvp import process_directory_parallel
 
+from src.distributed_master import process_directory_distributed
+from src.distributed_worker import run_worker
+import threading
+import time
+
 def setup_test_data(test_dir):
     os.makedirs(test_dir, exist_ok=True)
     with open(os.path.join(test_dir, "plik1.txt"), "w", encoding="utf-8") as f:
@@ -38,10 +43,23 @@ def test_baseline_correctness():
     
     assert total_words_seq == total_words_par, "Błąd liczby słów (seq != par)"
     assert counts_seq == counts_par, "Błąd stanu wyników Counter() (seq != par)"
+    print("[OK] Test poprawności MVP Parallel względem Baseline zakończony sukcesem!\n")
     
-    print("\n[OK] Test poprawności MVP Parallel względem Baseline zakończony sukcesem!")
-    print(f"Zliczone słowa całkowite: {total_words_par}")
-    print(f"Klucze: {dict(counts_par)}")
+    print("--- Testowanie Logiki Rozproszonej (Distributed) ---")
+    # Otwórz węzeł uderzający po Localhoście:
+    # Serwer stworzony zostanie podczas wywołania funkcji rozproszonej
+    # Ale workera puszczamy teraz w tle
+    worker_t = threading.Thread(target=run_worker, kwargs={"address": ('127.0.0.1', 50000)}, daemon=True)
+    worker_t.start()
+    
+    counts_dist, total_words_dist, _, _ = process_directory_distributed(test_dir, address=('127.0.0.1', 50000))
+    
+    assert total_words_seq == total_words_dist, "Błąd liczby słów (seq != dist)"
+    assert counts_seq == counts_dist, "Błąd stanu wyników Counter() (seq != dist)"
+
+    print("\n[OK] Test poprawności MVP Rozproszonego (Distributed) względem Baseline zakończony sukcesem!")
+    print(f"Zliczone słowa całkowite: {total_words_dist}")
+    print(f"Klucze: {dict(counts_dist)}")
 
 if __name__ == "__main__":
     # Ochrona w procesie głównym na Windowsie dla ProcessPoolExecutor

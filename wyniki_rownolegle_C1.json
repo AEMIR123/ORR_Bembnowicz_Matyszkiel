@@ -1,52 +1,32 @@
 {
     "metoda": "rownolegla",
     "liczba_workerow": "2",
-    "katalog": "C:\\Users\\Stanisław Matyszkiel\\PycharmProjects\\ORR_Bembnowicz_Matyszkiel\\data",
-    "calkowita_liczba_slow": 201245097,
-    "liczba_unikalnych_slow": 553817,
+    "katalog": "C:\\Users\\Stanisław Matyszkiel\\PycharmProjects\\ORR_Bembnowicz_Matyszkiel\\test_data",
+    "calkowita_liczba_slow": 10,
+    "liczba_unikalnych_slow": 5,
     "top_slowa": [
         [
-            "the",
-            12204468
-        ],
-        [
-            "of",
-            6518091
-        ],
-        [
-            "and",
-            6481929
-        ],
-        [
-            "to",
-            5442612
-        ],
-        [
             "a",
-            4201240
+            2
         ],
         [
-            "in",
-            3522718
+            "b",
+            2
         ],
         [
-            "i",
-            2640857
+            "c",
+            2
         ],
         [
-            "that",
-            2533529
+            "d",
+            2
         ],
         [
-            "he",
-            2370205
-        ],
-        [
-            "was",
-            2140656
+            "e",
+            2
         ]
     ],
-    "czas_io_sekundy_zsumowany": 18.527794385125162,
-    "czas_cpu_sekundy_zsumowany": 198.0696762484149,
-    "czas_wykonania_sekundy": 132.21532849999494
+    "czas_io_sekundy_zsumowany": 7.519999962823931e-05,
+    "czas_cpu_sekundy_zsumowany": 6.329999996523838e-05,
+    "czas_wykonania_sekundy": 0.22231269999974757
 }

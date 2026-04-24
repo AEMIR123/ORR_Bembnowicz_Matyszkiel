@@ -51,6 +51,40 @@ def run_benchmark():
     end_time = time.time()
     print(f"Czas uprzęży (C3): {end_time - start_time:.4f} s")
     
+    # Import dla symulacji rozproszonej
+    from src.distributed_master import run_distributed
+    from src.distributed_worker import run_worker
+    
+    def run_distributed_benchmark(name, num_workers, out_file):
+        print(f"\n--- TEST: Wersja Rozproszona {name} ({num_workers} Workery) ---")
+        workers = []
+        for _ in range(num_workers):
+            p = multiprocessing.Process(target=run_worker, kwargs={"address": ('127.0.0.1', 50000)})
+            p.daemon = True
+            p.start()
+            workers.append(p)
+            
+        start_time = time.time()
+        run_distributed(data_dir, output_file=out_file)
+        end_time = time.time()
+        
+        # Oczekiwanie na czyste wyłączenie workerów po otrzymaniu Poison Pill
+        for p in workers:
+            p.join(timeout=5)
+            if p.is_alive():
+                p.terminate()
+        
+        print(f"Czas uprzęży (Rozproszona {name}): {end_time - start_time:.4f} s")
+
+    # Rozproszony C1
+    run_distributed_benchmark("C1", 2, os.path.join(parent_dir, "wyniki_rozproszone_C1.json"))
+    
+    # Przerwa dla ostudzenia portów
+    time.sleep(2)
+    
+    # Rozproszony C2
+    run_distributed_benchmark("C2", 4, os.path.join(parent_dir, "wyniki_rozproszone_C2.json"))
+    
 if __name__ == "__main__":
     # Ochrona wymagana przez system operacyjny Windows do swobodnego wieloprzetwarzania kodu
     run_benchmark()

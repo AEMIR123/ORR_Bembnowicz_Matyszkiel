@@ -1,0 +1,10 @@
+{
+    "metoda": "rozproszona",
+    "katalog": "data",
+    "calkowita_liczba_slow": 0,
+    "liczba_unikalnych_slow": 0,
+    "top_slowa": [],
+    "czas_io_sekundy_zsumowany": 0.0,
+    "czas_cpu_sekundy_zsumowany": 0.0,
+    "czas_wykonania_sekundy": 0.00028659999998126295
+}
