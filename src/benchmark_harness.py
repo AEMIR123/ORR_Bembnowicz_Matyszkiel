@@ -68,7 +68,7 @@ def run_benchmark():
         run_distributed(data_dir, output_file=out_file)
         end_time = time.time()
         
-        # Oczekiwanie na czyste wyłączenie workerów po otrzymaniu Poison Pill
+        # czekamy az workery sie wyłącza po odebraniu sygnalu stopu
         for p in workers:
             p.join(timeout=5)
             if p.is_alive():
@@ -79,12 +79,13 @@ def run_benchmark():
     # Rozproszony C1
     run_distributed_benchmark("C1", 2, os.path.join(parent_dir, "wyniki_rozproszone_C1.json"))
     
-    # Przerwa dla ostudzenia portów
+    # Opóźnienie zapobiegające błędowi "Address already in use".
+    # Dajemy systemowi operacyjnemu (stan TIME_WAIT) chwilę na zwolnienie gniazda TCP (portu 50000) przed ponownym startem Mastera.
     time.sleep(2)
     
     # Rozproszony C2
     run_distributed_benchmark("C2", 4, os.path.join(parent_dir, "wyniki_rozproszone_C2.json"))
     
 if __name__ == "__main__":
-    # Ochrona wymagana przez system operacyjny Windows do swobodnego wieloprzetwarzania kodu
+    # wymagane na Windowsie przy uzyciu multiprocessing
     run_benchmark()

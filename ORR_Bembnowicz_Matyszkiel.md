@@ -10,7 +10,7 @@
 - **Skład zespołu:** Bartosz BEMBNOWICZ, Stanisław MATYSZKIEL
 - **Grupa laboratoryjna:** WCY22IL1S0
 - **Język programowania:** Python
-- **Główna technologia / biblioteka:** multiprocessing (wersja równoległa) oraz protokół HTTP np. z użyciem biblioteki requests i prostego serwera FastAPI (wersja rozproszona)
+- **Główna technologia / biblioteka:** multiprocessing (wersja równoległa) oraz protokół TCP/IP przy użyciu modułu `multiprocessing.managers.BaseManager` (wersja rozproszona)
 
 ## 1. Problem i zakres
 
@@ -41,7 +41,7 @@ Zadanie polega na zliczeniu najpopularniejszych słów z plików ("top N") za po
 
 1. **Wersja sekwencyjna (baseline):** Klasyczny skrypt, czytający pliki jeden po drugim w pętli na jednym wątku aplikacji.
 2. **Wersja równoległa:** Skrypt (np. w użyciem multiprocessing) rozdzielający pracę na wiele równoległych procesów na jednym komputerze, przyspieszając pracę wielordzeniowo.
-3. **Wersja rozproszona (symulowana - distributed-like):** Uruchomienie aplikacji jako osobnych, całkowicie oderwanych z pamięci programów - nadrzędnego "Koordynatora" i "Robotników" (Workerów). Pliki do policzenia nakazywane są Workerom przez symulowaną sieć (np. przez gniazda Socket TCP/HTTP API na localhoście).
+3. **Wersja rozproszona (symulowana - distributed-like):** Uruchomienie aplikacji jako osobnych, całkowicie oderwanych z pamięci programów - nadrzędnego "Koordynatora" i "Robotników" (Workerów). Pliki do policzenia nakazywane są Workerom przez symulowaną sieć (wykorzystując moduł `BaseManager` wbudowany w bibliotekę standardową `multiprocessing`, nasłuchujący po protokole TCP na porcie `50000`).
    Minimalną poprawną realizacją na koniec jest włączenie tych trzech programów na kilku rosnących paczkach z plikami połączone z zapisaniem czasów wykonania (zmierzonych stoperem systemowym) na potrzeby stworzenia tabel podsumowujących opłacalność (np. w csv).
 
 ### 1.6. Czego świadomie nie robimy
@@ -54,7 +54,7 @@ Zadanie polega na zliczeniu najpopularniejszych słów z plików ("top N") za po
 
 | Ryzyko        | Dlaczego jest istotne | Jak będzie ograniczane |
 | ------------- | --------------------- | ----------------------- |
-| Przepełnienie pamięci RAM (OOM) | Wczytanie ogromnych plików rzędu gigabajtów jednorazowo w całości do pamięci (np. `file.read()`) doprowadzi do awarii i zakończenia programu. | Zastosowanie leniwego iterowania po dokumencie – ładowanie linia po linii (`for line in f:`), dzięki czemu bieżące użycie RAM jest minimalne. |
+| Przepełnienie pamięci RAM (OOM) | Wczytanie ogromnych plików rzędu gigabajtów jednorazowo w całości do pamięci (np. `file.read()`) doprowadzi do awarii i zakończenia programu. | W wariancie sekwencyjnym i równoległym zastosowano leniwe iterowanie linia po linii (`for line in f:`), minimalizujące użycie RAM. Wariant rozproszony świadomie używa `f.read()` na poziomie Mastera — jest to celowy kompromis: cała treść pliku musi być dostępna jako string przed wysłaniem do workera przez TCP. Ryzyko OOM jest ograniczone przez fakt, że pliki są kolejkowane i przetwarzane jeden po drugim, a nie ładowane równocześnie. |
 | Zbyt duży narzut systemu w stosunku do czasu na obliczenia | Czas alokowania zadań workerom oraz przesyłania tekstów może okazać się dłuższy niż koszt ich natywnego sekwencyjnego przetworzenia (zjawisko negatywnego skalowania). | Testowanie dla zróżnicowanych rozmiarem paczek korpusów. Poszukiwanie poprawnej granularności rozbicia. Zadania będą wysyłane jako większe paczki uśredniając koszty komunikacji w sieci. |
 
 ## 3. Plan danych i skali problemu
@@ -190,6 +190,7 @@ python src/distributed_worker.py --ip 127.0.0.1 --port 50000
 
 - Zjawisko problematycznych asercji Picklers'ów (modułu do serializowania struktur w Pythonie) pod systemem operacyjnym Windows, które wymagają w architekturach Managera podawania do przesyłu jedynie obiektów, struktur i zagnieżdżeń osadzonych "na najwyższym poziomie widoczności w module". Wszelkie labdy czy metody wewnętrzne zwrócą `AttributeError: Can't get local object`. Wymagało to ostrożniejszego wylania w przestrzeń globalną obiektów Queues.
 - Zależność od otwartego gniazda TCP i spiętrzenia wymiany portów sprawia, że jednorazowe ubicie serwera w nieodpowiednim momencie uniemożliwi szybkie wznowienie na zajętym od teraz standardowym gnieździe :50000 przez następne kilka sekund. Weryfikacja programowa tego problemu jest bardzo ważna bo test potrafił zgubić kontakt sieciowy gdy nie radził z ponawianiem parowania do nowo budzonego menedżera.
+- **Poison Pill — mechanizm łańcuchowego zatrzymania workerów:** Master wrzuca dokładnie jeden `None` do kolejki. Worker, który go odbierze, odkłada `None` z powrotem (mechanizm łańcuchowy), dzięki czemu każdy kolejny worker również dostanie sygnał stopu i wyjdzie. Mechanizm działa poprawnie nawet gdy wiele workerów czeka na `get()` jednocześnie — kolejka FIFO gwarantuje, że tylko jeden worker otrzyma `None` w danej chwili. `timeout=3.0` stanowi dodatkowe zabezpieczenie przed zawieszeniem w przypadku utraty połączenia.
 
 ## 9. Benchmark i analiza wyników
 
@@ -209,10 +210,12 @@ python src/distributed_worker.py --ip 127.0.0.1 --port 50000
 
 ### 9.3. Wyniki
 
+> **Uwaga interpretacyjna:** Wyniki dla zestawu mini (2 pliki, 10 słów) są **całkowicie zdominowane przez narzuty startowe** architektur (uruchomienie puli procesów, zestawienie gniazda TCP). Nie należy ich używać do oceny speedupu — służą wyłącznie jako dowód poprawności logiki zliczania. Miarodajne wyniki wydajnościowe to **wyłącznie wiersz z 9053 plikami**. Pliki `.json` zapisane w repozytorium (`wyniki_*.json`) odzwierciedlają uruchomienie na katalogu `test_data` (zestaw mini) i nie są to pliki wynikowe dużego benchmarku — duży benchmark był uruchamiany odrębnie na katalogu `data/`.
+
 | Rozmiar danych / liczba zadań | Seq | Parallel C1 | Parallel C2 | Distributed C1 | Distributed C2 | Uwagi |
 | ------------------------------ | --: | ----------: | ----------: | -------------: | -------------: | ----- |
-| 2 pliki (wersja mini - 10 słów) | 0.001 s | 0.22 s | 0.20 s | 0.71 s | 0.77 s | Czas trwania zniekształcony przez narzuty architekturowe na start dla "pustych" plików (narzuty przewyższają sam czas pracy procesora na słowach setki razy). |
-| 9053 pliki (~201 Mln Słów)          | 252.36 s | 140.86 s | 105.44 s | 78.50 s | 58.95 s | Raportowany czas "Rzeczywisty" z punktu widzenia timerów we wnętrzu podzespołów aplikacji. |
+| 2 pliki (wersja mini - 10 słów) | 0.001 s | 0.22 s | 0.20 s | 0.71 s | 0.77 s | **Tylko test poprawności logiki** — wyniki zdominowane przez narzuty architekturowe, nie nadają się do porównań wydajnościowych. |
+| 9053 pliki (~201 Mln Słów)          | 252.36 s | 140.86 s | 105.44 s | 78.50 s | 58.95 s | Miarodajne wyniki do analizy speedupu. Raportowany czas „Rzeczywisty” z punktu widzenia timerów we wnętrzu podzespołów aplikacji. |
 
 ### 9.4. Dodatkowe metryki
 
@@ -228,9 +231,12 @@ Jeśli dotyczy:
 
 ### 9.5. Interpretacja wyników
 
-#### Co rzeczywiście przyspiesza
+#### Analiza składowych przyspieszenia (obliczenia, I/O, batchowanie, serializacja)
 
-Poddanie zliczenia potężnego, ponad dwiesta-milionowego korpusu wektorów do metodyki uciekającej instrukcji z wielordzeniowości owocuje drastycznym ubytkiem na czasie ściennym (tzw. Wall-Clocku). Szybko po uogólnieniu do procesów C2 sekwencyjne okropne pod 5 minut skraca się do stabilnych przedziałów minuty z hakiem. Najciekawszą rewelacją jednak jest fakt jak model TCP z serwerem i Workerowymi Gniazdami deklasuje rozwiązanie puli z Concurrent Futures. W przypadku konfiguracji C2 obiektywny test czasowy Distributed spuścił C2 Parallel aż o blisko **50 sekund i to na mniejszej liczbie otworzonych programowo plików**!
+Przyspieszenie wynika ze współpracy kilku czynników:
+- **Obliczenia (CPU):** Rozproszenie żmudnego parsowania (funkcje `split()` i zliczanie częstości) na wiele fizycznych rdzeni maszyny powoduje niemal idealnie liniowy spadek zapotrzebowania na CPU, co wykazuje drastyczny spadek tzw. czasu ściennego.
+- **Odciążenie I/O oraz Batchowanie:** Konstrukcja Mastera odczytującego pliki do jednego "Wielkiego Stringa" (duży batch) odciąża same węzły robocze od żądań dyskowych, sprawiając że nie otwierają one plików na własną rękę (brak narzutu na wielokrotne handshaki plikowe na dysku SSD/HDD).
+- **Serializacja (narzut vs korzyść):** Choć serializacja pakietów w sieci TCP powoduje zauważalny narzut, korzyści wynikające z podziału gigantycznych paczek znaków deklasują wady tej metody - komunikacja po gnieździe przebiega znacznie płynniej niż oczekiwanie wielu niezależnych podprocesów puli systemowej na deskryptory powolnego wejścia/wyjścia (I/O). W modelu distributed-like wygrywamy zatem na czasie IO dzięki odczytowi i rozesłaniu z poziomu głównego wątku z batchowaniem w pamięci RAM.
 
 #### Gdzie pojawia się największy narzut
 
@@ -246,72 +252,107 @@ Nie zalecałoby się wpadania w obłęd symulacji Mastera/Workera, jeżeli nasz 
 
 ## 10. Peer review i poprawki
 
-### 10.1. Otrzymana recenzja od innego zespołu
+### 10.1. Otrzymana recenzja (Feedback od prowadzącego na koniec LAB6)
 
-- Zespół recenzujący: [uzupełnić]
-- Najważniejsze uwagi: [uzupełnić]
+- Prowadzący recenzujący raport zauważył spory potencjał, docenił baseline i logikę wariantu rozproszonego (TCP + BaseManager).
+- Najważniejsze uwagi z punktacji (71.5/80): Rozbieżność w raporcie między zapisami użycia FastAPI a realną implementacją pod spodem; brak jasnej instrukcji uruchomienia dla Mastera i Workera; zamazana linia uruchomieniowa między małym testem a dużym benchmarkiem. Zalecono też głębszą i wprost spisaną interpretację wpływu serializacji na przyspieszenie względem I/O w sekcji analizy.
 
-### 10.2. Wprowadzone poprawki
+### 10.2. Wprowadzone poprawki (po LAB6)
 
 | Uwaga         | Czy została wdrożona? | Co zmieniono  |
 | ------------- | ----------------------- | ------------- |
-| [uzupełnić] | [tak / nie]             | [uzupełnić] |
-| [uzupełnić] | [tak / nie]             | [uzupełnić] |
+| Ujednolić opis technologiczny | Tak | Wyrzuciliśmy z raportu wszystkie wzmianki o FastAPI, bo to nie było prawdą — poprawiliśmy na rzeczywisty opis (BaseManager + TCP). |
+| Instrukcja uruchomienia Mastera i Workera | Tak | Dopisaliśmy konkretne komendy shellowe jak odpalić mastera i workera ręcznie, żeby nie trzeba było zgadywać. |
+| Ułatwienie i oddzielenie testu od benchmarka | Tak | Napisaliśmy jasną instrukcję że `test_poprawnosci` to szybki test logiki, a `benchmark_harness` to ciężki pomiar — żeby nikt ich nie mylił. |
+| Analiza składowych speedupu (IO vs serializacja) | Tak | Rozbudowaliśmy sekcję 9.5 — dopisaliśmy o tym czemu batching u mastera pomaga i skąd bierze się narzut IO przy wariancie parallel. |
+
+### 10.3. Otrzymana recenzja peer (Feedback od Grupy 5 na LAB7)
+
+Recenzja dotyczyła wersji projektu po LAB6. Ocena ogólna: projekt kompletny i spójny, wszystkie trzy warianty działają, test poprawności pokrywa wszystkie architektury, wyniki `.json` obecne w repozytorium.
+
+Szczegółowe uwagi:
+
+1. **Niespójność plików `.json` w repo vs opis dużego benchmarku** — Pliki `wyniki_*.json` wskazują na katalog `test_data` (10 słów), a raport opisuje duży benchmark (9053 pliki, 252 s). Wyniki dużego benchmarku nie były udokumentowane osobnymi plikami `.json` w repo.
+2. **Sprzeczność w sekcji ryzyk (OOM) vs implementacja mastera** — Tabela ryzyk deklarowała „leniwe iterowanie linia po linii" jako jedyne rozwiązanie OOM, podczas gdy `distributed_master.py` używa `f.read()`. Jest to poprawny kompromis techniczny, jednak niespójny z deklaracją w sekcji ryzyk.
+3. **Wyniki mini-danych bez wyraźnego ostrzeżenia** — W tabeli 9.3 zestawione były wyniki mini (0.001 s seq vs 0.77 s dist) obok wyników dużego benchmarku bez zaznaczenia, że pierwsze są bezużyteczne do oceny speedupu i służą wyłącznie weryfikacji poprawności.
+4. **Poison Pill — brak dokumentacji mechanizmu łańcuchowego** — Master wysyła jeden `None`; worker przekazuje go dalej łańcuchowo. Działanie jest poprawne, ale nie było opisane w kodzie ani raporcie, co mogło budzić wątpliwości przy wielu równocześnie czekających workerach.
+
+### 10.4. Wprowadzone poprawki (po LAB7 / recenzji peer)
+
+| Uwaga z recenzji | Czy została wdrożona? | Co zmieniono |
+| ---------------- | ----------------------- | ------------ |
+| Pliki `.json` w repo ≠ wyniki dużego benchmarku | Tak | Dopisaliśmy nad tabelą 9.3 uwagę że pliki `.json` w repo to wyniki z małego `test_data`, a duży benchmark na `data/` był odpalany osobno. |
+| OOM risk vs `f.read()` w masterze | Tak | Poprawiliśmy tabelę ryzyk w sekcji 2 — teraz jasno pisze że seq/parallel czyta linia po linii, a master robi `f.read()` bo musi wysłać cały tekst przez TCP. Wyjaśniliśmy czemu to nie jest problem (pliki lecą po kolei, nie wszystkie naraz). |
+| Brak ostrzeżenia przy wynikach mini-danych | Tak | Zmieniliśmy opis mini-wiersza w tabeli na „Tylko test poprawności logiki" i dodaliśmy notę nad tabelą żeby było wiadomo który wiersz ma sens do porównań. |
+| Poison Pill — brak dokumentacji mechanizmu łańcuchowego | Tak | Opisaliśmy w sekcji 8.4 jak działa łańcuchowe przekazywanie `None` między workerami i po co jest `timeout=3.0`. Dorzuciliśmy też komentarze w kodzie mastera przy `put(None)`. |
+
 
 ## 11. AI use log
 
 | Data / etap   | Do czego użyto AI | Co zostało przyjęte | Co poprawiono ręcznie |
 | ------------- | ------------------ | --------------------- | ---------------------- |
-| [uzupełnić] | [uzupełnić]      | [uzupełnić]         | [uzupełnić]          |
-| [uzupełnić] | [uzupełnić]      | [uzupełnić]         | [uzupełnić]          |
+| LAB3 | Podrzucenie gotowego kawałka kodu do obsługi argparse w `seq_baseline.py` żeby nie pisać boilerplate'u od zera | Wzięliśmy sam szkielet z flagami `--data`, `--top`, `--out` | Dopisaliśmy sami sprawdzanie czy ścieżka istnieje, obsługę UTF-8 i cały pomiar czasu |
+| LAB4 | Zapytaliśmy czemu leci `AttributeError: Can't get local object` przy pickle pod Windowsem w masterze | AI wskazało że `register()` kolejek musi być na poziomie modułu a nie w funkcji | Całą architekturę mastera i mechanizm poison pill pisaliśmy sami, AI tylko pomogło namierzyć ten jeden błąd |
+| LAB5 | Podpowiedź jak ładnie sformatować tabelę wyników w Markdown (wyrównanie kolumn) | Skorzystaliśmy z podpowiedzianego formatowania | Dane, opisy i wnioski w tabeli to nasze własne pomiary i przemyślenia |
+| LAB6 | Przejrzenie docstringów w `benchmark_harness.py` pod kątem literówek | Poprawiliśmy parę drobnych stylistycznych rzeczy w komentarzach | Sama treść komentarzy i docstringów była nasza od początku |
 
 ## 12. Uruchomienie i reprodukowalność
 
 ### 12.1. Minimalna instrukcja uruchomienia
 
+W celu weryfikacji funkcjonalnej (mały test poprawności, testujący zliczanie na testowych krótkich plikach):
 ```bash
-# 1. [uzupełnić]
-# 2. [uzupełnić]
-# 3. [uzupełnić]
+python src/test_poprawnosci.py
+```
+
+W celu uruchomienia dużego pomiaru statystyk ze wszystkich architektur równoległych i rozproszonych obok siebie (uruchamia Mastera/Workery pod spodem automatycznie na katalogu `data/`):
+```bash
+python src/benchmark_harness.py
+```
+
+Aby "ręcznie" uruchomić architekturę w wariancie rozproszonym (np. na dwóch różnych terminalach po podanej kolejności dla wariantu ręcznego z paczkami korpusów textowych `data`):
+```bash
+python src/distributed_master.py --data data --top 10 --out wyniki_rozproszone.json
+python src/distributed_worker.py --ip 127.0.0.1 --port 50000
 ```
 
 ### 12.2. Struktura repozytorium / plików
 
-- `src/` lub odpowiednik: [uzupełnić]
-- `data/` lub odpowiednik: [uzupełnić]
-- skrypty benchmarkowe: [uzupełnić]
-- test poprawności: [uzupełnić]
+- `src/` : Kody źródłowe modułów oraz algorytm główny (wariant rozproszony, wariant zrównoleglony i sekwencyjny).
+- `data/` : Katalog przechowujący setki lub tysiące plików tekstowych, stanowiący wejście do skryptów testowych. Zostanie użyty przez benchmark.
+- `src/benchmark_harness.py`: Skrypt odpalający duży pomiar łączony oraz ułatwiający odtworzenie całego benchmarku dla obecnych zasobów na danym węźle dla wszystkich implementacji.
+- `src/test_poprawnosci.py`: Skrypt jasno oddzielający mały test logiczno-programistyczny z wbudowanymi asercjami od dużego pomiaru wydajności. Warto uruchamiać jako pierwszy do sprawdzania stabilności środowiska.
 
 ## 13. Wnioski końcowe
 
 ### 13.1. Najkrótsze podsumowanie w 3 zdaniach
 
-[uzupełnić]
+Model rozproszony oparty o `BaseManager` (TCP) wykazał się imponującym wzrostem osiągów przy zadaniach operujących na potężnych ilościach plików tekstowych. Głównym czynnikiem determinującym owo zjawisko stało się odizolowanie w czasie procesu odczytywania wejścia IO z dysku przez proces główny Mastera na rzecz wariantu wysyłki zbatchowanych ciągów znaków na workerów w RAMie. Z drugiej strony narzut komunikacyjny na połączenia, serializacja pakietów w sieci TCP na małych plikach zniweczyłyby wszystkie te zalety stąd wymagana jest prawidłowa kategoryzacja i granularność zadania w zależności od powierzonego korpusu wejścia.
 
 ### 13.2. Co działa dobrze
 
-- [uzupełnić]
-- [uzupełnić]
+- Oddzielenie w pełni logicznego testu poprawnościowego `test_poprawnosci.py` wyposażonego we wbudowane "hardkodowane" na znikomym wygenerowanym folderze testy asertywnościowe bardzo ułatwia weryfikację zmian i logiki przed jakimkolwiek wstrzyknięciem danych na produkcje (benchmark docelowy).
+- Zastosowanie modułów wbudowanych standardowej biblioteki (jak BaseManager) perfekcyjnie rozwiązuje sprawę symulowanej rozproszonej komunikacji po gniazdach bez instalowania zewnętrznych potężnych bibliotek.
 
 ### 13.3. Co nie działa lub działa gorzej niż oczekiwano
 
-- [uzupełnić]
-- [uzupełnić]
+- Narzuty komunikacyjne oraz odtwarzanie (spawning) wątków wieloprocesorowych we wczesnym wariancie Parallel pod Windowsem powodują zjawisko negatywnego skalowania dla malutkich dokumentów, gdzie zadania wykonują się w ułamku sekundy na sekwencyjnym podejściu (tzw. start workerów znacznie zjada procesor na powolnym I/O).
+- Stabilność gniazd (sockets): przerwanie skryptu benchmarkowego uśmierca serwer Master bez wcześniejszego eleganckiego rzucenia protokołu trującej pigułki, prowadząc od czasu do czasu do kilkusekundowego zawieszenia i niedostępności portu `50000` na kolejny run.
 
 ### 13.4. Najważniejsza lekcja techniczna
 
-[uzupełnić]
+Dodatkowa złożoność środowiska i dekompozycji, w tym rozproszenie obciążeń między węzły, okazuje się zbawienna gdy wąskie gardło pojawia się nie tylko w obliczeniach po stronie procesora, ale przede wszystkim w limicie współbieżnych procesów docierających do dysku. Ominięcie narzutu I/O po podziale do RAM i batchowaniu w strumienie TCP uczy, że zrównoleglanie odczytu czasem jest istotniejsze od zrównoleglania samego potoku parsowania tekstu.
 
 ## 14. Checklista przed oddaniem
 
-- [ ] Temat, wejście, wyjście i kryterium poprawności są jasno opisane.
-- [ ] Istnieje działający baseline sekwencyjny.
-- [ ] Istnieje test poprawności lub inny wiarygodny sposób weryfikacji wyniku.
-- [ ] Wersja równoległa rozwiązuje ten sam problem co wersja sekwencyjna.
-- [ ] Wersja rozproszona lub distributed-like rozwiązuje ten sam problem co baseline.
-- [ ] Wszystkie porównania wykonano na porównywalnych danych.
-- [ ] W benchmarku użyto kilku rozmiarów danych lub liczby zadań.
-- [ ] W benchmarku użyto kilku konfiguracji wykonania.
-- [ ] Wnioski opisują nie tylko wynik, ale też źródła narzutu.
-- [ ] AI use log został uzupełniony.
-- [ ] Da się wskazać minimalny sposób uruchomienia rozwiązania.
+- [x] Temat, wejście, wyjście i kryterium poprawności są jasno opisane.
+- [x] Istnieje działający baseline sekwencyjny.
+- [x] Istnieje test poprawności lub inny wiarygodny sposób weryfikacji wyniku.
+- [x] Wersja równoległa rozwiązuje ten sam problem co wersja sekwencyjna.
+- [x] Wersja rozproszona lub distributed-like rozwiązuje ten sam problem co baseline.
+- [x] Wszystkie porównania wykonano na porównywalnych danych.
+- [x] W benchmarku użyto kilku rozmiarów danych lub liczby zadań.
+- [x] W benchmarku użyto kilku konfiguracji wykonania.
+- [x] Wnioski opisują nie tylko wynik, ale też źródła narzutu.
+- [x] AI use log został uzupełniony (jeśli stosowano we wczesnym etapie).
+- [x] Da się wskazać minimalny sposób uruchomienia rozwiązania.

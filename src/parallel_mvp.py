@@ -25,13 +25,11 @@ def process_directory_parallel(directory_path, file_pattern="*.txt", max_workers
     total_io_time = 0.0
     total_cpu_time = 0.0
     
-    # Rozpoczęcie mapowania zadań na workery. 
-    # W środowisku Windows (używa logiki spawn) bezpiecznie dziedziczy referencje jeśli są we właściwie zabezpieczonych modułach.
+    # Uruchamiamy pule procesow i rozdzielamy pliki miedzy workery
     with concurrent.futures.ProcessPoolExecutor(max_workers=max_workers) as executor:
-        # executor.map automatycznie dzieli iterator iterowalnej kolekcji na batche i nadzoruje ich ukończenie
         results = executor.map(process_file, files)
         
-        # Agregacja w Wątku Głównym (Parent Process)
+        # zbieramy wyniki z poszczegolnych procesow
         for counts, words, io_time, cpu_time in results:
             total_word_counts.update(counts)
             total_words += words

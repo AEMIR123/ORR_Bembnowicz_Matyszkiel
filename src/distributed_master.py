@@ -38,9 +38,7 @@ def process_directory_distributed(directory_path, file_pattern="*.txt", address=
     total_io_time = 0.0
     num_batches = 0
     
-    # Przetwarzanie plików na zadania (Batche)
-    # Dla prostoty przyjmijmy, że jednym batchem jest zawartość jednego pliku,
-    # ale w realnym rozwiązaniu moglibyśmy łączyć mniejsze pliki w batche po np. 1MB.
+    # Wrzucamy zawartość każdego pliku jako osobne zadanie do kolejki
     print(f"Odczytywanie zawartości z {len(files)} plików...")
     for filepath in files:
         t_io_start = time.perf_counter()
@@ -69,8 +67,12 @@ def process_directory_distributed(directory_path, file_pattern="*.txt", address=
         total_words += words
         total_cpu_time += cpu_time
         
-    print("Wszystkie wyniki zebrane. Rozsyłanie znaków stopu (Poison Pills) do wyłączenia workerów...")
-    # Umieszczamy w kolejce znacznik stopu dla potencjalnych nasłuchujących workerów
+    print("Wszystkie wyniki zebrane. Wysyłanie sygnału stopu do workerów...")
+    # None jako sygnal stopu (poison pill) - worker ktory go odbierze sam przekaze dalej
+    # Sygnal stopu: wrzucamy jeden None. Worker ktory go odbierze, odda go z powrotem do kolejki
+    # (mechanizm lancuchowy) - kazdy nastepny worker rowniez odbierze sygnale i takze wyjdzie.
+    # Dziala poprawnie nawet jesli wiele workerow czeka na get() jednoczesnie - kolejka FIFO zapewnia,
+    # ze tylko jeden worker otrzyma None w danej chwili, po czym odlozy go dla nastepnego.
     server_task_queue.put(None)
     
     # Zamknięcie serwera
@@ -109,9 +111,9 @@ def run_distributed(directory_path, top_n=10, output_file="wyniki_rozproszone.js
     print(f"Top {top_n} najczęstszych słów:")
     for word, count in top_words:
         print(f"  {word}: {count}")
-    print(f"\nZsumowany czas I/O (Tylko praca głównego Mastera na dysku): {total_io_time:.4f} s")
-    print(f"Zsumowany czas CPU (Praca na sieci Workerów wprost): {total_cpu_time:.4f} s")
-    print(f"Całkowity czas wykonania ze wzniesieniem serwera: {execution_time:.4f} s\n")
+    print(f"\nCzas I/O mastera (odczyt plików): {total_io_time:.4f} s")
+    print(f"Zsumowany czas CPU workerów: {total_cpu_time:.4f} s")
+    print(f"Całkowity czas wykonania: {execution_time:.4f} s\n")
 
     with open(output_file, "w", encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)

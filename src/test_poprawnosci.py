@@ -46,9 +46,7 @@ def test_baseline_correctness():
     print("[OK] Test poprawności MVP Parallel względem Baseline zakończony sukcesem!\n")
     
     print("--- Testowanie Logiki Rozproszonej (Distributed) ---")
-    # Otwórz węzeł uderzający po Localhoście:
-    # Serwer stworzony zostanie podczas wywołania funkcji rozproszonej
-    # Ale workera puszczamy teraz w tle
+    # workera uruchamiamy w tle zanim odpalmy mastera
     worker_t = threading.Thread(target=run_worker, kwargs={"address": ('127.0.0.1', 50000)}, daemon=True)
     worker_t.start()
     
@@ -62,5 +60,5 @@ def test_baseline_correctness():
     print(f"Klucze: {dict(counts_dist)}")
 
 if __name__ == "__main__":
-    # Ochrona w procesie głównym na Windowsie dla ProcessPoolExecutor
+    # wymagane na Windowsie
     test_baseline_correctness()

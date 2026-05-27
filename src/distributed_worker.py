@@ -11,7 +11,7 @@ class QueueManager(BaseManager):
 translator = str.maketrans(string.punctuation, ' ' * len(string.punctuation))
 
 def process_text_chunk(text_chunk):
-    """Zlicza słowa na otrzymanym bezpośrednim blokiem tekstu na CPU workera."""
+    """Zlicza slowa w otrzymanym bloku tekstu."""
     t_cpu_start = time.perf_counter()
     
     clean_line = text_chunk.translate(translator).lower()
@@ -55,7 +55,7 @@ def run_worker(address=('localhost', 50000), authkey=b'orr_secret'):
     
     while True:
         try:
-            # Oczekiwanie na zadania wniesione na kanał serwera TCP, timeout zapobiega wiecznemu blokowaniu
+            # timeout zeby nie zablokować wątku na zawsze jak kolejka jest pusta
             task_chunk = task_queue.get(timeout=3.0)
         except queue.Empty:
             continue
@@ -65,22 +65,22 @@ def run_worker(address=('localhost', 50000), authkey=b'orr_secret'):
             
         if task_chunk is None:
             print("Otrzymano znak stopu 'Poison Pill'. Wypisywanie się pracownika z sieci koordynatora.")
-            # Odkładamy pigułkę trucizny by nakarmić równe inne rodzeństwo przypiętych workerów
+            # przekazujemy None dalej żeby reszta workerów też mogła skończyć
             try:
                 task_queue.put(None)
             except (ConnectionResetError, EOFError, BrokenPipeError):
-                pass # Serwer koordynatora rzucił już manager.shutdown()
+                pass  # master już zamknął manager
             break
             
         counts, words, cpu_t = process_text_chunk(task_chunk)
         
-        # Wysłanie powrotne zserializowanych słowników
+        # odsyłamy wynik do mastera
         result_queue.put((counts, words, cpu_t))
         
         tasks_processed += 1
         total_cpu_time += cpu_t
         
-    print(f"Cykl użycia zakończony. Przepracowano łacznie: {tasks_processed} fragmentów zadaniowych (Czas CPU łącznie: {total_cpu_time:.4f}s)")
+    print(f"Worker konczy prace. Zadania: {tasks_processed}, czas CPU: {total_cpu_time:.4f}s")
 
 if __name__ == "__main__":
     import argparse
